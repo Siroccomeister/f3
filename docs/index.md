@@ -32,7 +32,7 @@ Nous allons essayer de mettre des photos voire ajouter des commentaires si la co
 [Livetrack inReach](https://share.garmin.com/3f)
 Nous nous sommes équipés avec une balise GPS minimaliste (inReach Messenger de Garmin). Elle nous permet de faire appel à des services de secours qui saurons nous localiser hors zone de couverture mobile. En principe - un pointage est fait automatiquement toutes les 10 minutes (une fois activé par nos soins lors de notre départ). 
 
-Un suivi est possible au travers de la fonctionalité MapShare. Les 1ers tests semblent indiquer que ce n'est pas super abouti (l'affichage semble un peu aléatoire entre différents navigateurs internet et/ou depuis ordinateur vs. mobile). Néanmoins nous sommes en phase de test donc il faut bien commencer... a priori FIREFOX sur ordinateur donne les meilleures résultat. Espérons que l'expérience utilisateur soit meilleures une fois que la balise est enclenchée.
+Un suivi est possible au travers de la fonctionalité MapShare. Les 1ers tests semblent indiquer que ce n'est pas super abouti (l'affichage semble un peu aléatoire entre différents navigateurs internet et/ou depuis ordinateur vs. mobile). Néanmoins nous sommes en phase de test donc il faut bien commencer... a priori FIREFOX sur ordinateur donne les meilleurs résultats. Espérons que l'expérience utilisateur s'améliore une fois que la balise est enclenchée.
 
 
 <iframe src="https://share.garmin.com/3f" frameborder="0" marginwidth="0" marginheight="0" width="810" height="760"></iframe>
