@@ -4,7 +4,7 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 <iframe src="https://www.komoot.com/collection/2597355/embed" width="100%" height="580" frameborder="0" scrolling="no"></iframe>
 
-<iframe src="https://share.garmin.com/BF6CX" frameborder="0" marginwidth="0" marginheight="0" width="810" height="760"></iframe>
+<iframe src="https://share.garmin.com/f6" frameborder="0" marginwidth="0" marginheight="0" width="810" height="760"></iframe>
 
 ## Commands
 
