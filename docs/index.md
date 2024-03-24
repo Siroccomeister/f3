@@ -17,7 +17,7 @@ Si vous êtes un habitué de ces plateformes, vous pouvez aussi mettre les liens
 # Trace KOMOOT
 [KOMOOT](https://www.komoot.com/collection/2597355/-maroc-sud-5-jours-gravel) 
 
-MAROC SUD en vélo  et en autonomie. La trace est prévue sur 5 jours pour nous emmener depuis l'Atlas jusqu'au pied du désert (pour ensuite 3 jours de randonnée à pied). la trace peut être consultée directement sur [KOMOOT](https://www.komoot.com/collection/2597355/-maroc-sud-5-jours-gravel) ce qui donne accès à beaucoup plus de détails.
+**MAROC SUD** en vélo  et en autonomie. La trace est prévue sur 5 jours pour nous emmener depuis l'Atlas jusqu'au pied du désert (pour ensuite 3 jours de randonnée à pied). La trace peut être consultée directement sur [KOMOOT](https://www.komoot.com/collection/2597355/-maroc-sud-5-jours-gravel) ce qui donne accès à beaucoup plus de détails.
 <iframe src="https://www.komoot.com/collection/2597355/embed" width="100%" height="580" frameborder="0" scrolling="no"></iframe>
 <br><br>
 
@@ -28,8 +28,8 @@ Nous allons essayer de mettre des photos voire ajouter des commentaires si la co
 <br><br>
 
 # LiveTrack Garmin inReach Messenger
-
 [LIVETRACK inReach](https://share.garmin.com/3f)
+
 Nous nous sommes équipés avec une balise GPS minimaliste (inReach Messenger de Garmin). Elle nous permet de faire appel à des services de secours qui saurons nous localiser hors zone de couverture mobile. En principe - un pointage est fait automatiquement toutes les 10 minutes (une fois activé par nos soins lors de notre départ). 
 
 Un suivi est possible au travers de la fonctionalité [MapShare](https://share.garmin.com/3f). Les 1ers tests semblent indiquer que ce n'est pas super abouti (l'affichage semble un peu aléatoire entre différents navigateurs internet et/ou depuis ordinateur vs. mobile). Néanmoins nous sommes en phase de test donc il faut bien commencer... a priori FIREFOX sur ordinateur donne les meilleurs résultats. Sur iPhone c'est plus difficile. Espérons que l'expérience utilisateur s'améliore une fois que la balise est enclenchée. Si ça bouge c'est que tout va bien ! Si ce n'est pas le cas - ne soyez pas trop inquiet!!!
