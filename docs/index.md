@@ -2,6 +2,8 @@
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
+<iframe src="https://www.komoot.com/collection/2597355/embed" width="100%" height="580" frameborder="0" scrolling="no"></iframe>
+
 ## Commands
 
 * `mkdocs new [dir-name]` - Create a new project.
