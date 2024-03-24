@@ -1,3 +1,7 @@
 site_name: Projet F3
 theme:
   name: material
+
+  features:
+    - navigation.expand
+
