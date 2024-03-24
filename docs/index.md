@@ -1,4 +1,4 @@
-# Bienvenue sur ma page de test
+# Bienvenue sur notre page de test
 
 Cette page nous accompagne dans notre voyage dans le **sud marocain**. Elle est "en construction" et vise à tester les plateformes permettant d'aider lors d'un voyage en itinérance/autonomie.
 
