@@ -12,6 +12,8 @@ Here I am trying to figure out how to create a blog.
 sitting in my virtual test.
 inserting some pictures.
 
+Working copy yes or no?
+
 <!-- more -->
 Ces quelques lignes visent à tester un blog qui puisse m'accompagner dans mon
 
