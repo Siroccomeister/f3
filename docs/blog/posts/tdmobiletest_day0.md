@@ -6,7 +6,7 @@ categories:
   - World
 ---
 
-# Mobile Test
+# Mobile Test day 1
 
 Here I am trying to figure out how to create a blog.
 sitting in my virtual test.
