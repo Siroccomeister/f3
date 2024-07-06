@@ -20,6 +20,8 @@ Working copy looks more promising…
 <figcaption markdown>Part of my Tour Divide project</figcaption>
 </figure>
 
+{{< glightbox src="../../assets/images/openup.jpg" >}}
+
 
 <!-- more -->
 Ces quelques lignes visent à tester un blog qui puisse m'accompagner dans mon
