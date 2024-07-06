@@ -15,6 +15,12 @@ inserting some pictures.
 Working copy looks more promising…
 ![Image test](../../assets/images/openup.jpg)
 
+<figure markdown>
+![My proud OpenUP](../../assets/images/openup.jpg) 
+<figcaption markdown>Part of my Tour Divide project</figcaption>
+</figure>
+
+
 <!-- more -->
 Ces quelques lignes visent à tester un blog qui puisse m'accompagner dans mon
 
@@ -23,5 +29,3 @@ and then copy over to repo...?
 
 need also a workflow for pictures...
 realistic?
-
-

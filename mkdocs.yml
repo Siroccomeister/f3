@@ -5,9 +5,11 @@ theme:
 
   features:
     - navigation.expand
+    - search.highlight
 
 plugins:
     - blog
+    - search
     - glightbox:
        touchNavigation: true
        loop: false
