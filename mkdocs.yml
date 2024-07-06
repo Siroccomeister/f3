@@ -17,8 +17,8 @@ plugins:
        slide_effect: slide
        width: 100%
        height: auto
-       zoomable: false
-       draggable: true
+       zoomable: true
+       draggable: false
        skip_classes:
          - custom-skip-class-name
        auto_caption: false

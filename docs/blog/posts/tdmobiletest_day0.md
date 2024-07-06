@@ -16,7 +16,7 @@ Working copy looks more promising…
 ![Image test](../../assets/images/openup.jpg)
 
 <figure markdown>
-![My proud OpenUP](../../assets/images/openup.jpg) 
+![My proud OpenUP](../../assets/images/openup.jpg) { width="300" }
 <figcaption markdown>Part of my Tour Divide project</figcaption>
 </figure>
 
