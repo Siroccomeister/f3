@@ -6,6 +6,8 @@ theme:
   features:
     - navigation.expand
     - search.highlight
+    - navigation.tabs
+    - navigation.tabs.sticky
 
 plugins:
     - blog
@@ -30,3 +32,21 @@ plugins:
 markdown_extensions:
   - attr_list
   - md_in_html
+  
+  
+# Page tree
+nav:
+  - Home: index.md
+  - Blog:
+    - blog/index.md
+  - Dotwatching:
+    - Trackleaders: trackleaders.md
+    - GPS Tracker: garminmessenger.md
+ - Platforms:
+    - Strava: strava.md
+    - Komoot: komoot.md
+ - Preparation:
+   - Rig: rig.md
+   - Training: training.md
+ 
+  
