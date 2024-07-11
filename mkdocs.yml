@@ -30,23 +30,23 @@ plugins:
        manual: false
 
 markdown_extensions:
-  - attr_list
-  - md_in_html
+   - attr_list
+   - md_in_html
   
   
 # Page tree
 nav:
-  - Home: index.md
-  - Blog:
-    - blog/index.md
-  - Dotwatching:
-    - Trackleaders: trackleaders.md
-    - GPS Tracker: garminmessenger.md
- - Platforms:
-    - Strava: strava.md
-    - Komoot: komoot.md
- - Preparation:
-   - Rig: rig.md
-   - Training: training.md
+   - Home: index.md
+   - Blog:
+     - blog/index.md
+   - Dotwatching:
+     - Trackleaders: trackleaders.md
+     - GPS Tracker: garminmessenger.md
+   - Platforms:
+     - Strava: strava.md
+     - Komoot: komoot.md
+   - Preparation:
+     - Rig: rig.md
+     - Training: training.md
  
   
