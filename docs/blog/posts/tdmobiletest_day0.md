@@ -13,7 +13,6 @@ sitting in my virtual test.
 inserting some pictures.
 
 <!— more —>
-
 Working copy looks more promising…
 ![Image test](../../assets/images/openup.jpg)
 
