@@ -12,6 +12,9 @@ Here I am trying to figure out how to create a blog.
 sitting in my virtual test.
 inserting some pictures.
 
+The simplest form :
+![Image test](/blog/posts/day0/MarocSelfie.jpg)
+
 <!-- more -->
 Working copy looks more promising…
 ![Image test](../../assets/images/openup.jpg)

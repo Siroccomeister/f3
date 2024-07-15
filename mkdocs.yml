@@ -1,4 +1,5 @@
 site_name: Projet F3
+site_url: https://siroccomeister.github.io/f3/
 
 theme:
   name: material

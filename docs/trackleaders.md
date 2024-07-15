@@ -23,15 +23,15 @@ https://form.jotformpro.com/trackleaders/long-trail
 Will be displayed. Feel free to use a pseudonym.
 
 **Primary email*** (cpelle@bluewin.ch) 
-Residence (City, State Abrev)* 
+Residence (Nyon, VD)* 
 Trip start date:*
  -
-Month
+Month : (July)
  -
-Day
+Day : (26)
 
 Year
-Pick a DateDate Picker Icon :
+Pick a DateDate Picker Icon : (2024)
 Hour
 
 Minutes
@@ -40,43 +40,7 @@ Please do not sign up for race trackers (e.g. Tour Divide,  Colorado Trail Race)
 
 Which trail will you be hiking or riding?*
 
-Appalachian Trail
-
-Continental Divide National Scenic Trail (the hiking trail)
-
-Great Divide Mountain Bike Route
-
-Pacific Crest Trail
-
-Arizona Trail
-
-Colorado Trail
-
-Western Wildlands Route
-
-Oregon Timber Trail
-
-Baja Divide
-
-Te Araroa Trail
-
-Hayduke Trail
-
-Pacific Coast Route (Adventure Cycling)
-
-North Country Trail
-
-Idaho Hot Springs Route
-
-Great Divide Trail (Canadian hiking trail)
-
-Oregon Desert Trail
-
-Camino de Santiago
-
-Iceland Divide
-
-Other 
+(Great Divide Mountain Bike Route)
 
 Trail name, or moniker you wish to be the main name displayed on the tracker.* 
 
@@ -86,13 +50,11 @@ If you do not wish to use your given name, we encourage trail names (e.g. 'Krudm
 Website or blog link? (optional) 
 Profile picture (optional). 
 Profile pics are shown in tracking popup window. Requirements: jpg,jpeg,gif,png,bmp format, 2mb Max size. If possible, please resize close to 100x100px.
+
 Device type*
 
-SPOT
+(Garmin InReach)
 
-Garmin InReach
-
-Zoleo
 Garmin InReach Mapshare Link* 
 Please use copy and paste!
 InReach
@@ -102,6 +64,7 @@ To pull data we need a Mapshare link that looks like this:
 https://share.garmin.com/YOURSHARENAME
 
 If you do not have a PUBLIC (not password protected) link of this form, tracking will NOT work.
+
 
 Need help getting this link? Mapshare Link Tutorial / Help
 
