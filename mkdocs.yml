@@ -10,6 +10,9 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
 
+extra_css:
+  - stylesheets/neoteroi-mkdocs.css
+
 plugins:
     - blog
     - search
@@ -33,6 +36,7 @@ plugins:
 markdown_extensions:
    - attr_list
    - md_in_html
+   - neoteroi.cards
   
   
 # Page tree
