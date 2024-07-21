@@ -9,6 +9,7 @@ theme:
     - search.highlight
     - navigation.tabs
     - navigation.tabs.sticky
+    - navigation.indexes
 
 extra_css:
   - stylesheets/neoteroi-mkdocs.css
