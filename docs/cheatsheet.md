@@ -44,4 +44,41 @@ This requires some html injection.
 ## For hyperlinks
 [Displayed Link](https://hyperlinked.website.com)
 
-...
+## For cards
+
+::cards::
+
+[
+  {
+    "title": "Zeus",
+    "content": "Lorem ipsum dolor sit amet.",
+    "image": "assets/images/openup.jpg"
+  },
+  {
+    "title": "Athena",
+    "content": "Lorem ipsum dolor sit amet.",
+    "image": "assets/images/Garmin_messenger.png"
+  },
+  {
+    "title": "Poseidon",
+    "content": "Lorem ipsum dolor sit amet.",
+    "image": "assets/images/Garmin_messenger.png"
+  },
+  {
+    "title": "Artemis",
+    "content": "Lorem ipsum dolor sit amet.",
+    "image": "assets/images/Garmin_messenger.png"
+  },
+  {
+    "title": "Ares",
+    "content": "Lorem ipsum dolor sit amet.",
+    "image": "assets/images/Garmin_messenger.png"
+  },
+  {
+    "title": "Nike",
+    "content": "Lorem ipsum dolor sit amet.",
+    "image": "assets/images/Garmin_messenger.png"
+  }
+]
+
+::/cards::
