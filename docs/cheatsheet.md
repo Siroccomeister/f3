@@ -31,13 +31,13 @@ All other files will default to relative path...
 In addition, Image display can be somewhat enhanced.
 This requires some html injection.
 
-<figure cheatmarkdown>
+<figure markdown>
 
-![My proud OpenUP](../../assets/images/openup.jpg){ width="200" }
-<figcaption cheatmarkdown>Part of my Tour Divide project</figcaption>
+![My proud OpenUP](assets/images/openup.jpg){ width="200" }
+<figcaption markdown>Part of my Tour Divide project</figcaption>
 
-![Morocco Atlas](../../assets/images/0MarocSelfie.jpg){ width=“200” }
-<figcaption cheatmarkdown>Where decisions are getting matured</figcaption>
+![Morocco Atlas](/../assets/images/0MarocSelfie.jpg){ width=“200” }
+<figcaption markdown>Where decisions are getting matured</figcaption>
 
 </figure>
 
