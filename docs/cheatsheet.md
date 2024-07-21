@@ -14,8 +14,6 @@ More details can be looked-up ![here](https://blueswen.github.io/mkdocs-glightbo
 
 Some options are defined in the mkdocs.yml file to facilitate working with captions.
 
-
-
 The simplest form :
 ![Image test](blog/posts/day0/MarocSelfie.jpg)
 
