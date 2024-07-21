@@ -43,7 +43,8 @@ markdown_extensions:
 # Page tree
 nav:
    - Home: index.md
-   - Blog: index.md
+   - Blog: 
+     - blog/index.md
    - Dotwatching:
      - Trackleaders: trackleaders.md
      - GPS Tracker: garminmessenger.md
