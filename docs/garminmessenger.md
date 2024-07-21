@@ -1,6 +1,6 @@
 # GARMIN inReach/Messenger
 
-Equipped with a [Messenger device] (https://www.garmin.com/en-US/p/793265) which is a GPS tracker from Garmin.
+Equipped with a [Messenger device](https://www.garmin.com/en-US/p/793265) which is a GPS tracker from Garmin.
 
 ![Garmin Messenger](assets/images/Garmin_messenger.png)
 
