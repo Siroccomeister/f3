@@ -25,8 +25,10 @@ Image leveraging the figure meta-data (title is removed).
 Image with all data- removed. But added as caption.
 
 <figure markdown>
-![My Proud OpenUP](day0/openup.jpg){ width="500px" }
-<figcaption>It started beginning 2023 when I purchased my Gravel from Open Cycle, kudos to Andy Kessler and Gerard Vroomen for their vision.</figcaption>
+
+![My Proud OpenUP is simply the best](day0/openup.jpg){ width="500px" }
+<figcaption>The journey actually started beginning 2023 when I purchased my Gravel from Open Cycle, kudos to Andy Kessler and Gerard Vroomen for their vision.</figcaption>
+
 </figure>
 
 Working copy looks more promising…
