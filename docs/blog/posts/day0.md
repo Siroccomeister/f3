@@ -16,6 +16,11 @@ The simplest form :
 ![Image test](/blog/posts/day0/MarocSelfie.jpg)
 
 <!-- more -->
+
+![My Proud OpenUP](day0/openup.jpg){ data-title="My Proud OpenUP." data-description="It started beginning 2023 when I purchased my Gravel from Open Cycle, kudos to Andy Kessler and Gerard Vroomen for their vision." }
+
+
+
 Working copy looks more promising…
 ![Image test](../../assets/images/openup.jpg)
 
