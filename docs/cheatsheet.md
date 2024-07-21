@@ -9,8 +9,12 @@ Test it from Mobile devices and browswers.
 
 ## For images
 
-Activated GlightBox plugin.
-Options are defined in the mkdocs.yml file.
+Activated GlightBox plugin in Mkdocs/Material theme.
+More details can be looked-up ![here](https://blueswen.github.io/mkdocs-glightbox/).
+
+Some options are defined in the mkdocs.yml file to facilitate working with captions.
+
+
 
 The simplest form :
 ![Image test](blog/posts/day0/MarocSelfie.jpg)

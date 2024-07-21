@@ -37,10 +37,8 @@ Working copy looks more promising…
 ![My proud OpenUP](../../assets/images/openup.jpg){ width="300" }
 <figcaption markdown>Part of my Tour Divide project</figcaption>
 
-
 ![Morocco Atlas](../../assets/images/0MarocSelfie.jpg){ width=“300” }
 <figcaption markdown>Where decisions are getting matured</figcaption>
-
 
 </figure>
 
