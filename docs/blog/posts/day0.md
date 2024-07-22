@@ -6,11 +6,28 @@ categories:
   - World
 ---
 
-# Mobile Test day 1
+# Mobile Test day 0
 
 Here I am trying to figure out how to create a blog.
 sitting in my virtual test.
 inserting some pictures.
+
+::cards::
+
+- title: Day 1
+  content: Lorem ipsum dolor sit amet.
+  image: assets/images/openup.jpg
+
+- title: Day 1
+  url: https://bikepacking.com/routes/great-divide-mountain-bike-route-gdmbr/
+  content: Lorem ipsum dolor sit amet.
+  image: assets/images/Garmin_messenger.png
+
+- title: Tour Divide
+  url: https://bikepacking.com/routes/great-divide-mountain-bike-route-gdmbr/
+  content: Lorem ipsum dolor sit amet.
+
+::/cards::
 
 The simplest form :
 ![Image test](day0/MarocSelfie.jpg)
