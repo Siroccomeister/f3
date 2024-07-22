@@ -16,11 +16,14 @@ Testing if it looks better by embedding it into a card?
 Or it could also be a tabbed pic.
 Or just a resized/small pic with a defined width.
 
-!!! tip "Morocco inspiration"
+!!! example "Morocco inspiration"
     Today I decided that I could make the tour divide!
 
-    === "yes let's go for it"
-    ![Let's do it](day0/MarocSelfie.jpg)
+    === "let's do it"
+    <figure markdown>
+    ![My Proud OpenUP is simply the best](day0/openup.jpg){ width="100px" }
+    <figcaption>The journey actually started beginning 2023 when I purchased my Gravel from Open Cycle, kudos to Andy Kessler and Gerard Vroomen for their vision.</figcaption>
+    </figure>
 
 
 ::cards:: image-bg
