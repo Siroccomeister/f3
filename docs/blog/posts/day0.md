@@ -21,10 +21,14 @@ Or just a resized/small pic with a defined width.
 
     === "let's do it"
     <figure markdown>
-    ![My Proud OpenUP is simply the best](day0/openup.jpg){ width="100px" }
+    ![My Proud OpenUP is simply the best](day0/openup.jpg){ width="300px" }
     <figcaption>The journey actually started beginning 2023 when I purchased my Gravel from Open Cycle, kudos to Andy Kessler and Gerard Vroomen for their vision.</figcaption>
     </figure>
 
+=== "let's do it"
+    <figure markdown>
+    ![My Proud OpenUP is simply the best](day0/openup.jpg){ width="300px" }
+    </figure>
 
 ::cards:: image-bg
 
