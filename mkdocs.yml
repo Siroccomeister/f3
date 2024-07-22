@@ -22,9 +22,9 @@ plugins:
        archive: false
        categories: false
     - social:
-       cards_layout: default/only/image
        cards_layout_options:
         background_image: layouts/background.png
+        background_color: transparent
     - search
     - glightbox:
        touchNavigation: true
