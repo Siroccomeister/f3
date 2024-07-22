@@ -23,8 +23,7 @@ Or just a resized/small pic with a defined width.
   content: Lorem ipsum dolor sit amet.
   image: day0/MarocSelfie.jpg
 
-- title: Day 0
-  image: day0/MarocSelfie.jpg
+- image: day0/MarocSelfie.jpg
 
 ::/cards::
 
