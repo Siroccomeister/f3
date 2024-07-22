@@ -37,22 +37,9 @@ Or just a resized/small pic with a defined width.
 
 !!! notes ""
     <figure markdown>
-    ![My Proud OpenUP is simply the best](day0/openup.jpg){ width="300px" }
-    <figcaption>The journey actually started beginning 2023 when I purchased my Gravel from Open Cycle, kudos to Andy Kessler and Gerard Vroomen for their vision.</figcaption>
+    ![My Proud OpenUP is simply the best](day0/openup.jpg){ height="100px" }
+    ![My Proud OpenUP is simply the best](day0/MarocSelfie.jpg){ height="100px" }
     </figure>
-    
-::cards:: image-bg
-
-- title: Day 0
-  url: https://bikepacking.com/routes/great-divide-mountain-bike-route-gdmbr/
-  content: Lorem ipsum dolor sit amet.
-  image: day0/MarocSelfie.jpg
-
-- title: 
-  content: Lorem ipsum dolor sit amet.
-  image: day0/MarocSelfie.jpg
-
-::/cards::
 
 <!-- more -->
 The simplest form :
