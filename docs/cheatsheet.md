@@ -93,9 +93,9 @@ This requires some html injection.
   content: Lorem ipsum dolor sit amet.
   image: assets/images/Garmin_messenger.png
 
-- title: Tour Divice
+- title: Tour Divide
+  url: https://bikepacking.com/routes/great-divide-mountain-bike-route-gdmbr/
   content: Lorem ipsum dolor sit amet.
   image: assets/images/Garmin_messenger.png
-  url: https://bikepacking.com/routes/great-divide-mountain-bike-route-gdmbr/
 
 ::/cards::
