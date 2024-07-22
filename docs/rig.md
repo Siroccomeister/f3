@@ -17,3 +17,11 @@ You can have a peak below, it is quite handy and detailed. Some tuning is still 
 
 <iframe src="https://lighterpack.com/r/bzytct" frameborder="0" width="100%" height="850" allowfullscreen></iframe>
 
+# Picks
+
+As I prepared for my adventure I came across some really nice goodies. Bikepacking is a kind of niche use case therefore solutions are not mainstream like you would find them for mountaineering or skiing. In this section I would like to highlight some which in my view come all together in a greater system I will be using day in day out. Those items will be visible in the blog as well.
+
+ - Ever used a Quilt?
+ - Are you familiar with Polartec?
+ - What is a self-standing tent?
+ - waterproof socks?

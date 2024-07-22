@@ -1,16 +1,14 @@
 ---
-draft: false 
+draft: true 
 date: 2024-07-25 
 categories:
   - Tour Divide
   - World
 ---
 
-# Mobile Test Day 0
+# Take-off
 
-This is the intro sections. It should be a teaser.
-Here I am trying to figure out how to create a blog.
-sitting in my virtual test. It should have a nice highlight picture.
+Buckle-up! 
 
 Testing if it looks better by embedding it into a card?
 Or it could also be a tabbed pic.
