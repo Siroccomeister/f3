@@ -17,11 +17,9 @@ Or it could also be a tabbed pic.
 Or just a resized/small pic with a defined width.
 
 !!! tip "Morocco inspiration"
+    Today I decided that I could make the tour divide!
 
-  Today I decided that I could make the tour divide!
-
-=== "yes let's go for it"
-
+    === "yes let's go for it"
     ![Let's do it](day0/MarocSelfie.jpg)
 
 
