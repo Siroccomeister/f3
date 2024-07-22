@@ -48,43 +48,6 @@ This requires some html injection.
 
 ::cards::
 
-[
-  {
-    "title": "Zeus",
-    "content": "Lorem ipsum dolor sit amet.",
-    "image": "assets/images/openup.jpg"
-  },
-  {
-    "title": "Athena",
-    "content": "Lorem ipsum dolor sit amet.",
-    "image": "assets/images/Garmin_messenger.png"
-  },
-  {
-    "title": "Tour Divide",
-    "content": "Lorem ipsum dolor sit amet.",
-    "image": "assets/images/Garmin_messenger.png"
-  },
-  {
-    "title": "Artemis",
-    "content": "Lorem ipsum dolor sit amet.",
-    "image": "assets/images/Garmin_messenger.png"
-  },
-  {
-    "title": "Ares",
-    "content": "Lorem ipsum dolor sit amet.",
-    "image": "assets/images/Garmin_messenger.png"
-  },
-  {
-    "title": "Nike",
-    "content": "Lorem ipsum dolor sit amet.",
-    "image": "assets/images/Garmin_messenger.png"
-  }
-]
-
-::/cards::
-
-::cards::
-
 - title: Day 1
   content: Lorem ipsum dolor sit amet.
   image: assets/images/openup.jpg
@@ -96,6 +59,5 @@ This requires some html injection.
 - title: Tour Divide
   url: https://bikepacking.com/routes/great-divide-mountain-bike-route-gdmbr/
   content: Lorem ipsum dolor sit amet.
-  image: assets/images/Garmin_messenger.png
 
 ::/cards::
