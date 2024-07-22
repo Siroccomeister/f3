@@ -40,6 +40,9 @@ markdown_extensions:
    - attr_list
    - md_in_html
    - neoteroi.cards
+   - admonition
+   - pymdownx.details
+   - pymdownx.superfences
   
   
 # Page tree
