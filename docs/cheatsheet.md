@@ -60,9 +60,10 @@ This requires some html injection.
     "image": "assets/images/Garmin_messenger.png"
   },
   {
-    "title": "Poseidon",
+    "title": "Tour Divide",
     "content": "Lorem ipsum dolor sit amet.",
     "image": "assets/images/Garmin_messenger.png"
+    "url": "https://bikepacking.com/routes/great-divide-mountain-bike-route-gdmbr/"
   },
   {
     "title": "Artemis",
