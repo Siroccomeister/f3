@@ -30,6 +30,11 @@ Or just a resized/small pic with a defined width.
     ![My Proud OpenUP is simply the best](day0/openup.jpg){ width="300px" }
     </figure>
 
+=== "no defined size"
+    <figure markdown>
+    ![My Proud OpenUP is simply the best](day0/MarocSelfie.jpg)
+    </figure>
+
 ::cards:: image-bg
 
 - title: Day 0
