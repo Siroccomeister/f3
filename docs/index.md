@@ -12,6 +12,10 @@ This is my repository to log all my learnings, preparation and blogs in support 
 
 # The story that made it possible
 
-The spirit and background.
-How to link the page...
+The spirit and background. It all started a year ago when a German podcast showcased a book about the "Tour Divide".
+
+# How to link to this blog
+
+Social cards are enabled and can easily be forwarded on social media platforms. Although I am not a huge fan of those, so many friends and relatives asked me for it that I decided to do it.
+
 Open Source, inspiring and re-usable for others on their own shape and form.
