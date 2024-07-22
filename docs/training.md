@@ -1,9 +1,5 @@
-# Kudos
+# Training
 
-Maybe good also to thank some people that helped me a lot...
+This is how far I prepared for this adventure since November 2023.
 
-
-Tristan
-BeNeLu
-Val & Family
-Nemo (?)
+![Veloviewer stats](assets/images/Veloviewer%20CPE%20PRO%20season.png)
