@@ -10,7 +10,8 @@ theme:
     - search.highlight
     - navigation.tabs
     - navigation.tabs.sticky
-    - navigation.indexes
+    - navigation.top
+    - toc.integrate
 
 extra_css:
   - stylesheets/neoteroi-mkdocs.css
