@@ -16,7 +16,8 @@ extra_css:
   - stylesheets/neoteroi-mkdocs.css
 
 plugins:
-    - blog
+    - blog:
+       blog_toc: true
     - search
     - glightbox:
        touchNavigation: true
