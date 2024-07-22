@@ -18,6 +18,9 @@ extra_css:
 
 plugins:
   - search
+  - social:
+      cards_layout_options:
+        background_color: "#ff1493"
   - blog:
       blog_toc: true
       archive: false
