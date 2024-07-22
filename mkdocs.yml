@@ -17,30 +17,30 @@ extra_css:
   - stylesheets/neoteroi-mkdocs.css
 
 plugins:
-    - blog:
-       blog_toc: true
-       archive: false
-       categories: false
-    - social:
-       cards_layout_options:
-         background_color: "#ff1493"
-    - search
-    - glightbox:
-       touchNavigation: true
-       loop: false
-       effect: zoom
-       slide_effect: slide
-       width: auto
-       height: auto
-       zoomable: true
-       draggable: false
-       skip_classes:
+  - search
+  - blog:
+      blog_toc: true
+      archive: false
+      categories: false
+  - social:
+      cards_layout_options:
+        background_color: "#ff1493"
+  - glightbox:
+      touchNavigation: true
+      loop: false
+      effect: zoom
+      slide_effect: slide
+      width: auto
+      height: auto
+      zoomable: true
+      draggable: false
+      skip_classes:
          - custom-skip-class-name
-       auto_caption: true
-       caption_position: bottom
-       background: white
-       shadow: true
-       manual: false
+      auto_caption: true
+      caption_position: bottom
+      background: white
+      shadow: true
+      manual: false
 
 markdown_extensions:
    - attr_list
