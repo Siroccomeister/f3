@@ -63,7 +63,6 @@ This requires some html injection.
     "title": "Tour Divide",
     "content": "Lorem ipsum dolor sit amet.",
     "image": "assets/images/Garmin_messenger.png"
-    "url": "https://bikepacking.com/routes/great-divide-mountain-bike-route-gdmbr/"
   },
   {
     "title": "Artemis",
@@ -81,5 +80,22 @@ This requires some html injection.
     "image": "assets/images/Garmin_messenger.png"
   }
 ]
+
+::/cards::
+
+::cards::
+
+- title: Day 1
+  content: Lorem ipsum dolor sit amet.
+  image: assets/images/openup.jpg
+
+- title: Day 1
+  content: Lorem ipsum dolor sit amet.
+  image: assets/images/Garmin_messenger.png
+
+- title: Tour Divice
+  content: Lorem ipsum dolor sit amet.
+  image: assets/images/Garmin_messenger.png
+  url: https://bikepacking.com/routes/great-divide-mountain-bike-route-gdmbr/
 
 ::/cards::
