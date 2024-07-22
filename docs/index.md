@@ -6,7 +6,9 @@ glightbox: true
 
 This is my repository to log all my learnings, preparation and blogs in support of my endeavour : cross the USA by riding the Great Divide Mountain Bike Route.
 
-![Kudos to bikepacking.com](assets/images/gdmbr_bpk.png)
+<figure markdown>
+![Kudos to bikepacking.com](assets/images/gdmbr_bpk.png) {width=400px}
+</figure>
 
 # The story that made it possible
 
