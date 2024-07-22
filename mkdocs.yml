@@ -3,6 +3,7 @@ site_url: https://siroccomeister.github.io/f3/
 
 theme:
   name: material
+  logo: assets/images/TFLogo.png
 
   features:
     - navigation.expand
