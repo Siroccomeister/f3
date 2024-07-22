@@ -17,7 +17,7 @@ Last preparation days in South of France. I tried to train 1h per day.
 
 <!-- more -->
 Here I can elaborate and write some text.
-Maybe try to find a better editor.
+Maybe try to find a better iOS editor.
 
-![Image test](day1/day1.2.jpeg)
-![Image test](day1/day1.3.jpeg)
+![nice vineyards ](day1/day1.2.jpeg)
+![getting serious](day1/day1.3.jpeg)
