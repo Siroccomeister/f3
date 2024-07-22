@@ -6,17 +6,24 @@ categories:
   - World
 ---
 
-# Mobile Test day 0
+# Mobile Test Day 0
 
+This is the intro sections. It should be a teaser.
 Here I am trying to figure out how to create a blog.
-sitting in my virtual test.
-inserting some pictures.
+sitting in my virtual test. It should have a nice highlight picture.
+
+Testing if it looks better by embedding it into a card?
+Or it could also be a tabbed pic.
+Or just a resized/small pic with a defined width.
 
 ::cards::
 
 - title: Day 0
   url: https://bikepacking.com/routes/great-divide-mountain-bike-route-gdmbr/
   content: Lorem ipsum dolor sit amet.
+  image: day0/MarocSelfie.jpg
+
+- title: Day 0
   image: day0/MarocSelfie.jpg
 
 ::/cards::
