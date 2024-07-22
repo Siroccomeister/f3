@@ -23,8 +23,7 @@ plugins:
        categories: false
     - social:
        cards_layout_options:
-         background_image: layouts/background.png
-         background_color: transparent
+         background_color: "#ff1493"
     - search
     - glightbox:
        touchNavigation: true
