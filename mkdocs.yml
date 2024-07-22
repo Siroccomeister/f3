@@ -43,6 +43,8 @@ markdown_extensions:
    - md_in_html
    - neoteroi.cards
    - admonition
+   - toc
+       permalink: true
    - pymdownx.details
    - pymdownx.superfences
    - pymdownx.tabbed:

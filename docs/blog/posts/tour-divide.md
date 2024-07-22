@@ -1,17 +1,15 @@
 ---
 draft: false 
-date: 2024-07-25 
+date: 2024-07-22 
 categories:
   - Hello
   - World
 ---
 
-# Hello world!
+# J-2!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-massa, nec semper lorem quam in massa.
+Wow it is getting really close now to departure and still so much to do. It was difficult saying good bye to the kids for 7 weeks (they left for the Côte d'Azur with my parents in law last sunday). Will miss you both!
 
 <!-- more -->
-Ces quelques lignes visent à tester un blog qui puisse m'accompagner dans mon périple.
+Family matters so much...
 
