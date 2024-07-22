@@ -21,7 +21,11 @@ plugins:
        blog_toc: true
        archive: false
        categories: false
-    - social 
+    - social:
+       cards_layout: default/only/image
+       cards_layout_options:
+        background_image: layouts/background.png
+
     - search
     - glightbox:
        touchNavigation: true
