@@ -37,8 +37,8 @@ Or just a resized/small pic with a defined width.
 
 !!! notes ""
     <figure markdown>
-    ![My Proud OpenUP is simply the best](day0/openup.jpg){ height="100px" }
-    ![My Proud OpenUP is simply the best](day0/MarocSelfie.jpg){ height="100px" }
+    ![My Proud OpenUP is simply the best](day0/openup.jpg){ height="50px" }
+    ![My Proud OpenUP is simply the best](day0/MarocSelfie.jpg){ height="50px" }
     </figure>
 
 <!-- more -->
