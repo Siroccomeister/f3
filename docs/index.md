@@ -8,7 +8,7 @@ This is my repository to log all my learnings, preparation and blogs in support 
 
 But before navigating my site, the below is probably where you should start to get the context together.
 
-::cards:: cols=1
+::cards:: image-bg
 
 - title: Bickepacking.com
   content: great community driven content
