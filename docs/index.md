@@ -12,7 +12,7 @@ But before navigating my site, the below is probably where you should start to g
 
 - title: Bickepacking.com
   content: great community driven content
-  image: assets/images/gdmbr_bpk.jpg
+  image: assets/images/gdmbr_bpk.png
   url: https://bikepacking.com/routes/great-divide-mountain-bike-route-gdmbr/
 
 ::/cards::
