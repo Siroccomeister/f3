@@ -7,10 +7,11 @@ My objective was to stay below 22Kg (bike and all gear, excluding myself and the
 Considering the rough terrain and the effort of biking keeping 20Kg of spare sounds like a good idea...
 
 Some difficult questions and decisions made:
-- I need to plan for heat/hot days as well as cold and potentially long/rainy days
-- I need to be able to carry water : from 4L to 8L (in some areas)
-- Do I need to have a gas cooker with me? Opinions vary but I decided to go for it.
-- Dynamo? I decided not needed as I will not be racing nor will I bike during the night
+
+ - I need to plan for heat/hot days as well as cold and potentially long/rainy days
+ - I need to be able to carry water : from 4L to 8L (in some areas)
+ - Do I need to have a gas cooker with me? Opinions vary but I decided to go for it.
+ - Dynamo? I decided not needed as I will not be racing nor will I bike during the night
 
 I have been estimating my weight using the [Lighterpack](https://lighterpack.com/) website.
 You can have a peak below, it is quite handy and detailed. Some tuning is still ongoing as I write.

@@ -6,3 +6,5 @@ A few facts to underpin this : we are talking 4'400km in distance etc..
 
 The spirit and background.
 How to link the page...
+
+Open Source, inspiring and re-usable for others on their own shape and form.
