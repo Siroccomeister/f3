@@ -21,6 +21,7 @@ plugins:
        blog_toc: true
        archive: false
        categories: false
+    - social 
     - search
     - glightbox:
        touchNavigation: true
