@@ -16,7 +16,7 @@ Testing if it looks better by embedding it into a card?
 Or it could also be a tabbed pic.
 Or just a resized/small pic with a defined width.
 
-::cards:: cols=1 image-bg
+::cards:: image-bg
 
 - title: Day 0
   url: https://bikepacking.com/routes/great-divide-mountain-bike-route-gdmbr/
