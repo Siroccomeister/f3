@@ -22,7 +22,7 @@ plugins:
   - social:
       cards_layout_options:
           background_image: layouts/jay8bkg.png
-          background_color: "#ff1493"
+          background_color: "#ffffff00"
   - blog:
       blog_toc: true
       archive: false
