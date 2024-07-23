@@ -1,4 +1,5 @@
 site_name: My Great Divide
+site_description: "riding the Great Divide Mountain Bike Route"
 site_url: https://siroccomeister.github.io/f3/
 
 theme:
@@ -20,7 +21,7 @@ plugins:
   - search
   - social:
       cards_layout_options:
-        background_color: "#ff1493"
+          background_color: "#ff1493"
   - blog:
       blog_toc: true
       archive: false
