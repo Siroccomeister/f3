@@ -21,7 +21,8 @@ plugins:
   - search
   - social:
       cards_layout_options:
-          background_color: "#ff1493"
+          background_color: transparent
+          background_image: layouts/background.png
   - blog:
       blog_toc: true
       archive: false
@@ -39,7 +40,7 @@ plugins:
          - custom-skip-class-name
       auto_caption: true
       caption_position: bottom
-      background: black
+      background: white
       shadow: true
       manual: false
 
