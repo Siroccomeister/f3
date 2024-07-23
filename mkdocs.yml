@@ -1,4 +1,4 @@
-site_name: My Great Divide
+site_name: My Great Divide 2024
 site_description: "riding the Great Divide Mountain Bike Route"
 site_url: https://siroccomeister.github.io/f3/
 
@@ -19,9 +19,9 @@ extra_css:
 
 plugins:
   - search
+  - rss
   - social:
       cards_layout_options:
-          background_color: transparent
           background_image: layouts/background.png
   - blog:
       blog_toc: true
