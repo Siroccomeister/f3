@@ -40,7 +40,7 @@ plugins:
   - search
   - social:
       cards_layout_options:
-          background_image: layouts/background.png
+          background_image: layouts/jay8bkg.png
           background_color: "#00FFFFFF"
   - blog:
       blog_toc: true
