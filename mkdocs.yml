@@ -19,7 +19,6 @@ extra_css:
 
 plugins:
   - search
-  - rss
   - social:
       cards_layout_options:
           background_image: layouts/background.png
