@@ -21,8 +21,7 @@ plugins:
   - search
   - social:
       cards_layout_options:
-          background_image: layouts/jay8bkg.png
-          background_color: transparent
+          background_color: "#ff1493"
   - blog:
       blog_toc: true
       archive: false
