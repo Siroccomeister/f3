@@ -5,25 +5,6 @@ site_url: https://siroccomeister.github.io/f3/
 theme:
   name: material
   logo: assets/images/TFLogo.png
-  palette:
-    - media: "(prefers-color-scheme)"
-      toggle:
-        icon: material/link
-        name: Switch to light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: indigo
-      accent: indigo
-      toggle:
-        icon: material/toggle-switch
-        name: Switch to dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: black
-      accent: indigo
-      toggle:
-        icon: material/toggle-switch-off
-        name: Switch to system preference
 
   features:
     - navigation.expand
@@ -41,7 +22,7 @@ plugins:
   - social:
       cards_layout_options:
           background_image: layouts/jay8bkg.png
-          background_color: "#00FFFFFF"
+          background_color: "#ff1493"
   - blog:
       blog_toc: true
       archive: false
