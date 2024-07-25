@@ -2,7 +2,7 @@
 
 This page will display all equipment related content and aims at explaining some of my (more or less difficult) choices.
 
-My objective was to stay below 22Kg (bike and all gear, excluding myself and the water/food consumables). To give this some perspective my weight is 70Kg for 175cm and my bike frame supports a max of 120Kg. Now that makes a total of 92Kg. Adding water and consumables I will get close to 100kg.
+My objective was to stay below 22Kg (bike and all gear, excluding myself and the water/food consumables). To give this some perspective my weight is 71Kg for 175cm and my bike frame supports a max of 120Kg. Now that makes a total of 92Kg. Adding water and consumables I will get close to 100kg.
 
 Considering the rough terrain and the effort of biking keeping 20Kg of spare sounds like a good idea...
 
