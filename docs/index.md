@@ -4,7 +4,7 @@ glightbox: true
 
 # Welcome on my Great Divide 2025 project
 
-This is my repository to log all my learnings, preparation and blogs in support of my endeavour : cross the USA by riding the Great Divide Mountain Bike Route.
+This is my repository to log all my learnings, preparation and blogs in support of my endeavour : cross the USA by riding the [Great Divide Mountain Bike Route](https://bikepacking.com/routes/great-divide-mountain-bike-route-gdmbr/).
 
 <figure markdown>
 ![Kudos to bikepacking.com](assets/images/gdmbr_bpk.png){ width="400px" }
@@ -12,10 +12,10 @@ This is my repository to log all my learnings, preparation and blogs in support 
 
 # The story that made it possible
 
-The spirit and background. It all started a year ago when a German podcast showcased a book about the "Tour Divide".
+It all started in 2023 when a German podcast showcased a book about the "Tour Divide". I had bought myself a gravel 6 month before and thought to myself : I'd love to undertake such an adventure (bucket list type of venture). In fact, if nothing prevents it, I would actually do it.
 
-# How to link to this blog
+And one year later, many things happened and made it actually possible. Including taking a sabbatical, leaving a long time employer and preparing for a new professional/career step.
 
-Social cards are enabled and can easily be forwarded on social media platforms. Although I am not a huge fan of those, so many friends and relatives asked me for it that I decided to do it.
+# Why this blog
 
-Open Source, inspiring and re-usable for others on their own shape and form.
+Originally I did not mean to maintain a blog. But many asked how to follow me. And yet I wanted also to capture my daily moments, consolidate my experiences, elaborate on inspirations. Finally I also wanted to give back and inspire others so I decided to create this dedicated website. And as a promoter of open source, running it on GitHub was a nicer option than resolving to user made-for platforms (Wordpress, PolarStep), as good as they may be. This flexibility also allows me to design it in a way as I can use it myself 😉.

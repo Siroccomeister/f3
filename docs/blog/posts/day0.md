@@ -1,5 +1,5 @@
 ---
-draft: true 
+draft: false 
 date: 2024-07-25 
 categories:
   - Tour Divide
@@ -8,71 +8,32 @@ categories:
 
 # Take-off
 
-Buckle-up! 
+<figure markdown>
+![Jasper in flames, Icelands Parkway closed](day0/Jasper-wildfire.jpeg){ width=“300” }
+</figure>
+
+Buckle-up! It's getting serious. Biggest learning of the day : don't plan too much ahead, let the way guide you as well.
+
+<!-- more -->
+
+After a stressful packing, it finally had a happy end and check-in went fine once at Geneva airport. Close though (400g left out of 23Kg allowance) ⚖️.
+
+With Valérie we could then enjoy some quality time (incl. a nice cappuccino with a nice drawing on it ❤️).
+
+I also was able to enjoy Zürich Kloten airport a bit longer : connection to Calgary got delayed by 1h30. Hello terrasse ☕️ again.
+
+Then I learnt that Jasper is in flames. Terrible news, apparently the fire is in the city 🔥🔥🔥🔥. It's been too hot: 40Deg Celsius. Jasper national park is closed, the famous Icefields Parkway between Lake Louise/Banff and Jasper is also closed mid way. Well - I was planning to start from Jasper... 🧐 what now?
+
+Let's see once in Calgary. I envisage first unboxing/gearing up the bike and take a room close to Calgary airport. I also saw that the Trans-Canadian Trail (TCT) could take me to Banff. And probably I would then head south... leaving the parkway 93 behind me and hoping fire will be under control soon though.
 
 Testing if it looks better by embedding it into a card?
 Or it could also be a tabbed pic.
 Or just a resized/small pic with a defined width.
 
-!!! example "Morocco inspiration"
-    Today I decided that I could make the tour divide!
-
-    === "let's do it"
-    <figure markdown>
-    ![My Proud OpenUP is simply the best](day0/openup.jpg){ width="300px" }
-    <figcaption>The journey actually started beginning 2023 when I purchased my Gravel from Open Cycle, kudos to Andy Kessler and Gerard Vroomen for their vision.</figcaption>
-    </figure>
-
-=== "let's do it"
-    <figure markdown>
-    ![My Proud OpenUP is simply the best](day0/openup.jpg){ width="300px" }
-    </figure>
-
-=== "no defined size"
-    <figure markdown>
-    ![My Proud OpenUP is simply the best](day0/MarocSelfie.jpg)
-    </figure>
-
-!!! notes ""
-    <figure markdown>
-    ![My Proud OpenUP is simply the best](day0/openup.jpg){ height="50px" }
-    ![My Proud OpenUP is simply the best](day0/MarocSelfie.jpg){ height="50px" }
-    </figure>
-
-<!-- more -->
-The simplest form :
-![Image test](day0/MarocSelfie.jpg)
-
-Image with Glightbox commenting.
-![My Proud OpenUP](day0/openup.jpg){ data-title="My Proud OpenUP." data-description="It started beginning 2023 when I purchased my Gravel from Open Cycle, kudos to Andy Kessler and Gerard Vroomen for their vision." }
-
-Image leveraging the figure meta-data (title is removed).
-![My Proud OpenUP](day0/openup.jpg){ data-description="It started beginning 2023 when I purchased my Gravel from Open Cycle, kudos to Andy Kessler and Gerard Vroomen for their vision." }
-
-Image with all data- removed. But added as caption.
-
 <figure markdown>
-
-![My Proud OpenUP is simply the best](day0/openup.jpg){ width="500px" }
-<figcaption>The journey actually started beginning 2023 when I purchased my Gravel from Open Cycle, kudos to Andy Kessler and Gerard Vroomen for their vision.</figcaption>
-
+![Packed (finally)](day0/Packed.jpeg){ width=“300” }
+![One Last Cappuccino](day0/QualityV.jpeg){ width=“300” }
+![It's going to be a long day...](day0/Kloten.jpeg){ width=“300” }
 </figure>
 
-Working copy looks more promising…
-![Image test](../../assets/images/openup.jpg)
 
-<figure markdown>
-
-![My proud OpenUP](../../assets/images/openup.jpg){ width="300" }
-<figcaption markdown>Part of my Tour Divide project</figcaption>
-
-![Morocco Atlas](../../assets/images/0MarocSelfie.jpg){ width=“300” }
-<figcaption markdown>Where decisions are getting matured</figcaption>
-
-</figure>
-
-Ces quelques lignes visent à tester un blog qui puisse m'accompagner dans mon
-Maybe I could write in my notebook.
-and then copy over to repo...?
-need also a workflow for pictures...
-realistic?
