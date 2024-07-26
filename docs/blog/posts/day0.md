@@ -26,9 +26,7 @@ Then I learnt that Jasper is in flames. Terrible news, apparently the fire is in
 
 Let's see once in Calgary. I envisage first unboxing/gearing up the bike and take a room close to Calgary airport. I also saw that the Trans-Canadian Trail (TCT) could take me to Banff. And probably I would then head south... leaving the parkway 93 behind me and hoping fire will be under control soon though.
 
-Testing if it looks better by embedding it into a card?
-Or it could also be a tabbed pic.
-Or just a resized/small pic with a defined width.
+Update : [the news for Jasper made it home](https://www.rts.ch/info/monde/2024/article/au-canada-un-feu-de-foret-a-ravage-la-ville-touristique-de-jasper-laissant-un-spectacle-de-desolation-28581173.html). I am definitely going to head to Banff. Quite sad about the devastation...
 
 <figure markdown>
 ![Packed (finally)](day0/Packed.jpeg){ width=“300” }
