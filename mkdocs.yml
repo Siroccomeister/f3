@@ -16,6 +16,11 @@ theme:
 
 extra_css:
   - stylesheets/neoteroi-mkdocs.css
+  
+extra:
+  analytics:
+    provider: google
+    property: G-CR3FZ4XFFT
 
 plugins:
   - search
