@@ -52,7 +52,7 @@ Je m'endors à 1300m - les températures sont fraîches.
 ![Canada Tire is amazing](day1/day1.6.JPG){ width=“300” }
 ![maison en bois?](day1/day1.7.JPG){ width=“300” }
 ![enfin des paysages!](day1/day1.8.JPG){ width=“300” }
-![1er Coyote!](day1/day1.9.JPG) { width=“300” }
+![1er Coyote!](day1/day1.9.JPG){ width=“300” }
 ![paysage](day1/day1.10.JPG){ width=“300” }
 ![paysage](day1/day1.11.JPG){ width=“300” }
 ![paysage](day1/day1.12.JPG){ width=“300” }
