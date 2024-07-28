@@ -9,7 +9,7 @@ categories:
 # On fait pas le malin le 1er jour
 
 <figure markdown>
-![Western Style](day1/day1.1.jpg){ width=“300” }
+![Western Style](day1/day1.1.JPG){ width=“300” }
 </figure>
 
 A cause des feux de forêts sur Jasper, j'ai décidé de rejoindre Banff en vélo. Mais la période de rodage et d'acclimatation est taquine. **30km/h** de vent de face toute la journée... Pour arriver dans les premiers parcs et découvrir les camping canadiens.
@@ -45,18 +45,18 @@ Fin de l'histoire: les gardes du camping passent, vérifient l'enregistrement de
 Je m'endors à 1300m - les températures sont fraîches.
 
 <figure markdown>
-![Leaving Calgary](day1/day1.2.jpg){ width=“300” }
-![Am I safe?](day1/day1.3.jpg){ width=“300” }
-![nice trees](day1/day1.4.jpg){ width=“300” }
-![helicopter patrol](day1/day1.5.jpg){ width=“300” }
-![Canada Tire is amazing](day1/day1.6.jpg){ width=“300” }
-![maison en bois?](day1/day1.7.jpg){ width=“300” }
-![enfin des paysages!](day1/day1.8.jpg){ width=“300” }
-![1er Coyote!](day1/day1.9.jpg) { width=“300” }
-![paysage](day1/day1.10.jpg){ width=“300” }
-![paysage](day1/day1.11.jpg){ width=“300” }
-![paysage](day1/day1.12.jpg){ width=“300” }
-![campsite avec spray!](day1/day1.13.jpg){ width=“300” }
+![Leaving Calgary](day1/day1.2.JPG){ width=“300” }
+![Am I safe?](day1/day1.3.JPG){ width=“300” }
+![nice trees](day1/day1.4.JPG){ width=“300” }
+![helicopter patrol](day1/day1.5.JPG){ width=“300” }
+![Canada Tire is amazing](day1/day1.6.JPG){ width=“300” }
+![maison en bois?](day1/day1.7.JPG){ width=“300” }
+![enfin des paysages!](day1/day1.8.JPG){ width=“300” }
+![1er Coyote!](day1/day1.9.JPG) { width=“300” }
+![paysage](day1/day1.10.JPG){ width=“300” }
+![paysage](day1/day1.11.JPG){ width=“300” }
+![paysage](day1/day1.12.JPG){ width=“300” }
+![campsite avec spray!](day1/day1.13.JPG){ width=“300” }
 </figure>
 
 
