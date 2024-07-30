@@ -1,6 +1,6 @@
 ---
 draft: false 
-date: 2024-07-28
+date: 2024-07-27
 categories:
   - Tour Divide
   - World
