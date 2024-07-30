@@ -24,6 +24,8 @@ J'arrive sur Elkford - un peu fatigué (après 9h dont 8 sur le vélo). Hop enco
 
 Que me réservera la journée de demain? Dans 2 jours je pense passer la frontière avec les USA. Il faut aussi que j'augmente ma moyenne. Maintenant repos!
 
+ps. Hier je n'avais aucune couverture de réseau mobile... parfois les nouvelles sont donc décalées. Mais les cartes GPS montrent toujours ma progression en temps réel.
+
 <figure markdown>
 ![je quitte mon petit lac)](day4/day4.2.jpeg){ width=“300” }
 ![il se passe quelque chose!](day4/day4.3.jpeg){ width=“300” }
