@@ -37,6 +37,8 @@ ps. Hier je n'avais aucune couverture de réseau mobile... parfois les nouvelles
 ![ça file droit!](day4/day4.9.jpeg){ width=“300” }
 ![tas de bois qui a brûlé...](day4/day4.10.jpeg){ width=“300” }
 ![Dans ce coin tout a brûlé en fait](day4/day4.11.jpeg){ width=“300” }
+![Rodeo time!](day4/day4.12.jpeg){ width=“300” }
+![arrivée sur Elkford](day4/day4.13.jpeg){ width=“300” }
 </figure>
 
 
