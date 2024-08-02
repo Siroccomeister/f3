@@ -32,11 +32,11 @@ Demain je vais essayer de garder le même rythme! Bonne fête nationale Suisse �
 
 
 <figure markdown>
-![Baynes Lake)](day6/day6.2.jpeg){ width=“300” }
+![Baynes Lake](day6/day6.2.jpeg){ width=“300” }
 
 ![Baynes Lake](day6/day6.3.jpeg){ width=“300” }
 
-![Kikomun bridge](day6/day6.4.jpeg){ width=“300” }
+![Kikomun bridge, suis passé dessus](day6/day6.4.jpeg){ width=“300” }
 
 ![Boites aux lettres cherchent ranch?](day6/day6.5.jpeg){ width=“300” }
 
