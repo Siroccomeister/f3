@@ -26,7 +26,7 @@ J'arrive à Lincoln, un grand campement est établi pour "les combattants du feu
 
 J'appelle le Lama Ranch - maintenant Alpaca - pour m'annoncer. C'est un endroit très réputé. Ils offrent tout. Les cabines sont occupées mais je peux planter ma tente. Je mets les gaz pour une dernière montée (qui finit dans les 10%+), la descente est magnifique et j'arrive quasi sans pédaler chez Barbara et John. En 2023, ils ont accueilli 662 cyclistes de la Divide. Tout est offert, je vous raconte demain...
 
-Je me retrouve en communauté, on parle vélo, café, astuces. L'endroit est 👍. Je suis pas loin de Helena, je vais donc bientôt quitter le Montana!
+Je me retrouve en communauté, on parle vélo, café, astuces. L'endroit est 👍. Je suis pas loin de Helena, mais encore loin de quitter le Montana.
 
 <figure markdown>
 ![petit déjeuner](day10/day10.2.jpeg){ width=“300” }
