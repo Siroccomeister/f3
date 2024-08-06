@@ -41,7 +41,7 @@ Je me retrouve en communauté, on parle vélo, café, astuces. L'endroit est �
 
 ![Dernière montée!](day10/day10.7.jpeg){ width=“300” }
 
-![Système d'alerte incendie](day10/day10.8.jpeg){ width=“300” }
+![Ceci signale une fibre optique et non un Système d'alerte incendie 😉](day10/day10.8.jpeg){ width=“300” }
 
 ![Un aperçu du Lama Ranch, il fait beau, la nuit est fraîche](day10/day10.9.jpeg){ width=“300” }
 
