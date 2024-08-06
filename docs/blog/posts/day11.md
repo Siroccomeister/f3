@@ -6,13 +6,13 @@ categories:
   - World
 ---
 
-# Rest Day after my first 1'000km
+# 1'000km
 
 <figure markdown>
 ![Ferme des Alpaca](day11/day11.1.jpeg){ width=“300” }
 </figure>
 
-Journée ensoleillée et super paisible. Temps d'échanges et de partages avec les autres cyclistes. L'accueil est génial, l'endroit magique. Mon compteur indique 1´046km depuis Calgary : j'ai passé les mille 💪! J'essaie de projeter les difficultés et les options qui sont devant moi. Entretien du vélo ✅. Et surtout récupération 😌 avant de reprendre la route direction Helena. Finalement il y a encore un long bout pour quitter le Montana...
+Journée de repos. Ensoleillée et super paisible. Temps d'échanges et de partages avec les autres cyclistes. L'accueil est génial, l'endroit magique. Mon compteur indique 1´046km depuis Calgary : j'ai passé les mille 💪! J'essaie de projeter les difficultés et les options qui sont devant moi. Entretien du vélo ✅. Et surtout récupération 😌 avant de reprendre la route direction Helena. Finalement il y a encore un long bout pour quitter le Montana...
 
 <!-- more -->
 
@@ -36,6 +36,7 @@ Je me suis bien reposé: demain c'est reparti 💪! Après une pause à Helena j
 
 Ce soir il pleut mais j'ai un toit sur moi! Cela va se rafraîchir les prochains jours. Difficile de faire un bilan, il y a encore de grosses étapes devant moi. La suite demain!
 
+ps. TOUT est gratuit à la ferme des Alpaca. Merci 🙏 John et Barbara.
 
 <figure markdown>
 ![Alpaca faisant la grasse matinée](day11/day11.2.jpeg){ width=“300” }
