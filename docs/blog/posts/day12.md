@@ -37,7 +37,7 @@ J'apprécie d'avoir pu prendre la distance. Beaucoup de choses ne me manquent pa
 
 Il reste le défi sportif aussi. Pour arriver à rouler et traverser les US en 30 jours, il faut rester focus. Tous ceux que je rencontre prévoient le double. Certaines bonnes idées ne sont pas assez utiles... je les laisse pour plus tard. Il y a un espèce de filtre qui s'installe et cela me permet de rester serein aussi.
 
-
+À demain!
 
 <figure markdown>
 ![Je cuisine mes pancakes!](day12/day12.2.jpeg){ width=“300” }
