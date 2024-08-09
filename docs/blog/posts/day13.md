@@ -33,9 +33,8 @@ Butte est une ville minière, on voit encore des infrastructures. Et elle héber
 Demain Fleecer Ridge. Il paraît que la descente fait 30 degrés de pente. Je m'imagine faire des conversions à pied !
 
 
-<center>
- <iframe src='https://connect.garmin.com/modern/activity/16704580289' title='Mist Mountain' width='465' height='500' frameborder='0'></iframe>
-</center>
+
+ <iframe src='https://connect.garmin.com/modern/activity/16704580289' title='Day 13' width='465' height='500' frameborder='0'></iframe>
 
 <figure markdown>
 ![Approche sur Basin, je longe une belle rivière avec vue sur de beaux blocs (boulder)!](day13/day13.2.jpeg){ width=“300” }
