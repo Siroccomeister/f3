@@ -32,6 +32,8 @@ Butte est une ville minière, on voit encore des infrastructures. Et elle héber
 
 Demain Fleecer Ridge. Il paraît que la descente fait 30 degrés de pente. Je m'imagine faire des conversions à pied !
 
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="12091581672" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>
+
 
 <figure markdown>
 ![Approche sur Basin, je longe une belle rivière avec vue sur de beaux blocs (boulder)!](day13/day13.2.jpeg){ width=“300” }
