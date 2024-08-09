@@ -47,6 +47,8 @@ Demain Fleecer Ridge. Il paraît que la descente fait 30 degrés de pente. Je m'
 
 </figure>
 
- <iframe src='https://connect.garmin.com/modern/activity/embed/16704580289' title='Day 13' width='300' height='500' frameborder='0'></iframe>
+<center>
+<iframe src='https://connect.garmin.com/modern/activity/embed/16704580289' title='Day 13' width='400' height='500' frameborder='0'></iframe>
+</center>
 
 
