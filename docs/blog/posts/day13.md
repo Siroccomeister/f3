@@ -34,7 +34,7 @@ Demain Fleecer Ridge. Il paraît que la descente fait 30 degrés de pente. Je m'
 
 
 
- <iframe src='https://connect.garmin.com/modern/activity/16704580289' title='Day 13' width='465' height='500' frameborder='0'></iframe>
+ <iframe src='https://connect.garmin.com/modern/activity/embed/16704580289' title='Day 13' width='465' height='500' frameborder='0'></iframe>
 
 <figure markdown>
 ![Approche sur Basin, je longe une belle rivière avec vue sur de beaux blocs (boulder)!](day13/day13.2.jpeg){ width=“300” }
