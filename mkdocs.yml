@@ -31,6 +31,7 @@ plugins:
       blog_toc: true
       archive: false
       categories: false
+      pagination: false
   - glightbox:
       touchNavigation: true
       loop: false
