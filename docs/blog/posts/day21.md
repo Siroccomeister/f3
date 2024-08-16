@@ -9,7 +9,7 @@ categories:
 #  Pinendale
 
 <figure markdown>
-![Chaudement habillé 🥶](day21/day21.1.jpeg){ width=“300” }
+![Chaudement habillé 🥶!](day21/day21.1.jpeg){ width=“300” }
 </figure>
 
 Après une nuit glaciale, il fait beau au réveil. Je dégivre le vélo et fait aussi sécher la tente et les habits qui ont un peu souffert ces derniers jours avec la pluie. Je m'élance ensuite pour prendre la direction de Pinendale. Aujourd'hui j'ai franchi la barre des 2'000km depuis mon départ de Genève le 25 juillet 💪. Trop content!
