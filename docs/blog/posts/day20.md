@@ -33,7 +33,7 @@ Le parcours de la journée croise à plusieurs reprises la CDT. C'est un parcour
 
 J'enchaîne avec cet autre col pour me rapprocher de Pinandale. Je réfléchis 🤔 comment faire la traversée du Great Divide Basin qui viendra ensuite, et décide de faire ce 2ème col pour laisser mes jambes un peu reposer le lendemain. Je suis content d'y arriver mais je monte la tente dans la nuit et je suis à 2'900m. Je me prépare à un froid de canard.
 
-!!! hint ""
+!!! info ""
     cliquez sur les photos pour voir les commentaires
 
 <figure markdown>
