@@ -44,19 +44,19 @@ Le coucher du soleil est magnifique, ciel super clair et la lune très belle, qu
 
 ![Les magasins de vélo sont assez cool sur le parcours, ici Gear Up](day22/day22.4.jpeg){ width=“300” }
 
-[Je me lance!](day22/day22.5.jpeg){ width=“300” }
+![Je me lance!](day22/day22.5.jpeg){ width=“300” }
 
-[Les arbres se font rares, lumière magnifique](day22/day22.6.jpeg){ width=“300” }
+![Les arbres se font rares, lumière magnifique](day22/day22.6.jpeg){ width=“300” }
 
-[Ambiance désert se renforce](day22/day22.7.jpeg){ width=“300” }
+![Ambiance désert se renforce](day22/day22.7.jpeg){ width=“300” }
 
-[Coucher de soleil (de dos 😉)](day22/day22.8.jpeg){ width=“300” }
+![Lonesome Vélo-boy ✌️](day22/day22.8.jpeg){ width=“300” }
 
-[Quelques antilopes Pronghorn sur la ligne de crête](day22/day22.9.jpeg){ width=“300” }
+![Quelques antilopes Pronghorn sur la ligne de crête](day22/day22.9.jpeg){ width=“300” }
 
-[Entre chien et loup... belle ambiance](day22/day22.10.jpeg){ width=“300” }
+![Entre chien et loup... belle ambiance](day22/day22.10.jpeg){ width=“300” }
 
-[Je roule de nuit, 180km jusque 2h du matin](day22/day22.4.jpeg){ width=“300” }
+![Je roule de nuit, 180km jusque 2h du matin](day22/day22.11.jpeg){ width=“300” }
 
 </figure>
 
