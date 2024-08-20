@@ -41,7 +41,7 @@ La prochaine ville Steam Boat est l'arrêt idéal pour faire réparer son vélo.
 
 ![Un bel exemplaire de peuplier nord-américain. Plus noble que les buissons des derniers jours!](day25/day25.3.jpeg){ width=“300” }
 
-![Une forêt de peupliers "Aspen"](day25/day25.4.jpeg){ width=“300” }
+![Une forêt de peupliers Aspen](day25/day25.4.jpeg){ width=“300” }
 
 ![Le parcours me fait traverser une allée d'Aspen](day25/day25.5.jpeg){ width=“300” }
 
