@@ -43,7 +43,7 @@ Une chose qui énerve un peu : ici tout ce qui est fromage cuit est appelé "Swi
 </figure>
 
 <center>
-<iframe src='https://connect.garmin.com/modern/activity/embed/16775300014' title='Day 13' width='405' height='500' frameborder='0'></iframe>
+<iframe src='https://connect.garmin.com/modern/activity/embed/16775300014' title='Day 21' width='405' height='500' frameborder='0'></iframe>
 </center>
 
 

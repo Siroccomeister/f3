@@ -56,5 +56,11 @@ J'essaie d'avoir une autonomie de 2-3 jours.
 
 </figure>
 
+<center>
+<iframe src='https://connect.garmin.com/modern/activity/embed/16809145187' title='Day 24' width='405' height='500' frameborder='0'></iframe>
+</center>
+
+
+
 
 

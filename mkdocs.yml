@@ -48,6 +48,7 @@ plugins:
       background: white
       shadow: true
       manual: false
+   - mkdocs-video
 
 markdown_extensions:
    - attr_list

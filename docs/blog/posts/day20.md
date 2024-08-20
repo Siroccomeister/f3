@@ -61,7 +61,7 @@ J'enchaîne avec cet autre col pour me rapprocher de Pinandale. Je réfléchis �
 </figure>
 
 <center>
-<iframe src='https://connect.garmin.com/modern/activity/embed/16775278221' title='Day 13' width='405' height='500' frameborder='0'></iframe>
+<iframe src='https://connect.garmin.com/modern/activity/embed/16775278221' title='Day 20' width='405' height='500' frameborder='0'></iframe>
 </center>
 
 

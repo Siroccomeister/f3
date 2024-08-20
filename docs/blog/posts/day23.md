@@ -50,13 +50,19 @@ J'arrive sec en ville, je m'arrête au 1er motel suggéré par la carte. 80$ la 
 
 ![Bel aperçu du Basin, une forme de cuvette](day23/day23.7.jpeg){ width=“300” }
 
-![Des chevaux sauvages se voient dans le Basin. Ils ne sont pas natif, mais ont été lâchés par des ranchs et vivent maintenant en petits groupes.](day23/day23.8.jpeg){ width=“300” }
+![Des chevaux sauvages se voient dans le Basin. Ils ont été lâchés en liberté par des ranchs et vivent maintenant en petits groupes.](day23/day23.8.jpeg){ width=“300” }
 
 ![Orage et vent de face!](day23/day23.9.jpeg){ width=“300” }
 
 ![Enfin le vent me pousse je quitte la zone orageuse](day23/day23.10.jpeg){ width=“300” }
 
 </figure>
+
+<center>
+<iframe src='https://connect.garmin.com/modern/activity/embed/16791785799' title='Day 23' width='405' height='500' frameborder='0'></iframe>
+</center>
+
+
 
 
 
