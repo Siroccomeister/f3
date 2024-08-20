@@ -56,6 +56,9 @@ Steam Boat est l'arrêt idéal pour faire réparer son vélo. Mais je suis plut�
 ![Un couple de Humming Birds (Colibri)](day25/day25.10.jpeg){ width=“300” }
 
 ![Quand je vous dis que tout est pensé pour les Great Dividers! 😅](day25/day25.11.jpeg){ width=“300” }
+
+![Test video](Test.mp4){ width=“300” }
+
 </figure>
 
 ![type:video](./day25/Test.mp4)
