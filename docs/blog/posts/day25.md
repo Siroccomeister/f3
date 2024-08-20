@@ -47,7 +47,7 @@ La prochaine ville Steam Boat est l'arrêt idéal pour faire réparer son vélo.
 
 ![Good Bye Wyoming](day25/day25.6.jpeg){ width=“300” }
 
-![Wyoming 70 "Battle Pass Scenic Byway"](day25/day25.7.jpeg){ width=“300” }
+![Wyoming 70 : Battle Pass Scenic Byway](day25/day25.7.jpeg){ width=“300” }
 
 ![Brush Mountain Lodge - terminus du jour](day25/day25.8.jpeg){ width=“300” }
 
