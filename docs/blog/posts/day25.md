@@ -18,7 +18,7 @@ Après une nuit orageuse je reprends la route. Aujourd'hui je quitte le Wyoming 
 
 # Aspen Valley 
 
-Je poursuis cette route asphaltée (une succession de montées et descentes) pour finir par rejoindre du gravier. Et là je passe dans Aspen Valley. Aspen est un arbre (Peuplier non-tremble) qui m'accompagne depuis Calgary. Je trouve ces peupliers qui culminent à 25m très beaux et aujourd'hui je suis servi! Cet arbre est surtout canadien mais s'étend sur les USA jusque dans la vallée de Mexico. Il suit en quelque sorte la divide. Son bois est tendre et il sert à faire du papier.
+Je poursuis cette route asphaltée (une succession de montées et descentes) pour finir par rejoindre du gravier. Et là je passe dans Aspen Valley. Aspen est un arbre (Peuplier faux-tremble) qui m'accompagne depuis Calgary. Je trouve ces peupliers qui culminent à 25m très beaux et aujourd'hui je suis servi! Cet arbre est surtout canadien mais s'étend sur les USA jusque dans la vallée de Mexico. Il suit en quelque sorte la divide. Son bois est tendre et il sert à faire du papier.
 
 # Au revoir Wyoming
 
