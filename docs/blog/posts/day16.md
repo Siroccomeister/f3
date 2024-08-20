@@ -39,13 +39,9 @@ La piste paraît interminable, mais le paysage a bien changé. On dirait pas que
 
 ![Avec l'arrosage c'est tout de suite plus vert!](day16/day16.6.jpeg){ width=“300” }
 
-![Big Rocks](day15/day15.7.jpeg){ width=“300” }
+![c'est orageux](day16/day16.7.jpeg){ width=“300” }
 
-![Beaucoup de ranch ont des portails imposants. J'aime bien celui-ci](day15/day15.8.jpeg){ width=“300” }
-
-![c'est orageux](day16/day16.9.jpeg){ width=“300” }
-
-![Et la grêle pour finir: j'adore ma tente ❤️](day16/day16.10.jpeg){ width=“300” }
+![Et la grêle pour finir: j'adore ma tente ❤️](day16/day16.8.jpeg){ width=“300” }
 
 </figure>
 
