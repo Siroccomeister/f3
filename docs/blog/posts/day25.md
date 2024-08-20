@@ -58,7 +58,7 @@ Steam Boat est l'arrêt idéal pour faire réparer son vélo. Mais je suis plut�
 ![Quand je vous dis que tout est pensé pour les Great Dividers! 😅](day25/day25.11.jpeg){ width=“300” }
 </figure>
 
-![type:video](./day25/test.mp4)
+![type:video](./day25/Test.mp4)
 
 <center>
 <iframe src='https://connect.garmin.com/modern/activity/embed/16809149974' title='Day 25' width='405' height='500' frameborder='0'></iframe>
