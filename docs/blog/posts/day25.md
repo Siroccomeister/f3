@@ -29,7 +29,7 @@ Je quitte le Wyoming et ses vents forts qui m'ont bien fatigué 😉. Je retrouv
 
 Magnifique accueil, tout est pensé vélo. Après cet arrêt - mes jambes auront sûrement récupérées! Je fais connaissance avec 2 autres Dividers qui font la GDMBR par étapes. Kirsten, la gérante, est aux petits soins. Je me réjouis déjà du petit déjeuner qui a grande réputation. J'en profite aussi pour faire une vraie lessive. 
 
-Steam Boat est l'arrêt idéal pour faire réparer son vélo. Mais je suis plutôt content, les vitesses passent bien. J'espère pouvoir passer la ville. Ma prochaine grosse étape devrait être la bourgade de Salida d'ici quelques jour....
+La prochaine ville Steam Boat est l'arrêt idéal pour faire réparer son vélo. Mais je suis plutôt content, les vitesses passent bien. J'espère pouvoir passer la ville. Ma prochaine grosse étape devrait être la bourgade de Salida d'ici quelques jours....
 
 
 !!! hint ""
@@ -58,8 +58,6 @@ Steam Boat est l'arrêt idéal pour faire réparer son vélo. Mais je suis plut�
 ![Quand je vous dis que tout est pensé pour les Great Dividers! 😅](day25/day25.11.jpeg){ width=“300” }
 
 </figure>
-
-![type:video](./day25/Test.mp4)
 
 <center>
 <iframe src='https://connect.garmin.com/modern/activity/embed/16809149974' title='Day 25' width='405' height='500' frameborder='0'></iframe>
