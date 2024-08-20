@@ -29,7 +29,7 @@ plugins:
       video_muted: True
       video_controls: True
       css_style:
-          width: "50%"
+          width: "100%"
   - social:
       cards_layout_options:
           background_color: "#ff1493"
