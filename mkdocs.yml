@@ -24,6 +24,7 @@ extra:
 
 plugins:
   - search
+  - mkdocs-video
   - social:
       cards_layout_options:
           background_color: "#ff1493"
@@ -48,8 +49,7 @@ plugins:
       background: white
       shadow: true
       manual: false
-   - mkdocs-video
-
+   
 markdown_extensions:
    - attr_list
    - md_in_html
