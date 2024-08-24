@@ -40,7 +40,7 @@ Revenons aux choses sérieuses. La piste cyclable est moyennement intéressante.
 
 ![Plan B si plus de carte dispo 👍](day28/day28.5.jpeg){ width=“300” }
 
-![J'attaque la montée sous la forte pluie](day28/day28c.6.jpeg){ width=“300” }
+![J'attaque la montée sous la forte pluie](day28/day28.6.jpeg){ width=“300” }
 
 ![Couleur de roche et sable étonnante](day28/day28.7.jpeg){ width=“300” }
 
