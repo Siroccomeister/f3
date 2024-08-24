@@ -12,7 +12,7 @@ categories:
 ![Abby's Breakfast](day29/day29.1.jpeg){ width=“300” }
 </figure>
 
-Moment magique avec ce beau ~~petit-dejeuner~~ repas. Je m'élance car je veux rejoindre Salida. Aujourd'hui mon fils Loïc a 12 ans! Je tiens à avoir du signal pour lui parler. Et avoir du temps en ville. C'est sans compter sur le vent et la difficulté du terrain.
+Moment magique avec ce beau "petit-dejeuner" disons repas. Je m'élance car je veux rejoindre Salida. Aujourd'hui mon fils Loïc a 12 ans! Je tiens à avoir du signal pour lui parler. Et avoir du temps en ville. C'est sans compter sur le vent et la difficulté du terrain. Arrivée à Salida : j'ai dépassé les 3'000km depuis Calgary. Je suis à la même latitude que Lisbonne 💪. 
 
 <!-- more -->
 
@@ -21,7 +21,7 @@ Moment magique avec ce beau ~~petit-dejeuner~~ repas. Je m'élance car je veux r
 
 Après une nuit sous tente, frisquette et humide, je découvre ce petit café qui sert des brunchs. Tout simple mais l'ambiance est magique. Un côté western, musique country, les hommes ont des chapeaux, la serveuse Abby chante (redoutable en karaoke à mon avis). J'utilise Shazam pour enrichir ma playlist divide à mon retour. Honnêtement je vous souhaite à tous un tel moment de paix au petit-déjeuner. Un défi pour ces prochains jours? Déguster et se laisser porter.
 
-# en route pour Salida
+# En route pour Salida
 
 Gonflé à bloc, j'attaque la route. Vent plein face et surtout le washboarding sur 30km. Horreur. Ma moyenne fond à toute vitesse. Je me bagarre comme je peux et commence à faire mes calculs pour passer le col au-dessus de Salida, moment où j'aurai du réseau. Je redouble d'efforts et me dit que tout mauvais moment n'est que passager. Les jambes répondent présent, un dernier effort et ouf on arrive à se voir. Très bon moment en famille et joyeux anniversaire à mon garçon 🥳🎂🎁. Difficile à vivre à distance malgré tout.
 
