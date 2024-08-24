@@ -59,6 +59,6 @@ Mon prochain objectif est la bourgade de Salida. Elle a une bonne réputation ch
 </figure>
 
 <center>
-<iframe src='https://connect.garmin.com/modern/activity/embed/16827976659' title='Day 26' width='405' height='500' frameborder='0'></iframe>
+<iframe src='https://connect.garmin.com/modern/activity/embed/16827976659' title='Day 27' width='405' height='500' frameborder='0'></iframe>
 </center>
 
