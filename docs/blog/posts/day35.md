@@ -6,7 +6,7 @@ categories:
   - World
 ---
 
-#  Land of enchantement - really?
+#  Abiquiu to Cuba
 
 <figure markdown>
 ![Depart pour Cuba](day35/day35.1.jpeg){ width=“300” }
