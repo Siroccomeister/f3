@@ -34,8 +34,7 @@ Il y a ces rencontres qui ont beaucoup de charme en vélo. Je l'ai déjà vécu 
     cliquez sur les photos pour voir les commentaires
 
 !!! question ""
-    🇫🇷 si vous avez été fidèle jusqu'ici, un commentaire est bienvenu! 🇺🇸 if you followed me until here, a comment will be welcome! [>> Click here]
-(https://forms.office.com/r/5TiedXLRaN)
+    🇫🇷 si vous avez été fidèle jusqu'ici, un commentaire est bienvenu! 🇺🇸 if you followed me until here, a comment will be welcome! [>> Click here](https://forms.office.com/r/5TiedXLRaN)
 
 <figure markdown>
 

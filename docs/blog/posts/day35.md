@@ -34,8 +34,7 @@ La frontière est en ligne de mire, après Grants il reste plus que 2 villes (Pi
     cliquez sur les photos pour voir les commentaires
 
 !!! question ""
-    🇫🇷 si vous avez été fidèle jusqu'ici, un commentaire est bienvenu! 🇺🇸 if you followed me until here, a comment will be welcome! [>> Click here]
-(https://forms.office.com/r/5TiedXLRaN)
+    🇫🇷 si vous avez été fidèle jusqu'ici, un commentaire est bienvenu! 🇺🇸 if you followed me until here, a comment will be welcome! [>> Click here](https://forms.office.com/r/5TiedXLRaN)
 
 <figure markdown>
 
