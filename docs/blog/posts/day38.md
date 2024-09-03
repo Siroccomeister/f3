@@ -49,7 +49,7 @@ C'est une maison à Pie Town qui est une donation. On y trouve de tout pour hike
 
 ![Très chouette restaurant, tout est fait maison, il faut être patient](day38/day38.7.jpeg){ width=“300” }
 
-![The toaster house, la donatrice est decedee en mettant un gateau au four il parait...](day38/day38.8.jpeg){ width=“300” }
+![The toaster house, la donatrice est décédée en mettant un gateau au four à ce qu'il paraît...](day38/day38.8.jpeg){ width=“300” }
 
 </figure>
 
