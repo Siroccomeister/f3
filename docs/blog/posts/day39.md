@@ -48,7 +48,7 @@ La soirée se termine par un concours photos. Il n'y a aucune lune et la Voie la
 
 ![Beavercreek ne paie pas de mine vue de l'extérieur](day39/day39.6.jpeg){ width=“300” }
 
-![Msis héberge une sacré salle aux trophées](day39/day39.7.jpeg){ width=“300” }
+![Mais héberge une sacré salle aux trophées](day39/day39.7.jpeg){ width=“300” }
 
 ![Voie lactée](day39/day39.8.jpeg){ width=“300” }
 
