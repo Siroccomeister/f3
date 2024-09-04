@@ -52,7 +52,7 @@ Le soleil devient rasant et là j'entends un gros crissement sur ma droite. Je r
 
 ![Ça a de la gueule quand même!](day36/day36.7.jpeg){ width=“300” }
 
-![Aïe ça se couvre(day36/day36.8.jpeg){ width=“300” }
+![Aïe ça se couvre](day36/day36.8.jpeg){ width=“300” }
 
 ![Ça ressemble à un (...) je vous laisse imaginer ☺️](day36/day36.9.jpeg){ width=“300” }
 
