@@ -42,13 +42,13 @@ La frontière est là. Il reste une dernière montée puis Silver City, le dése
 
 ![Le trio à l'œuvre, matez-moi ces bagages!](day40/day40.3.jpeg){ width=“300” }
 
-![L'air de rien, ce gravier est très piégeur](day40/day39.4.jpeg){ width=“300” }
+![L'air de rien, ce gravier est très piégeur](day40/day40.4.jpeg){ width=“300” }
 
 ![Dernier tronçon pour rejoindre les pots de glace - on appuie sur les pédales](day40/day40.5.jpeg){ width=“300” }
 
 ![Les premières habitations apparaissent](day40/day40.6.jpeg){ width=“300” }
 
-![Lake Roberts et son barrage](day39/day39.7.jpeg){ width=“300” }
+![Lake Roberts et son barrage](day40/day40.7.jpeg){ width=“300” }
 
 </figure>
 
