@@ -27,7 +27,8 @@ Ensemble on est plus fort. Chacun se donne avec un respect immense pour les deux
 
 # Ce qui est devant 
 
-La frontière est là. Il reste une dernière montée puis Silver City, le désert et l'arrivée à Antelope Wells. Demain je fais mon marathon, je dors et termine vendredi matin. La logistique est en place, j'attends une dernière confirmation. Mais si tout va bien, je suis à San Diego samedi. Le vol de retour décolle le 10 septembre. Stay Tuned 🤞j'y suis presque! Espérez pour moi que je doive pas trop batailler contre le vent!
+La frontière est là. Chacun de nous sent un changement imminent approcher. Les émotions sont variées. Il reste une dernière montée puis Silver City, le désert et l'arrivée à Antelope Wells. Demain je fais mon marathon solo, je dors et termine vendredi matin. La logistique est en place, j'attends une dernière confirmation. Mais si tout va bien, je suis à San Diego samedi. Le vol de retour décolle le 10 septembre. Stay Tuned 🤞j'y suis presque! Espérez pour moi que je doive pas trop batailler contre le vent!
+
 
 
 !!! hint ""
