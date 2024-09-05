@@ -12,7 +12,7 @@ categories:
 ![Belle Chevauchée!](day40/day40.1.jpeg){ width=“300” }
 </figure>
 
-Difficile de quitter Beavercreek. Dîner, petit-déjeuner et burritos à l'emporter, tout nous a été offert. Sarah insiste que l'endroit est probablement le plus proche du American way. On se lance sur Gila National Forest, enchaînement de montées et de descentes sur du gros gravier dans la chaleur. Cette dernière difficulté est épicée 🌶️.
+Difficile de quitter Beaverhead. Dîner, petit-déjeuner et burritos à l'emporter, tout nous a été offert. Sarah insiste que l'endroit est probablement le plus proche du American way. On se lance sur Gila National Forest, enchaînement de montées et de descentes sur du gros gravier dans la chaleur. Cette dernière difficulté est épicée 🌶️.
 
 <!-- more -->
 
