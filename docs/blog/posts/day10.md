@@ -31,9 +31,9 @@ Je me retrouve en communauté, on parle vélo, café, astuces. L'endroit est �
 <figure markdown>
 ![petit déjeuner](day10/day10.2.jpeg){ width=“300” }
 
-!["naturally and artificially"](day10/day10.3.jpeg){ width=“300” }
+![naturally and artificially - ça c'est du marketing!](day10/day10.3.jpeg){ width=“300” }
 
-!["make liberals cry again"](day10/day10.4.jpeg){ width=“300” }
+![make liberals cry again - La campagne est lancée!](day10/day10.4.jpeg){ width=“300” }
 
 ![Autoroute sous la pluie](day10/day10.5.jpeg){ width=“300” }
 
