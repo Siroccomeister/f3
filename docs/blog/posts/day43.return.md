@@ -55,8 +55,6 @@ Encore merci à vous tous, spécialement ceux qui m'ont aussi envoi un petit mot
 
 ![Ambiance, originalité en décalé](day43/day43.4.jpeg){ width=“300” }
 
-![J'ai craqué. Sachez que sur un vélo, la digestion est pas terrible, question de nourriture aussi (junk ou protein-rich), constipation etc... Je doute que cela s'applique au surf cependant 😅](day43/day43.5.jpeg){ width=“300” }
-
 ![La classe, face à la mer et au coucher du soleil 👍](day43/day43.5.1.jpeg){ width=“300” }
 
 ![Les couchers de soleil sont magnifiques- honnêtement!](day43/day43.6.jpeg){ width=“300” }
