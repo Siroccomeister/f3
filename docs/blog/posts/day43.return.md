@@ -27,7 +27,7 @@ Je découvre la ville. Je vous mets pas mal de photos pour le coup. Je me promè
 
 # Camaraderie - wrap-up
 
-Je relis avec plaisir mon blog-journal, je prends des nouvelles. K.K et Gomitha sont déjà supers actifs. John & John ont malheureusement abandonné assez vite (Ovando), mais devraient s'y remettre par sections. John-Père fait construire une maison près de Salida. Avec sa compagne ils ont gagné un voyage en Suisse, on risque de se revoir! Sarah est arrivée le même jour que moi dans la nuit après 215km 💪! Elle pense faire la version course dans les 2 prochaines années, elle rêve de décrocher le record féminin de 18 jours en fixed speed (sans dérailleur). Gian a terminé hier, j'espère rouler avec lui en Suisse ☺️.
+Je relis avec plaisir mon blog-journal, je prends des nouvelles. K.K et Gomitha sont déjà supers actifs. John & John ont malheureusement abandonné assez vite (Ovando), mais devraient s'y remettre par sections. John-Père fait construire une maison près de Salida. Avec sa compagne ils ont gagné un voyage en Suisse, on risque de se revoir! Sarah est arrivée le même jour que moi dans la nuit après 215km 💪! Elle pense faire la version course dans les 2 prochaines années, elle rêve de décrocher le record féminin de 18 jours en single speed (sans dérailleur). Gian a terminé hier, j'espère rouler avec lui en Suisse ☺️.
 
 # Et moi?
 
