@@ -23,19 +23,19 @@ C'est dimanche, je décide de visiter une église locale. Quelle organisation! J
 
 # San Diego
 
-Je découvre la ville. Je vous mets pas mal de photos pour le coup. Je me promène dans mon quartier 2 jours et m'occupe d'emballer le vélo le 3ème. Je fais connaissance avec Tim et Christel qui habitent ici depuis 6 ans. Un Français me parle de sa semaine au festival Burning Man dans le Nevada. Je tente une sortie vélo mais me rends compte que rouler en ville - c'est plus la Divide...  Je coupe court d'autant que j'ai de la peine à suivre. Il faut rester concentré pour suivre le parcours en ville! Les grands espaces me manquent déjà. En tout cas l'ambiance est à la détente.
+Je découvre la ville. Je vous mets pas mal de photos pour le coup. Je me promène dans mon quartier 2 jours et m'occupe d'emballer le vélo le 3ème. Je fais connaissance avec Tim et Christel qui habitent ici depuis 6 ans. Un Français me parle de sa semaine au festival Burning Man dans le Nevada. Je tente une sortie vélo mais me rends compte que rouler en ville, ce n'est plus la Divide... Je coupe court d'autant que j'ai de la peine à suivre. Il faut rester concentré pour suivre le parcours en ville! Les grands espaces me manquent déjà. En tout cas l'ambiance est à la détente.
 
 # Camaraderie - wrap-up
 
-Je relis avec plaisir mon blog-journal, je prends des nouvelles. K.K et Gomitha sont déjà supers actifs. John & John ont malheureusement abandonné assez vite (Ovando), mais devraient s'y remettre par sections. John-Père fait construire une maison près de Salida. Avec sa compagne ils ont gagné un voyage en Suisse, on risque de se revoir! Sarah est arrivée le même jour que moi dans la nuit après 215km 💪! Elle pense faire la version course dans les 2 prochaines années, elle rêve de décrocher le record féminin de 18 jours en single speed (sans dérailleur). Gian a terminé hier, j'espère rouler avec lui en Suisse ☺️.
+Je relis avec plaisir mon blog-journal, je prends des nouvelles. K.K et Gomitha sont déjà supers actifs. John & John ont malheureusement abandonné assez vite (Ovando), mais devraient s'y remettre par sections. John-Père fait construire une maison près de Salida. Avec sa compagne ils ont gagné un voyage en Suisse, on risque de se revoir! Sarah est arrivée le même jour que moi dans la nuit après 215km 💪! Elle pense faire la version course l'année prochaine, elle rêve de se frotter au record féminin de 18 jours en single speed (sans dérailleur). Quel courage. Gian a terminé hier, j'espère rouler avec lui en Suisse ☺️.
 
 # Et moi?
 
 D'abord un gros (genre énormément gros) besoin de retrouver la famille 🥰.
 
-Sur la forme, envie de passer voir un osthéo quand même histoire de tout remettre en place. Et aussi se tester sur les grimpettes à proximité (Barillette, Faucille etc...) puis faire des sorties avec les amis.
+Sur la forme, envie de passer voir un osthéo quand même histoire de tout remettre en place. Et aussi se tester sur les grimpettes à proximité (Barillette, Faucille etc...) puis faire des sorties (vélo ou autre ☺️) avec les amis.
 
-Sur le fond, je vais chercher une prochaine étape professionnelle plus en phase avec les priorités que je retiens de ma Divide (il faut rêver!). Ça va bien m'occuper aussi. Je voudrais reprendre le blog et le compléter sous forme de bilans, conseils et faire une traduction en anglais avant de le promouvoir pour donner envie à d'autres. Je voudrais regarder plus près les aspects nutrition vs. effort. Mais tout cela en restant dans l'esprit Divide : garder le focus, concentrer l'énergie là où il faut faire la différence, surmonter les défis, profiter. J'espère pas perdre ma forme trop vite!
+Sur le fond, je vais chercher une prochaine étape professionnelle plus en phase avec les priorités que je retiens de ma Divide (il faut rêver!). Ça va bien m'occuper aussi. Je voudrais reprendre le blog et le compléter sous forme de bilans, conseils et faire une traduction en anglais avant de le promouvoir pour donner envie à d'autres. Je voudrais aussi regarder de plus près les aspects nutrition vs. effort. Mais tout cela en restant dans l'esprit Divide : garder le focus, concentrer l'énergie là où il faut faire la différence, surmonter les défis, profiter. J'espère pas perdre ma forme trop vite!
 
 Finalement il y a beaucoup à découvrir, l'aventure continue.
 
