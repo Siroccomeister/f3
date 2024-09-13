@@ -11,13 +11,11 @@ glightbox: false
      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
      crossorigin=""></script>
 
-<style type="text/css">
-html, body, #map {
+#map {
     width: 400px;
     height: 400px;
     margin: 0;
 }
-</style>
 
 <div id="map"></div>
 
