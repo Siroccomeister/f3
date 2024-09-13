@@ -22,13 +22,6 @@ extra:
   analytics:
     provider: google
     property: G-CR3FZ4XFFT
-  alternate:
-    - name: English
-      link: /en/ 
-      lang: en
-    - name: Français
-      link: /fr/
-      lang: fr
 
 plugins:
   - search
