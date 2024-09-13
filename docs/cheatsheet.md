@@ -2,7 +2,7 @@
 glightbox: false
 ---
 
-# leaflet Map testing
+# leaflet Map Playing Around
 
  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
@@ -11,11 +11,13 @@ glightbox: false
      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
      crossorigin=""></script>
 
+<style type="text/css">
 #map {
     width: 400px;
     height: 400px;
     margin: 0;
 }
+</style>
 
 <div id="map"></div>
 
