@@ -22,6 +22,13 @@ extra:
   analytics:
     provider: google
     property: G-CR3FZ4XFFT
+  alternate:
+    - name: English
+      link: /en/ 
+      lang: en
+    - name: Français
+      link: /fr/
+      lang: fr
 
 plugins:
   - search
@@ -55,18 +62,6 @@ plugins:
       background: white
       shadow: true
       manual: false
-  - i18n:
-      docs_structure: folder
-      reconfigure_material: true
-      reconfigure_search: true
-      languages:
-        - locale: en
-          default: true
-          name: English
-          build: true
-        - locale: fr
-          name: Français
-          build: true
    
 markdown_extensions:
    - attr_list
