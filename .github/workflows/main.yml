@@ -29,4 +29,5 @@ jobs:
       - run: pip install mkdocs-glightbox
       - run: pip install neoteroi-mkdocs
       - run: pip install mkdocs-video
+      - run: pip install mkdocs-static-i18n
       - run: mkdocs gh-deploy --force
