@@ -24,7 +24,7 @@ glightbox: false
 
 <script type="text/javascript">
   document.addEventListener("DOMContentLoaded", function() {
-    var map = L.map('map').setView([51.2, -115.6], 13);
+    var map = L.map('map').setView([51.19, -115.68], 13);
 
     L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 19,
