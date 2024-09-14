@@ -10,7 +10,7 @@ glightbox: false
  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
      crossorigin=""></script>
- <script src="hhttps://cdnjs.cloudflare.com/ajax/libs/leaflet-gpx/2.1.2/gpx.min.js"></script>
+ <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-gpx/2.1.2/gpx.min.js"></script>
 
 <style type="text/css">
 #map {
@@ -24,21 +24,22 @@ glightbox: false
 
 <script type="text/javascript">
   document.addEventListener("DOMContentLoaded", function() {
+    
+    var map = L.map('map').setView([51.18, -115.58], 13);
 
-      const map = L.map('map');
-      L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-        attribution: 'Map data &copy; <a href="http://www.osm.org">OpenStreetMap</a>'
-      }).addTo(map);
+    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    maxZoom: 19,
+    attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+    }).addTo(map);
 
-      // URL to your GPX file or the GPX itself as a XML string.
-      const url = 'https://mpetazzoni.github.io/leaflet-gpx/demo.gpx';
-      const options = {
-        async: true,
-        polyline_options: { color: 'red' },
+    const url = 'https://mpetazzoni.github.io/leaflet-gpx/demo.gpx';
+    const options = {
+      async: true,
+      polyline_options: { color: 'red' },
       };
 
-      const gpx = new L.GPX(url, options).on('loaded', (e) => {
-        map.fitBounds(e.target.getBounds());
+    const gpx = new L.GPX(url, options).on('loaded', (e) => {
+      map.fitBounds(e.target.getBounds());
       }).addTo(map);
 
   })
