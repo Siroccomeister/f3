@@ -25,21 +25,20 @@ glightbox: false
 <script type="text/javascript">
   document.addEventListener("DOMContentLoaded", function() {
 
-    var map = L.map('map');
+      const map = L.map('map');
+      L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: 'Map data &copy; <a href="http://www.osm.org">OpenStreetMap</a>'
+      }).addTo(map);
 
-    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    maxZoom: 19,
-    attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-    }).addTo(map);
-
-    const url = 'https://mpetazzoni.github.io/leaflet-gpx/demo.gpx';
-    const options = {
-      async: true,
-      polyline_options: { color: 'red' },
+      // URL to your GPX file or the GPX itself as a XML string.
+      const url = 'https://mpetazzoni.github.io/leaflet-gpx/demo.gpx';
+      const options = {
+        async: true,
+        polyline_options: { color: 'red' },
       };
 
-    const gpx = new L.GPX(url, options).on('loaded', (e) => {
-      map.fitBounds(e.target.getBounds());
+      const gpx = new L.GPX(url, options).on('loaded', (e) => {
+        map.fitBounds(e.target.getBounds());
       }).addTo(map);
 
   })
