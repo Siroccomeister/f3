@@ -10,6 +10,7 @@ glightbox: false
  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
      crossorigin=""></script>
+ <script src="hhttps://cdnjs.cloudflare.com/ajax/libs/leaflet-gpx/2.1.2/gpx.min.js"></script>
 
 <style type="text/css">
 #map {
@@ -28,7 +29,18 @@ glightbox: false
     L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 19,
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-}).addTo(map);
+    }).addTo(map);
+
+  // URL to your GPX file or the GPX itself as a XML string.
+    const url = 'assets/gpx/GDMBR3.gpx';
+    const options = {
+      async: true,
+      polyline_options: { color: 'red' },
+      };
+
+    const gpx = new L.GPX(url, options).on('loaded', (e) => {
+      map.fitBounds(e.target.getBounds());
+      }).addTo(map);
 
   })
 </script>
