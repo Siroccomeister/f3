@@ -25,14 +25,14 @@ glightbox: false
 <script type="text/javascript">
   document.addEventListener("DOMContentLoaded", function() {
     
-    var map = L.map('map').setView([51.18, -115.58], 13);
+    var map = L.map('map');
 
     L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 19,
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
     }).addTo(map);
 
-    const url = 'https://siroccomeister.github.io/f3/assets/gpx/GDMBR3.gpx';
+    const url = 'assets/gpx/GDMBR3.gpx';
     const options = {
       async: true,
       polyline_options: { color: 'red' },
