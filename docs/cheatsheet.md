@@ -32,7 +32,7 @@ glightbox: false
     }).addTo(map);
 
   // URL to your GPX file or the GPX itself as a XML string.
-    const url = 'https://siroccomeister.github.io/f3/assets/gps/GDMBR3.gpx';
+    const url = 'https://siroccomeister.github.io/f3/assets/gpx/GDMBR3.gpx';
     const options = {
       async: true,
       polyline_options: { color: 'red' },
