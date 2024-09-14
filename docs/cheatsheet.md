@@ -24,14 +24,14 @@ glightbox: false
 
 <script type="text/javascript">
   document.addEventListener("DOMContentLoaded", function() {
-    var map = L.map('map').setView([51.18, -115.58], 13);
+
+    var map = L.map('map');
 
     L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 19,
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
     }).addTo(map);
 
-  // URL to your GPX file or the GPX itself as a XML string.
     const url = 'https://mpetazzoni.github.io/leaflet-gpx/demo.gpx';
     const options = {
       async: true,
