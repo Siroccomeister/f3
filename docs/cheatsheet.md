@@ -24,7 +24,7 @@ glightbox: false
 
 <script type="text/javascript">
   document.addEventListener("DOMContentLoaded", function() {
-    var map = L.map('map').setView([51.2, 115.6], 13);
+    var map = L.map('map').setView([51.2, -115.6], 13);
 
     L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 19,
@@ -32,7 +32,7 @@ glightbox: false
     }).addTo(map);
 
   // URL to your GPX file or the GPX itself as a XML string.
-    const url = 'assets/gpx/GDMBR3.gpx';
+    const url = 'https://siroccomeister.github.io/f3/assets/gps/GDMBR3.gpx';
     const options = {
       async: true,
       polyline_options: { color: 'red' },
