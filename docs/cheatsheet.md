@@ -13,7 +13,7 @@ glightbox: false
 
 <style type="text/css">
 #map {
-<!---  width: 400px; --->
+    width: auto;
     height: 400px;
     margin: 0;
 }
