@@ -32,7 +32,7 @@ glightbox: false
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
     }).addTo(map);
 
-    const url = 'https://mpetazzoni.github.io/leaflet-gpx/demo.gpx';
+    const url = 'https://siroccomeister.github.io/f3/assets/gpx/GDMBR3.gpx';
     const options = {
       async: true,
       polyline_options: { color: 'red' },
