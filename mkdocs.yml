@@ -34,9 +34,8 @@ plugins:
           width: "100%"
   - social:
       cards_layout_options:
-          logo: null # Remove background image
+          cards_layout: default/only/image
           background_image: layouts/shade.png
-          background_color: transparent # used to be pinkie
   - blog:
       blog_toc: true
       archive: false
