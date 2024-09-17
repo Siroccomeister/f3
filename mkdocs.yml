@@ -33,9 +33,9 @@ plugins:
       css_style:
           width: "100%"
   - social:
+      cards_layout: default/only/image
       cards_layout_options:
-          cards_layout: default/only/image
-          background_image: layouts/shade.png
+        background_image: layouts/background.png
   - blog:
       blog_toc: true
       archive: false
