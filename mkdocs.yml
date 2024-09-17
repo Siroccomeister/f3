@@ -35,7 +35,7 @@ plugins:
   - social:
       cards_layout: default/only/image
       cards_layout_options:
-        background_image: layouts/background.png
+        background_image: layouts/shade.png
   - blog:
       blog_toc: true
       archive: false
