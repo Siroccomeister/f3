@@ -34,6 +34,7 @@ plugins:
           width: "100%"
   - social:
       cards_layout_options:
+          background_image: layouts/background.png
           background_color: "#ff1493"
   - blog:
       blog_toc: true
