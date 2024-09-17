@@ -21,36 +21,25 @@ body {
 <div id="map"></div>
 <div id="profileContainer"></div>
 
-import { config, Map, helpers, MapStyle } from '@maptiler/sdk';
+import '@maptiler/sdk/dist/maptiler-sdk.css';
+import { config, Map, helpers, MapStyle, Marker, gpx, LngLatBounds } from '@maptiler/sdk';
+import { ElevationProfileControl } from "@maptiler/elevation-profile-control";
 
-config.apiKey = '9HxmjmyEjR5Q6nvrTzN3';
-const map = new Map({
-    container: 'map', // container's id or the HTML element in which SDK will render the map
-    style: MapStyle.OUTDOOR,
-    center: [7.6011, 45.9078], // starting position [lng, lat]
-    zoom: 11.39 // starting zoom
-});
+config.apiKey = 'YOUR_MAPTILER_API_KEY_HERE';
 
 let polyline, epc, marker;
 
-map.on('load', async () => {
-
-  polyline = await helpers.addPolyline(map, {
-    data: 'https://siroccomeister.github.io/f3/assets/gpx/GDMBR3.gpx', //from a URL or a MapTiler Data UUID
-    lineColor: '#66f',
-    lineWidth: 4,
-    outline: true,
-    outlineWidth: 2
-  });
-
+const map = new Map({
+  container: 'map', // container's id or the HTML element in which SDK will render the map
+  center: [7.6011,45.9078], // starting position [lng, lat]
+  zoom: 11.39, // starting zoom
+  style: MapStyle.OUTDOOR
 });
 
-import { config, Map, helpers, MapStyle, Marker } from '@maptiler/sdk';
-
 map.on('load', async () => {
 
   polyline = await helpers.addPolyline(map, {
-    data: 'https://siroccomeister.github.io/f3/assets/gpx/GDMBR3.gpx', //from a URL or a MapTiler Data UUID
+    data: 'YOUR_MAPTILER_DATASET_ID_HERE',
     lineColor: '#66f',
     lineWidth: 4,
     outline: true,
@@ -61,25 +50,7 @@ map.on('load', async () => {
     .setLngLat([0, 0])
     .addTo(map);
 
-});
-
-import { ElevationProfileControl } from "@maptiler/elevation-profile-control";
-
-map.on('load', async () => {
-
-  polyline = await helpers.addPolyline(map, {
-    data: 'https://docs.maptiler.com/sdk-js/assets/cervinia-valtournenche.gpx', //from a URL or a MapTiler Data UUID
-    lineColor: '#66f',
-    lineWidth: 4,
-    outline: true,
-    outlineWidth: 2
-  });
-
-  marker = new Marker()
-    .setLngLat([0, 0])
-    .addTo(map);
-
-  // Create an instance
+  // Create an instance (with no options)
   epc = new ElevationProfileControl({
     container: "profileContainer",
     visible: true,
@@ -103,20 +74,43 @@ map.on('load', async () => {
 
 });
 
+function fitToDataBounds(data) {
+  // Geographic coordinates of the LineString
+  const coordinates = data.features[0].geometry.coordinates;
+
+  // Pass the first coordinates in the LineString to `lngLatBounds` &
+  // wrap each coordinate pair in `extend` to include them in the bounds
+  // result. A variation of this technique could be applied to zooming
+  // to the bounds of multiple Points or Polygon geomteries - it just
+  // requires wrapping all the coordinates with the extend method.
+  const bounds = coordinates.reduce((bounds, coord) => {
+      return bounds.extend(coord);
+  }, new LngLatBounds(coordinates[0], coordinates[0]));
+
+  map.fitBounds(bounds, {
+    padding: 20
+  });
+  moveMarkerToGPXStart(data);
+}
+
 function moveMarkerToGPXStart(data) {
   marker.setLngLat(data.features[0].geometry.coordinates[0])
 }
 
-#profileContainer {
-  background:#fff;
-  width: 50vw;
-  height: 200px;
-  margin-top: 20px;
-  position: absolute;
-  bottom: 10px;
-  opacity: 0.9;
-}
+function readGPXFile(file){
+  if (file.name.split('.').pop().toLowerCase() !== 'gpx') {
+    return;
+  }
+  const reader = new FileReader();
+  reader.onload = function (event) {
+    const sourceObject = map.getSource(polyline.polylineSourceId);
+    sourceObject.setData(gpx(event.target.result));
 
+    epc.setData(sourceObject._data);
+    fitToDataBounds(sourceObject._data);
+  };
+  reader.readAsText(file, 'UTF-8');
+}
 
 # leaflet Map Playing Around
 
