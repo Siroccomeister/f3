@@ -84,7 +84,7 @@ document.addEventListener("DOMContentLoaded", function() {
 					summary: "inline",
 					imperial: false,
 					// altitude: "disabled",
-					slope: false,
+					slope: true,
 					speed: false,
 					acceleration: false,
 					time: "summary",
