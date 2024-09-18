@@ -3,64 +3,57 @@ glightbox: false
 ---
 
 <head>
+<link rel="dns-prefetch" href="https://tile.openstreetmap.org">
+<link rel="dns-prefetch preconnect" href="https://unpkg.com" />
+<link rel="preload" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js" as="script">
+<link rel="preload" href="https://unpkg.com/leaflet-ui@0.6.0/dist/leaflet-ui.js" as="script">
 <!-- leaflet-ui -->
 <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
 <script src="https://unpkg.com/leaflet-ui@0.6.0/dist/leaflet-ui.js"></script>
-
-<!-- leaflet-gpx -->
-<script src="https://unpkg.com/leaflet-gpx@1.7.0/gpx.js"></script>
-
 <!-- leaflet-elevation -->
 <link rel="stylesheet" href="https://unpkg.com/@raruto/leaflet-elevation@2.5.1/dist/leaflet-elevation.min.css" />
 <script src="https://unpkg.com/@raruto/leaflet-elevation@2.5.1/dist/leaflet-elevation.min.js"></script>
 </head>
 
-
-<style type="text/css">
-#map { width: auto; height: 400px; margin: 0; }
-#elevation-div { height: 100px; width: auto; padding: 0; margin: 0; }
-</style>
-
-
 <body>
 
-<div id="map"></div>
+<div id="map" class="leaflet-map"></div>
 
 <script>
-	let opts = {
+		let opts = {
 			map: {
 				center: [41.4583, 12.7059],
 				zoom: 5,
 				fullscreenControl: false,
-				layersControl: false,
-				minimapControl: false,
-				searchControl: false,
-				locateControl: false,
-				pegmanControl: false,
-				resizerControl: false,
-				gestureHandling: false,
+				resizerControl: true,
 				preferCanvas: true,
-				rotate: false,
-				zoomControl: {
-					position: 'topleft',
+				rotate: true,
+				// bearing: 45,
+				rotateControl: {
+					closeOnZeroBearing: true
 				},
 			},
 			elevationControl: {
-				tracks: {
-					track_1: {
-						url: "https://siroccomeister.github.io/f3/assets/gpx/GDMBR3.gpx",
-						color: "#3490dc"
-					},
-				},
+				url: "https://raruto.github.io/leaflet-elevation/examples/via-emilia.gpx",
 				options: {
-					position: "bottomleft",
-					theme: "steelblue-theme",
-					marker: 'elevation-line',
-          summary: 'inline',
+					theme: "lightblue-theme",
 					collapsed: false,
+					autohide: false,
+					autofitBounds: true,
+					position: "bottomleft",
 					detached: true,
-					legend: false,
-					edgeScale: false,
+					summary: "inline",
+					imperial: false,
+					// altitude: "disabled",
+					slope: "disabled",
+					speed: false,
+					acceleration: false,
+					time: "summary",
+					legend: true,
+					followMarker: true,
+					almostOver: true,
+					distanceMarkers: false,
+					hotline: false,
 				},
 			},
 			layersControl: {
@@ -73,89 +66,10 @@ glightbox: false
 		let map = L.map('map', opts.map);
 
 		let controlElevation = L.control.elevation(opts.elevationControl.options).addTo(map);
-		let controlLayer = L.control.layers(null, null, opts.layersControl.options).addTo(map);
+		let controlLayer = L.control.layers(null, null, opts.layersControl.options);
 
-		let traces = [];
-		let tracks = opts.elevationControl.tracks;
-		let i = 0;
+		controlElevation.on('eledata_loaded', ({layer, name}) => controlLayer.addTo(map) && layer.eachLayer((trkseg) => trkseg.feature.geometry.type != "Point" && controlLayer.addOverlay(trkseg, trkseg.feature && trkseg.feature.properties && trkseg.feature.properties.name || name)));
 
-		for (let track in tracks) {
-			loadTrace(track, i++)
-		}
-
-		function loadTrace(track, i) {
-			let trace = {};
-
-			trace.gpx = new L.GPX(tracks[track].url, {
-				async: true,
-				index: i,
-				marker_options: {
-					startIconUrl: null,
-					endIconUrl: null,
-					shadowUrl: null,
-					wptIcons: {
-						'': L.divIcon({
-							className: 'elevation-waypoint-marker',
-							html: '<i class="elevation-waypoint-icon default"></i>',
-							iconSize: [30, 30],
-							iconAnchor: [8, 30],
-						}),
-					},
-				},
-				polyline_options: {
-					color: tracks[track].color,
-				}
-			});
-
-			trace.gpx.on('loaded', function(e) {
-				controlLayer.addBaseLayer(e.target, e.target.get_name());
-				if (e.target.options.index == 0) {
-					setElevationTrace(0);
-				} else {
-					map.removeLayer(e.target);
-				}
-			})
-
-			trace.gpx.on("addline", function(e) {
-				trace.line = e.line;
-			})
-
-			trace.gpx.addTo(map);
-
-			traces.push(trace);
-		}
-
-		map.on("baselayerchange", function(e) {
-			for (let i in traces) {
-				if (traces[i].gpx._leaflet_id == e.layer._leaflet_id) {
-					setElevationTrace(e.layer.options.index);
-					break;
-				}
-			}
-		});
-
-		function setElevationTrace(index) {
-			let trace = traces[index];
-
-			controlElevation.clear();
-
-			// var q = document.querySelector.bind(document);
-			controlElevation.addData(trace.line);
-
-			map.fitBounds(trace.gpx.getBounds());
-
-			trace.gpx.setStyle({
-				color: 'red',
-				weight: 4,
-				opacity: 0.8,
-			});
-
-			// q('.totlen .summaryvalue').innerHTML = (trace.gpx.get_distance() / 1000).toFixed(2) + " km";
-			// q('.maxele .summaryvalue').innerHTML = trace.gpx.get_elevation_max().toFixed(0) + " m";
-			// q('.minele .summaryvalue').innerHTML = trace.gpx.get_elevation_min().toFixed(0) + " m";
-		}
-	</script>
-
-
+		controlElevation.load(opts.elevationControl.url);
+</script>
 </body>
-
