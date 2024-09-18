@@ -3,136 +3,155 @@ glightbox: false
 ---
 
 <head>
-
-<style> html, body, #map, #elevation-div { height: 100%; width: 100%; padding: 0; margin: 0; } #map { height: 75%; } #elevation-div {	height: 25%; font: 12px/1.5 "Helvetica Neue", Arial, Helvetica, sans-serif; } </style>
-
 <!-- leaflet-ui -->
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
 <script src="https://unpkg.com/leaflet-ui@0.6.0/dist/leaflet-ui.js"></script>
 
-<!-- leaflet-elevation -->
-<link rel="stylesheet" href="https://unpkg.com/@raruto/leaflet-elevation/dist/leaflet-elevation.css" />
-<script src="https://unpkg.com/@raruto/leaflet-elevation/dist/leaflet-elevation.js"></script>
+<!-- leaflet-gpx -->
+<script src="https://unpkg.com/leaflet-gpx@1.7.0/gpx.js"></script>
 
+<!-- leaflet-elevation -->
+<link rel="stylesheet" href="https://unpkg.com/@raruto/leaflet-elevation@2.5.1/dist/leaflet-elevation.min.css" />
+<script src="https://unpkg.com/@raruto/leaflet-elevation@2.5.1/dist/leaflet-elevation.min.js"></script>
 </head>
 
-<div id="map"></div>
+<body>
+
+<div id="map" class="leaflet-map"></div>
 
 <script>
+	let opts = {
+			map: {
+				center: [41.4583, 12.7059],
+				zoom: 5,
+				fullscreenControl: false,
+				layersControl: false,
+				minimapControl: false,
+				searchControl: false,
+				locateControl: false,
+				pegmanControl: false,
+				resizerControl: false,
+				gestureHandling: false,
+				preferCanvas: true,
+				rotate: false,
+				zoomControl: {
+					position: 'topleft',
+				},
+			},
+			elevationControl: {
+				tracks: {
+					track_1: {
+						url: "https://raruto.github.io/leaflet-elevation/examples/via-emilia.gpx",
+						color: "#3490dc"
+					},
+					track_2: {
+						url: "https://raruto.github.io/leaflet-elevation/examples/via-aurelia.gpx",
+						color: "#f6993f"
+					},
+				},
+				options: {
+					position: "bottomleft",
+					theme: "steelblue-theme",
+					marker: 'elevation-line',
+					collapsed: false,
+					detached: false,
+					legend: false,
+					edgeScale: false,
+				},
+			},
+			layersControl: {
+				options: {
+					collapsed: false,
+				},
+			},
+		};
 
-    document.addEventListener("DOMContentLoaded", function() {
+		let map = L.map('map', opts.map);
 
-  // Full list options at "leaflet-elevation.js"
-  var elevation_options = {
+		let controlElevation = L.control.elevation(opts.elevationControl.options).addTo(map);
+		let controlLayer = L.control.layers(null, null, opts.layersControl.options).addTo(map);
 
-    // Default chart colors: theme lime-theme, magenta-theme, ...
-    theme: "lightblue-theme",
+		let traces = [];
+		let tracks = opts.elevationControl.tracks;
+		let i = 0;
 
-    // Chart container outside/inside map container
-    detached: true,
+		for (let track in tracks) {
+			loadTrace(track, i++)
+		}
 
-    // if (detached), the elevation chart container
-    elevationDiv: "#elevation-div",
+		function loadTrace(track, i) {
+			let trace = {};
 
-    // if (!detached) autohide chart profile on chart mouseleave
-    autohide: false,
+			trace.gpx = new L.GPX(tracks[track].url, {
+				async: true,
+				index: i,
+				marker_options: {
+					startIconUrl: null,
+					endIconUrl: null,
+					shadowUrl: null,
+					wptIcons: {
+						'': L.divIcon({
+							className: 'elevation-waypoint-marker',
+							html: '<i class="elevation-waypoint-icon default"></i>',
+							iconSize: [30, 30],
+							iconAnchor: [8, 30],
+						}),
+					},
+				},
+				polyline_options: {
+					color: tracks[track].color,
+				}
+			});
 
-    // if (!detached) initial state of chart profile control
-    collapsed: false,
-    
-    // if (!detached) control position on one of map corners
-    position: "topright",
-    
-    // Toggle close icon visibility
-    closeBtn: true,
+			trace.gpx.on('loaded', function(e) {
+				controlLayer.addBaseLayer(e.target, e.target.get_name());
+				if (e.target.options.index == 0) {
+					setElevationTrace(0);
+				} else {
+					map.removeLayer(e.target);
+				}
+			})
 
-    // Autoupdate map center on chart mouseover.
-    followMarker: true,
+			trace.gpx.on("addline", function(e) {
+				trace.line = e.line;
+			})
 
-    // Autoupdate map bounds on chart update.
-    autofitBounds: true,
+			trace.gpx.addTo(map);
 
-    // Chart distance/elevation units.
-    imperial: false,
+			traces.push(trace);
+		}
 
-    // [Lat, Long] vs [Long, Lat] points. (leaflet default: [Lat, Long])
-    reverseCoords: false,
+		map.on("baselayerchange", function(e) {
+			for (let i in traces) {
+				if (traces[i].gpx._leaflet_id == e.layer._leaflet_id) {
+					setElevationTrace(e.layer.options.index);
+					break;
+				}
+			}
+		});
 
-    // Acceleration chart profile: true || "summary" || "disabled" || false
-    acceleration: false,
+		function setElevationTrace(index) {
+			let trace = traces[index];
 
-    // Slope chart profile: true || "summary" || "disabled" || false
-    slope: false,
+			controlElevation.clear();
 
-    // Speed chart profile: true || "summary" || "disabled" || false
-    speed: false,
+			// var q = document.querySelector.bind(document);
+			controlElevation.addData(trace.line);
 
-    // Altitude chart profile: true || "summary" || "disabled" || false
-    altitude: true,
+			map.fitBounds(trace.gpx.getBounds());
 
-    // Display time info: true || "summary" || false
-    time: true,
+			trace.gpx.setStyle({
+				color: 'blue',
+				weight: 4,
+				opacity: 0.8,
+			});
 
-    // Display distance info: true || "summary" || false
-    distance: true,
+			// q('.totlen .summaryvalue').innerHTML = (trace.gpx.get_distance() / 1000).toFixed(2) + " km";
+			// q('.maxele .summaryvalue').innerHTML = trace.gpx.get_elevation_max().toFixed(0) + " m";
+			// q('.minele .summaryvalue').innerHTML = trace.gpx.get_elevation_min().toFixed(0) + " m";
+		}
+	</script>
 
-    // Summary track info style: "inline" || "multiline" || false
-    summary: 'multiline',
 
-    // Download link: "link" || false || "modal"
-    downloadLink: 'link',
-
-    // Toggle chart ruler filter
-    ruler: true,
-
-    // Toggle chart legend filter
-    legend: true,
-
-    // Toggle "leaflet-almostover" integration
-    almostOver: true,
-
-    // Toggle "leaflet-distance-markers" integration
-    distanceMarkers: false,
-
-    // Toggle "leaflet-edgescale" integration
-    edgeScale: false,
-    
-    // Toggle "leaflet-hotline" integration
-    hotline: true,
-
-    // Display track datetimes: true || false
-    timestamps: false,
-
-    // Display track waypoints: true || "markers" || "dots" || false
-    waypoints: true,
-
-    // Toggle custom waypoint icons: true || { associative array of <sym> tags } || false
-    wptIcons: {
-      '': L.divIcon({
-        className: 'elevation-waypoint-marker',
-        html: '<i class="elevation-waypoint-icon"></i>',
-        iconSize: [30, 30],
-        iconAnchor: [8, 30],
-      }),
-    },
-
-    // Toggle waypoint labels: true || "markers" || "dots" || false
-    wptLabels: true,
-
-    // Render chart profiles as Canvas or SVG Paths
-    preferCanvas: true,
-
-  };
-
-  // Instantiate map (leaflet-ui).
-  var map = L.map('map', { mapTypeId: 'topo', center: [41.4583, 12.7059], zoom: 5 });
-
-  // Instantiate elevation control.
-  var controlElevation = L.control.elevation(elevation_options).addTo(map);
-
-  // Load track from url (allowed data types: "*.geojson", "*.gpx", "*.tcx")
-  controlElevation.load("https://siroccomeister.github.io/f3/assets/gpx/GDMBR3.gpx");
-
-  })
-</script>
+</body>
 
