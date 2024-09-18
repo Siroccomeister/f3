@@ -4,7 +4,7 @@
   <script src="https://cdn.maptiler.com/maptiler-elevation-profile-control/v2.0.0/maptiler-elevation-profile-control.js"></script>
   <style>
     body { margin: 0; padding: 0; }
-    #map { position: absolute; top: 0; bottom: 0; width: 100%; }
+    #map { height: 400px; width: 100%; }
   </style>
 
   <div id="map"></div>
@@ -36,6 +36,6 @@
       map.addControl(epc);
 
       // Add some data (from a URL or a MapTiler Data UUID)
-      epc.setData('YOUR_MAPTILER_DATASET_ID_HERE');
+      epc.setData('https://siroccomeister.github.io/f3/assets/gpx/GDMBR3.gpx');
     });
   </script>
