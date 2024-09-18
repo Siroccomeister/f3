@@ -1,4 +1,4 @@
-<style> html, body, #map, #elevation-div { height: 100%; width: 100%; padding: 0; margin: 0; } #map { height: 400px; } #elevation-div {	height: 100px; font: 12px/1.5 "Helvetica Neue", Arial, Helvetica, sans-serif; } </style>
+<style> html, body, #map, #elevation-div { height: 100px; width: 100%; padding: 0; margin: 0; } #map { height: 400px; } #elevation-div {	height: 100px; font: 12px/1.5 "Helvetica Neue", Arial, Helvetica, sans-serif; } </style>
 
  <!-- leaflet-ui -->
  <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
@@ -120,6 +120,6 @@
    var controlElevation = L.control.elevation(elevation_options).addTo(map);
 
    // Load track from url (allowed data types: "*.geojson", "*.gpx", "*.tcx")
-   controlElevation.load("https://raruto.github.io/leaflet-elevation/examples/via-emilia.gpx");
+   controlElevation.load("https://siroccomeister.github.io/f3/assets/gpx/GDMBR3.gpx");
 
  </script>
