@@ -8,9 +8,9 @@
   </style>
 
   <div id="map"></div>
-  
+
   <script>
-    maptilersdk.config.apiKey = 'YOUR_MAPTILER_API_KEY_HERE';
+    maptilersdk.config.apiKey = '9HxmjmyEjR5Q6nvrTzN3';
     const map = new maptilersdk.Map({
       container: 'map', // container's id or the HTML element in which the SDK will render the map
       style: maptilersdk.MapStyle.OUTDOOR,
@@ -20,7 +20,7 @@
 
     map.on('ready', () => {
       maptilersdk.helpers.addPolyline(map, {
-        data: 'YOUR_MAPTILER_DATASET_ID_HERE', //from a URL or a MapTiler Data UUID
+        data: 'https://siroccomeister.github.io/f3/assets/gpx/GDMBR3.gpx', //from a URL or a MapTiler Data UUID
         lineColor: '#66f',
         lineWidth: 4,
         outline: true,
