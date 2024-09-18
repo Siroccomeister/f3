@@ -49,10 +49,16 @@ body {
 document.addEventListener("DOMContentLoaded", function() {
 
 		let opts = {
+
 			map: {
 				center: [41.4583, 12.7059],
 				zoom: 5,
+        mapTypeId: 'topo',
+        locatecontrol: false,
+        searchcontrol: false,
+        minimapcontrol: false,
 				fullscreenControl: false,
+        layersControl: false,
 				resizerControl: true,
 				preferCanvas: true,
 				rotate: true,
@@ -61,6 +67,7 @@ document.addEventListener("DOMContentLoaded", function() {
 					closeOnZeroBearing: true
 				},
 			},
+
 			elevationControl: {
 				url: "https://siroccomeister.github.io/f3/assets/gpx/GDMBR3.gpx",
 				options: {
@@ -73,18 +80,20 @@ document.addEventListener("DOMContentLoaded", function() {
 					summary: "inline",
 					imperial: false,
 					// altitude: "disabled",
-					slope: "disabled",
+					slope: false,
 					speed: false,
 					acceleration: false,
 					time: "summary",
 					legend: true,
 					followMarker: true,
 					almostOver: true,
-					distanceMarkers: false,
+					distanceMarkers: true,
+          downloadlink: false,
 					hotline: false,
 				},
 			},
-			layersControl: {
+			
+      layersControl: {
 				options: {
 					collapsed: false,
 				},
