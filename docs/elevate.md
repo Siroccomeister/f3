@@ -15,9 +15,18 @@ glightbox: false
 <script src="https://unpkg.com/@raruto/leaflet-elevation@2.5.1/dist/leaflet-elevation.min.js"></script>
 </head>
 
+<style type="text/css">
+#map {
+    width: auto;
+    height: 400px;
+    margin: 0;
+}
+</style>
+
+
 <body>
 
-<div id="map" class="leaflet-map"></div>
+<div id="map"></div>
 
 <script>
 	let opts = {
