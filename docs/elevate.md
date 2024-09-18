@@ -45,6 +45,9 @@ body {
 <div id="map" class="leaflet-map"></div>
 
 <script>
+
+document.addEventListener("DOMContentLoaded", function() {
+
 		let opts = {
 			map: {
 				center: [41.4583, 12.7059],
@@ -96,54 +99,7 @@ let controlLayer = L.control.layers(null, null, opts.layersControl.options);
 controlElevation.load(opts.elevationControl.url);
 controlElevation.on('eledata_loaded', ({layer, name}) => controlLayer.addTo(map) && layer.eachLayer((trkseg) => trkseg.feature.geometry.type != "Point" && controlLayer.addOverlay(trkseg, trkseg.feature && trkseg.feature.properties && trkseg.feature.properties.name || name)));
 
+  })
 </script>
-
-<!-- i18n -->
-<script>
-
-		// Register a custom locale
-		L.registerLocale('en:18', {
-			"Acceleration"      : "Acceleration",
-			"Altitude"          : "Elevation",
-			"Slope"             : "Slope",
-			"Speed"             : "Velocity",
-			"Total Length: "    : "L: ",
-			"Max Elevation: "   : "E Max: ",
-			"Min Elevation: "   : "E Min: ",
-			"Avg Elevation: "   : "E Avg: ",
-			"Total Time: "      : "T: ",
-			"Total Ascent: "    : "Asc: ",
-			"Total Descent: "   : "Desc: ",
-			"Min Slope: "       : "S Min: ",
-			"Max Slope: "       : "S Max: ",
-			"Avg Slope: "       : "S Avg: ",
-			"Min Speed: "       : "V Min: ",
-			"Max Speed: "       : "V Max: ",
-			"Avg Speed: "       : "V Avg: ",
-			"Min Acceleration: ": "A Min: ",
-			"Max Acceleration: ": "A Max: ",
-			"Avg Acceleration: ": "A Avg: ",
-		});
-
-		// Enable a custom locale
-		// L.setLocale('en:18');
-
-		// You can also override a previously defined object
-		L.locales['en'] = L.extend({
-			"y: "               : "",
-			"x: "               : "",
-			"t: "               : "",
-			"T: "               : "",
-			"m: "               : "",
-			"v: "               : "",
-			"a: "               : "",
-		}, L.locales['en']);
-
-		// Switch the language
-		L.setLocale('en');
-
-	</script>
-
 </body>
-
 </html>
