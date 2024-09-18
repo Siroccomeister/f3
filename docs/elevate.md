@@ -66,10 +66,10 @@
      distance: true,
 
      // Summary track info style: "inline" || "multiline" || false
-     summary: 'multiline',
+     summary: 'inline',
 
      // Download link: "link" || false || "modal"
-     downloadLink: 'link',
+     downloadLink: false,
 
      // Toggle chart ruler filter
      ruler: true,
@@ -114,7 +114,7 @@
    };
 
    // Instantiate map (leaflet-ui).
-   var map = L.map('map', { mapTypeId: 'terrain', center: [41.4583, 12.7059], zoom: 5 });
+   var map = L.map('map', { mapTypeId: 'topo', center: [41.4583, 12.7059], zoom: 5 });
 
    // Instantiate elevation control.
    var controlElevation = L.control.elevation(elevation_options).addTo(map);
