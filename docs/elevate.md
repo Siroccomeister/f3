@@ -55,7 +55,7 @@ body {
 				},
 			},
 			elevationControl: {
-				url: "https://raruto.github.io/leaflet-elevation/examples/via-emilia.gpx",
+				url: "https://siroccomeister.github.io/f3/assets/gpx/GDMBR3.gpx",
 				options: {
 					theme: "lightblue-theme",
 					collapsed: false,
@@ -89,9 +89,9 @@ let map = L.map('map', opts.map);
 let controlElevation = L.control.elevation(opts.elevationControl.options).addTo(map);
 let controlLayer = L.control.layers(null, null, opts.layersControl.options);
 
+controlElevation.load(opts.elevationControl.url);
 controlElevation.on('eledata_loaded', ({layer, name}) => controlLayer.addTo(map) && layer.eachLayer((trkseg) => trkseg.feature.geometry.type != "Point" && controlLayer.addOverlay(trkseg, trkseg.feature && trkseg.feature.properties && trkseg.feature.properties.name || name)));
 
-controlElevation.load(opts.elevationControl.url);
 </script>
 
 <!-- i18n -->
@@ -139,8 +139,6 @@ controlElevation.load(opts.elevationControl.url);
 		L.setLocale('en');
 
 	</script>
-
-<a href="https://github.com/Raruto/leaflet-elevation" class="view-on-github" style="position: fixed;top: 30px;left: calc(50% - 81px);z-index: 9999;"> <img alt="View on Github" src="https://raruto.github.io/img/view-on-github.png" title="View on Github" width="163"> </a>
 
 </body>
 
