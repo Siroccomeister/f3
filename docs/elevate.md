@@ -58,6 +58,8 @@ document.addEventListener("DOMContentLoaded", function() {
         searchcontrol: false,
         minimapcontrol: false,
 				fullscreenControl: false,
+        editInOSMControl: false,
+        pegmanControl: false,
         layersControl: false,
 				resizerControl: true,
 				preferCanvas: true,
@@ -72,7 +74,8 @@ document.addEventListener("DOMContentLoaded", function() {
 				url: "https://siroccomeister.github.io/f3/assets/gpx/GDMBR3.gpx",
 				options: {
 					theme: "lightblue-theme",
-					collapsed: false,
+          height: 150,
+					collapsed: true,
 					autohide: false,
 					autofitBounds: true,
 					position: "bottomleft",
