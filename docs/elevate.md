@@ -1,4 +1,4 @@
-<style> html, body, #map, #elevation-div { height: 100%; width: 100%; padding: 0; margin: 0; } #map { height: 75%; } #elevation-div {	height: 25%; font: 12px/1.5 "Helvetica Neue", Arial, Helvetica, sans-serif; } </style>
+<style> html, body, #map, #elevation-div { height: 100%; width: 100%; padding: 0; margin: 0; } #map { height: 400px; } #elevation-div {	height: 100px; font: 12px/1.5 "Helvetica Neue", Arial, Helvetica, sans-serif; } </style>
 
  <!-- leaflet-ui -->
  <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
@@ -8,7 +8,7 @@
  <link rel="stylesheet" href="https://unpkg.com/@raruto/leaflet-elevation/dist/leaflet-elevation.css" />
  <script src="https://unpkg.com/@raruto/leaflet-elevation/dist/leaflet-elevation.js"></script>
  
-  <div id="map"></div>
+<div id="map"></div>
 
 <script>
    // Full list options at "leaflet-elevation.js"
