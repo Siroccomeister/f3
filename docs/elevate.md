@@ -18,7 +18,7 @@ glightbox: false
 <style type="text/css">
 #map {
     width: auto;
-    height: 400px;
+    height: 600px;
     margin: 0;
 }
 </style>
@@ -50,11 +50,11 @@ glightbox: false
 			elevationControl: {
 				tracks: {
 					track_1: {
-						url: "https://raruto.github.io/leaflet-elevation/examples/via-emilia.gpx",
+						url: "https://siroccomeister.github.io/f3/assets/gpx/GDMBR3.gpx",
 						color: "#3490dc"
 					},
 					track_2: {
-						url: "https://raruto.github.io/leaflet-elevation/examples/via-aurelia.gpx",
+						url: "https://siroccomeister.github.io/f3/assets/gpx/GDMBR3.gpx",
 						color: "#f6993f"
 					},
 				},
@@ -63,7 +63,7 @@ glightbox: false
 					theme: "steelblue-theme",
 					marker: 'elevation-line',
 					collapsed: false,
-					detached: false,
+					detached: true,
 					legend: false,
 					edgeScale: false,
 				},
