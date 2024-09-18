@@ -18,9 +18,11 @@ glightbox: false
 <style type="text/css">
 #map {
     width: auto;
-    height: 600px;
+    height: 400px;
     margin: 0;
 }
+
+#elevation-div { height: 100px; width: auto; padding: 0; margin: 0; }
 </style>
 
 
