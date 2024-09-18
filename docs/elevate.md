@@ -22,7 +22,7 @@ glightbox: false
     margin: 0;
 }
 
-#elevation-div { height: 100px; width: auto; padding: 0; margin: 0; }
+#elevation-div { height: 25%; width: auto; padding: 0; margin: 0; }
 </style>
 
 
@@ -152,7 +152,7 @@ glightbox: false
 			map.fitBounds(trace.gpx.getBounds());
 
 			trace.gpx.setStyle({
-				color: 'blue',
+				color: 'red',
 				weight: 4,
 				opacity: 0.8,
 			});
