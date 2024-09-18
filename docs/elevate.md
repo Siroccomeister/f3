@@ -14,7 +14,7 @@
 html,
 body,
 .leaflet-map {
-    height: 100%;
+    height: 600px;
     width: 100%;
     padding: 0px;
     margin: 0px;
@@ -84,15 +84,15 @@ body {
 			},
 		};
 
-		let map = L.map('map', opts.map);
+let map = L.map('map', opts.map);
 
-		let controlElevation = L.control.elevation(opts.elevationControl.options).addTo(map);
-		let controlLayer = L.control.layers(null, null, opts.layersControl.options);
+let controlElevation = L.control.elevation(opts.elevationControl.options).addTo(map);
+let controlLayer = L.control.layers(null, null, opts.layersControl.options);
 
-		controlElevation.on('eledata_loaded', ({layer, name}) => controlLayer.addTo(map) && layer.eachLayer((trkseg) => trkseg.feature.geometry.type != "Point" && controlLayer.addOverlay(trkseg, trkseg.feature && trkseg.feature.properties && trkseg.feature.properties.name || name)));
+controlElevation.on('eledata_loaded', ({layer, name}) => controlLayer.addTo(map) && layer.eachLayer((trkseg) => trkseg.feature.geometry.type != "Point" && controlLayer.addOverlay(trkseg, trkseg.feature && trkseg.feature.properties && trkseg.feature.properties.name || name)));
 
-		controlElevation.load(opts.elevationControl.url);
-	</script>
+controlElevation.load(opts.elevationControl.url);
+</script>
 
 <!-- i18n -->
 <script>
