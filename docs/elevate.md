@@ -19,6 +19,13 @@ glightbox: false
 #map { width: auto; height: 400px; margin: 0; }
 </style>
 
+<style> html, body {
+    display: flex;
+    flex-direction: column;
+};
+</style>
+
+
 <body>
 
 <div id="map"></div>
