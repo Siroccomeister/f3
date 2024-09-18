@@ -15,14 +15,10 @@ glightbox: false
 <script src="https://unpkg.com/@raruto/leaflet-elevation@2.5.1/dist/leaflet-elevation.min.js"></script>
 </head>
 
-<style type="text/css">
-#map {
-    width: auto;
-    height: 400px;
-    margin: 0;
-}
 
-#elevation-div { height: 25%; width: auto; padding: 0; margin: 0; }
+<style type="text/css">
+#map { width: auto; height: 400px; margin: 0; }
+#elevation-div { height: 100px; width: auto; padding: 0; margin: 0; }
 </style>
 
 
@@ -55,15 +51,12 @@ glightbox: false
 						url: "https://siroccomeister.github.io/f3/assets/gpx/GDMBR3.gpx",
 						color: "#3490dc"
 					},
-					track_2: {
-						url: "https://siroccomeister.github.io/f3/assets/gpx/GDMBR3.gpx",
-						color: "#f6993f"
-					},
 				},
 				options: {
 					position: "bottomleft",
 					theme: "steelblue-theme",
 					marker: 'elevation-line',
+          summary: 'inline',
 					collapsed: false,
 					detached: true,
 					legend: false,
