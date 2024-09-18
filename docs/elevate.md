@@ -18,7 +18,7 @@
      theme: "lightblue-theme",
 
      // Chart container outside/inside map container
-     detached: true,
+     detached: false,
 
      // if (detached), the elevation chart container
      elevationDiv: "#elevation-div",
