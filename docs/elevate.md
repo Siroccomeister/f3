@@ -21,6 +21,9 @@ glightbox: false
 </body>
 
 <script>
+
+    document.addEventListener("DOMContentLoaded", function() {
+
   // Full list options at "leaflet-elevation.js"
   var elevation_options = {
 
@@ -132,5 +135,6 @@ glightbox: false
   // Load track from url (allowed data types: "*.geojson", "*.gpx", "*.tcx")
   controlElevation.load("https://siroccomeister.github.io/f3/assets/gpx/GDMBR3.gpx");
 
+  })
 </script>
 
