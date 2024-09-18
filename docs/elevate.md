@@ -1,144 +1,147 @@
-<style> html, body, #map, #elevation-div { height: 100px; width: 100%; padding: 0; margin: 0; } #map { height: 400px; } #elevation-div {	height: 100px; font: 12px/1.5 "Helvetica Neue", Arial, Helvetica, sans-serif; } </style>
+<!DOCTYPE html>
+<html>
 
- <!-- leaflet-ui -->
- <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
- <script src="https://unpkg.com/leaflet-ui@0.6.0/dist/leaflet-ui.js"></script>
+<head>
+	<title>leaflet-elevation.js</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+	<link rel="dns-prefetch" href="https://tile.openstreetmap.org">
+	<link rel="dns-prefetch preconnect" href="https://unpkg.com" />
+	<link rel="preload" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js" as="script">
+	<link rel="preload" href="https://unpkg.com/leaflet-ui@0.6.0/dist/leaflet-ui.js" as="script">
+	
+<style>
+html,
+body,
+.leaflet-map {
+    height: 100%;
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+}
 
- <!-- leaflet-elevation -->
- <link rel="stylesheet" href="https://unpkg.com/@raruto/leaflet-elevation/dist/leaflet-elevation.css" />
- <script src="https://unpkg.com/@raruto/leaflet-elevation/dist/leaflet-elevation.js"></script>
- 
-<div id="map"></div>
+body {
+    display: flex;
+    flex-direction: column;
+};
+</style>
+
+<!-- leaflet-ui -->
+<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+<script src="https://unpkg.com/leaflet-ui@0.6.0/dist/leaflet-ui.js"></script>
+
+<!-- leaflet-elevation -->
+<link rel="stylesheet" href="https://unpkg.com/@raruto/leaflet-elevation@2.5.1/dist/leaflet-elevation.min.css" />
+<script src="https://unpkg.com/@raruto/leaflet-elevation@2.5.1/dist/leaflet-elevation.min.js"></script>
+
+</head>
+
+<body>
+
+<div id="map" class="leaflet-map"></div>
 
 <script>
-   // Full list options at "leaflet-elevation.js"
-   var elevation_options = {
+		let opts = {
+			map: {
+				center: [41.4583, 12.7059],
+				zoom: 5,
+				fullscreenControl: false,
+				resizerControl: true,
+				preferCanvas: true,
+				rotate: true,
+				// bearing: 45,
+				rotateControl: {
+					closeOnZeroBearing: true
+				},
+			},
+			elevationControl: {
+				url: "https://raruto.github.io/leaflet-elevation/examples/via-emilia.gpx",
+				options: {
+					theme: "lightblue-theme",
+					collapsed: false,
+					autohide: false,
+					autofitBounds: true,
+					position: "bottomleft",
+					detached: true,
+					summary: "inline",
+					imperial: false,
+					// altitude: "disabled",
+					slope: "disabled",
+					speed: false,
+					acceleration: false,
+					time: "summary",
+					legend: true,
+					followMarker: true,
+					almostOver: true,
+					distanceMarkers: false,
+					hotline: false,
+				},
+			},
+			layersControl: {
+				options: {
+					collapsed: false,
+				},
+			},
+		};
 
-     // Default chart colors: theme lime-theme, magenta-theme, ...
-     theme: "lightblue-theme",
+		let map = L.map('map', opts.map);
 
-     // Chart container outside/inside map container
-     detached: false,
+		let controlElevation = L.control.elevation(opts.elevationControl.options).addTo(map);
+		let controlLayer = L.control.layers(null, null, opts.layersControl.options);
 
-     // if (detached), the elevation chart container
-     elevationDiv: "#elevation-div",
+		controlElevation.on('eledata_loaded', ({layer, name}) => controlLayer.addTo(map) && layer.eachLayer((trkseg) => trkseg.feature.geometry.type != "Point" && controlLayer.addOverlay(trkseg, trkseg.feature && trkseg.feature.properties && trkseg.feature.properties.name || name)));
 
-     // if (!detached) autohide chart profile on chart mouseleave
-     autohide: false,
+		controlElevation.load(opts.elevationControl.url);
+	</script>
 
-     // if (!detached) initial state of chart profile control
-     collapsed: false,
-        
-     // if (!detached) control position on one of map corners
-     position: "topright",
-        
-     // Toggle close icon visibility
-     closeBtn: true,
+<!-- i18n -->
+<script>
 
-     // Autoupdate map center on chart mouseover.
-     followMarker: true,
+		// Register a custom locale
+		L.registerLocale('en:18', {
+			"Acceleration"      : "Acceleration",
+			"Altitude"          : "Elevation",
+			"Slope"             : "Slope",
+			"Speed"             : "Velocity",
+			"Total Length: "    : "L: ",
+			"Max Elevation: "   : "E Max: ",
+			"Min Elevation: "   : "E Min: ",
+			"Avg Elevation: "   : "E Avg: ",
+			"Total Time: "      : "T: ",
+			"Total Ascent: "    : "Asc: ",
+			"Total Descent: "   : "Desc: ",
+			"Min Slope: "       : "S Min: ",
+			"Max Slope: "       : "S Max: ",
+			"Avg Slope: "       : "S Avg: ",
+			"Min Speed: "       : "V Min: ",
+			"Max Speed: "       : "V Max: ",
+			"Avg Speed: "       : "V Avg: ",
+			"Min Acceleration: ": "A Min: ",
+			"Max Acceleration: ": "A Max: ",
+			"Avg Acceleration: ": "A Avg: ",
+		});
 
-     // Autoupdate map bounds on chart update.
-     autofitBounds: true,
+		// Enable a custom locale
+		// L.setLocale('en:18');
 
-     // Chart distance/elevation units.
-     imperial: false,
+		// You can also override a previously defined object
+		L.locales['en'] = L.extend({
+			"y: "               : "",
+			"x: "               : "",
+			"t: "               : "",
+			"T: "               : "",
+			"m: "               : "",
+			"v: "               : "",
+			"a: "               : "",
+		}, L.locales['en']);
 
-     // [Lat, Long] vs [Long, Lat] points. (leaflet default: [Lat, Long])
-     reverseCoords: false,
+		// Switch the language
+		L.setLocale('en');
 
-     // Acceleration chart profile: true || "summary" || "disabled" || false
-     acceleration: false,
+	</script>
 
-     // Slope chart profile: true || "summary" || "disabled" || false
-     slope: true,
+<a href="https://github.com/Raruto/leaflet-elevation" class="view-on-github" style="position: fixed;top: 30px;left: calc(50% - 81px);z-index: 9999;"> <img alt="View on Github" src="https://raruto.github.io/img/view-on-github.png" title="View on Github" width="163"> </a>
 
-     // Speed chart profile: true || "summary" || "disabled" || false
-     speed: false,
+</body>
 
-     // Altitude chart profile: true || "summary" || "disabled" || false
-     altitude: true,
-
-     // Display time info: true || "summary" || false
-     time: true,
-
-     // Display distance info: true || "summary" || false
-     distance: true,
-
-     // Summary track info style: "inline" || "multiline" || false
-     summary: 'inline',
-
-     // Download link: "link" || false || "modal"
-     downloadLink: false,
-
-     // Toggle chart ruler filter
-     ruler: true,
-
-     // Toggle chart legend filter
-     legend: true,
-
-     // Toggle "leaflet-almostover" integration
-     almostOver: true,
-
-     // Toggle "leaflet-distance-markers" integration
-     distanceMarkers: false,
-
-     // Toggle "leaflet-edgescale" integration
-     edgeScale: false,
-        
-     // Toggle "leaflet-hotline" integration
-     hotline: true,
-
-     // Display track datetimes: true || false
-     timestamps: false,
-
-     // Display track waypoints: true || "markers" || "dots" || false
-     waypoints: true,
-
-     // Toggle custom waypoint icons: true || { associative array of <sym> tags } || false
-     wptIcons: {
-       '': L.divIcon({
-         className: 'elevation-waypoint-marker',
-         html: '<i class="elevation-waypoint-icon"></i>',
-         iconSize: [30, 30],
-         iconAnchor: [8, 30],
-       }),
-     },
-
-     // Toggle waypoint labels: true || "markers" || "dots" || false
-     wptLabels: true,
-
-     // Render chart profiles as Canvas or SVG Paths
-     preferCanvas: true,
-
-   };
-
-   // Instantiate map (leaflet-ui).
-   var map = L.map('map', { 
-    mapTypeId: 'topo', 
-    center: [41.4583, 12.7059], 
-    zoom: 5 
-    // Optional customizations
-    // mapTypeIds: ['streets', 'terrain', 'satellite', 'topo'],
-    // gestureHandling: false,
-    // zoomControl: true,
-    // pegmanControl: false,
-    // locateControl: false,
-    // fullscreenControl: false,
-    // layersControl: false,
-    // minimapControl: false,
-    // editInOSMControl: false,
-    // loadingControl: true,
-    // searchControl: false,
-    //disableDefaultUI: false,
-    // Experimental feature
-    // rotate: false,
-    });
-
-   // Instantiate elevation control.
-   var controlElevation = L.control.elevation(elevation_options).addTo(map);
-
-   // Load track from url (allowed data types: "*.geojson", "*.gpx", "*.tcx")
-   controlElevation.load("https://siroccomeister.github.io/f3/assets/gpx/GDMBR3.gpx");
-
- </script>
+</html>
