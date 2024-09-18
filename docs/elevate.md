@@ -1,125 +1,41 @@
-<style> html, body, #map, #elevation-div { height: 100px; width: 100%; padding: 0; margin: 0; } #map { height: 400px; } #elevation-div {	height: 100px; font: 12px/1.5 "Helvetica Neue", Arial, Helvetica, sans-serif; } </style>
 
- <!-- leaflet-ui -->
- <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
- <script src="https://unpkg.com/leaflet-ui@0.6.0/dist/leaflet-ui.js"></script>
+  <script src="https://cdn.maptiler.com/maptiler-sdk-js/v2.2.2/maptiler-sdk.umd.js"></script>
+  <link href="https://cdn.maptiler.com/maptiler-sdk-js/v2.2.2/maptiler-sdk.css" rel="stylesheet" />
+  <script src="https://cdn.maptiler.com/maptiler-elevation-profile-control/v2.0.0/maptiler-elevation-profile-control.js"></script>
+  <style>
+    body { margin: 0; padding: 0; }
+    #map { position: absolute; top: 0; bottom: 0; width: 100%; }
+  </style>
 
- <!-- leaflet-elevation -->
- <link rel="stylesheet" href="https://unpkg.com/@raruto/leaflet-elevation/dist/leaflet-elevation.css" />
- <script src="https://unpkg.com/@raruto/leaflet-elevation/dist/leaflet-elevation.js"></script>
- 
-<div id="map"></div>
+  <div id="map"></div>
+  
+  <script>
+    maptilersdk.config.apiKey = 'YOUR_MAPTILER_API_KEY_HERE';
+    const map = new maptilersdk.Map({
+      container: 'map', // container's id or the HTML element in which the SDK will render the map
+      style: maptilersdk.MapStyle.OUTDOOR,
+      center: [0.57705, 42.68311], // starting position [lng, lat]
+      zoom: 12.22, // starting zoom
+    });
 
-<script>
-   // Full list options at "leaflet-elevation.js"
-   var elevation_options = {
+    map.on('ready', () => {
+      maptilersdk.helpers.addPolyline(map, {
+        data: 'YOUR_MAPTILER_DATASET_ID_HERE', //from a URL or a MapTiler Data UUID
+        lineColor: '#66f',
+        lineWidth: 4,
+        outline: true,
+        outlineWidth: 2
+      });
 
-     // Default chart colors: theme lime-theme, magenta-theme, ...
-     theme: "lightblue-theme",
+      // Create an instance
+      const epc = new maptilerelevationprofilecontrol.ElevationProfileControl({
+        visible: true
+      });
 
-     // Chart container outside/inside map container
-     detached: true,
+      // Add it to your map
+      map.addControl(epc);
 
-     // if (detached), the elevation chart container
-     elevationDiv: "#elevation-div",
-
-     // if (!detached) autohide chart profile on chart mouseleave
-     autohide: false,
-
-     // if (!detached) initial state of chart profile control
-     collapsed: false,
-        
-     // if (!detached) control position on one of map corners
-     position: "topright",
-        
-     // Toggle close icon visibility
-     closeBtn: true,
-
-     // Autoupdate map center on chart mouseover.
-     followMarker: true,
-
-     // Autoupdate map bounds on chart update.
-     autofitBounds: true,
-
-     // Chart distance/elevation units.
-     imperial: false,
-
-     // [Lat, Long] vs [Long, Lat] points. (leaflet default: [Lat, Long])
-     reverseCoords: false,
-
-     // Acceleration chart profile: true || "summary" || "disabled" || false
-     acceleration: false,
-
-     // Slope chart profile: true || "summary" || "disabled" || false
-     slope: false,
-
-     // Speed chart profile: true || "summary" || "disabled" || false
-     speed: false,
-
-     // Altitude chart profile: true || "summary" || "disabled" || false
-     altitude: true,
-
-     // Display time info: true || "summary" || false
-     time: true,
-
-     // Display distance info: true || "summary" || false
-     distance: true,
-
-     // Summary track info style: "inline" || "multiline" || false
-     summary: 'inline',
-
-     // Download link: "link" || false || "modal"
-     downloadLink: false,
-
-     // Toggle chart ruler filter
-     ruler: true,
-
-     // Toggle chart legend filter
-     legend: true,
-
-     // Toggle "leaflet-almostover" integration
-     almostOver: true,
-
-     // Toggle "leaflet-distance-markers" integration
-     distanceMarkers: false,
-
-     // Toggle "leaflet-edgescale" integration
-     edgeScale: false,
-        
-     // Toggle "leaflet-hotline" integration
-     hotline: true,
-
-     // Display track datetimes: true || false
-     timestamps: false,
-
-     // Display track waypoints: true || "markers" || "dots" || false
-     waypoints: true,
-
-     // Toggle custom waypoint icons: true || { associative array of <sym> tags } || false
-     wptIcons: {
-       '': L.divIcon({
-         className: 'elevation-waypoint-marker',
-         html: '<i class="elevation-waypoint-icon"></i>',
-         iconSize: [30, 30],
-         iconAnchor: [8, 30],
-       }),
-     },
-
-     // Toggle waypoint labels: true || "markers" || "dots" || false
-     wptLabels: true,
-
-     // Render chart profiles as Canvas or SVG Paths
-     preferCanvas: true,
-
-   };
-
-   // Instantiate map (leaflet-ui).
-   var map = L.map('map', { mapTypeId: 'topo', center: [41.4583, 12.7059], zoom: 5 });
-
-   // Instantiate elevation control.
-   var controlElevation = L.control.elevation(elevation_options).addTo(map);
-
-   // Load track from url (allowed data types: "*.geojson", "*.gpx", "*.tcx")
-   controlElevation.load("https://siroccomeister.github.io/f3/assets/gpx/GDMBR3.gpx");
-
- </script>
+      // Add some data (from a URL or a MapTiler Data UUID)
+      epc.setData('YOUR_MAPTILER_DATASET_ID_HERE');
+    });
+  </script>
