@@ -18,7 +18,7 @@ glightbox: false
 html,
 body,
 .leaflet-map {
-    height: 600px;
+    height: 400px;
     width: 100%;
     padding: 0px;
     margin: 0px;
@@ -75,6 +75,7 @@ document.addEventListener("DOMContentLoaded", function() {
 				options: {
 					theme: "lightblue-theme",
           height: 150,
+          dragging: false,
 					collapsed: true,
 					autohide: false,
 					autofitBounds: true,
@@ -91,7 +92,7 @@ document.addEventListener("DOMContentLoaded", function() {
 					followMarker: true,
 					almostOver: true,
 					distanceMarkers: true,
-          downloadlink: false,
+          downloadLink: false,
 					hotline: false,
 				},
 			},
