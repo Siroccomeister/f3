@@ -76,4 +76,51 @@ glightbox: false
 
 		controlElevation.load(opts.elevationControl.url);
 </script>
+
+<!-- i18n -->
+	<script>
+
+		// Register a custom locale
+		L.registerLocale('en:18', {
+			"Acceleration"      : "Acceleration",
+			"Altitude"          : "Elevation",
+			"Slope"             : "Slope",
+			"Speed"             : "Velocity",
+			"Total Length: "    : "L: ",
+			"Max Elevation: "   : "E Max: ",
+			"Min Elevation: "   : "E Min: ",
+			"Avg Elevation: "   : "E Avg: ",
+			"Total Time: "      : "T: ",
+			"Total Ascent: "    : "Asc: ",
+			"Total Descent: "   : "Desc: ",
+			"Min Slope: "       : "S Min: ",
+			"Max Slope: "       : "S Max: ",
+			"Avg Slope: "       : "S Avg: ",
+			"Min Speed: "       : "V Min: ",
+			"Max Speed: "       : "V Max: ",
+			"Avg Speed: "       : "V Avg: ",
+			"Min Acceleration: ": "A Min: ",
+			"Max Acceleration: ": "A Max: ",
+			"Avg Acceleration: ": "A Avg: ",
+		});
+
+		// Enable a custom locale
+		// L.setLocale('en:18');
+
+		// You can also override a previously defined object
+		L.locales['en'] = L.extend({
+			"y: "               : "",
+			"x: "               : "",
+			"t: "               : "",
+			"T: "               : "",
+			"m: "               : "",
+			"v: "               : "",
+			"a: "               : "",
+		}, L.locales['en']);
+
+		// Switch the language
+		L.setLocale('en');
+
+	</script>
+
 </body>
