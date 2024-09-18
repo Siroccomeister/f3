@@ -130,7 +130,7 @@ glightbox: false
   var controlElevation = L.control.elevation(elevation_options).addTo(map);
 
   // Load track from url (allowed data types: "*.geojson", "*.gpx", "*.tcx")
-  controlElevation.load("https://raruto.github.io/leaflet-elevation/examples/via-emilia.gpx");
+  controlElevation.load("https://siroccomeister.github.io/f3/assets/gpx/GDMBR3.gpx");
 
 </script>
 
