@@ -7,7 +7,7 @@ glightbox: false
 <style> html, body, #map, #elevation-div { height: 100%; width: 100%; padding: 0; margin: 0; } #map { height: 75%; } #elevation-div {	height: 25%; font: 12px/1.5 "Helvetica Neue", Arial, Helvetica, sans-serif; } </style>
 
 <!-- leaflet-ui -->
-<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script src="https://unpkg.com/leaflet-ui@0.6.0/dist/leaflet-ui.js"></script>
 
 <!-- leaflet-elevation -->
@@ -16,9 +16,7 @@ glightbox: false
 
 </head>
 
-<body>
 <div id="map"></div>
-</body>
 
 <script>
 
