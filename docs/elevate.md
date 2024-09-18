@@ -120,19 +120,19 @@
     zoom: 5 
     // Optional customizations
     // mapTypeIds: ['streets', 'terrain', 'satellite', 'topo'],
-    gestureHandling: false,
-    zoomControl: true,
-    pegmanControl: false,
-    locateControl: false,
-    fullscreenControl: false,
-    layersControl: false,
-    minimapControl: false,
-    editInOSMControl: false,
-    loadingControl: true,
-    searchControl: false,
-    disableDefaultUI: false,
+    // gestureHandling: false,
+    // zoomControl: true,
+    // pegmanControl: false,
+    // locateControl: false,
+    // fullscreenControl: false,
+    // layersControl: false,
+    // minimapControl: false,
+    // editInOSMControl: false,
+    // loadingControl: true,
+    // searchControl: false,
+    //disableDefaultUI: false,
     // Experimental feature
-    rotate: false,
+    // rotate: false,
     });
 
    // Instantiate elevation control.
