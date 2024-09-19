@@ -20,17 +20,17 @@ let opts = {
       center: [51.1784, -115.5708], // should be set to BANF
       zoom: 5,
       mapTypeId: 'topo',
-      mapTypes: {
-        topo: { // <-- OVERRIDE A DEFAULT MAPTYPE ID
-          name: "OUTDOOR",
-          url: 'https://{s}.tile.thunderforest.com/cycle/{z}/{x}/{y}.png?apikey={apikey}',
-          options: {
-            apikey: '558e217e87f944b7930836fdfca6ccb8', // <-- CHANGE IT WITH YOUR IGN API KEY
-            maxZoom: 22,
-            attribution: '&copy; <a href="http://www.thunderforest.com/">Thunderforest</a>, &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
-            },
-          }
-        }  
+//      mapTypes: {
+//        topo: { // <-- OVERRIDE A DEFAULT MAPTYPE ID
+//          name: "OUTDOOR",
+//          url: 'https://{s}.tile.thunderforest.com/cycle/{z}/{x}/{y}.png?apikey={apikey}',
+//          options: {
+//            apikey: '558e217e87f944b7930836fdfca6ccb8', // <-- CHANGE IT WITH YOUR IGN API KEY
+//            maxZoom: 22,
+//            attribution: '&copy; <a href="http://www.thunderforest.com/">Thunderforest</a>, &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+//            },
+//          }
+//        }  
       dragging: true,
       locateControl: false,
       searchControl: false,
