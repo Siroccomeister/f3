@@ -40,7 +40,7 @@ let opts = {
     options: {
         theme: "lightblue-theme",
         height: 150,
-        dragging: true,
+        dragging: L.Browser.mobile,
         collapsed: true,
         autohide: false,
         autofitBounds: true,
