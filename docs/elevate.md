@@ -23,9 +23,9 @@ let opts = {
       mapTypes: {
         topo: { // <-- OVERRIDE A DEFAULT MAPTYPE ID
           name: "OUTDOOR",
-          url: 'https://tile.thunderforest.com/outdoors/{z}/{x}/{y}.png',
+          url: 'https://{s}.tile.thunderforest.com/cycle/{z}/{x}/{y}.png?apikey={apikey}',
           options: {
-            apiKey: '558e217e87f944b7930836fdfca6ccb8', // <-- CHANGE IT WITH YOUR IGN API KEY
+            apikey: '558e217e87f944b7930836fdfca6ccb8', // <-- CHANGE IT WITH YOUR IGN API KEY
             maxZoom: 22,
             attribution: '&copy; <a href="http://www.thunderforest.com/">Thunderforest</a>, &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
             },
