@@ -17,7 +17,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
 let opts = {
    map: {
-      center: [41.4583, 12.7059], // should be set to BANF
+      center: [51.1784, -115.5708], // should be set to BANF
       zoom: 5,
       mapTypeId: 'topo',
       mapTypes: {
@@ -26,10 +26,8 @@ let opts = {
           url: 'https://tile.thunderforest.com/outdoors/{z}/{x}/{y}.png',
           options: {
             apiKey: '558e217e87f944b7930836fdfca6ccb8', // <-- CHANGE IT WITH YOUR IGN API KEY
-            //layer: 'GEOGRAPHICALGRIDSYSTEMS.MAPS',
-            minZoom: 0,
-            maxZoom: 24,
-            maxNativeZoom: 18,
+            maxZoom: 22,
+            attribution: '&copy; <a href="http://www.thunderforest.com/">Thunderforest</a>, &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
             },
           }
         }  
