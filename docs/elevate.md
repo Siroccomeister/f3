@@ -1,7 +1,15 @@
 ---
 glightbox: false
 ---
-<style> #map { height: 400px; width: 100%; padding: 0px; margin: 0px; } </style>
+
+<style>
+#map {
+    width: auto;
+    height: 400px;
+    margin: 0;
+}
+</style>
+
 <div id="map"></div>
 
 <script>
@@ -68,5 +76,5 @@ let controlLayer = L.control.layers(null, null, opts.layersControl.options);
 controlElevation.load(opts.elevationControl.url);
 controlElevation.on('eledata_loaded', ({layer, name}) => controlLayer.addTo(map) && layer.eachLayer((trkseg) => trkseg.feature.geometry.type != "Point" && controlLayer.addOverlay(trkseg, trkseg.feature && trkseg.feature.properties && trkseg.feature.properties.name || name)));
 
-  })
+})
 </script>
