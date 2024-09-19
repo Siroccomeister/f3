@@ -18,7 +18,7 @@ document.addEventListener("DOMContentLoaded", function() {
 let opts = {
    map: {
       center: [51.1784, -115.5708], // should be set to BANF
-      zoom: 5,
+      zoom: 10,
       mapTypeId: 'topo',
 //      mapTypes: {
 //        topo: { // <-- OVERRIDE A DEFAULT MAPTYPE ID
