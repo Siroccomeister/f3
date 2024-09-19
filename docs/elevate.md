@@ -32,6 +32,7 @@ let opts = {
             maxNativeZoom: 18,
             },
           }
+        }  
       dragging: true,
       locateControl: false,
       searchControl: false,
