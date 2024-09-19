@@ -2,14 +2,14 @@
 glightbox: false
 ---
 
-<style>
-#map {
-    width: auto;
-    height: 400px;
-    margin: 0;
-}
-</style>
+<!-- leaflet-ui -->
+<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+<script src="https://unpkg.com/leaflet-ui@0.6.0/dist/leaflet-ui.js"></script>
+<!-- leaflet-elevation -->
+<link rel="stylesheet" href="https://unpkg.com/@raruto/leaflet-elevation@2.5.1/dist/leaflet-elevation.min.css" />
+<script src="https://unpkg.com/@raruto/leaflet-elevation@2.5.1/dist/leaflet-elevation.min.js"></script>
 
+<style> #map { width: auto; height: 400px; margin: 0;} </style>
 <div id="map"></div>
 
 <script>
