@@ -20,6 +20,7 @@ let opts = {
       center: [41.4583, 12.7059],
       zoom: 5,
       mapTypeId: 'topo',
+      dragging: L.Browser.mobile,
       locateControl: false,
       searchControl: false,
       minimapControl: false,
