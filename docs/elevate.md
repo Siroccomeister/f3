@@ -23,15 +23,13 @@ let opts = {
       mapTypes: {
         topo: { // <-- OVERRIDE A DEFAULT MAPTYPE ID
           name: "OUTDOOR",
-          url: 'https://tile.thunderforest.com/outdoors/{z}/{x}/{y}.png?apikey=558e217e87f944b7930836fdfca6ccb8',
+          url: 'https://tile.thunderforest.com/outdoors/{z}/{x}/{y}.png',
           options: {
-            // apiKey: 'IGN_KEY', // <-- CHANGE IT WITH YOUR IGN API KEY
+            apiKey: '558e217e87f944b7930836fdfca6ccb8', // <-- CHANGE IT WITH YOUR IGN API KEY
             // layer: 'GEOGRAPHICALGRIDSYSTEMS.MAPS',
             minZoom: 0,
             maxZoom: 24,
             maxNativeZoom: 18,
-            tileSize: 256,
-            attribution: "THUNDERFOREST"
          },
       dragging: true,
       locateControl: false,
