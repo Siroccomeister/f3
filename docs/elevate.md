@@ -1,6 +1,6 @@
 ---
 glightbox: false
-gpxurl: "https://siroccomeister.github.io/f3/assets/gpx/GDMBR3.gpx"
+gpxurl: 'https://siroccomeister.github.io/f3/assets/gpx/GDMBR3.gpx'
 ---
 
 <!-- leaflet-ui -->
@@ -49,7 +49,7 @@ let opts = {
       },
 
   elevationControl: {
-    url: gpxurl ,
+    url: gpxurl,
     options: {
         theme: "lightblue-theme",
         height: 150,
