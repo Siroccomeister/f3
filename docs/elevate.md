@@ -53,7 +53,7 @@ let opts = {
       },
 
   elevationControl: {
-    url: mygpxurl,
+    url: "https://siroccomeister.github.io/f3/assets/gpx/GDMBR3.gpx",
     options: {
         theme: "lightblue-theme",
         height: 150,
