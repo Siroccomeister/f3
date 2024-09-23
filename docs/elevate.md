@@ -1,9 +1,9 @@
 ---
 glightbox: false
-gpxurl: 'https://siroccomeister.github.io/f3/assets/gpx/GDMBR3.gpx'
 ---
 
 <!-- leaflet-ui -->
+
 <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
 <script src="https://unpkg.com/leaflet-ui@0.6.0/dist/leaflet-ui.js"></script>
 <!-- leaflet-elevation -->
@@ -12,6 +12,8 @@ gpxurl: 'https://siroccomeister.github.io/f3/assets/gpx/GDMBR3.gpx'
 
 <style> #map { width: auto; height: 400px; margin: 0;} </style>
 <div id="map"></div>
+
+<script> let gpxurl = "https://siroccomeister.github.io/f3/assets/gpx/GDMBR3.gpx"; </script>
 
 <script>
 document.addEventListener("DOMContentLoaded", function() {
