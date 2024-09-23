@@ -1,5 +1,6 @@
 ---
 glightbox: false
+gpxurl: "https://siroccomeister.github.io/f3/assets/gpx/GDMBR3.gpx"
 ---
 
 <!-- leaflet-ui -->
@@ -17,7 +18,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
 let opts = {
    map: {
-      center: [51.1784, -115.5708], // should be set to BANF
+      center: [51.1784, -115.5708], // should be set to BANFF
       zoom: 10,
       mapTypeId: 'topo',
 //      mapTypes: {
@@ -48,7 +49,7 @@ let opts = {
       },
 
   elevationControl: {
-    url: "https://siroccomeister.github.io/f3/assets/gpx/GDMBR3.gpx",
+    url: gpxurl ,
     options: {
         theme: "lightblue-theme",
         height: 150,
