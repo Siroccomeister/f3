@@ -13,7 +13,9 @@ glightbox: false
 <style> #map { width: auto; height: 400px; margin: 0;} </style>
 <div id="map"></div>
 
-<script> let gpxurl = "https://siroccomeister.github.io/f3/assets/gpx/GDMBR3.gpx"; </script>
+<script> 
+var mygpxurl = "https://siroccomeister.github.io/f3/assets/gpx/GDMBR3.gpx";
+</script>
 
 <script>
 document.addEventListener("DOMContentLoaded", function() {
@@ -51,7 +53,7 @@ let opts = {
       },
 
   elevationControl: {
-    url: gpxurl,
+    url: mygpxurl,
     options: {
         theme: "lightblue-theme",
         height: 150,
@@ -88,7 +90,7 @@ let map = L.map('map', opts.map);
 let controlElevation = L.control.elevation(opts.elevationControl.options).addTo(map);
 let controlLayer = L.control.layers(null, null, opts.layersControl.options);
 
-controlElevation.load(opts.elevationControl.gpxurl);
+controlElevation.load(opts.elevationControl.mygpxurl);
 controlElevation.on('eledata_loaded', ({layer, name}) => controlLayer.addTo(map) && layer.eachLayer((trkseg) => trkseg.feature.geometry.type != "Point" && controlLayer.addOverlay(trkseg, trkseg.feature && trkseg.feature.properties && trkseg.feature.properties.name || name)));
 
 })
