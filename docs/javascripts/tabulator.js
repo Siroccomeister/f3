@@ -149,6 +149,6 @@ var table2 = new Tabulator("#checkerboard-table", {
 var table3 = new Tabulator("#GDMBR", {
     ajaxURL:"../assets/tables/GDMBR.json",
     height:311,
-    layout:"fitColumns",
+//    layout:"fitColumns",
     autoColumns:true,
 });
