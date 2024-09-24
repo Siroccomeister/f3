@@ -122,12 +122,10 @@ headerFilter:"number", headerFilterPlaceholder:"at least...", headerFilterFunc:"
 ],
 });
 
-table1.on("tableBuilt", () => {
-  table1.setPage(2);
-});
 
 var table2 = new Tabulator("#checkerboard-table", {
-    ajaxURL:"../assets/tables/checkerboard.json",
+    ajaxURL:"../assets/tables/checkerboard.csv",
+    importFormat:"csv",
     // csv format not workable at this moment - keep checking tabulator.info website
     height:"669px",
     layout:"fitColumns",
@@ -147,6 +145,4 @@ var table2 = new Tabulator("#checkerboard-table", {
             ],
 });
 
-// table2.on("tableBuilt", () => {
-//   table2.setPage(2);
-// });
+table2.import("../assets/tables/checkerboard",".csv");
