@@ -147,6 +147,6 @@ var table2 = new Tabulator("#checkerboard-table", {
             ],
 });
 
-table2.on("tableBuilt", () => {
-  table2.setPage(2);
-});
+// table2.on("tableBuilt", () => {
+//   table2.setPage(2);
+// });
