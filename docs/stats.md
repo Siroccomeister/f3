@@ -19,7 +19,7 @@ Additional test. Some weird behaviour though.
 
 <div id="checkerboard-table"></div>
 
-Now it is tuning time...
+Now it is tuning time... we are making progress.
 
 <div id="GDMBR"></div>
 
