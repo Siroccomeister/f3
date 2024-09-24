@@ -144,5 +144,3 @@ var table2 = new Tabulator("#checkerboard-table", {
             }
             ],
 });
-
-table2.import("../assets/tables/checkerboard",".csv");
