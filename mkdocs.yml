@@ -24,7 +24,7 @@ extra_css:
 
 extra_javascript:
   - https://unpkg.com/tabulator-tables/dist/js/tabulator.js
-  - javascripts/tabulator.js...
+  - javascripts/tabulator.js
   - https://unpkg.com/leaflet@1.7.1/dist/leaflet.js
   - https://unpkg.com/leaflet-ui@0.6.0/dist/leaflet-ui.js
   - https://unpkg.com/@raruto/leaflet-elevation@2.5.1/dist/leaflet-elevation.min.js
