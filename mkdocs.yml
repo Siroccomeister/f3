@@ -26,6 +26,7 @@ extra:
 plugins:
   - search
   - optimize
+  - table-reader
   - mkdocs-video:
       is_video: True
       video_muted: True
@@ -85,6 +86,8 @@ nav:
    - Preparation:
      - Rig: rig.md
      - Training: training.md
+   - Stats:
+     - Stats: stats.md
      
      
 #   - Others:

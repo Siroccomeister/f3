@@ -32,6 +32,7 @@ jobs:
       - run: pip install mkdocs-glightbox
       - run: pip install neoteroi-mkdocs
       - run: pip install mkdocs-video
+      - run: pip install mkdocs-table-reader-plugin
       - run: mkdocs gh-deploy --force
 
 env:
