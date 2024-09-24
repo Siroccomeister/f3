@@ -122,9 +122,9 @@ headerFilter:"number", headerFilterPlaceholder:"at least...", headerFilterFunc:"
 ],
 });
 
-//table1.on("tableBuilt", () => {
-//  table1.setPage(2);
-//});
+table1.on("tableBuilt", () => {
+  table1.setPage(2);
+});
 
 var table2 = new Tabulator("#checkerboard-table", {
     ajaxURL:"./assets/tables/checkerboard.json",
@@ -147,6 +147,6 @@ var table2 = new Tabulator("#checkerboard-table", {
             ],
 });
 
-table.on("tableBuilt", () => {
-  table.setPage(2);
+table2.on("tableBuilt", () => {
+  table2.setPage(2);
 });
