@@ -19,7 +19,8 @@ Additional test. Some weird behaviour though.
 
 <div id="checkerboard-table"></div>
 
-Now it is tuning time... we are making progress.
+Now it is tuning time... we are making progress though.
+Maybe we should remove optimize plugin for a little while though...
 
 <div id="GDMBR"></div>
 
