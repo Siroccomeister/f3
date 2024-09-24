@@ -83,7 +83,7 @@ var table1 = new Tabulator("#example-table", {
     height:"311px",
     layout:"fitColumns",
     columns:[
-        {title:"Area", field:"area", width:100, editor:"input", headerFilter:"list", headerFilterParams:{valuesLookup:true, clearable:true}},
+        {title:"Area", field:"area", frozen:true, width:100, editor:"input", headerFilter:"list", headerFilterParams:{valuesLookup:true, clearable:true}},
         {title:"Discover & Assess", field:"disco", width:160, formatter:"progress", formatterParams:{
     min:0,
     max:1,
