@@ -79,7 +79,7 @@ function minMaxFilterFunction(headerValue, rowValue, rowData, filterParams){
 }
 
 var table1 = new Tabulator("#example-table", {
-    ajaxURL:"/f3/assets/tables/scorecard.json",  // relative from where the table is called ie. md file location
+    ajaxURL:"../assets/tables/scorecard.json",  // relative from where the table is called ie. md file location
     height:"311px",
     layout:"fitColumns",
     columns:[
