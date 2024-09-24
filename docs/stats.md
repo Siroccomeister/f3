@@ -13,5 +13,7 @@ On average I rode at 16.6 km/h with 8 hours/day.
 
 <div id="example-table"></div>
 
+<div id="checkerboard-table"></div>
+
 {{ read_csv('assets/tables/GDMBR.csv') }}
 
