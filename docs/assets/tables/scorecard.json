@@ -1,0 +1,758 @@
+[
+  {
+    "area": "WLAN",
+    "disco": 1,
+    "build": 1,
+    "run": 0,
+    "name": "Frédéric Jachiet",
+    "email": "frederic.jachiet@orange.com",
+    "role - city": "Consultant / Geneva"
+  },
+  {
+    "area": "LORA",
+    "disco": 0.33,
+    "build": 0,
+    "run": 0,
+    "name": "Frédéric Jachiet",
+    "email": "frederic.jachiet@orange.com",
+    "role - city": "Consultant / Geneva"
+  },
+  {
+    "area": "4G/5G",
+    "disco": 0.33,
+    "build": 0,
+    "run": 0,
+    "name": "Frédéric Jachiet",
+    "email": "frederic.jachiet@orange.com",
+    "role - city": "Consultant / Geneva"
+  },
+  {
+    "area": "BLE",
+    "disco": 0.33,
+    "build": 0.33,
+    "run": 0,
+    "name": "Frédéric Jachiet",
+    "email": "frederic.jachiet@orange.com",
+    "role - city": "Consultant / Geneva"
+  },
+  {
+    "area": "ZIGBEE",
+    "disco": 0.33,
+    "build": 0.33,
+    "run": 0,
+    "name": "Frédéric Jachiet",
+    "email": "frederic.jachiet@orange.com",
+    "role - city": "Consultant / Geneva"
+  },
+  {
+    "area": "NFC",
+    "disco": 0.33,
+    "build": 0.33,
+    "run": 0,
+    "name": "Frédéric Jachiet",
+    "email": "frederic.jachiet@orange.com",
+    "role - city": "Consultant / Geneva"
+  },
+  {
+    "area": "OT LAN",
+    "disco": 0.67,
+    "build": 0.67,
+    "run": 0,
+    "name": "Frédéric Jachiet",
+    "email": "frederic.jachiet@orange.com",
+    "role - city": "Consultant / Geneva"
+  },
+  {
+    "area": "WLAN",
+    "disco": 0.92,
+    "build": 0.67,
+    "run": 0,
+    "name": "Bert Schol",
+    "email": "bert.schol@orange.com",
+    "role - city": "Consultant / Amsterdam"
+  },
+  {
+    "area": "LORA",
+    "disco": 0.33,
+    "build": 0.33,
+    "run": 0,
+    "name": "Bert Schol",
+    "email": "bert.schol@orange.com",
+    "role - city": "Consultant / Amsterdam"
+  },
+  {
+    "area": "4G/5G",
+    "disco": 0.33,
+    "build": 0,
+    "run": 0,
+    "name": "Bert Schol",
+    "email": "bert.schol@orange.com",
+    "role - city": "Consultant / Amsterdam"
+  },
+  {
+    "area": "BLE",
+    "disco": 0.33,
+    "build": 0,
+    "run": 0,
+    "name": "Bert Schol",
+    "email": "bert.schol@orange.com",
+    "role - city": "Consultant / Amsterdam"
+  },
+  {
+    "area": "ZIGBEE",
+    "disco": 0.17,
+    "build": 0,
+    "run": 0,
+    "name": "Bert Schol",
+    "email": "bert.schol@orange.com",
+    "role - city": "Consultant / Amsterdam"
+  },
+  {
+    "area": "NFC",
+    "disco": 0,
+    "build": 0,
+    "run": 0,
+    "name": "Bert Schol",
+    "email": "bert.schol@orange.com",
+    "role - city": "Consultant / Amsterdam"
+  },
+  {
+    "area": "OT LAN",
+    "disco": 0.33,
+    "build": 0,
+    "run": 0,
+    "name": "Bert Schol",
+    "email": "bert.schol@orange.com",
+    "role - city": "Consultant / Amsterdam"
+  },
+  {
+    "area": "WLAN",
+    "disco": 0.92,
+    "build": 0.67,
+    "run": 0,
+    "name": "Johan Strandloof",
+    "email": "johan.strandloof@orange.com",
+    "role - city": "Consultant / Amadora"
+  },
+  {
+    "area": "LORA",
+    "disco": 0.33,
+    "build": 0.33,
+    "run": 0,
+    "name": "Johan Strandloof",
+    "email": "johan.strandloof@orange.com",
+    "role - city": "Consultant / Amadora"
+  },
+  {
+    "area": "4G/5G",
+    "disco": 0.5,
+    "build": 0,
+    "run": 0,
+    "name": "Johan Strandloof",
+    "email": "johan.strandloof@orange.com",
+    "role - city": "Consultant / Amadora"
+  },
+  {
+    "area": "BLE",
+    "disco": 0.5,
+    "build": 0.33,
+    "run": 0,
+    "name": "Johan Strandloof",
+    "email": "johan.strandloof@orange.com",
+    "role - city": "Consultant / Amadora"
+  },
+  {
+    "area": "ZIGBEE",
+    "disco": 0.33,
+    "build": 0.33,
+    "run": 0,
+    "name": "Johan Strandloof",
+    "email": "johan.strandloof@orange.com",
+    "role - city": "Consultant / Amadora"
+  },
+  {
+    "area": "NFC",
+    "disco": 0.5,
+    "build": 0.33,
+    "run": 0,
+    "name": "Johan Strandloof",
+    "email": "johan.strandloof@orange.com",
+    "role - city": "Consultant / Amadora"
+  },
+  {
+    "area": "OT LAN",
+    "disco": 0.67,
+    "build": 0.67,
+    "run": 0,
+    "name": "Johan Strandloof",
+    "email": "johan.strandloof@orange.com",
+    "role - city": "Consultant / Amadora"
+  },
+  {
+    "area": "WLAN",
+    "disco": 0.5,
+    "build": 0.33,
+    "run": 0,
+    "name": "Marco Mulder",
+    "email": "Marco.mulder@orange.com",
+    "role - city": "Consultant / Amsterdam"
+  },
+  {
+    "area": "LORA",
+    "disco": 0,
+    "build": 0,
+    "run": 0,
+    "name": "Marco Mulder",
+    "email": "Marco.mulder@orange.com",
+    "role - city": "Consultant / Amsterdam"
+  },
+  {
+    "area": "4G/5G",
+    "disco": 0.17,
+    "build": 0,
+    "run": 0,
+    "name": "Marco Mulder",
+    "email": "Marco.mulder@orange.com",
+    "role - city": "Consultant / Amsterdam"
+  },
+  {
+    "area": "BLE",
+    "disco": 0.17,
+    "build": 0,
+    "run": 0,
+    "name": "Marco Mulder",
+    "email": "Marco.mulder@orange.com",
+    "role - city": "Consultant / Amsterdam"
+  },
+  {
+    "area": "ZIGBEE",
+    "disco": 0.33,
+    "build": 0.33,
+    "run": 0,
+    "name": "Marco Mulder",
+    "email": "Marco.mulder@orange.com",
+    "role - city": "Consultant / Amsterdam"
+  },
+  {
+    "area": "NFC",
+    "disco": 0.33,
+    "build": 0,
+    "run": 0,
+    "name": "Marco Mulder",
+    "email": "Marco.mulder@orange.com",
+    "role - city": "Consultant / Amsterdam"
+  },
+  {
+    "area": "OT LAN",
+    "disco": 0.67,
+    "build": 0.33,
+    "run": 0,
+    "name": "Marco Mulder",
+    "email": "Marco.mulder@orange.com",
+    "role - city": "Consultant / Amsterdam"
+  },
+  {
+    "area": "WLAN",
+    "disco": 1,
+    "build": 0.67,
+    "run": 0,
+    "name": "Oliver Glaettli",
+    "email": "oliver.glaettli@orange.com",
+    "role - city": "Consultant / Geneva"
+  },
+  {
+    "area": "LORA",
+    "disco": 0.67,
+    "build": 0,
+    "run": 0,
+    "name": "Oliver Glaettli",
+    "email": "oliver.glaettli@orange.com",
+    "role - city": "Consultant / Geneva"
+  },
+  {
+    "area": "4G/5G",
+    "disco": 0.33,
+    "build": 0,
+    "run": 0,
+    "name": "Oliver Glaettli",
+    "email": "oliver.glaettli@orange.com",
+    "role - city": "Consultant / Geneva"
+  },
+  {
+    "area": "BLE",
+    "disco": 0.83,
+    "build": 0.67,
+    "run": 0,
+    "name": "Oliver Glaettli",
+    "email": "oliver.glaettli@orange.com",
+    "role - city": "Consultant / Geneva"
+  },
+  {
+    "area": "ZIGBEE",
+    "disco": 0.33,
+    "build": 0.33,
+    "run": 0,
+    "name": "Oliver Glaettli",
+    "email": "oliver.glaettli@orange.com",
+    "role - city": "Consultant / Geneva"
+  },
+  {
+    "area": "NFC",
+    "disco": 0.33,
+    "build": 0.33,
+    "run": 0,
+    "name": "Oliver Glaettli",
+    "email": "oliver.glaettli@orange.com",
+    "role - city": "Consultant / Geneva"
+  },
+  {
+    "area": "OT LAN",
+    "disco": 1,
+    "build": 0.67,
+    "run": 0,
+    "name": "Oliver Glaettli",
+    "email": "oliver.glaettli@orange.com",
+    "role - city": "Consultant / Geneva"
+  },
+  {
+    "area": "WLAN",
+    "disco": 0.75,
+    "build": 0.67,
+    "run": 0,
+    "name": "Marco Mulder",
+    "email": "marco.mulder@orange.com",
+    "role - city": "Consultant / Amsterdam"
+  },
+  {
+    "area": "LORA",
+    "disco": 0.67,
+    "build": 0.67,
+    "run": 0,
+    "name": "Marco Mulder",
+    "email": "marco.mulder@orange.com",
+    "role - city": "Consultant / Amsterdam"
+  },
+  {
+    "area": "4G/5G",
+    "disco": 0.67,
+    "build": 0.33,
+    "run": 0,
+    "name": "Marco Mulder",
+    "email": "marco.mulder@orange.com",
+    "role - city": "Consultant / Amsterdam"
+  },
+  {
+    "area": "BLE",
+    "disco": 0.67,
+    "build": 0.33,
+    "run": 0,
+    "name": "Marco Mulder",
+    "email": "marco.mulder@orange.com",
+    "role - city": "Consultant / Amsterdam"
+  },
+  {
+    "area": "ZIGBEE",
+    "disco": 0.67,
+    "build": 0.67,
+    "run": 0,
+    "name": "Marco Mulder",
+    "email": "marco.mulder@orange.com",
+    "role - city": "Consultant / Amsterdam"
+  },
+  {
+    "area": "NFC",
+    "disco": 0.67,
+    "build": 0.33,
+    "run": 0,
+    "name": "Marco Mulder",
+    "email": "marco.mulder@orange.com",
+    "role - city": "Consultant / Amsterdam"
+  },
+  {
+    "area": "OT LAN",
+    "disco": 0.67,
+    "build": 0.67,
+    "run": 0,
+    "name": "Marco Mulder",
+    "email": "marco.mulder@orange.com",
+    "role - city": "Consultant / Amsterdam"
+  },
+  {
+    "area": "WLAN",
+    "disco": 0.75,
+    "build": 0.67,
+    "run": 0,
+    "name": "Patrick Van den Eynden",
+    "email": "patrick.vandeneynden@orange.com",
+    "role - city": "Consultant / Brussels"
+  },
+  {
+    "area": "LORA",
+    "disco": 0.33,
+    "build": 0,
+    "run": 0,
+    "name": "Patrick Van den Eynden",
+    "email": "patrick.vandeneynden@orange.com",
+    "role - city": "Consultant / Brussels"
+  },
+  {
+    "area": "4G/5G",
+    "disco": 0,
+    "build": 0,
+    "run": 0,
+    "name": "Patrick Van den Eynden",
+    "email": "patrick.vandeneynden@orange.com",
+    "role - city": "Consultant / Brussels"
+  },
+  {
+    "area": "BLE",
+    "disco": 0,
+    "build": 0,
+    "run": 0,
+    "name": "Patrick Van den Eynden",
+    "email": "patrick.vandeneynden@orange.com",
+    "role - city": "Consultant / Brussels"
+  },
+  {
+    "area": "ZIGBEE",
+    "disco": 0,
+    "build": 0,
+    "run": 0,
+    "name": "Patrick Van den Eynden",
+    "email": "patrick.vandeneynden@orange.com",
+    "role - city": "Consultant / Brussels"
+  },
+  {
+    "area": "NFC",
+    "disco": 0,
+    "build": 0,
+    "run": 0,
+    "name": "Patrick Van den Eynden",
+    "email": "patrick.vandeneynden@orange.com",
+    "role - city": "Consultant / Brussels"
+  },
+  {
+    "area": "OT LAN",
+    "disco": 0.33,
+    "build": 0,
+    "run": 0,
+    "name": "Patrick Van den Eynden",
+    "email": "patrick.vandeneynden@orange.com",
+    "role - city": "Consultant / Brussels"
+  },
+  {
+    "area": "WLAN",
+    "disco": 0.58,
+    "build": 0.33,
+    "run": 0,
+    "name": "John Salama",
+    "email": "john.salama@orange.com",
+    "role - city": "Consultant / Eschborn"
+  },
+  {
+    "area": "LORA",
+    "disco": 0,
+    "build": 0,
+    "run": 0,
+    "name": "John Salama",
+    "email": "john.salama@orange.com",
+    "role - city": "Consultant / Eschborn"
+  },
+  {
+    "area": "4G/5G",
+    "disco": 0,
+    "build": 0,
+    "run": 0,
+    "name": "John Salama",
+    "email": "john.salama@orange.com",
+    "role - city": "Consultant / Eschborn"
+  },
+  {
+    "area": "BLE",
+    "disco": 0.33,
+    "build": 0.33,
+    "run": 0,
+    "name": "John Salama",
+    "email": "john.salama@orange.com",
+    "role - city": "Consultant / Eschborn"
+  },
+  {
+    "area": "ZIGBEE",
+    "disco": 0,
+    "build": 0,
+    "run": 0,
+    "name": "John Salama",
+    "email": "john.salama@orange.com",
+    "role - city": "Consultant / Eschborn"
+  },
+  {
+    "area": "NFC",
+    "disco": 0,
+    "build": 0,
+    "run": 0,
+    "name": "John Salama",
+    "email": "john.salama@orange.com",
+    "role - city": "Consultant / Eschborn"
+  },
+  {
+    "area": "OT LAN",
+    "disco": 1,
+    "build": 1,
+    "run": 0,
+    "name": "John Salama",
+    "email": "john.salama@orange.com",
+    "role - city": "Consultant / Eschborn"
+  },
+  {
+    "area": "WLAN",
+    "disco": 0.75,
+    "build": 0.67,
+    "run": 0,
+    "name": "Bert Schol",
+    "email": "bert.schol@orange.com",
+    "role - city": "Consultant / Amsterdam"
+  },
+  {
+    "area": "LORA",
+    "disco": 0.33,
+    "build": 0,
+    "run": 0,
+    "name": "Bert Schol",
+    "email": "bert.schol@orange.com",
+    "role - city": "Consultant / Amsterdam"
+  },
+  {
+    "area": "4G/5G",
+    "disco": 0.33,
+    "build": 0,
+    "run": 0,
+    "name": "Bert Schol",
+    "email": "bert.schol@orange.com",
+    "role - city": "Consultant / Amsterdam"
+  },
+  {
+    "area": "BLE",
+    "disco": 0.33,
+    "build": 0,
+    "run": 0,
+    "name": "Bert Schol",
+    "email": "bert.schol@orange.com",
+    "role - city": "Consultant / Amsterdam"
+  },
+  {
+    "area": "ZIGBEE",
+    "disco": 0.33,
+    "build": 0,
+    "run": 0,
+    "name": "Bert Schol",
+    "email": "bert.schol@orange.com",
+    "role - city": "Consultant / Amsterdam"
+  },
+  {
+    "area": "NFC",
+    "disco": 0.17,
+    "build": 0,
+    "run": 0,
+    "name": "Bert Schol",
+    "email": "bert.schol@orange.com",
+    "role - city": "Consultant / Amsterdam"
+  },
+  {
+    "area": "OT LAN",
+    "disco": 0.67,
+    "build": 0,
+    "run": 0,
+    "name": "Bert Schol",
+    "email": "bert.schol@orange.com",
+    "role - city": "Consultant / Amsterdam"
+  },
+  {
+    "area": "WLAN",
+    "disco": 1,
+    "build": 1,
+    "run": 0,
+    "name": "Niels van der Hulst",
+    "email": "niels.vanderhulst@orange.com",
+    "role - city": "Consultant / Amsterdam"
+  },
+  {
+    "area": "LORA",
+    "disco": 0.33,
+    "build": 0.33,
+    "run": 0,
+    "name": "Niels van der Hulst",
+    "email": "niels.vanderhulst@orange.com",
+    "role - city": "Consultant / Amsterdam"
+  },
+  {
+    "area": "4G/5G",
+    "disco": 0.33,
+    "build": 0.33,
+    "run": 0,
+    "name": "Niels van der Hulst",
+    "email": "niels.vanderhulst@orange.com",
+    "role - city": "Consultant / Amsterdam"
+  },
+  {
+    "area": "BLE",
+    "disco": 0.67,
+    "build": 0.67,
+    "run": 0,
+    "name": "Niels van der Hulst",
+    "email": "niels.vanderhulst@orange.com",
+    "role - city": "Consultant / Amsterdam"
+  },
+  {
+    "area": "ZIGBEE",
+    "disco": 0.33,
+    "build": 0.33,
+    "run": 0,
+    "name": "Niels van der Hulst",
+    "email": "niels.vanderhulst@orange.com",
+    "role - city": "Consultant / Amsterdam"
+  },
+  {
+    "area": "NFC",
+    "disco": 0.33,
+    "build": 0.33,
+    "run": 0,
+    "name": "Niels van der Hulst",
+    "email": "niels.vanderhulst@orange.com",
+    "role - city": "Consultant / Amsterdam"
+  },
+  {
+    "area": "OT LAN",
+    "disco": 0.67,
+    "build": 0.67,
+    "run": 0,
+    "name": "Niels van der Hulst",
+    "email": "niels.vanderhulst@orange.com",
+    "role - city": "Consultant / Amsterdam"
+  },
+  {
+    "area": "WLAN",
+    "disco": 1,
+    "build": 1,
+    "run": 0,
+    "name": "Niels van der Hulst",
+    "email": "niels.vanderhulst@orange.com",
+    "role - city": "Consultant / Amsterdam"
+  },
+  {
+    "area": "LORA",
+    "disco": 0.33,
+    "build": 0.33,
+    "run": 0,
+    "name": "Niels van der Hulst",
+    "email": "niels.vanderhulst@orange.com",
+    "role - city": "Consultant / Amsterdam"
+  },
+  {
+    "area": "4G/5G",
+    "disco": 0.33,
+    "build": 0.33,
+    "run": 0,
+    "name": "Niels van der Hulst",
+    "email": "niels.vanderhulst@orange.com",
+    "role - city": "Consultant / Amsterdam"
+  },
+  {
+    "area": "BLE",
+    "disco": 0.67,
+    "build": 0.67,
+    "run": 0,
+    "name": "Niels van der Hulst",
+    "email": "niels.vanderhulst@orange.com",
+    "role - city": "Consultant / Amsterdam"
+  },
+  {
+    "area": "ZIGBEE",
+    "disco": 0.33,
+    "build": 0.33,
+    "run": 0,
+    "name": "Niels van der Hulst",
+    "email": "niels.vanderhulst@orange.com",
+    "role - city": "Consultant / Amsterdam"
+  },
+  {
+    "area": "NFC",
+    "disco": 0.33,
+    "build": 0.33,
+    "run": 0,
+    "name": "Niels van der Hulst",
+    "email": "niels.vanderhulst@orange.com",
+    "role - city": "Consultant / Amsterdam"
+  },
+  {
+    "area": "OT LAN",
+    "disco": 0.67,
+    "build": 0.67,
+    "run": 0,
+    "name": "Niels van der Hulst",
+    "email": "niels.vanderhulst@orange.com",
+    "role - city": "Consultant / Amsterdam"
+  },
+  {
+    "area": "WLAN",
+    "disco": 0.58,
+    "build": 0.67,
+    "run": 0,
+    "name": "Pedro Almeida",
+    "email": "pedro.almeida@orange.com",
+    "role - city": "Consultant / Oslo"
+  },
+  {
+    "area": "LORA",
+    "disco": 0.33,
+    "build": 0.33,
+    "run": 0,
+    "name": "Pedro Almeida",
+    "email": "pedro.almeida@orange.com",
+    "role - city": "Consultant / Oslo"
+  },
+  {
+    "area": "4G/5G",
+    "disco": 0.33,
+    "build": 0,
+    "run": 0,
+    "name": "Pedro Almeida",
+    "email": "pedro.almeida@orange.com",
+    "role - city": "Consultant / Oslo"
+  },
+  {
+    "area": "BLE",
+    "disco": 0.33,
+    "build": 0,
+    "run": 0,
+    "name": "Pedro Almeida",
+    "email": "pedro.almeida@orange.com",
+    "role - city": "Consultant / Oslo"
+  },
+  {
+    "area": "ZIGBEE",
+    "disco": 0.33,
+    "build": 0,
+    "run": 0,
+    "name": "Pedro Almeida",
+    "email": "pedro.almeida@orange.com",
+    "role - city": "Consultant / Oslo"
+  },
+  {
+    "area": "NFC",
+    "disco": 0.33,
+    "build": 0,
+    "run": 0,
+    "name": "Pedro Almeida",
+    "email": "pedro.almeida@orange.com",
+    "role - city": "Consultant / Oslo"
+  },
+  {
+    "area": "OT LAN",
+    "disco": 0.67,
+    "build": 0.33,
+    "run": 0,
+    "name": "Pedro Almeida",
+    "email": "pedro.almeida@orange.com",
+    "role - city": "Consultant / Oslo"
+  }
+]

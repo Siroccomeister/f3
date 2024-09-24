@@ -16,8 +16,14 @@ theme:
     - toc.integrate
 
 extra_css:
+  - stylesheets/extra.css
   - stylesheets/neoteroi-mkdocs.css
-  
+  - https://unpkg.com/tabulator-tables/dist/css/tabulator_site.min.css
+
+extra_javascript:
+  - https://unpkg.com/tabulator-tables/dist/js/tabulator.js
+  - javascripts/tabulator.js
+
 extra:
   analytics:
     provider: google

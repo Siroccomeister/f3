@@ -1,0 +1,119 @@
+[
+  {
+    "customer": "Strategy & Innovation",
+    "blocks": "Strategy & Innovation",
+    "efficiency": 0,
+    "smart": 0,
+    "infra": 0,
+    "esg": 0,
+    "worker": 0
+  },
+  {
+    "customer": "Discovery & Business Value",
+    "blocks": "Scenarios",
+    "efficiency": 0,
+    "smart": 0,
+    "infra": 0,
+    "esg": 0,
+    "worker": 0
+  },
+  {
+    "customer": "Discovery & Business Value",
+    "blocks": "Use Cases",
+    "efficiency": 0,
+    "smart": 0,
+    "infra": 0,
+    "esg": 0,
+    "worker": 0
+  },
+  {
+    "customer": "Discovery & Business Value",
+    "blocks": "Business Cases",
+    "efficiency": 0,
+    "smart": 0,
+    "infra": 0,
+    "esg": 0,
+    "worker": 0
+  },
+  {
+    "customer": "Design & Proof of Value",
+    "blocks": "User Experience",
+    "efficiency": 0,
+    "smart": 0,
+    "infra": 0,
+    "esg": 0,
+    "worker": 0
+  },
+  {
+    "customer": "Design & Proof of Value",
+    "blocks": "Analytics",
+    "efficiency": 0.3,
+    "smart": 0,
+    "infra": 0,
+    "esg": 0,
+    "worker": 0
+  },
+  {
+    "customer": "Design & Proof of Value",
+    "blocks": "Platform",
+    "efficiency": 0.4,
+    "smart": 0,
+    "infra": 0,
+    "esg": 0,
+    "worker": 0
+  },
+  {
+    "customer": "Design & Proof of Value",
+    "blocks": "Connectivity & Infrastructure",
+    "efficiency": 0.6,
+    "smart": 0.6,
+    "infra": 0.6,
+    "esg": 0.6,
+    "worker": 0.6
+  },
+  {
+    "customer": "Design & Proof of Value",
+    "blocks": "Security, Compliance & Monitoring",
+    "efficiency": 0,
+    "smart": 0,
+    "infra": 0,
+    "esg": 0,
+    "worker": 0
+  },
+  {
+    "customer": "Design & Proof of Value",
+    "blocks": "Governance & Lifecycle Management",
+    "efficiency": 0,
+    "smart": 0,
+    "infra": 0,
+    "esg": 0,
+    "worker": 0
+  },
+  {
+    "customer": "Align & Deploy",
+    "blocks": "Orange Capabilities are described",
+    "efficiency": 0,
+    "smart": 0,
+    "infra": 0,
+    "esg": 0,
+    "worker": 0
+  },
+  {
+    "customer": "Align & Deploy",
+    "blocks": "Partner ecosystem is available",
+    "efficiency": 0,
+    "smart": 0,
+    "infra": 0,
+    "esg": 0,
+    "worker": 0
+  },
+  {
+    "customer": "Align & Deploy",
+    "blocks": "Designs are blueprinted",
+    "efficiency": 0,
+    "smart": 0,
+    "infra": 0,
+    "esg": 0,
+    "worker": 0
+  }
+]
