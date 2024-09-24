@@ -7,7 +7,7 @@ glightbox: false
 <div id="map"></div>
 
 <script> 
-var mygpxurl = "https://siroccomeister.github.io/f3/assets/gpx/GPX1.gpx";
+var mygpxurl = "/f3/assets/gpx/GPX1.gpx";
 </script>
 
 <script src="/f3/javascripts/mygpx.js"> </script>
