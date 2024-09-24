@@ -79,7 +79,7 @@ function minMaxFilterFunction(headerValue, rowValue, rowData, filterParams){
 }
 
 var table1 = new Tabulator("#example-table", {
-    ajaxURL:"./assets/tables/scorecard.json",  // relative from where the table is called ie. md file location
+    ajaxURL:"../assets/tables/scorecard.json",  // relative from where the table is called ie. md file location
     height:"311px",
     layout:"fitColumns",
     columns:[
@@ -127,7 +127,7 @@ table1.on("tableBuilt", () => {
 });
 
 var table2 = new Tabulator("#checkerboard-table", {
-    ajaxURL:"./assets/tables/checkerboard.json",
+    ajaxURL:"../assets/tables/checkerboard.json",
     // csv format not workable at this moment - keep checking tabulator.info website
     height:"669px",
     layout:"fitColumns",
