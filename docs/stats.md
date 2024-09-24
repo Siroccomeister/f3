@@ -17,5 +17,7 @@ Additional test. Some weird behaviour though.
 
 <div id="checkerboard-table"></div>
 
+<div id="GDMBR"></div>
+
 {{ read_csv('assets/tables/GDMBR.csv') }}
 

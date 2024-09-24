@@ -124,8 +124,8 @@ headerFilter:"number", headerFilterPlaceholder:"at least...", headerFilterFunc:"
 
 
 var table2 = new Tabulator("#checkerboard-table", {
-    ajaxURL:"../assets/tables/checkerboard.csv",
-    importFormat:"csv",
+    ajaxURL:"../assets/tables/checkerboard.json",
+    // importFormat:"csv",
     // csv format not workable at this moment - keep checking tabulator.info website
     height:"669px",
     layout:"fitColumns",
@@ -143,4 +143,12 @@ var table2 = new Tabulator("#checkerboard-table", {
         ]
             }
             ],
+});
+
+
+var table3 = new Tabulator("#GDMBR", {
+    ajaxURL:"../assets/tables/GDMBR.json",
+    height:311,
+    layout:"fitColumns",
+    autoColumns:true,
 });
