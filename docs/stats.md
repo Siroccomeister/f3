@@ -11,7 +11,7 @@ TOTAL KM from BANFF to ANTELOPE WELLS/Mexican Border : 4'411 km.
 TOTAL KM from CALGARY to ANTELOPE WELLS/Mexican Border : 4'581 km.
 On average I rode at 16.6 km/h with 8 hours/day.
 
-<script src="javascripts/tabulator.js"> </script>
+<script src="/javascripts/tabulator.js"> </script>
 
 <div id="example-table"></div>
 
