@@ -17,18 +17,7 @@ let opts = {
    map: {
       center: [51.1784, -115.5708], // should be set to BANFF
       zoom: 10,
-      mapTypeId: 'topo',
-//      mapTypes: {
-//        topo: { // <-- OVERRIDE A DEFAULT MAPTYPE ID
-//          name: "OUTDOOR",
-//          url: 'https://{s}.tile.thunderforest.com/cycle/{z}/{x}/{y}.png?apikey={apikey}',
-//          options: {
-//            apikey: '558e217e87f944b7930836fdfca6ccb8', // <-- CHANGE IT WITH YOUR IGN API KEY
-//            maxZoom: 22,
-//            attribution: '&copy; <a href="http://www.thunderforest.com/">Thunderforest</a>, &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
-//            },
-//          }
-//        }  
+      mapTypeId: 'topo', 
       dragging: true,
       locateControl: false,
       searchControl: false,
@@ -46,7 +35,7 @@ let opts = {
       },
 
   elevationControl: {
-    url: "https://siroccomeister.github.io/f3/assets/gpx/GDMBR3.gpx",
+    url: "none",
     options: {
         theme: "lightblue-theme",
         height: 150,
