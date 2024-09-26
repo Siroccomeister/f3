@@ -123,32 +123,27 @@ headerFilter:"number", headerFilterPlaceholder:"at least...", headerFilterFunc:"
 });
 
 
-var table2 = new Tabulator("#checkerboard-table", {
-    ajaxURL:"../assets/tables/checkerboard.json",
-    // importFormat:"csv",
-    // csv format not workable at this moment - keep checking tabulator.info website
-    height:"669px",
-    layout:"fitColumns",
-    groupBy:"customer",
-    columns:[
-        // 2 first columns are frozen     
-        {title:"Customer Journey", field:"blocks", width:280, hozAlign:"right", frozen:true},
-        {title:"Solution Areas", hozAlign:"center",
-        columns:[
-                {title:"Operational Efficiency", headerTooltip:true, field:"efficiency", formatter:"progress",formatterParams:{min:0,max:1,color:"#1cf28c"}},
-                {title:"Connected Smart Products", headerTooltip:true, field:"smart", formatter:"progress",formatterParams:{min:0,max:1,color:"#1cf28c"}},
-                {title:"Secured Flexible Infrastructure", headerTooltip:true, field:"infra", formatter:"progress",formatterParams:{min:0,max:1,color:"#1cf28c"}},
-                {title:"ESG", headerTooltip:true, field:"esg", formatter:"progress",formatterParams:{min:0,max:1,color:"#1cf28c"}},
-                {title:"Assisted Worker", headerTooltip:true, field:"worker", formatter:"progress",formatterParams:{min:0,max:1,color:"#1cf28c"}},    
-        ]
-            }
-            ],
-});
-
-
 var table3 = new Tabulator("#GDMBR", {
     ajaxURL:"../assets/tables/GDMBR.json",
-    height:411,
+    height:450,
 //    layout:"fitColumns",
     autoColumns:true,
+    columns:[
+        {title:"Day#", field:"When", frozen:true, width:100, editor:"input", headerFilter:"list", headerFilterParams:{valuesLookup:true, clearable:true}},
+        {title:"Track", field:"Track", formatter:"link", formatterParams:{
+            labelField:"MAP/GPX",
+            urlPrefix:"https://siroccomeister.github.io/f3/maps/",
+//            target:"_blank",
+        }}
+        {title:"Dist KM", field:"Dist km", width:100, formatter:"progress", 
+            formatterParams:{
+              min:30,
+              max:200,
+              color:["#f36f76", "#f0a362", "#1cf28c"],
+              legendColor:"#000000",
+              legendAlign:"center",
+              legend : true
+            },
+            headerFilter:"number", headerFilterPlaceholder:"at least...", headerFilterFunc:">="
+        },
 });

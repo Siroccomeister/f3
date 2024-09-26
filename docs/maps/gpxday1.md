@@ -13,4 +13,3 @@ var mygpxurl = "/f3/assets/gpx/GPX1.gpx";
 </script>
 
 <script src="/f3/javascripts/mygpx.js"> </script>
-
