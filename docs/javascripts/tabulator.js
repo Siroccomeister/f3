@@ -93,12 +93,14 @@ var table3 = new Tabulator("#GDMBR", {
               var el = document.createElement("div");
               var myrow = cell.getRow();
               var mycol = cell.getColumn();
-              var newcell = myrow.getCell(mycol.getNextColumn());
+              //var newcell = myrow.getCell(mycol.getNextColumn());
+              var newcell = myrow.getCell("When");
               el.style.backgroundColor = "#F7DC6F";
               el.innerText = cell.getValue() + " @" + newcell.getValue(); //return cells "field - value";
               return el; 
             },
         },
+        {title:"Timestamp", field:"When",visible:false},
         {title:"Map", field:"Track", formatter:"link", 
             formatterParams:{
               label:"MAP/GPX",
