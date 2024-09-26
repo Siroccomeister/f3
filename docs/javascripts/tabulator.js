@@ -132,7 +132,7 @@ var table3 = new Tabulator("#GDMBR", {
             formatterParams:{
               min:30,
               max:200,
-              color:["#52BE80", "#7DCEA0", "#D4EFDF"],
+              color:["#D4EFDF", "#7DCEA0", "#52BE80"],
               legendColor:"#000000",
               legendAlign:"center",
               legend : true
