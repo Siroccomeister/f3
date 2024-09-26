@@ -82,21 +82,17 @@ function minMaxFilterFunction(headerValue, rowValue, rowData, filterParams){
 var table3 = new Tabulator("#GDMBR", {
     ajaxURL:"../assets/tables/GDMBR.json",
     height:450,
-//    layout:"fitColumns",
+    layout:"fitDataFill",
 //    autoColumns:true,
     columns:[
-        {title:"Day#", field:"Day", frozen:true, width:100, editor:"input", headerFilter:"list", headerFilterParams:{valuesLookup:true, clearable:true},
+        {title:"Day#", field:"Day", frozen:true, width:80, editor:"input", headerFilter:"list", headerFilterParams:{valuesLookup:true, clearable:true},
             tooltip:function(e, cell, onRendered){
               //e - mouseover event
               //cell - cell component
               //onRendered - onRendered callback registration function    
               var el = document.createElement("div");
-              var myrow = cell.getRow();
-              var mycol = cell.getColumn();
-              //var newcell = myrow.getCell(mycol.getNextColumn());
-              var newcell = myrow.getCell("When");
               el.style.backgroundColor = "#F7DC6F";
-              el.innerText = cell.getValue() + " @" + newcell.getValue(); //return cells "field - value";
+              el.innerText = cell.getValue() + " @ " + cell.getRow().getCell("When").getValue(); //return cells "field - value";
               return el; 
             },
         },
@@ -144,5 +140,29 @@ var table3 = new Tabulator("#GDMBR", {
             },
             headerFilter:"number", headerFilterPlaceholder:"at least...", headerFilterFunc:">="
         },
+        {title:"Elv m", field:"Elv m", width:100, formatter:"progress", 
+            formatterParams:{
+              min:500,
+              max:2000,
+              color:["#D4EFDF", "#7DCEA0", "#52BE80"],
+              legendColor:"#000000",
+              legendAlign:"center",
+              legend : true
+            },
+            headerFilter:"number", headerFilterPlaceholder:"at least...", headerFilterFunc:">="
+        },
+        {title:"Moving Time", field:"Moving Time"},
+        {title:"Speed km/h", field:"Speed km/h"},
+        {title:"Max Speed km/h", field:"Max Speed km/h"},
+        {title:"Pace /km", field:"Pace /km"},visible:false,
+        {title:"Elapsed Time Pace /km", field:"Elapsed Time Pace /km",visible:false},
+        {title:"Max Pace /km", field:"Max Pace /km",visible:false},
+        {title:"Pace /100m", field:"Pace /100m",visible:false},
+        {title:"Elv High m", field:"Elv High m"},
+        {title:"Elv Low m", field:"Elv Low m"},
+        {title:"Elev/Dist m/km", field:"Elev/Dist m/km"},
+        {title:"Elev/Time m/h", field:"Elev/Time m/h"},
+        {title:"Temp Celsius", field:"Temp Celsius"},
+        {title:"KM cumulative", field:"KM cumulative"},
     ],
 });
