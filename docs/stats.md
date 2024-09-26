@@ -13,11 +13,6 @@ TOTAL from CALGARY to ANTELOPE WELLS/Mexican Border : 4'581 km / 53'389 D+
 On average I rode at 16.6 km/h with 8 hours/day.
 Achieving 125km/day distance and 1'450m/day of D+ climbing.
 
-<div id="example-table"></div>
-
-Now it is tuning time... we are making progress though.
-Maybe we should remove optimize plugin for a little while though...
-
 
 This looks good but now I need to :
 - freeze left-hand columns : 

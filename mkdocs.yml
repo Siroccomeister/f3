@@ -102,8 +102,8 @@ nav:
    - Preparation:
      - Rig: rig.md
      - Training: training.md
-#   - Stats:
-#     - Stats: stats.md
+   - Stats:
+     - Stats: stats.md
      
      
 #   - Others:

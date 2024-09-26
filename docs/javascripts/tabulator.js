@@ -78,50 +78,6 @@ function minMaxFilterFunction(headerValue, rowValue, rowData, filterParams){
     return true; //must return a boolean, true if it passes the filter.
 }
 
-var table1 = new Tabulator("#example-table", {
-    ajaxURL:"../assets/tables/scorecard.json",  // relative from where the table is called ie. md file location
-    height:"311px",
-    layout:"fitColumns",
-    columns:[
-        {title:"Area", field:"area", frozen:true, width:100, editor:"input", headerFilter:"list", headerFilterParams:{valuesLookup:true, clearable:true}},
-        {title:"Discover & Assess", field:"disco", width:160, formatter:"progress", formatterParams:{
-    min:0,
-    max:1,
-    color:["#f36f76", "#f0a362", "#1cf28c"],
-    legendColor:"#000000",
-    legendAlign:"center",
-    legend : true
-    },
-headerFilter:"number", headerFilterPlaceholder:"at least...", headerFilterFunc:">="},
-        {title:"Design & Deploy", field:"build", width:160, formatter:"progress", formatterParams:{
-    min:0,
-    max:1,
-    color:["#f36f76", "#f0a362", "#1cf28c"],
-    legendColor:"#000000",
-    legendAlign:"center",
-    legend : true
-    },
-headerFilter:"number", headerFilterPlaceholder:"at least...", headerFilterFunc:">="},
-        {title:"Manage & Change", field:"run", width:160, formatter:"progress", formatterParams:{
-    min:0,
-    max:1,
-    color:["#f36f76", "#f0a362", "#1cf28c"],
-    legendColor:"#000000",
-    legendAlign:"center",
-    legend : true
-    },
-headerFilter:"number", headerFilterPlaceholder:"at least...", headerFilterFunc:">="},
-        {title:"Expert @Teams", field:"email", hozAlign:"center", formatter:"link", formatterParams:{
-    labelField:"name",
-    urlPrefix:"msteams:/l/chat/0/0?users=",
-    target:"_blank"},
-    headerFilter:"list",
-    headerFilterParams:{valuesLookup:true, clearable:true}
-    },
-    {title:"Role & City", field:"role - city", editor:"input", headerFilter:"list", headerFilterParams:{valuesLookup:true, clearable:true}},
-],
-});
-
 
 var table3 = new Tabulator("#GDMBR", {
     ajaxURL:"../assets/tables/GDMBR.json",
@@ -129,14 +85,24 @@ var table3 = new Tabulator("#GDMBR", {
 //    layout:"fitColumns",
 //    autoColumns:true,
     columns:[
-        {title:"Day#", field:"When", frozen:true, width:100, editor:"input", headerFilter:"list", headerFilterParams:{valuesLookup:true, clearable:true}},
+        {title:"Day#", field:"Day", frozen:true, width:100, editor:"input", headerFilter:"list", headerFilterParams:{valuesLookup:true, clearable:true},
+            tooltip:function(e, cell, onRendered){
+              //e - mouseover event
+              //cell - cell component
+              //onRendered - onRendered callback registration function    
+              var el = document.createElement("div");
+              el.style.backgroundColor = "#F7DC6F";
+              el.innerText = cell.getNextColumn().getField() + " - " + cell.getValue(); //return cells "field - value";
+              return el; 
+            },
+        },
         {title:"Map", field:"Track", formatter:"link", 
             formatterParams:{
               label:"MAP/GPX",
               urlPrefix:"https://siroccomeister.github.io/f3/maps/",
 //              target:"_blank",
-             },
-             tooltip:function(e, cell, onRendered){
+            },
+            tooltip:function(e, cell, onRendered){
                 //e - mouseover event
                 //cell - cell component
                 //onRendered - onRendered callback registration function    
@@ -166,7 +132,7 @@ var table3 = new Tabulator("#GDMBR", {
             formatterParams:{
               min:30,
               max:200,
-              color:["#F7DC6F", "#85C1E9", "#1cf28c"],
+              color:["#52BE80", "#7DCEA0", "#D4EFDF"],
               legendColor:"#000000",
               legendAlign:"center",
               legend : true
