@@ -52,6 +52,7 @@ plugins:
         background_image: layouts/shade.png
   - blog:
       blog_toc: true
+      post_url_format: "{file}"
       archive: false
       categories: false
       pagination: false
