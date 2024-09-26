@@ -130,10 +130,17 @@ var table3 = new Tabulator("#GDMBR", {
 //    autoColumns:true,
     columns:[
         {title:"Day#", field:"When", frozen:true, width:100, editor:"input", headerFilter:"list", headerFilterParams:{valuesLookup:true, clearable:true}},
-        {title:"Track", field:"Track", formatter:"link", 
+        {title:"Map", field:"Track", formatter:"link", 
             formatterParams:{
               labelField:"MAP/GPX",
               urlPrefix:"https://siroccomeister.github.io/f3/maps/",
+//              target:"_blank",
+             }
+        },
+        {title:"Blog#", field:"Blog#", formatter:"link", 
+            formatterParams:{
+              labelField:"Blog",
+              urlPrefix:"https://siroccomeister.github.io/f3/blog/#",
 //              target:"_blank",
              }
         },
