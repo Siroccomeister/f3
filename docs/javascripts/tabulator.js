@@ -130,11 +130,13 @@ var table3 = new Tabulator("#GDMBR", {
     autoColumns:true,
     columns:[
         {title:"Day#", field:"When", frozen:true, width:100, editor:"input", headerFilter:"list", headerFilterParams:{valuesLookup:true, clearable:true}},
-        {title:"Track", field:"Track", formatter:"link", formatterParams:{
-            labelField:"MAP/GPX",
-            urlPrefix:"https://siroccomeister.github.io/f3/maps/",
-//            target:"_blank",
-        }}
+        {title:"Track", field:"Track", formatter:"link", 
+            formatterParams:{
+              labelField:"MAP/GPX",
+              urlPrefix:"https://siroccomeister.github.io/f3/maps/",
+//              target:"_blank",
+             }
+        },
         {title:"Dist KM", field:"Dist km", width:100, formatter:"progress", 
             formatterParams:{
               min:30,
