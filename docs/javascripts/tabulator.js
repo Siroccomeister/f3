@@ -101,7 +101,6 @@ var table3 = new Tabulator("#GDMBR", {
             formatterParams:{
               label:"MAP/GPX",
               urlPrefix:"https://siroccomeister.github.io/f3/maps/",
-//              target:"_blank",
             },
             tooltip:function(e, cell, onRendered){
                 //e - mouseover event
@@ -113,22 +112,13 @@ var table3 = new Tabulator("#GDMBR", {
                 return el; 
             },
         },
-        {title:"Blog#", field:"Blog#", width:100, tooltip:true, formatter:"link", 
+        {title:"Blog#", field:"Blog#", width:250, tooltip:true, formatter:"link", 
             formatterParams:{
-              label:"Blog",
+              labelField:"Blog title",
               urlPrefix:"https://siroccomeister.github.io/f3/blog/",
-//              target:"_blank",
              },
-             tooltip:function(e, cell, onRendered){
-                //e - mouseover event
-                //cell - cell component
-                //onRendered - onRendered callback registration function    
-                var el = document.createElement("div");
-                el.style.backgroundColor = "#F7DC6F";
-                el.innerText = cell.getColumn().getField() + " - " + cell.getValue(); //return cells "field - value";
-                return el; 
-            },
         },
+        {title:"Blog title", field:"Blog title",visible:false},
         {title:"Dist KM", field:"Dist km", width:100, formatter:"progress", 
             formatterParams:{
               min:30,

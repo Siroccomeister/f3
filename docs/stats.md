@@ -2,25 +2,25 @@
 
 This sections shows the daily details of my bike trip with all possible stats. You can also access the gpx files with elevation maps and so on.
 
-# Average
+### Average
 
 - 8 hours/day
 - 16.6 km/h
 - 125km/day distance
 - 1'450m/day of D+ climbing.
 
-# BANFF to ANTELOPE WELLS 
+### BANFF to ANTELOPE WELLS 
 
 - Full riding : **35 days**.
 - ZERO DAYS : **1** (no ride at all)
 - REST DAYS : **3** (less than 3 hours riding).
-Which in total made up 39 DAYS. 
+- TOTAL : **39 DAYS**. 
 
-2 DAYS to ride from CALGARY to BANFF.
+note : 2 DAYS to ride from CALGARY to BANFF.
 
-# Total Distance/Elevation
+### Total Distance/Elevation
 
-TOTAL from BANFF to ANTELOPE WELLS/Mexican Border : 4'411 km / 51'635m D+
-TOTAL from CALGARY to ANTELOPE WELLS/Mexican Border : 4'581 km / 53'389 D+
+- TOTAL from BANFF to ANTELOPE WELLS/Mexican Border : 4'411 km / 51'635m D+
+- TOTAL from CALGARY to ANTELOPE WELLS/Mexican Border : 4'581 km / 53'389 D+
 
 <div id="GDMBR"></div>
