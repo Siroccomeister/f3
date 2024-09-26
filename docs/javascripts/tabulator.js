@@ -91,6 +91,7 @@ var table3 = new Tabulator("#GDMBR", {
               //cell - cell component
               //onRendered - onRendered callback registration function    
               var el = document.createElement("div");
+              let cell = cell.getRow().getCell("When");
               el.style.backgroundColor = "#F7DC6F";
               el.innerText = cell.getNextColumn().getField() + " - " + cell.getValue(); //return cells "field - value";
               return el; 
@@ -108,7 +109,7 @@ var table3 = new Tabulator("#GDMBR", {
                 //onRendered - onRendered callback registration function    
                 var el = document.createElement("div");
                 el.style.backgroundColor = "#F7DC6F";
-                el.innerText = cell.getColumn().getField() + " - " + cell.getValue(); //return cells "field - value";
+                el.innerText = "click to see gps map & profile : " + cell.getValue();
                 return el; 
             },
         },
