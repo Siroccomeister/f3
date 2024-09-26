@@ -148,4 +148,5 @@ var table3 = new Tabulator("#GDMBR", {
             },
             headerFilter:"number", headerFilterPlaceholder:"at least...", headerFilterFunc:">="
         },
+    ],
 });
