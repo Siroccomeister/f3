@@ -134,14 +134,14 @@ var table3 = new Tabulator("#GDMBR", {
             formatterParams:{
               label:"MAP/GPX",
               urlPrefix:"https://siroccomeister.github.io/f3/maps/",
-              target:"_blank",
+//              target:"_blank",
              }
         },
         {title:"Blog#", field:"Blog#", formatter:"link", 
             formatterParams:{
               label:"Blog",
               urlPrefix:"https://siroccomeister.github.io/f3/blog/#",
-              target:"_blank",
+//              target:"_blank",
              }
         },
         {title:"Dist KM", field:"Dist km", width:100, formatter:"progress", 
