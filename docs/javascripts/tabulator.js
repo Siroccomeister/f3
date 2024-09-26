@@ -127,7 +127,7 @@ var table3 = new Tabulator("#GDMBR", {
     ajaxURL:"../assets/tables/GDMBR.json",
     height:450,
 //    layout:"fitColumns",
-    autoColumns:true,
+//    autoColumns:true,
     columns:[
         {title:"Day#", field:"When", frozen:true, width:100, editor:"input", headerFilter:"list", headerFilterParams:{valuesLookup:true, clearable:true}},
         {title:"Track", field:"Track", formatter:"link", 
