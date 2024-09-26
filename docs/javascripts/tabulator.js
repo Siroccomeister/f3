@@ -135,7 +135,16 @@ var table3 = new Tabulator("#GDMBR", {
               label:"MAP/GPX",
               urlPrefix:"https://siroccomeister.github.io/f3/maps/",
 //              target:"_blank",
-             }
+             },
+             tooltip:function(e, cell, onRendered){
+                //e - mouseover event
+                //cell - cell component
+                //onRendered - onRendered callback registration function    
+                var el = document.createElement("div");
+                el.style.backgroundColor = "blue";
+                el.innerText = cell.getColumn().getField() + " - " + cell.getValue(); //return cells "field - value";
+                return el; 
+            },
         },
         {title:"Blog#", field:"Blog#", formatter:"link", 
             formatterParams:{
@@ -148,7 +157,7 @@ var table3 = new Tabulator("#GDMBR", {
             formatterParams:{
               min:30,
               max:200,
-              color:["#f36f76", "#f0a362", "#1cf28c"],
+              color:["#F7DC6F", "##85C1E9", "#1cf28c"],
               legendColor:"#000000",
               legendAlign:"center",
               legend : true
