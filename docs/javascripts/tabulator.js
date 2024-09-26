@@ -132,14 +132,14 @@ var table3 = new Tabulator("#GDMBR", {
         {title:"Day#", field:"When", frozen:true, width:100, editor:"input", headerFilter:"list", headerFilterParams:{valuesLookup:true, clearable:true}},
         {title:"Map", field:"Track", formatter:"link", 
             formatterParams:{
-              labelField:"MAP/GPX",
+              label:"MAP/GPX",
               urlPrefix:"https://siroccomeister.github.io/f3/maps/",
               target:"_blank",
              }
         },
         {title:"Blog#", field:"Blog#", formatter:"link", 
             formatterParams:{
-              labelField:"Blog",
+              label:"Blog",
               urlPrefix:"https://siroccomeister.github.io/f3/blog/#",
               target:"_blank",
              }
