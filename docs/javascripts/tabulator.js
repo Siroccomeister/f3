@@ -91,9 +91,10 @@ var table3 = new Tabulator("#GDMBR", {
               //cell - cell component
               //onRendered - onRendered callback registration function    
               var el = document.createElement("div");
-              let  newCell = cell.getRow().getCell("When");
+              var row = cell.getRow();
+              var  newCell = row.getCell("When");
               el.style.backgroundColor = "#F7DC6F";
-              el.innerText = cell.getValue() + "@" + newCell.getValue(); //return cells "field - value";
+              el.innerText = cell.getValue() + " @" + newCell.getValue(); //return cells "field - value";
               return el; 
             },
         },
