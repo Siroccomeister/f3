@@ -85,7 +85,7 @@ var table3 = new Tabulator("#GDMBR", {
     layout:"fitDataFill",
 //    autoColumns:true,
     columns:[
-        {title:"Day#", field:"Day", frozen:true, width:80, editor:"input", headerFilter:"list", headerFilterParams:{valuesLookup:true, clearable:true},
+        {title:"Day#", field:"Day", frozen:true, width:70, editor:"input", headerFilter:"list", headerFilterParams:{valuesLookup:true, clearable:true},
             tooltip:function(e, cell, onRendered){
               //e - mouseover event
               //cell - cell component
@@ -113,10 +113,10 @@ var table3 = new Tabulator("#GDMBR", {
                 return el; 
             },
         },
-        {title:"Blog#", field:"Blog#", tooltip:true, formatter:"link", 
+        {title:"Blog#", field:"Blog#", width:100, tooltip:true, formatter:"link", 
             formatterParams:{
               label:"Blog",
-              urlPrefix:"https://siroccomeister.github.io/f3/blog/#",
+              urlPrefix:"https://siroccomeister.github.io/f3/blog/",
 //              target:"_blank",
              },
              tooltip:function(e, cell, onRendered){
