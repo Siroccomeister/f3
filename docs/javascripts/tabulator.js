@@ -141,23 +141,32 @@ var table3 = new Tabulator("#GDMBR", {
                 //cell - cell component
                 //onRendered - onRendered callback registration function    
                 var el = document.createElement("div");
-                el.style.backgroundColor = "blue";
+                el.style.backgroundColor = "#F7DC6F";
                 el.innerText = cell.getColumn().getField() + " - " + cell.getValue(); //return cells "field - value";
                 return el; 
             },
         },
-        {title:"Blog#", field:"Blog#", formatter:"link", 
+        {title:"Blog#", field:"Blog#", tooltip:true, formatter:"link", 
             formatterParams:{
               label:"Blog",
               urlPrefix:"https://siroccomeister.github.io/f3/blog/#",
 //              target:"_blank",
-             }
+             },
+             tooltip:function(e, cell, onRendered){
+                //e - mouseover event
+                //cell - cell component
+                //onRendered - onRendered callback registration function    
+                var el = document.createElement("div");
+                el.style.backgroundColor = "#F7DC6F";
+                el.innerText = cell.getColumn().getField() + " - " + cell.getValue(); //return cells "field - value";
+                return el; 
+            },
         },
         {title:"Dist KM", field:"Dist km", width:100, formatter:"progress", 
             formatterParams:{
               min:30,
               max:200,
-              color:["#F7DC6F", "##85C1E9", "#1cf28c"],
+              color:["#F7DC6F", "#85C1E9", "#1cf28c"],
               legendColor:"#000000",
               legendAlign:"center",
               legend : true
