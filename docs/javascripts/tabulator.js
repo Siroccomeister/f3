@@ -154,7 +154,7 @@ var table3 = new Tabulator("#GDMBR", {
         {title:"Moving Time", field:"Moving Time"},
         {title:"Speed km/h", field:"Speed km/h"},
         {title:"Max Speed km/h", field:"Max Speed km/h"},
-        {title:"Pace /km", field:"Pace /km"},visible:false,
+        {title:"Pace /km", field:"Pace /km",visible:false},
         {title:"Elapsed Time Pace /km", field:"Elapsed Time Pace /km",visible:false},
         {title:"Max Pace /km", field:"Max Pace /km",visible:false},
         {title:"Pace /100m", field:"Pace /100m",visible:false},
