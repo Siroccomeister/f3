@@ -80,6 +80,7 @@ markdown_extensions:
    - admonition
    - toc:
        permalink: false
+       toc_depth: 3
    - pymdownx.details
    - pymdownx.superfences
    - pymdownx.tabbed:
@@ -103,7 +104,7 @@ nav:
    - Stats:
      - Stats: stats.md
      
-     
+     d
 #   - Others:
 #     - Cheatsheet: cheatsheet.md
  
