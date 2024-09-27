@@ -3,9 +3,9 @@ document.addEventListener("DOMContentLoaded", function() {
 let opts = {
    map: {
       center: [51.1784, -115.5708], // should be set to BANFF
-      zoom: 9,
+      zoom: 8,
       mapTypeId: 'topo', 
-      dragging: true,
+      dragging: false,
       locateControl: false,
       searchControl: false,
       minimapControl: false,
