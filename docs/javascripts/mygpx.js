@@ -5,7 +5,7 @@ let opts = {
       center: [51.1784, -115.5708], // should be set to BANFF
       zoom: 8,
       mapTypeId: 'topo', 
-      dragging: false,
+      dragging: true,
       locateControl: false,
       searchControl: false,
       minimapControl: false,
@@ -26,7 +26,7 @@ let opts = {
     options: {
         theme: "lightblue-theme",
         height: 150,
-        dragging: false,
+        dragging: true,
         collapsed: false,
         autohide: false,
         autofitBounds: true,
