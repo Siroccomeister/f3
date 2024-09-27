@@ -26,7 +26,7 @@ let opts = {
     options: {
         theme: "lightblue-theme",
         height: 150,
-        dragging: true,
+        dragging: false,
         collapsed: false,
         autohide: false,
         autofitBounds: true,
