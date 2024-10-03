@@ -32,6 +32,10 @@ extra_javascript:
 
 
 extra:
+  alternate:
+    - name: Français
+      link: /fr/ 
+      lang: fr
   analytics:
     provider: google
     property: G-CR3FZ4XFFT
