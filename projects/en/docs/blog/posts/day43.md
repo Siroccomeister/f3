@@ -9,75 +9,75 @@ categories:
 #  Sunset Post
 
 <figure markdown>
-![Sunset : je regarde vers l'ouest, couleurs magnifiques. le soleil se couche pour moi, une nouvelle aube se lève en Europe, c'est si bon et paisible.](day43/day43.1.jpeg){ width=“300” }
+![Sunset : Colors are magnificent while I am watching the west. It is sunset for me, but it a new dawn rises in Europe, it feels good and peaceful.](day43/day43.1.jpeg){ width=“300” }
 </figure>
 
-San Diego vaut bien un détour! Je pose mon vélo Salida dans le quartier Ocean Beach. Beachfront : je suis à 50m de la plage. Ambiance détendue, alternative voire hippie, surf. Je fais de très chouettes rencontres, j'ai besoin de parler de mon aventure. Je fais aussi le plein de sensations sans être très entreprenant dans mes activités. 40 jours dans les étendues sauvages, on s'enivre vite dans une grande ville.Le corps me montre sa fatigue. Un beau blues en somme : je suis prêt pour le retour!
+San Diego is definitely worth a detour! With my bike Salida, I chose to stay in the Ocean Beach area. Beachfront: the beach is mere 50 meters away! The atmosphere is relaxed, alternative, even hippie, with definite surfing vibes. I meet some really cool people, and I feel the need to talk about my adventure. I also get my fill of sensations without being too adventurous in my activities. After 40 days in the wilderness, it's easy to feel overwhelmed in a big city. My body starts to reflect its fatigue. A beautiful kind of blues, really: I'm ready to head back home!
 
 <!-- more -->
 
 
 # Rock of Ages
 
-C'est dimanche, je décide de visiter une église locale. Quelle organisation! J'estime à 2'000 personnes la participation. Et il y a un 2eme service qui enchaine! La louange est impressionante et me touche beaucoup. Tout est remarquablement orchestré. Je retiens différentes choses, mais surtout que faire de la place dans son esprit comme j'ai eu la chance de pouvoir le faire, nous rapproche de l'essentiel, avec un discernement plus aigu et un autre regard.Comment faire pour prolonger cela à mon retour? 🤔
+
+It's Sunday, I decide to visit a local church. What an organization! I estimate around 2,000 people in attendance. And there's a second service right after! The worship is impressive and moves me deeply. Everything is remarkably well-orchestrated. I take away several things, but most of all, making space in your mind, as I’ve been fortunate enough to do, brings you closer to what really matters, with sharper discernment and new perspectives. How can I extend this experience when I return? 🤔
 
 # San Diego
 
-Je découvre la ville. Je vous mets pas mal de photos pour le coup. Je me promène dans mon quartier 2 jours et m'occupe d'emballer le vélo le 3ème. Je fais connaissance avec Tim et Christel qui habitent ici depuis 6 ans. Un Français me parle de sa semaine au festival Burning Man dans le Nevada. Je tente une sortie vélo mais me rends compte que rouler en ville, ce n'est plus la Divide... Je coupe court d'autant que j'ai de la peine à suivre. Il faut rester concentré pour suivre le parcours en ville! Les grands espaces me manquent déjà. En tout cas l'ambiance est à la détente.
+I'm discovering the city. I’m sharing quite a few photos this time. I spend two days walking around my neighborhood and on the third day, I take care of packing up the bike. I get to know Tim and Christel, who have been living here for six years. A French guy tells me about his week at the Burning Man festival in Nevada. I try a bike ride, but I quickly realize that riding in the city is nothing like the Divide... I cut it short, especially since I'm having a hard time keeping up : you really have to stay focused to follow the route in the city with traffic and signs! I already miss the wide open spaces. But at least the vibe here is super relaxed.
 
 # Camaraderie - wrap-up
 
-Je relis avec plaisir mon blog-journal, je prends des nouvelles. K.K et Gomitha sont déjà supers actifs. John & John ont malheureusement abandonné assez vite (Ovando), mais devraient s'y remettre par sections. John-Père fait construire une maison près de Salida. Avec sa compagne ils ont gagné un voyage en Suisse, on risque de se revoir! Sarah est arrivée le même jour que moi dans la nuit après 215km 💪! Elle pense faire la version course l'année prochaine, elle rêve de se frotter au record féminin de 18 jours en single speed (sans dérailleur). Quel courage. Gian a terminé hier, j'espère rouler avec lui en Suisse ☺️.
+I’m happily rereading my blog-journal and catching up with people. K.K. and Gomitha are already super active. Unfortunately, John & John dropped out fairly early (in Ovando), but they plan to continue in sections. John-Sr. is building a house near Salida. He and his partner won a trip to Switzerland, so we might meet again! Sarah arrived on the same day as me, late at night after riding 215 km 💪! She’s thinking about doing the race version next year, dreaming of challenging the women’s single-speed record (18 days, no derailleur). What courage. Gian finished yesterday, and I hope to ride with him in Switzerland ☺️.
 
-# Et moi?
 
-D'abord un gros (genre énormément gros) besoin de retrouver la famille 🥰.
 
-Sur la forme, envie de passer voir un osthéo quand même histoire de tout remettre en place. Et aussi se tester sur les grimpettes à proximité (Barillette, Faucille etc...) puis faire des sorties (vélo ou autre ☺️) avec les amis.
+# And me?
 
-Sur le fond, je vais chercher une prochaine étape professionnelle plus en phase avec les priorités que je retiens de ma Divide (il faut rêver!). Ça va bien m'occuper aussi. Je voudrais reprendre le blog et le compléter sous forme de bilans, conseils et faire une traduction en anglais avant de le promouvoir pour donner envie à d'autres. Je voudrais aussi regarder de plus près les aspects nutrition vs. effort. Mais tout cela en restant dans l'esprit Divide : garder le focus, concentrer l'énergie là où il faut faire la différence, surmonter les défis, profiter. J'espère pas perdre ma forme trop vite!
+First, I have a huge (like, really huge) need to reunite with my family 🥰.
 
-Finalement il y a beaucoup à découvrir, l'aventure continue.
+Physically, I’d like to visit an osteopath to get everything realigned. I also want to test myself on some nearby climbs (Barillette, Faucille, etc.) and then go on outings (bike or otherwise ☺️) with friends.
 
-Encore merci à vous tous, spécialement ceux qui m'ont aussi envoi un petit mot. À très bientôt pour des hugs et des échanges plus interactifs 👊. Et surtout - dites moi quel sera votre prochain défi? 😉.
+On a deeper level, I’m looking for my next professional step, one that aligns better with the priorities I’ve drawn from my Divide experience (gotta dream big!). That will keep me busy as well. I’d like to revisit the blog, expand it with summaries, advice, and translate it into English before promoting it to inspire others. I also want to dive deeper into nutrition vs. exertion. But all this while staying true to the Divide spirit: staying focused, channeling energy where it matters most, overcoming challenges, and enjoying the ride. I hope I don’t lose my fitness too quickly!
+
+In the end, there’s still so much to discover—the adventure continues.
+
+Thank you all again, especially those who sent me a little message. See you soon for hugs and more interactive chats 👊. And most importantly—tell me, what will be your next challenge? 😉.
 
 !!! hint ""
-    cliquez sur les photos pour voir les commentaires
-
-!!! question ""
-    🇫🇷 si vous avez été fidèle jusqu'ici, un commentaire est bienvenu! 🇺🇸 if you followed me until here, a comment will be welcome! [>> Click here](https://forms.office.com/r/5TiedXLRaN)
+    click on photos to see details and comments
 
 <figure markdown>
 
-![Arrivée à San Diego - j'ai roulé toute la nuit. Impossible de dormir en Arizona: chaleur torride](day43/day43.2.jpeg){ width=“300” }
+![Arrival in San Diego - I rode all night. Impossible to sleep in Arizona: scorching heat.](day43/day43.2.jpeg){ width=“300” }
 
-![Comme un certain air (...) hippie? ](day43/day43.3.jpeg){ width=“300” }
+![Is there a bit of a hippie vibe?](day43/day43.3.jpeg){ width=“300” }
 
-![Ambiance, originalité en décalé](day43/day43.4.jpeg){ width=“300” }
+![Atmosphere, quirky originality.](day43/day43.4.jpeg){ width=“300” }
 
-![La classe, face à la mer et au coucher du soleil 👍](day43/day43.5.1.jpeg){ width=“300” }
+![Classy, facing the sea at sunset 👍.](day43/day43.5.1.jpeg){ width=“300” }
 
-![Les couchers de soleil sont magnifiques- honnêtement!](day43/day43.6.jpeg){ width=“300” }
+![The sunsets are magnificent—honestly!](day43/day43.6.jpeg){ width=“300” }
 
-![Quelques minutes plus tard c'est encore mieux!](day43/day43.7.jpeg){ width=“300” }
+![A few minutes later, it gets even better!](day43/day43.7.jpeg){ width=“300” }
 
-![Éole en vol! Ils font vraiment le show par ici!](day43/day43.8.jpeg){ width=“300” }
+![Eole flying! They really put on a show here!](day43/day43.8.jpeg){ width=“300” }
 
-![Il en faisait aussi des doubles... mais bon, après 5mn il avait fait le tour des figures. Le cordon amène l'eau, connecté à la turbine d'un gros water scooter](day43/day43.9.jpeg){ width=“300” }
+![He was also doing doubles... but well, after 5 minutes, he had exhausted all his tricks. The cord brings water, connected to a big water scooter's turbine.](day43/day43.9.jpeg){ width=“300” }
 
-![Dans la baie, une belle diversité d'oiseaux marins. Sympa de voir un pélican qui dîne](day43/day43.10.jpeg){ width=“300” }
+![In the bay, a nice variety of seabirds. Cool to see a pelican having dinner.](day43/day43.10.jpeg){ width=“300” }
 
-![J'ai craqué pour un steak. Alors là, c'est beaucoup plus précis que pour les fromages. Le type de viande et de coupe portent des noms, un label qualité. Ici un prime ribeye, pièce de côte qui bouge pas bcp donc... très grasse 😋. Un délice. Le prix moins 😆. ](day43/day43.11.jpeg){ width=“300” }
+![I caved for a steak. Now, this is much more precise than with cheese. The type of meat and cut have specific names, a quality label. Here’s a prime ribeye, a rib cut that doesn't move much so... very fatty 😋. Delicious. The price, less so 😆.](day43/day43.11.jpeg){ width=“300” }
 
-![Samesun : Hôtel-Auberge (chambres et dortoirs), très sympa. ](day43/day43.12.jpeg){ width=“300” }
+![Samesun: Hotel-Hostel (rooms and dorms), very nice.](day43/day43.12.jpeg){ width=“300” }
 
-![Une vue compilée de ma trace. Je vais encore mettre mes statistiques au propre. Passé la frontière au 49eme parallèle (Paris), terminé juste au-dessus du 31ème (Marrakech/Zagora)](day43/day43.20.jpeg){ width=“300” }
+![A compiled view of my route. I'll clean up my stats later. Crossed the border at the 49th parallel (Paris), finished just above the 31st (Marrakech/Zagora).](day43/day43.20.jpeg){ width=“300” }
 
-![Bravo Sarah! 💪](day43/day43.21.jpeg){ width=“300” }
+![Well done, Sarah! 💪](day43/day43.21.jpeg){ width=“300” }
 
-![Bravo Gian! 👊](day43/day43.22.jpeg){ width=“300” }
+![Well done, Gian! 👊](day43/day43.22.jpeg){ width=“300” }
 
-![A bientôt pour de nouvelles aventures!](day43/day43.23.jpeg){ width=“300” }
+![See you soon for new adventures!](day43/day43.23.jpeg){ width=“300” }
 
 </figure>
 
