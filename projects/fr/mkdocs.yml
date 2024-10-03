@@ -34,7 +34,7 @@ extra_javascript:
 extra:
   alternate:
     - name: English
-      link: ../
+      link: ../en/
       lang: en
     - name: Français
       link: .
