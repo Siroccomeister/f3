@@ -100,7 +100,7 @@ var table3 = new Tabulator("#GDMBR", {
         {title:"Map", field:"Track", formatter:"link", 
             formatterParams:{
               label:"MAP/GPX",
-              urlPrefix:"https://siroccomeister.github.io/f3/maps/",
+              urlPrefix:"https://siroccomeister.github.io/f3/en/maps/",
             },
             tooltip:function(e, cell, onRendered){
                 //e - mouseover event
@@ -115,7 +115,7 @@ var table3 = new Tabulator("#GDMBR", {
         {title:"Blog#", field:"Blog#", width:250, tooltip:true, formatter:"link", 
             formatterParams:{
               labelField:"Blog title",
-              urlPrefix:"https://siroccomeister.github.io/f3/blog/",
+              urlPrefix:"https://siroccomeister.github.io/f3/en/blog/",
              },
         },
         {title:"Blog title", field:"Blog title",visible:false},

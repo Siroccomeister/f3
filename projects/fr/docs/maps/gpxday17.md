@@ -2,14 +2,14 @@
 glightbox: false
 ---
 
-# Day 17 map and gpx data visualisation
+# Jour 17 : carte et visualisation de la trace gpx
 
 <style> #map { width: auto; height: 400px; margin: 0;} </style>
 
 <div id="map"></div>
 
 <script> 
-var mygpxurl = "/f3/assets/gpx/GPX17.gpx";
+var mygpxurl = "/f3/fr/assets/gpx/GPX17.gpx";
 </script>
 
-<script src="/f3/javascripts/mygpx.js"> </script>
+<script src="/f3/fr/javascripts/mygpx.js"> </script>

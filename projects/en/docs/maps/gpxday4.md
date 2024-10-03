@@ -9,7 +9,7 @@ glightbox: false
 <div id="map"></div>
 
 <script> 
-var mygpxurl = "/f3/assets/gpx/GPX4.gpx";
+var mygpxurl = "/f3/en/assets/gpx/GPX4.gpx";
 </script>
 
-<script src="/f3/javascripts/mygpx.js"> </script>
+<script src="/f3/en/javascripts/mygpx.js"> </script>
