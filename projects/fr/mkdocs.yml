@@ -99,15 +99,15 @@ nav:
    - Home: index.md
    - Blog: 
      - blog/index.md
-   - Dotwatching:
-     - Trackleaders: trackleaders.md
-     - GPS Tracker: garminmessenger.md
-   - Platforms:
-     - Strava: strava.md
-     - Komoot: komoot.md
-   - Preparation:
-     - Rig: rig.md
-     - Training: training.md
+#   - Dotwatching:
+#     - Trackleaders: trackleaders.md
+#     - GPS Tracker: garminmessenger.md
+#   - Platforms:
+#     - Strava: strava.md
+#     - Komoot: komoot.md
+#   - Preparation:
+#     - Rig: rig.md
+#     - Training: training.md
    - Stats:
      - Stats: stats.md
      
