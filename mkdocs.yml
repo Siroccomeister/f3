@@ -38,6 +38,7 @@ extra:
 
 plugins:
   - search
+  - projects
 #  - optimize
   - table-reader
   - mkdocs-video:
