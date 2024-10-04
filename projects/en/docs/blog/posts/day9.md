@@ -6,7 +6,7 @@ categories:
   - World
 ---
 
-# 2075mD+
+# 9. Overcoming 2075mD+
 
 <figure markdown>
 ![Single Trail!](day9/day9.1.jpeg){ width=“300” }

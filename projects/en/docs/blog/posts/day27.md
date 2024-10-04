@@ -6,7 +6,7 @@ categories:
   - World
 ---
 
-# Colorado Has Relief!
+# 27. Colorado Has Relief!
 
 <figure markdown>
 ![Evening light after the rain](day27/day27.1.jpeg){ width=“300” }

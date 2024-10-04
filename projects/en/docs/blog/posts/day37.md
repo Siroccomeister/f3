@@ -6,7 +6,7 @@ categories:
   - World
 ---
 
-# Grants
+# 37. Grants
 
 <figure markdown>
 ![Bivouac at Cerro Alesna](day37/day37.1.jpeg){ width=“300” }

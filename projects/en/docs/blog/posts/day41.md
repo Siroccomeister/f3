@@ -6,7 +6,7 @@ categories:
   - World
 ---
 
-# Hachita
+# 41. Hachita
 
 <figure markdown>
 ![The desert 🌵](day41/day41.1.jpeg){ width=“300” }

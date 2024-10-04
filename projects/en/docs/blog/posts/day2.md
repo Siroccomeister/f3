@@ -6,7 +6,7 @@ categories:
   - World
 ---
 
-# Arrival in Banff
+# 2. Arrival in Banff
 
 <figure markdown>
 ![Another Nature](day2/day2.1.jpeg){ width=“300” }

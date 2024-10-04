@@ -6,7 +6,7 @@ categories:
   - World
 ---
 
-# The Great Basin
+# 22. The Great Basin
 
 <figure markdown>
 ![Traversing the Great Basin, evening lights](day22/day22.1.jpeg){ width=“300” }

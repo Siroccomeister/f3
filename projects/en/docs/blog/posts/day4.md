@@ -6,7 +6,7 @@ categories:
   - World
 ---
 
-# The King
+# 4. The King
 
 <figure markdown>
 ![Sa Majesté](day4/day4.1.jpeg){ width=“300” }

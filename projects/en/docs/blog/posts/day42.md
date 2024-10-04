@@ -6,7 +6,7 @@ categories:
   - World
 ---
 
-# Antelope Wells: the final stretch 💪. Really?
+# 42. Antelope Wells: the final stretch 💪. Really?
 
 <figure markdown>
 ![Stylish pose! But still proud ☺️!](day42/day42.1.jpeg){ width=“300” }

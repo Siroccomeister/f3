@@ -6,7 +6,7 @@ categories:
   - World
 ---
 
-# Pie Town and Toaster House
+# 38. Pie Town and Toaster House
 
 <figure markdown>
 ![Pie-o-Neer](day38/day38.1.jpeg){ width=“300” }

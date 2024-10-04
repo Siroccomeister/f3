@@ -6,7 +6,7 @@ categories:
   - World
 ---
 
-# Deserticus
+# 36. Deserticus
 
 <figure markdown>
 ![A peak that accompanied me throughout the first part of today’s route](day36/day36.1.jpeg){ width=“300” }

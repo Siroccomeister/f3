@@ -6,7 +6,7 @@ categories:
   - World
 ---
 
-# Del Norte - The Wild Colorado
+# 31. Del Norte - The Wild Colorado
 
 <figure markdown>
 ![Finally a fun route!](day31/day31.1.jpeg){ width=“300” }

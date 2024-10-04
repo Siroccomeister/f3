@@ -6,7 +6,7 @@ categories:
   - World
 ---
 
-# Abiquiu to Cuba
+# 35. Abiquiu to Cuba
 
 <figure markdown>
 ![Departing for Cuba](day35/day35.1.jpeg){ width=“300” }

@@ -6,7 +6,7 @@ categories:
   - World
 ---
 
-# Lava Mountain and Butte
+# 13. Lava Mountain and Butte
 
 <figure markdown>
 ![Butte](day13/day13.1.jpeg){ width=“300” }

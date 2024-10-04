@@ -6,7 +6,7 @@ categories:
   - World
 ---
 
-# Helena and Park Lake
+# 12. Helena and Park Lake
 
 <figure markdown>
 ![Park Lake just for me!](day12/day12.1.jpeg){ width=“300” }

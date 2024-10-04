@@ -6,7 +6,7 @@ categories:
   - World
 ---
 
-# Boreas Pass 3,500 m
+# 28. Boreas Pass 3,500 m
 
 <figure markdown>
 ![Boreas Pass](day28/day28.1.jpeg){ width=“300” }

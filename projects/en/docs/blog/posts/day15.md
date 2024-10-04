@@ -6,7 +6,7 @@ categories:
   - World
 ---
 
-# Fleecer Ridge
+# 15. Fleecer Ridge
 
 <figure markdown>
 ![Fleecer Ridge 15%](day15/day15.1.jpeg){ width=“300” }

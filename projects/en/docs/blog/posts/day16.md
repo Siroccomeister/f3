@@ -6,7 +6,7 @@ categories:
   - World
 ---
 
-# Storms
+# 16. Storms
 
 <figure markdown>
 ![It's time to test the rain gear](day16/day16.1.jpeg){ width=“300” }

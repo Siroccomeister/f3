@@ -6,7 +6,7 @@ categories:
   - World
 ---
 
-# Today is a Good Day
+# 17. Today is a Good Day
 
 <figure markdown>
 ![Shadow Play](day17/day17.1.jpeg){ width=“300” }

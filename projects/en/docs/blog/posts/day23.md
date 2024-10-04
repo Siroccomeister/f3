@@ -6,7 +6,7 @@ categories:
   - World
 ---
 
-# The Great Basin #2
+# 23. The Great Basin #2
 
 <figure markdown>
 ![Traversing the Great Basin, 2nd day, I can still smile](day23/day23.1.jpeg){ width=“300” }

@@ -6,7 +6,7 @@ categories:
   - World
 ---
 
-# The Day of the Grand Depart
+# 3. The Day of the Grand Depart
 
 <figure markdown>
 ![Banff official start](day3/day3.1.jpeg){ width=“300” }

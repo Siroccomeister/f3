@@ -6,7 +6,7 @@ categories:
   - World
 ---
 
-#  Abiquiu Lodge
+# 34. Abiquiu Lodge
 
 <figure markdown>
 ![Terrasse du Lodge Abiquiu Inn](day34/day34.1.jpeg){ width=“300” }

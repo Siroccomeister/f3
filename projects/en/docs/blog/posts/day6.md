@@ -6,7 +6,7 @@ categories:
   - World
 ---
 
-# 49th Parallel
+# 6. The 49th Parallel
 
 <figure markdown>
 ![Bicycle Shop](day6/day6.1.jpeg){ width=“300” }

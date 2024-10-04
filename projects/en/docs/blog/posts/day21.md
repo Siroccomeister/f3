@@ -6,7 +6,7 @@ categories:
   - World
 ---
 
-# Pinendale
+# 21. Pinendale
 
 <figure markdown>
 ![Warmly dressed 🥶!](day21/day21.1.jpeg){ width=“300” }

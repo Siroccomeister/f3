@@ -6,7 +6,7 @@ categories:
   - World
 ---
 
-# Togwotee and Union Pass
+# 20. Togwotee and Union Pass
 
 <figure markdown>
 ![Continental Divide](day20/day20.1.jpeg){ width=“300” }

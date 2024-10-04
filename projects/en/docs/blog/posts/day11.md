@@ -6,7 +6,7 @@ categories:
   - World
 ---
 
-# 1,000 km
+# 11. The 1,000 km mark
 
 <figure markdown>
 ![Alpaca Farm](day11/day11.1.jpeg){ width=“300” }

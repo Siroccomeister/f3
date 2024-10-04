@@ -6,7 +6,7 @@ categories:
   - World
 ---
 
-# Things Go Wrong in Rawlins
+# 24. Things Go Wrong in Rawlins
 
 <figure markdown>
 ![Heading to Colorado](day24/day24.1.jpeg){ width=“300” }

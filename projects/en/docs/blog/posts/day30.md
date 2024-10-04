@@ -6,7 +6,7 @@ categories:
   - World
 ---
 
-# Cow-Girl
+# 30. Cow-Girl encounter
 
 <figure markdown>
 ![Cow-Girl](day30/day30.1.jpeg){ width=“300” }

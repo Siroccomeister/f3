@@ -6,7 +6,7 @@ categories:
   - World
 ---
 
-# Camping at Swan!
+# 8. Camping at Swan!
 
 <figure markdown>
 ![Swan River Camp](day8/day8.1.jpeg){ width=“300” }

@@ -6,7 +6,7 @@ categories:
   - World
 ---
 
-# Altus Maximus
+# 32. Altus Maximus
 
 <figure markdown>
 ![Indiana Pass: 3,637 m 💪✌️👍 the highest pass on the GDMBR route](day32/day32.1.jpeg){ width=“300” }

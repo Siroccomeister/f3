@@ -6,7 +6,7 @@ categories:
   - World
 ---
 
-# Not Showing Off on the First Day
+# 1. Not Showing Off on the First Day
 
 <figure markdown>
 ![Western Style](day1/day1.1.JPG){ width=“300” }

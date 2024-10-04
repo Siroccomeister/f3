@@ -6,7 +6,7 @@ categories:
   - World
 ---
 
-# Camaraderie
+# 39. Camaraderie
 
 <figure markdown>
 ![Beautiful Ride!](day40/day40.1.jpeg){ width=“300” }

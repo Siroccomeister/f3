@@ -6,7 +6,7 @@ categories:
   - World
 ---
 
-# Hello Colorado!
+# 25. Hello Colorado!
 
 <figure markdown>
 ![Rock Formation](day25/day25.1.jpeg){ width=“300” }

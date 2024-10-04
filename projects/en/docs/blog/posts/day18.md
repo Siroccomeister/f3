@@ -6,7 +6,7 @@ categories:
   - World
 ---
 
-# Old Oregon Short Line
+# 18. Old Oregon Short Line
 
 <figure markdown>
 ![Rail Tunnel](day18/day18.1.jpeg){ width=“300” }

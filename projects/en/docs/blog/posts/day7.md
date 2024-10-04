@@ -6,7 +6,7 @@ categories:
   - World
 ---
 
-# A week already!
+# 7. A week already!
 
 <figure markdown>
 ![Red Meadow Lake - such a beautiful green!](day7/day7.1.jpeg){ width=“300” }

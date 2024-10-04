@@ -6,7 +6,7 @@ categories:
   - World
 ---
 
-#  Sunset Post
+# 43. Sunset Post
 
 <figure markdown>
 ![Sunset : Colors are magnificent while I am watching the west. It is sunset for me, but it a new dawn rises in Europe, it feels good and peaceful.](day43/day43.1.jpeg){ width=“300” }

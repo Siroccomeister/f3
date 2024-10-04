@@ -6,7 +6,7 @@ categories:
   - World
 ---
 
-# Salida and a Bit of Rest
+# 29. Salida and a Bit of Rest
 
 <figure markdown>
 ![Abby's Breakfast](day29/day29.1.jpeg){ width=“300” }

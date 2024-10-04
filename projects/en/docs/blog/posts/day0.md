@@ -6,7 +6,7 @@ categories:
   - World
 ---
 
-# Take-off
+# Day 0 - Take-off
 
 <figure markdown>
 ![Jasper in flames, Icelands Parkway closed](day0/Jasper-wildfire.jpeg){ width=“300” }

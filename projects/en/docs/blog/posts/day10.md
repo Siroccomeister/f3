@@ -6,7 +6,7 @@ categories:
   - World
 ---
 
-# Alpaca Farm 
+# 10. The Alpaca Farm
 
 <figure markdown>
 ![What a beautiful roof! 🚴](day10/day10.1.jpeg){ width=“300” }

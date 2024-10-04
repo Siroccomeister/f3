@@ -6,7 +6,7 @@ categories:
   - World
 ---
 
-# 2 Weeks
+# 14. It's been 2 Weeks
 
 <figure markdown>
 ![We cross paths among Dividers! Beautiful descent](day14/day14.1.jpeg){ width=“300” }

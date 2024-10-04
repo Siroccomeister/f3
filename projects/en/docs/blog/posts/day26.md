@@ -6,7 +6,7 @@ categories:
   - World
 ---
 
-# Leaving Brush Mountain Lodge
+# 26. Leaving Brush Mountain Lodge
 
 <figure markdown>
 ![Brush Mountain Ranch](day26/day26.1.jpeg){ width=“300” }

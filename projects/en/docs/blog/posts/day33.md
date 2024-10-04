@@ -6,7 +6,7 @@ categories:
   - World
 ---
 
-# Land of Enchantment - Really?
+# 33. Land of Enchantment - Really?
 
 <figure markdown>
 ![New Mexico is also called the Land of Enchantment. It’s even noted on the plates!](day33/day33.1.jpeg){ width=“300” }

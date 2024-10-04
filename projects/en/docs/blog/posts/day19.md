@@ -6,7 +6,7 @@ categories:
   - World
 ---
 
-# Welcome to Wyoming
+# 19. Welcome to Wyoming
 
 <figure markdown>
 ![Grand Teton](day19/day19.1.jpeg){ width=“300” }
