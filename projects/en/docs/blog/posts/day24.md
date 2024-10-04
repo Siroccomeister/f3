@@ -6,61 +6,49 @@ categories:
   - World
 ---
 
-#  Ça déraille à Rawlins
+# Things Go Wrong in Rawlins
 
 <figure markdown>
-![Direction Colorado](day24/day24.1.jpeg){ width=“300” }
+![Heading to Colorado](day24/day24.1.jpeg){ width=“300” }
 </figure>
 
-Jamais été aussi bien dans mon lit. Mais il faut avancer, je commence à regarder la carte. Puis je veux régler mon dérailleur, après 30mn le câble lâche. Il faut réparer pour reprendre la route.
+I’ve never felt so comfortable in my bed. But I need to move on, so I start looking at the map. Then I want to adjust my derailleur, but after 30 minutes, the cable snaps. I need to repair it to get back on the road.
 
 <!-- more -->
 
-# Dérailleur 
+# Derailleur 
 
-À plus de 2'000km de Gravel, je vois que le vélo accuse aussi le coup. Sur mes 13 vitesses je n'arrive plus à passer la 1ere. Celle qu'il faut pour les côtes. Or le Colorado signifie altitude et petites montées raides, moins longues que dans le Montana. Va-t-il falloir remplacer le dérailleur? Je refais tous les réglages puis clac, plus de passage de vitesse du tout. Le câble a cassé dans sa gaine... Mince la tuile. Le prochain atelier vélo est à 200km.
+After over 2,000 km of gravel, I see that the bike is showing signs of wear. On my 13 speeds, I can no longer shift into first gear—the one needed for climbs. And Colorado means altitude and short, steep climbs, shorter than those in Montana. Am I going to have to replace the derailleur? I go through all the adjustments again, then snap—no shifting at all. The cable has broken in its casing... Darn, that’s a blow. The next bike shop is 200 km away.
 
-# Réparation
+# Repair
 
-Bon, sur les bons conseils de Tristan, un 2ème câble de dérailleur est à peu près le dernier achat que j'ai fait avant de partir. Je regarde l'heure, j'appelle Tristan. Et il me guide à distance pour changer le câble sur le parking de l'hôtel avec des bourrasques de vent. On y arrive après plus de 2h. Je vous passe les détails, mais j'avais jamais fait cette opération avant. Il y a ce petit moment de victoire quand le nouveau câble est en place et (...) que les 13 vitesses fonctionnent. Merci 🙏🙏🙏 Tristan (qui dirige l'atelier vélo de Bikeworld Gland).
+Well, on the good advice of Tristan, a second derailleur cable is about the last purchase I made before leaving. I check the time and call Tristan. He guides me remotely to change the cable in the hotel parking lot with gusty winds. We manage after more than 2 hours. I’ll spare you the details, but I had never done this operation before. There’s a little victory moment when the new cable is in place and (...) all 13 speeds work. Thank you 🙏🙏🙏 Tristan (who runs the Bikeworld Gland bike shop).
 
-Je suis aussi très reconnaissant que le câble n'ait pas lâché 24h avant! Que d'émotions!
+I’m also very grateful that the cable didn’t break 24 hours earlier! What an emotional rollercoaster!
 
+# Food 
 
-# Nourriture 
+With heavy legs, I ride slowly today. So not too many photos. But I wanted to take a moment to talk about my food.
 
-Avec les jambes bien lourdes, je roule tranquille aujourd'hui. Du coup pas trop de photos. Mais je voulais une fois vous parler de ma nourriture. 
+Generally, during the day, I have cereal and energy bars. I also try to take a sandwich or leftovers from pizza with me, along with some dried fruits or an apple.
 
-De base la journée j'ai des barres de céréales et énergétiques. J'essaie aussi de prendre un sandwich ou des restes de pizza avec moi. Et des fruits secs ou une pomme.
+In the evening, I try freeze-dried meals (not easy to find and quite expensive). Otherwise, mashed potatoes. Nutella tortillas for dessert.
 
-Le soir j'essaie les plats lyophilisés (pas facile à trouver et assez chers). Sinon purée. Tortilla Nutella au dessert.
+In the morning, oatmeal, freeze-dried omelet, and tortillas.
 
-Le matin, flocons d'avoine, omelette lyophilisée, tortillas. 
+From time to time: hot dogs, burgers, pizza. In gas stations or convenience stores, I always drink juice and fruit-flavored milk. I limit my quantities during the day, preferring to eat in several portions. Generally, I handle everything well, including energy bars. I have my preferences 😉.
 
-De temps en temps: hot dog, burger, pizza. Dans les stations d'essence ou les supérettes, je bois toujours un jus et un lait au goût de fruit. Je limite les quantités dans la journée, je préfère manger en plusieurs portions. De manière générale je supporte bien tout, y compris les barres énergétiques. J'ai mes préférences 😉.
+I try to have a 2-3 day supply.
 
-J'essaie d'avoir une autonomie de 2-3 jours.
-
-À bientôt!
-
-
+See you soon!
 
 !!! hint ""
-    cliquez sur les photos pour voir les commentaires
+    Click on the photos to see the comments.
 
 <figure markdown>
 
-![Un exemple de victuailles que j'ai avec moi](day24/day24.2.jpeg){ width=“300” }
+![An example of provisions I have with me](day24/day24.2.jpeg){ width=“300” }
 
-![Oeufs brouillés lyophilisés (le bol n'est pas à moi)](day24/day24.3.jpeg){ width=“300” }
+![Freeze-dried scrambled eggs (the bowl isn’t mine)](day24/day24.3.jpeg){ width=“300” }
 
 </figure>
-
-<center>
-<iframe src='https://connect.garmin.com/modern/activity/embed/16809145187' title='Day 24' width='405' height='500' frameborder='0'></iframe>
-</center>
-
-
-
-
-

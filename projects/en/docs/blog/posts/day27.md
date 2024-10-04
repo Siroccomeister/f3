@@ -6,59 +6,51 @@ categories:
   - World
 ---
 
-#  le Colorado a du relief!
+# Colorado Has Relief!
 
 <figure markdown>
-![Lumière du soir, après la pluie](day27/day27.1.jpeg){ width=“300” }
+![Evening light after the rain](day27/day27.1.jpeg){ width=“300” }
 </figure>
 
-Je repars du bivouac, mais perd du temps pour bricoler le vélo. Enfin j'enchaîne les montées. Presque toute la journée sur du gravier. Paysage typé montagne, parfois cela ressemble au Jura. Les roches ont de belles couleurs. Je m'arrête finalement pour entrer sur un terrain privé avec une pancarte 😉.
+I leave the bivouac but lose time tinkering with the bike. Finally, I tackle the climbs. Almost the entire day on gravel. Mountain-type landscape, sometimes resembling the Jura. The rocks have beautiful colors. I eventually stop to enter private land with a sign 😉.
 
 <!-- more -->
 
+# It Goes Up and Down...
 
-# Ça monte et ça descend... 
+It feels a bit like Sisyphus... I tackle the climb, but the descent is too steep to recover properly before it’s already going up again—darn! Otherwise, the landscapes are very green; it’s beautiful.
 
-Il y a un air de Sisyphe.. j'attaque la montée mais la descente est trop raide pour bien récupérer que ça repart déjà en montée- zut! Autrement les paysages sont très vert, c'est beau.
+# Encounters
 
-# Rencontres
-
-C'était je pense ma dernière chance pour voir un Moose ou un Elk. Autrement dit un Élan (Orignal) qui paraît-il est gigantesque. Mais voilà - pas vu. En revanche j'ai vu un Mouflon d'Amérique traverser juste devant moi. Trop rigolo de le voir faire ses bonds. Je n'ai pu le prendre que de dos malheureusement. 
-
+I think this was my last chance to see a moose or an elk. In other words, an elk, which is supposedly gigantic. But alas—didn’t see one. However, I did see a bighorn sheep cross right in front of me. It was so funny to see it bounding. Unfortunately, I could only capture it from behind. 
 
 # Salida
 
-Mon prochain objectif est la bourgade de Salida. Elle a une bonne réputation chez les Dividers. Dernière occasion de réparer le vélo, après c'est le Nouveau Mexique et c'est assez sauvage. D'ici Salida j'enchaîne les stations de ski mais j'essaie de pas m'arrêter. Après Salida - c'est déjà un peu la fin qui approche mais je vois le verre à moitié plein 😉.
-
+My next goal is the town of Salida. It has a good reputation among the Dividers. It’s my last chance to repair the bike; after that, it’s New Mexico, and it’s quite wild. From here to Salida, I’ll pass through ski resorts, but I try not to stop. After Salida—it’s already a bit like the end is approaching, but I see the glass as half full 😉.
 
 !!! hint ""
-    cliquez sur les photos pour voir les commentaires
+    Click on the photos to see the comments.
 
 <figure markdown>
 
 ![Bivouac](day27/day27.2.jpeg){ width=“300” }
 
-![J'ai trouvé le Ranch de Ma'Dalton!](day27/day27.3.jpeg){ width=“300” }
+![I found Ma'Dalton's Ranch!](day27/day27.3.jpeg){ width=“300” }
 
-![Passage de gué, j'ai bien mouillé les chaussures mais me suis pas arrêté! 😮‍💨](day27/day27.4.jpeg){ width=“300” }
+![River crossing; I soaked my shoes but didn’t stop! 😮‍💨](day27/day27.4.jpeg){ width=“300” }
 
-![Mouflon d'Amérique](day27/day27.5.jpeg){ width=“300” }
+![Bighorn sheep](day27/day27.5.jpeg){ width=“300” }
 
-![C'est la 1ere fois qu'une voiture s'arrête pour me prendre en photo. Je vous présente Corby qui va Certainement se mettre au Gravel!](day27/day27.6.jpeg){ width=“300” }
+![It's the first time a car stops to take my photo. I present to you Corby, who will certainly take up gravel biking!](day27/day27.6.jpeg){ width=“300” }
 
-![Cette voie de chemin de fer a permis au train de relier Denver avec les côtes Est et Ouest. Gros travaux (j'ai vu un train passer, impressionnant](day27/day27.7.jpeg){ width=“300” }
+![This railway allowed trains to connect Denver with the East and West coasts. Major construction (I saw a train pass, impressive).](day27/day27.7.jpeg){ width=“300” }
 
-![J'adore cette lumière du soir - attention orages!](day27/day27.8.jpeg){ width=“300” }
+![I love this evening light—watch out for storms!](day27/day27.8.jpeg){ width=“300” }
 
-![J'adore cette lumière du soir - mon moment préféré (même si je suis au bout du bout...)](day27/day27.9.jpeg){ width=“300” }
+![I love this evening light—my favorite moment (even if I’m at the very end...)](day27/day27.9.jpeg){ width=“300” }
 
-![Encore une ligne droite mais la lumière est incroyable!](day27/day27.10.jpeg){ width=“300” }
+![Another straight line, but the light is incredible!](day27/day27.10.jpeg){ width=“300” }
 
-![Riders welcome 24/7 - ravito eau et biscuits au bord de la route. Je m'arrête ici!](day27/day27.11.jpeg){ width=“300” }
+![Riders welcome 24/7—water and cookie supplies by the roadside. I’m stopping here!](day27/day27.11.jpeg){ width=“300” }
 
 </figure>
-
-<center>
-<iframe src='https://connect.garmin.com/modern/activity/embed/16827976659' title='Day 27' width='405' height='500' frameborder='0'></iframe>
-</center>
-

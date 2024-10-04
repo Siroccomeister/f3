@@ -12,43 +12,37 @@ categories:
 ![Butte](day13/day13.1.jpeg){ width=“300” }
 </figure>
 
-Je quitte mon lac dans le brouillard pour m'attaquer à Lava Mountain. Passage difficile, je m'arrête à Basin pour reprendre des forces. Je poursuis sur Butte où j'arrive avec la tombée de la nuit. Je prends une chambre - besoin d'un bain et d'une grosse nuit!
+I leave my lake in the fog to tackle Lava Mountain. It’s a tough stretch, so I stop in Basin to regain my strength. I continue on to Butte, arriving as night falls. I book a room—I need a bath and a good night's sleep!
 
 <!-- more -->
 
 # Lava Mountain
 
-J'attaque la 1ère côte qui sur le papier n'avait rien de bien méchant. Mais je déchante rapidement. Il y a de gros cailloux et la pente devient très raide. Impossible de rouler là! Je descends et décide de pousser. Mon Garmin affiche noir (la couleur donc avec le % de pente). D'ailleurs il indique même plus la pente. Même pousser est super fatigant. J'essaie de remonter le plus souvent possible pour garder un rythme mais rien n'y fait. La fin devient meilleure - enfin je roule et je passe un groupe de 3 qui poussent aussi. 
+I tackle the first climb, which on paper didn’t look too tough. But I quickly realize my mistake. There are big rocks, and the slope becomes very steep. It’s impossible to ride there! I get off and decide to push. My Garmin displays black (the color indicating slope percentage). In fact, it doesn’t even show the slope anymore. Even pushing is extremely tiring. I try to get back on the bike as often as possible to maintain a rhythm, but nothing works. The end gets better—I can finally ride again and pass a group of three who are also pushing.
 
-Je me rends compte après coup que ce passage est un des plus difficiles. Et encore j'ai pris le chemin alternatif. Pour la course ils vont encore plus loin et le chemin est totalement impraticable, rempli de gros blocs de pierre et de troncs à passer en single trail. Il faut aimer...
+I realize afterward that this section is one of the most difficult. And I took the alternative route. For the race, they go even further, and the path is completely impassable, filled with large stones and logs to navigate on single track. You have to love it...
 
-Du coup j'ai une faim de loup et je m'arrête à Basin pour manger un burger. En fait c'était aussi mon petit déjeuner. Mauvaise idée. Gros passage à vide, la digestion est trop lourde. Je fais péniblement 15km puis m'arrête. Sieste de 30mn. Ça va mieux pas c'est pas le top.
+As a result, I’m ravenous and stop in Basin for a burger. In fact, that was also my breakfast. Bad idea. I hit a major slump; the digestion is too heavy. I barely make it 15 km before stopping. I take a 30-minute nap. I feel better, but it’s not ideal.
 
 # Butte
 
-Je vise Butte qui se compare à Helena en taille. J'arrive sur le tard - ma moyenne est vraiment pas top. Je me prends une chambre à 20h30, on me recommande  le pub irlandais ☘️ Shawn O'Donnell's. Super authentique mais qui ferme à 21h. Je me grouille et entré dans le pub, je change de monde. Je mange un Bangers&Mash avec une 🍺 Smithwicks - la musique celtique donne du rythme. Je me sens mieux.
+I aim for Butte, which is comparable in size to Helena. I arrive late—my average speed is really not great. I book a room at 8:30 PM; I’m recommended the Irish pub ☘️ Shawn O'Donnell's. Super authentic, but it closes at 9 PM. I hurry, and upon entering the pub, I enter another world. I have Bangers & Mash with a 🍺 Smithwick's—the Celtic music sets the rhythm. I feel better.
 
-Butte est une ville minière, on voit encore des infrastructures. Et elle héberge une grande communauté irlandaise. Je prévois un bain chaud et une grosse nuit car les prochains jours sont sauvages. En tout cas 3 nuits sous tente et un seul point de ravitaillement. Je risque de pas avoir de réseau. Je pense aussi aller un peu plus lentement - j'ai compris que le Montana faisait partie des difficultés du parcours. On apprends 😉.
+Butte is a mining town, and you can still see the infrastructure. It also hosts a large Irish community. I plan for a hot bath and a big night because the next few days will be wild. In any case, it’s three nights under the tent and only one resupply point. I might not have any network. I also think I’ll take it a bit slower—I’ve realized that Montana is part of the course's challenges. We learn 😉.
 
-Demain Fleecer Ridge. Il paraît que la descente fait 30 degrés de pente. Je m'imagine faire des conversions à pied !
+Tomorrow is Fleecer Ridge. I hear the descent has a 30-degree slope. I imagine having to make foot conversions!
 
 <figure markdown>
-![Approche sur Basin, je longe une belle rivière avec vue sur de beaux blocs (boulder)!](day13/day13.2.jpeg){ width=“300” }
+![Approaching Basin, I follow a beautiful river with views of lovely boulders!](day13/day13.2.jpeg){ width=“300” }
 
-![il y avait des mines d'or et dans ce coin](day13/day13.3.jpeg){ width=“300” }
+![There were gold mines in this area](day13/day13.3.jpeg){ width=“300” }
 
-![Paysage](day13/day13.4.jpeg){ width=“300” }
+![Landscape](day13/day13.4.jpeg){ width=“300” }
 
-![Arrivée sur Butte](day13/day13.5.jpeg){ width=“300” }
+![Arrival in Butte](day13/day13.5.jpeg){ width=“300” }
 
-![Le soleil se couche](day13/day13.6.jpeg){ width=“300” }
+![The sun sets](day13/day13.6.jpeg){ width=“300” }
 
-![Je reprends des forces au pub irlandais!](day13/day13.7.jpeg){ width=“300” }
+![I’m regaining strength at the Irish pub!](day13/day13.7.jpeg){ width=“300” }
 
 </figure>
-
-<center>
-<iframe src='https://connect.garmin.com/modern/activity/embed/16704580289' title='Day 13' width='405' height='500' frameborder='0'></iframe>
-</center>
-
-

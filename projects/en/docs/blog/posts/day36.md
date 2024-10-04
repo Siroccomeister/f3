@@ -6,68 +6,61 @@ categories:
   - World
 ---
 
-#  Deserticus
+# Deserticus
 
 <figure markdown>
-![Un pic qui m'a accompagné toute la 1ere partie de la trace du jour](day36/day36.1.jpeg){ width=“300” }
+![A peak that accompanied me throughout the first part of today’s route](day36/day36.1.jpeg){ width=“300” }
 </figure>
 
-Je quitte Cuba en faisant le pari qu'il ne pleuvra pas. Je pars fin de matinée pour aussi m'assurer que tout est sec. Le parcours est magnifiquement sauvage. Sable, roches, 🌵, personne. Juste une difficulté: pas assez d'eau, je la trouve qu'en fin de journée. Je pose mon bivouac en prévision de la montée qui m'amènera à Grants demain.
+I leave Cuba betting that it won’t rain. I set off in the late morning to make sure everything is dry. The route is beautifully wild. Sand, rocks, 🌵, and no one around. Just one difficulty: not enough water, which I only find at the end of the day. I set up my bivouac in preparation for the climb that will take me to Grants tomorrow.
 
 <!-- more -->
 
+# Wild and Beautiful
 
-# Sauvage et beau
+The track is nice, and I'm making good progress with a tailwind. The landscapes are stunning. I’ll share as many photos as possible; it's hard to choose. Try to imagine!
 
-La piste est belle et je trace vite avec du vent de dos. Les paysages sont magnifiques. Je vous mets un max de photos, difficile de choisir. Essayez d'imaginer!
+# Today's Challenges
 
-# Les défis du jour
+First, I realize that the water sources are very relative. The water is anything but clear. It’s unappealing but eventually stresses me out. I resign myself, telling myself that a filter + Micropur + boiling should work. As night falls, I finally find clear water 🙏.
 
-D'abord, je me rends compte que les points d'eau sont très relatifs. L'eau est tout sauf claire. Ça donne pas envie mais finit par me stresser. Je me résigne en me disant que filtre+micropure+bouillir devrait aller. A la tombée de la nuit je trouve enfin de l'eau claire 🙏. 
+Otherwise, I keep telling myself that speed is my ally. Except when I encounter a patch of sand. Or when there’s a big crevice across the path. I take quite a few spills (3-4), but I’m learning to fall on the sand. The cactus spines still sting a bit.
 
-Sinon, je me dis toujours que la vitesse est mon alliée. Sauf quand on arrive dans un tas de sable. Ou quand il y a une grosse crevasse en travers de la piste. Pas mal de gamelles (3-4) mais j'apprends à tomber sur le sable. Les cactus piquent un peu quand même.
+# The Surprise
 
-# La surprise
-
-Le soleil devient rasant et là j'entends un gros crissement sur ma droite. Je ralentis et regarde: gros serpent (rattlesnake, crotale, 🐍 à sonnette). J'étais pressé et il semblait bien occupé aussi, j'ai filé. Pas eu la présence d'esprit de prendre la photo. J'ai dormi sous tente du coup 👍 😁.
-
+The sun becomes low, and then I hear a loud rustling to my right. I slow down and look: a big snake (rattlesnake, 🐍). I was in a hurry, and it seemed busy too, so I hurried past. I didn’t have the presence of mind to take a photo. I ended up sleeping in my tent 👍 😁.
 
 !!! hint ""
-    cliquez sur les photos pour voir les commentaires
-
-!!! question ""
-    🇫🇷 si vous avez été fidèle jusqu'ici, un commentaire est bienvenu! 🇺🇸 if you followed me until here, a comment will be welcome! [>> Click here](https://forms.office.com/r/5TiedXLRaN)
+    Click on the photos to see the comments.
 
 <figure markdown>
 
 ![Deserticus panoramicus](day36/day36.2.jpeg){ width=“300” }
 
-![Beau ça!](day36/day36.3.jpeg){ width=“300” }
+![Beautiful, isn’t it!](day36/day36.3.jpeg){ width=“300” }
 
-![Mais où sont les indiens?](day36/day36.4.jpeg){ width=“300” }
+![But where are the Indians?](day36/day36.4.jpeg){ width=“300” }
 
-![Euh finalement je vais essayer le prochain point d'eau ☺️](day36/day36.5.jpeg){ width=“300” }
+![Uh, I think I’ll try the next water point ☺️](day36/day36.5.jpeg){ width=“300” }
 
-![La trace se faufile dans les petits canyon](day36/day36.6.jpeg){ width=“300” }
+![The trail winds through the small canyons](day36/day36.6.jpeg){ width=“300” }
 
-![Ça a de la gueule quand même!](day36/day36.7.jpeg){ width=“300” }
+![It looks impressive anyway!](day36/day36.7.jpeg){ width=“300” }
 
-![Aïe ça se couvre](day36/day36.8.jpeg){ width=“300” }
+![Ouch, it's getting cloudy](day36/day36.8.jpeg){ width=“300” }
 
-![Ça ressemble à un (...) je vous laisse imaginer ☺️](day36/day36.9.jpeg){ width=“300” }
+![It looks like a (...) I'll let you imagine ☺️](day36/day36.9.jpeg){ width=“300” }
 
-![c'est l'érosion qui architecte tout ce paysage](day36/day36.10.jpeg){ width=“300” }
+![Erosion is what shapes this entire landscape](day36/day36.10.jpeg){ width=“300” }
 
-![Cocktail de couleurs](day36/day36.11.jpeg){ width=“300” }
+![Color cocktail](day36/day36.11.jpeg){ width=“300” }
 
-![Lézard géant ou bien?](day36/day36.12.jpeg){ width=“300” }
+![Giant lizard or what?](day36/day36.12.jpeg){ width=“300” }
 
-![On arrive à la fin de la journée, toujours pas trouvé d'eau...](day36/day36.13.jpeg){ width=“300” }
+![We’re nearing the end of the day, still haven't found water...](day36/day36.13.jpeg){ width=“300” }
 
-![Enfin de l'eau claire! 🙏✌️](day36/day36.14.jpeg){ width=“300” }
+![Finally, clear water! 🙏✌️](day36/day36.14.jpeg){ width=“300” }
 
-![Je pose ma ⛺️ peu après le coucher du soleil.](day36/day36.15.jpeg){ width=“300” }
+![I set up my ⛺️ shortly after sunset.](day36/day36.15.jpeg){ width=“300” }
 
 </figure>
-
-

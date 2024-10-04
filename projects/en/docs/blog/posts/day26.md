@@ -6,59 +6,51 @@ categories:
   - World
 ---
 
-#  Leaving Brush Mountain Lodge
+# Leaving Brush Mountain Lodge
 
 <figure markdown>
 ![Brush Mountain Ranch](day26/day26.1.jpeg){ width=“300” }
 </figure>
 
-Après m'être goinfré de pancakes, je fais mes adieux au lodge et attaque la 1ere côte. Il faudra pousser le vélo. Je passe Steamboat Springs (station de ski) et bivouaque après 135km. Je m'apprête à faire du dénivelé!
+After stuffing myself with pancakes, I say goodbye to the lodge and tackle the first climb. I will need to push the bike. I pass through Steamboat Springs (a ski resort) and bivouac after 135 km. I’m getting ready for some elevation gain!
 
 <!-- more -->
 
-# Au revoir le lodge mythique 
+# Goodbye, Mythical Lodge 
 
-Ce 1er lodge au Colorado m'a bien requinqué! Le petit déjeuner est royal, pancakes à gogo. Kirsten tient le lodge depuis 2008 - elle est aux petits oignons. L'endroit est top, je trouve très bon marché pour tout ce qui est proposé.
+This first lodge in Colorado really recharged me! The breakfast is royal, with pancakes galore. Kirsten has been running the lodge since 2008—she’s very attentive. The place is great, and I find it very affordable for everything that’s offered.
 
-# Les cols du Colorado
+# The Passes of Colorado
 
-La 1ere montée se termine à 3000m en poussant le vélo. La végétation est encore présente. Mais le topo des prochains jours fait peur. Plus de 5000m de D+ pour rejoindre Salida. Je réfléchis comment faire sachant que je voulais y prendre du repos. C'est la dernière ville avant d'aller se perdre dans le Nouveau Mexique. Il faut en profiter!
+The first climb ends at 3,000 m while pushing the bike. The vegetation is still present. But the forecast for the coming days looks daunting. More than 5,000 m of elevation gain to reach Salida. I’m thinking about how to manage this since I wanted to take a rest there. It’s the last town before heading into the wilds of New Mexico. I need to make the most of it!
 
+# Ulrich Bartholmoes Drops Out
 
-# Ulrich Bartholmoes abandonne
-
-Peu doivent connaître... mais il est dans les leaders des courses bikepacking. L'année passée il a gagné la Tour Divide et cette année il a fait 2ème. Sauf qu'il voulait encore enchaîner avec la Colorado Trail Race puis l'Arizona Trail Race. Ce qui s'appelle "triple crown". Juste de les enchaîner (à quelques semaines d'intervalle) est délirant. Bref: Ulrich vient d'abandonner très tôt dans la course du Colorado. Fatigue mentale. J'ai écouté son témoignage - je trouve qu'il faut du cran pour dire non de cette manière. Et quand on a plus la passion qui nous pousse, savoir changer de cap est plutôt une force vu de moi! Pour ceux qui sont intéressés [voici le lien (en anglais)](https://bikepacking.com/news/ulrich-bartholmoes-2024-colorado-trail-race-interview/)
-
+Few may know him, but he is among the leaders in bikepacking races. Last year he won the Tour Divide, and this year he finished second. However, he wanted to continue with the Colorado Trail Race and then the Arizona Trail Race. This is called the "triple crown." Just chaining them (with a few weeks in between) is insane. In short, Ulrich just dropped out very early in the Colorado race. Mental fatigue. I listened to his testimony—I think it takes guts to say no in this way. And when you no longer have the passion pushing you, knowing how to change course is a strength in my view! For those interested, [here’s the link (in English)](https://bikepacking.com/news/ulrich-bartholmoes-2024-colorado-trail-race-interview/).
 
 !!! hint ""
-    cliquez sur les photos pour voir les commentaires
+    Click on the photos to see the comments.
 
 <figure markdown>
 
-![Pancakes sans modération!](day26/day26.2.jpeg){ width=“300” }
+![Pancakes without moderation!](day26/day26.2.jpeg){ width=“300” }
 
-![Les cols du ... Colorado! Ça pique!](day26/day26.3.jpeg){ width=“300” }
+![The passes of ... Colorado! It stings!](day26/day26.3.jpeg){ width=“300” }
 
-![Au revoir Kirsten!](day26/day26.4.jpeg){ width=“300” }
+![Goodbye, Kirsten!](day26/day26.4.jpeg){ width=“300” }
 
-![Ça grimpe sec! Je pousse...](day26/day26.5.jpeg){ width=“300” }
+![It’s a steep climb! I’m pushing...](day26/day26.5.jpeg){ width=“300” }
 
-![Panorama au sommet](day26/day26.6.jpeg){ width=“300” }
+![Panorama at the summit](day26/day26.6.jpeg){ width=“300” }
 
-![Selfie avec Georges, Français installé aux USA depuis 30 ans. Merci des conseils!](day26/day26.7.jpeg){ width=“300” }
+![Selfie with Georges, a Frenchman who has been living in the USA for 30 years. Thanks for the advice!](day26/day26.7.jpeg){ width=“300” }
 
-![Le soir tombe, je force pour arriver à mon bivouac](day26/day26.8.jpeg){ width=“300” }
+![Night falls, I push to reach my bivouac](day26/day26.8.jpeg){ width=“300” }
 
-![Lac de retenue avec turbine électrique](day26/day26.9.jpeg){ width=“300” }
+![Reservoir with electric turbine](day26/day26.9.jpeg){ width=“300” }
 
-![Je longe le lac](day26/day26.10.jpeg){ width=“300” }
+![I’m walking along the lake](day26/day26.10.jpeg){ width=“300” }
 
-![On se croirait presque en Scandinavie!](day26/day26.11.jpeg){ width=“300” }
+![It almost feels like Scandinavia!](day26/day26.11.jpeg){ width=“300” }
 
 </figure>
-
-<center>
-<iframe src='https://connect.garmin.com/modern/activity/embed/16827518817' title='Day 26' width='405' height='500' frameborder='0'></iframe>
-</center>
-
-

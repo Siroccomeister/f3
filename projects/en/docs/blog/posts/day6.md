@@ -6,49 +6,45 @@ categories:
   - World
 ---
 
-# 49ème parallèle
+# 49th Parallel
 
 <figure markdown>
 ![Bicycle Shop](day6/day6.1.jpeg){ width=“300” }
 </figure>
 
-Er voilà j'ai passé la frontière. Et le paysage a bien changé. Des ranchs de partout. Une 1ère ville Eureka plutôt sympathique. Et surtout un camping pour cyclistes exceptionnel. J'ai pu rouler 130km avec 1'000m de D+. C'est top.
+And here I am, I've crossed the border. The landscape has changed significantly. Ranches everywhere. The first town, Eureka, is quite nice. And especially an exceptional campground for cyclists. I managed to ride 130 km with 1,000 m of elevation gain. It's great.
 
 <!-- more -->
 
-Dernière discussions avec John & John, j'adore comment ils me parlent de leur pays. Dommage qu'on avance pas au même rythme. Je rencontre encore 3 autres "Great Divider", on partage nos expériences. Ceux qui font la version sud vers le nord surtout partagent de bons tuyaux. Je me les note, j'essaierai de planifier mes arrêts en conséquence. Pour ce soir ils valident aussi mon choix : "the bicycle station".
+Last discussions with John & John, I love how they talk about their country. Too bad we don't move at the same pace. I meet 3 other "Great Dividers," and we share our experiences. Those who are going south to north share some good tips. I jot them down, and I will try to plan my stops accordingly. For tonight, they also validate my choice: "the bicycle station."
 
-Je dis au revoir aux Canada. Le passage de frontière s'est passé sans embrouille. A part le gabarit des gardes-frontières (très très costauds et très très tatoués). On fait pas le malin. Hop je reprends la route - le drapeau américain est omniprésent. Certains sont immenses. Me voici dans le Montana après les provinces Alberta et British Columbia du Canada, j'entre dans mon premier État américain.
+I say goodbye to Canada. The border crossing went smoothly. Except for the size of the border guards (very, very strong and very, very tattooed). You don't mess around. Off I go again - the American flag is everywhere. Some are huge. Here I am in Montana after the provinces of Alberta and British Columbia in Canada, entering my first American state.
 
-Le paysage a bien changé. Beaucoup de prairies et d'herbe. Il fait 33 degrés! Je m'arrête dans la 1ere bourgade Eureka pour manger. J'ai jamais vu autant d'églises et appellations différentes. Sinon très joli. Le repas est le même des 2 côtés de la frontière : Burger (je vous reparlerai de la nourriture).
+The landscape has changed significantly. Lots of prairies and grass. It's 33 degrees! I stop in the first town, Eureka, to eat. I've never seen so many churches with different names. Otherwise, very pretty. The meal is the same on both sides of the border: Burger (I'll tell you more about the food).
 
-Justement la frontière - je me demandais pourquoi elle était tirée à la règle. Wikipédia m'apprends que c'est en fait le 49eme parallèle qui fixe la frontière. Du coup je suis exactement à la hauteur de Paris ce soir. Marrant.
+Speaking of the border - I wondered why it was drawn so straight. Wikipedia teaches me that it's actually the 49th parallel that defines the border. So, I am exactly at the same latitude as Paris tonight. Funny.
 
-J'arrive à mon campement : the bicycle station. Accueil réservé aux cyclistes. Il n'y a personne mais tout est ouvert. Ils ont aménagé des cabanons pour laisser le vélo et dormir à côté. Il y a des douches, un jardin, un atelier réparation de vélos. Une cuisine, frigo, salon. Et tout ça à disposition. Il y a quelques points de chute comme ça sur le trajet qui sont hors norme. Je fais finalement connaissance avec la propriétaire Siri qui vient de Norvège. C'est Chris son mari menuisier qui a tout amenagé. Un magnifique endroit - crève-cœur de déjà partir demain matin.
+I arrive at my campsite: the bicycle station. A welcome reserved for cyclists. There's no one but everything is open. They have set up cabins to leave the bike and sleep next to it. There are showers, a garden, a bike repair workshop, a kitchen, fridge, and living room. And all of this is at your disposal. There are a few such places along the route that are extraordinary. I finally meet the owner Siri, who comes from Norway. Her husband Chris, a carpenter, built everything. It's a beautiful place - a heart-wrencher to be leaving tomorrow morning.
 
-Sur le chemin, j'ai vu un nombre incroyable de biches et de cerfs. Au début j'ai pris des photos mais ils sont vraiment partout. Siri me confirme qu'ils sont bien sauvages mais sautent toutes les barrières pour aller chercher l'herbe bien verte. Je pense en avoir vu au moins 20 en 1 heure.
+On the way, I saw an incredible number of does and deer. At first, I took pictures, but they are truly everywhere. Siri confirms that they are indeed wild but jump all the fences to go look for the lush green grass. I think I saw at least 20 in one hour.
 
-Demain je vais essayer de garder le même rythme! Bonne fête nationale Suisse 🇨🇭!
-
+Tomorrow I will try to maintain the same pace! Happy Swiss National Day 🇨🇭!
 
 <figure markdown>
 ![Baynes Lake](day6/day6.2.jpeg){ width=“300” }
 
-![Baynes Lake](day6/day6.3.jpeg){ width=“300” }
+![Baynes Lake again](day6/day6.3.jpeg){ width=“300” }
 
-![Kikomun bridge, suis passé dessus](day6/day6.4.jpeg){ width=“300” }
+![Kikomun bridge, I passed over it](day6/day6.4.jpeg){ width=“300” }
 
-![Boites aux lettres cherchent ranch?](day6/day6.5.jpeg){ width=“300” }
+![Mailboxes looking for ranch?](day6/day6.5.jpeg){ width=“300” }
 
-![Prairies et lignes droites!](day6/day6.6.jpeg){ width=“300” }
+![Prairies and straight lines!](day6/day6.6.jpeg){ width=“300” }
 
-![Bambi! en vrai!](day6/day6.7.jpeg){ width=“300” }
+![Bambi! in real life!](day6/day6.7.jpeg){ width=“300” }
 
-![accueil à la Bicycle Station](day6/day6.8.jpeg){ width=“300” }
+![welcome at the Bicycle Station](day6/day6.8.jpeg){ width=“300” }
 
-![Cabanon pour moi tout seul](day6/day6.9.jpeg){ width=“300” }
-
+![Cabin just for me](day6/day6.9.jpeg){ width=“300” }
 
 </figure>
-
-

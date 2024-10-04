@@ -6,43 +6,41 @@ categories:
   - World
 ---
 
-# Orages
+# Storms
 
 <figure markdown>
-![c'est le moment de tester l'équipement de pluie](day16/day16.1.jpeg){ width=“300” }
+![It's time to test the rain gear](day16/day16.1.jpeg){ width=“300” }
 </figure>
 
-Nuit agitée par l'orage, je fais sécher ma tente et me voilà parti. Je m'arrête chez Ma Barnes, une petite merveille. Après un bon bout sur route, c'est parti pour du gravier interminable. J'avance plutôt bien, il n'y a pas de grosse montée. Je plante la tente juste avant que la grêle ne tombe. Ouf!
+A restless night due to the storm; I dry my tent and set off. I stop at Ma Barnes, a little gem. After a good stretch on the road, it’s time for endless gravel. I’m making good progress; there aren’t any major climbs. I pitch my tent just before the hail starts falling. Phew!
 
 <!-- more -->
 
-# Nuit agitée 
+# Restless Night
 
-Voir sa tente éclairée par la foudre avec des coups de tonnerre à faire trembler le matelas, ça réveille! Je compte les secondes, c'est tout proche. J'ai l'impression d'être au cœur de l'action. Pas super rassurant mais ma tente est bien étanche et je suis entouré d'arbres. Ça finit par passer.
+Seeing my tent illuminated by lightning with thunderclaps that make the mattress shake definitely wakes you up! I count the seconds; it’s very close. I feel like I’m in the heart of the action. Not super reassuring, but my tent is waterproof, and I’m surrounded by trees. Eventually, it passes.
 
 # Ma Barnes
 
-Comme prévu, je suis bien paumé et ce point de ravitaillement est bienvenu. C'est une mini-supérette mais il y a un choix incroyable en petite quantité. Je rattrape mon petit-déjeuner avec un jus, puis un lait chocolat. Pomme, flocons d'avoine, cela va relever le niveau. Malheureusement il n'y a plus de bonbonne à gaz, un autre divider a pris la dernière hier 🙃. La dame est super serviable, elle a vraiment (presque) tout dans un petit espace. Je note le premier drapeau israélien à l'extérieur.
+As expected, I’m quite lost, and this resupply point is very welcome. It’s a mini convenience store, but there’s an incredible variety in small quantities. I catch up on my breakfast with some juice, then chocolate milk. An apple and oatmeal will boost my energy. Unfortunately, there are no more gas canisters; another divider took the last one yesterday 🙃. The lady is super helpful; she really has (almost) everything in a small space. I notice the first Israeli flag outside.
 
-# On the road again
+# On the Road Again
 
-La piste paraît interminable, mais le paysage a bien changé. On dirait pas que je suis toujours à 2'000m. C'est très sec, style garrigue. Parfois ça arrose, la différence est alors frappante. Je ne vois rien à part quelques vaches. C'est toujours orageux, mais très localisé. J'échappe souvent à la grosse pluie. Mais en fin de journée je prends mes précautions. Je plante la tente et mange devant un concert d'éclairs. Je finis sous la tente : il grêle à nouveau! La température chute vite 🥶.
+The trail seems endless, but the landscape has changed a lot. You wouldn’t think I’m still at 2,000 m. It’s very dry, like garrigue. Sometimes it rains, and the difference is striking. I don’t see anything except a few cows. It’s still stormy, but very localized. I often escape the heavy rain. But at the end of the day, I take precautions. I pitch the tent and eat in front of a concert of lightning. I end up in the tent as it hails again! The temperature drops quickly 🥶.
 
 <figure markdown>
 ![Ma Barnes](day16/day16.2.jpeg){ width=“300” }
 
-![Envie de gravier 😁](day16/day16.3.jpeg){ width=“300” }
+![Feeling the gravel 😁](day16/day16.3.jpeg){ width=“300” }
 
-![Gravier devant et derrière...](day16/day16.4.jpeg){ width=“300” }
+![Gravel in front and behind...](day16/day16.4.jpeg){ width=“300” }
 
-![Le paysage change...](day16/day16.5.jpeg){ width=“300” }
+![The landscape is changing...](day16/day16.5.jpeg){ width=“300” }
 
-![Avec l'arrosage c'est tout de suite plus vert!](day16/day16.6.jpeg){ width=“300” }
+![With the watering, it's much greener!](day16/day16.6.jpeg){ width=“300” }
 
-![c'est orageux](day16/day16.7.jpeg){ width=“300” }
+![It's stormy](day16/day16.7.jpeg){ width=“300” }
 
-![Et la grêle pour finir: j'adore ma tente ❤️](day16/day16.8.jpeg){ width=“300” }
+![And hail to finish: I love my tent ❤️](day16/day16.8.jpeg){ width=“300” }
 
 </figure>
-
-

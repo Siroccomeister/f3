@@ -6,40 +6,45 @@ categories:
   - World
 ---
 
-# the Titan
+# The Titan
 
 <figure markdown>
 ![Voici Titan](day5/day5.1.jpeg){ width=“300” }
 </figure>
 
-Le pneu arrière se dégonfle, du coup je vise Fernie où il y a des mécanos vélos. À Sparwood, je tombe sur Titan. Passage et photo obligés. Puis Fernie en donnant un coup de pompe tous les quelques km. Soirée sympa avec John et John, père et fils en route ensemble sur la Divide.
+The rear tire is deflating, so I aim for Fernie where there are bike mechanics. In Sparwood, I come across Titan. A photo is a must. Then I head to Fernie, pumping air every few kilometers. A nice evening with John and John, a father and son riding together on the Divide.
 
 <!-- more -->
 
-Nuit passée au motel, tenu par des Indiens (d'Inde donc) qui m'ont invité à manger dans leur cuisine. Très bon et végétarien pour changer !
+I spent the night at a motel run by Indians (from India, that is) who invited me to eat in their kitchen. Very good and vegetarian for a change!
 
-En route pour Sparwood, mon pneu arrière se dégonfle. Tubeless pourtant et je ne trouve aucun trou ni fuite. Mais dès que je regonfle, rebelote après quelques km. Pas trop envie de sortir l'artillerie et mettre une chambre à air. Je vise Fernie comme terminus (50 km) il y a 3 bikeshops qui pourront regarder de près. Je regonfle au fur et à mesure - ça passe.
+On my way to Sparwood, my rear tire goes flat. It's tubeless, yet I can't find any holes or leaks. But as soon as I reinflate, it deflates again after a few kilometers. I’m not too keen on getting out the artillery and putting in a tube. I'm aiming for Fernie as my destination (50 km) where there are three bike shops that can take a closer look. I keep inflating as I go - it's manageable.
 
-À Sparwood, je tombe sur Titan. Vous verrez les détails sur la photo de sa plaque mais c'est la 1ère fois que je me promène sous un camion. Il doit être dans le Guiness des records celui-là! Et c'est vrai - toute la région ici vit des mines de charbon. On voit des musées et des monuments. Puis on voit surtout Titan ☺️. Et la nuit on entend des trains de charbon interminables. J'ai vérifié, les plus longs ont 150 wagons et mesurent plus de 2.4km. C'est une autre dimension ici.
+In Sparwood, I come across Titan. You’ll see the details in the photo of its plaque, but it's the first time I’ve walked under a truck. It must be in the Guinness World Records! It's true - the whole region here lives off coal mining. You see museums and monuments everywhere. And you mainly see Titan ☺️. At night, we hear endless coal trains. I checked, the longest ones have 150 cars and measure over 2.4 km. It's a different dimension here.
 
-Arrivé à Fernie, je fais vérifier le vélo. Ils me disent que tout va bien, ils ont regonflé à bloc et remis du liquide tubeless. J'achète aussi une petite cartouche de gaz, utile pour refaire l'étanchéité je pense. Ça a l'air de tenir, je vais rester plus attentif.
+Arriving in Fernie, I get the bike checked. They tell me everything is fine, they inflated it fully and added tubeless liquid. I also buy a small gas cartridge, useful for resealing, I think. It seems to be holding; I'll stay more vigilant.
 
-Une habitante locale est fière de me montrer le fameux Ghost Rider - lorsque le soleil éclaire la montagne, on a l'ombre d'un cheval et de son cavalier  sortant de la montagne. Une spécialité locale, le nom est repris partout. Je mange avec John et John de New York, père et fils (62 et 28), qui suivent la divide. Très sympa! 
+A local resident is proud to show me the famous Ghost Rider - when the sun shines on the mountain, you can see the shadow of a horse and rider emerging from the mountain. A local specialty, the name is used everywhere. I eat with John and John from New York, a father and son (62 and 28), who are following the Divide. Very nice!
 
-Sur le parcours du jour, je me suis bien flingué le dos sur les pavés de pierre. Respect pour tous ceux qui font Paris-Roubaix!
+On today's ride, I really strained my back on the cobbled stones. Respect to all those who do Paris-Roubaix!
 
-Nuit sous tente, je vise toujours les USA demain. John me dit que ça roule mieux après la frontière. J'espère!🤞 
-
+Camping out tonight, I still aim for the USA tomorrow. John tells me that it rides better after the border. I hope so! 🤞 
 
 <figure markdown>
-![David et Goliath)](day5/day5.2.jpeg){ width=“300” }
-![il a vraiment roulé 😳](day5/day5.3.jpeg){ width=“300” }
-![Je suis sûr que j'avance plus vite!](day5/day5.4.jpeg){ width=“300” }
+![David and Goliath](day5/day5.2.jpeg){ width=“300” }
+
+![He actually really rode 😳](day5/day5.3.jpeg){ width=“300” }
+
+![I’m sure I’m moving faster!](day5/day5.4.jpeg){ width=“300” }
+
 ![The Lost Lake near Elford](day5/day5.5.jpeg){ width=“300” }
-![Un peu de rodéo pour changer!](day5/day5.6.jpeg){ width=“300” }
-![Kit de réparation pour vélo au début du trail! Et on est pas en Suisse pourtant](day5/day5.7.jpeg){ width=“300” }
-![Respect à Paris-Roubaix](day5/day5.8.jpeg){ width=“300” }
+
+![A bit of rodeo for a change!](day5/day5.6.jpeg){ width=“300” }
+
+![Repair kit for the bike at the beginning of the trail! And we’re not in Switzerland though](day5/day5.7.jpeg){ width=“300” }
+
+![Respect for the ones undertaking Paris-Roubaix](day5/day5.8.jpeg){ width=“300” }
+
 ![Ghost Rider!](day5/day5.9.jpeg){ width=“300” }
 </figure>
-
 

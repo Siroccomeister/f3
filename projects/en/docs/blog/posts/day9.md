@@ -12,34 +12,31 @@ categories:
 ![Single Trail!](day9/day9.1.jpeg){ width=“300” }
 </figure>
 
-Je poursuis ma route, toujours sur gravier et sans passer aucune ville. Je vise Seeley au bord d'un lac. Gros dénivelé : je passe les 2´000m de montée en tout (Dénivelé+). Je me dépêche tellement d'arriver que je manque la sortie et termine à nouveau dans un camping sauvage. Une famille de lièvres m'accueille - il y a une autre tente avec une Canadienne. Ma plus grosse journée avec 8h15 en selle.
+I continue my journey, still on gravel and without passing through any towns. I aim for Seeley by the lake. There’s a big elevation gain: I pass over 2,000 meters of climbing (Elevation+). I’m in such a hurry to arrive that I miss the exit and end up back in a wild campsite. A family of rabbits welcomes me—there's another tent with a Canadian. My biggest day with 8 hours and 15 minutes in the saddle.
 
 <!-- more -->
 
-Je réalise que j'aime bien prendre mon temps le matin. Je pars vers les 10h du coup je me rends compte que même si je vais vite, je mets longtemps à rattraper mes 2 Américains matinaux. Je suis sûr que La Fontaine faisait du vélo 😉! Demain, c'est dit, je démarre à 9h!
+I realize that I enjoy taking my time in the morning. I leave around 10 AM, and I notice that even though I ride fast, it takes me a long time to catch up to my two early American riders. I’m sure La Fontaine rode a bike too 😉! Tomorrow, I’ve decided, I’ll start at 9 AM!
 
-Toute la journée est sur gravier et il y a 2 montées. Longues avec des parties raides. Je vais tranquille, vu la chaleur je trempe la tête dans les rivières et je fais le plein d'eau en la filtrant. Hier je l'ai pas fait mais l'Américain (toujours le même) m'a rappelé qu'il y a une bactérie qui prends 2 semaines à faire effet. Même dans l'eau de ruisseau en montagne. Bref, il faut être plus sage.
+The whole day is on gravel with two climbs. Long ones with steep sections. I go at a steady pace; due to the heat, I soak my head in the rivers and refill my water by filtering it. I didn’t do it yesterday, but the American (the same one) reminded me that there’s a bacteria that takes two weeks to take effect. Even in mountain stream water. Anyway, I need to be wiser.
 
-La 2ème montée est interminable et je puise dans les réserves. Récompense à la descente avec un single trail, une trace étroite et animée sur une longue descente. Sur la fin, tout a brûlé, je note qu'il y a peu d'animaux aussi.
+The second climb is never-ending, and I dig into my reserves. The descent rewards me with a single trail, a narrow and lively path on a long descent. At the end, everything has burned; I notice that there are also few animals.
 
-J'ai tellement envie d'arriver que j'en oublie de regarder ma carte. Je loupe la ville de Seeley, tant pis je campe et mange du lyophilisé. Entouré d'une famille de lièvres pas peureux du tout!
-
+I’m so eager to arrive that I forget to look at my map. I miss the town of Seeley; never mind, I camp and eat freeze-dried food. Surrounded by a family of not at all shy rabbits!
 
 <figure markdown>
 ![Single Trail!](day9/day9.2.jpeg){ width=“300” }
 
-![Dans la grosse montée!](day9/day9.3.jpeg){ width=“300” }
+![On the big climb!](day9/day9.3.jpeg){ width=“300” }
 
-![un beau camaïeu de vert](day9/day9.4.jpeg){ width=“300” }
+![A beautiful gradient of green](day9/day9.4.jpeg){ width=“300” }
 
-![Enfin je passe le col!](day9/day9.5.jpeg){ width=“300” }
+![Finally, I pass the pass!](day9/day9.5.jpeg){ width=“300” }
 
-![Trop content 🙂 : job done!](day9/day9.6.jpeg){ width=“300” }
+![So happy 🙂: job done!](day9/day9.6.jpeg){ width=“300” }
 
-![Ça a bien brûlé...](day9/day9.7.jpeg){ width=“300” }
+![It has burned well...](day9/day9.7.jpeg){ width=“300” }
 
-![Un copain au campement!](day9/day9.8.jpeg){ width=“300” }
+![A buddy at the campsite!](day9/day9.8.jpeg){ width=“300” }
 
 </figure>
-
-

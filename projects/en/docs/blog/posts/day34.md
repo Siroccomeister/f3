@@ -57,5 +57,3 @@ Il y a ces rencontres qui ont beaucoup de charme en vélo. Je l'ai déjà vécu 
 ![Banana Split en arrivant au lodge. On voit plus les bananes tellement c'est chargé! Mais on a bien mangé au lodge (mexicain)](day34/day34.10.jpeg){ width=“300” }
 
 </figure>
-
-

@@ -6,50 +6,43 @@ categories:
   - World
 ---
 
-#  Grants
+# Grants
 
 <figure markdown>
-![Bivouac au Cerro Alesna](day37/day37.1.jpeg){ width=“300” }
+![Bivouac at Cerro Alesna](day37/day37.1.jpeg){ width=“300” }
 </figure>
 
-Je termine la traversée de Mesa Chivato et Chaco Mesa. Après le beau pic de Cerro Alesna, j'ai encore une montée dans les montagnes San Mateo puis j'arrive dans Grants. La route historique 66 longe la ville. Mes jambes ont pris cher. Après quelques courses je repars pour bivouaquer sur le chemin de Pie Town. Cela aura été une journée de transition.
+I finish the crossing of Mesa Chivato and Chaco Mesa. After the beautiful peak of Cerro Alesna, I have one more climb in the San Mateo Mountains before arriving in Grants. The historic Route 66 runs alongside the town. My legs have taken a beating. After some shopping, I set off again to bivouac on the way to Pie Town. It’s been a day of transition.
 
 <!-- more -->
 
+# San Mateo Mountains
 
-# Montagnes San Mateo
-
-La montée depuis mon bivouac est rude et pourtant pas difficile. Je sens mes jambes qui fatiguent plus que d'habitude. J'accuse le coup des deux derniers jours. Un zeste de peanut butter m'achève dans l'effort mais je suis récompensé par une longue descente.
+The climb from my bivouac is tough but not too hard. I can feel my legs tiring more than usual. I’m feeling the effects of the last two days. A bit of peanut butter finishes me off, but I’m rewarded with a long descent.
 
 # Grants
 
-A l'entrée de la ville je longe une maison de redressement, bardée de barbelés et d'un mirador. Je fais des courses pour tenir 2 jours en autonomie et je m'accorde une pause pizza. Je lave mon vélo qui en a bien besoin. Puis c'est reparti.
+Entering the town, I pass a correctional facility, surrounded by barbed wire and a watchtower. I shop to stock up for two days of autonomy and treat myself to a pizza break. I wash my bike, which really needs it. Then, it's back on the road.
 
-# En route pour Pie Town
+# On the Way to Pie Town
 
-Je commence à planifier la fin du voyage. La frontière serait pour le 5 ou 6 septembre. Je contacte Jeffrey qui se spécialise dans l'assistance logistique pour ceux qui arrivent à Antelope Wells où il n'y a strictement rien et qui veulent pas repartir à vélo. À voir comment tout cela va se mettre en place.
+I start planning the end of the journey. The border should be around September 5th or 6th. I contact Jeffrey, who specializes in logistical support for those arriving at Antelope Wells, where there’s absolutely nothing, and who don’t want to leave by bike. We’ll see how it all works out.
 
-Je m'arrête et dors juste avec ma tente mesh (moustiquaire). J'admire les étoiles au-dessus de ma tête !
-
+I stop and sleep with just my mesh tent (mosquito net). I admire the stars above my head!
 
 !!! hint ""
-    cliquez sur les photos pour voir les commentaires
-
-!!! question ""
-    🇫🇷 si vous avez été fidèle jusqu'ici, un commentaire est bienvenu! 🇺🇸 if you followed me until here, a comment will be welcome! [>> Click here](https://forms.office.com/r/5TiedXLRaN)
+    Click on the photos to see the comments.
 
 <figure markdown>
 
-![Arrivée sur Grants](day37/day37.2.jpeg){ width=“300” }
+![Arriving in Grants](day37/day37.2.jpeg){ width=“300” }
 
 ![Route 66](day37/day37.3.jpeg){ width=“300” }
 
-![Sortie de Grants, longue montée dans un canyon bordé de blocs de rochers](day37/day37.4.jpeg){ width=“300” }
+![Leaving Grants, long climb through a canyon lined with rock blocks](day37/day37.4.jpeg){ width=“300” }
 
-![Selfie du soir](day37/day37.5.jpeg){ width=“300” }
+![Evening selfie](day37/day37.5.jpeg){ width=“300” }
 
-![Mon campement pour la nuit](day37/day37.6.jpeg){ width=“300” }
+![My campsite for the night](day37/day37.6.jpeg){ width=“300” }
 
 </figure>
-
-

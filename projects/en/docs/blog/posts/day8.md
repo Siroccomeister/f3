@@ -6,47 +6,43 @@ categories:
   - World
 ---
 
-# Camping chez Swan!
+# Camping at Swan!
 
 <figure markdown>
 ![Swan River Camp](day8/day8.1.jpeg){ width=“300” }
 </figure>
 
-J'avance bien mais la route est toujours fermée pour cause du feu entre Ovanda et Lincoln. Le Montana fait partie des passages difficiles de la Great Divide. J'ai beaucoup de dénivelé à faire ces prochains jours. J'essaie de bien gérer!
+I'm making good progress, but the road is still closed due to the fire between Ovanda and Lincoln. Montana is one of the challenging passages of the Great Divide. I have a lot of elevation to gain in the coming days. I’m trying to manage well!
 
 <!-- more -->
 
-Départ pas très matinal, je fais des courses à Columbia Falls. Dans un grand supermarché (Smiths) je vais au rayon droguerie/pharmacie (ici les pharmacies sont directement dans les supermarchés style Walmart ou Smiths). Je découvre un assortiment entier de crèmes à la Cortisone. En vente libre sans ordonnance ici 🤔. Je prends un tube pour me débarrasser des petits boutons inévitables avec la sueur et les frottements. Oups j'ai jeté la boîte - des effets secondaires? On verra bien - j'en suis encore au stade préventif donc petites doses.
+A not-so-early departure; I do some shopping in Columbia Falls. In a large supermarket (Smiths), I head to the drugstore/pharmacy section (here pharmacies are directly in supermarkets like Walmart or Smiths). I discover an entire assortment of cortisone creams. Available over the counter without a prescription here 🤔. I grab a tube to get rid of the little bumps that inevitably come with sweat and friction. Oops, I tossed the box—any side effects? We’ll see; I’m still in the preventive stage, so small doses.
 
-Ça roule top, 60km sur petite route puis grimpette. Je visite en plaine, les villas/ranchs sont immenses. Les photos sont pas assez parlantes. Certains ont même un garage fermé pour y mettre leur caravane en entier (taille XL hein, celles où on pousse les murs). Je suis sûr que je vais en revoir, je vous montrerai. Ils ont vraiment trop de place. En même temps, qui fait le ménage dans ces palaces (car il n'y a que ça)?
+It’s rolling nicely, 60 km on a small road followed by a climb. I visit the plains; the villas/ranches are immense. The photos don’t do it justice. Some even have a closed garage to fit their entire RV (extra large, you know, the ones where you push the walls). I’m sure I’ll see some again, and I’ll show you. They really have too much space. At the same time, who cleans these palaces (because that’s all there is)?
 
+Then it’s climbing on gravel, with another animal festival around 5 PM. Two rabbits, three little snakes (I almost ran over one) for a change. I set up my tent by the river. Here, wild camping is generally allowed (except on private property). Two other campers: one from Oregon and the other from California. They give me a lesson on bears: you need to make a triangle between the tent, the food bag suspended, and the place where you eat. I used to eat right next to my tent. Epic fail.
 
-Ensuite c'est de la montée sur gravier, avec vers 17h à nouveau le festival des animaux. 2 lièvres, 3 petits serpents (j'ai failli en écraser un) pour changer. Je monte la tente au bord d'une rivière. Ici le camping sauvage est globalement autorisé (sauf sur un domaine privé). 2 autres campeurs : l'un de l'Oregon et l'autre de Californie. Ils me font la leçon sur les ours : il faut faire un triangle entre la tente, le sac de nourriture suspendu et l'endroit où on mange. Moi je mangeais bêtement à côté de ma tente. Échec. 
+We talked about Trump and the elections; they too don’t understand how the USA has come to this. I note that red states are mostly rural and vote Republican. At the same time, they receive funds from blue/Democrat states (big cities like New York or California pay a lot more taxes and are **more populated**). It's the red vs. blue equalization, so to speak. I note that who pays what is important. Montana is one of the least populated states.
 
-On a parlé Trump et élections, eux non-plus comprennent pas que les USA en soient là. Je retiens:  les états rouges sont plutôt ruraux et votent républicains. En même temps ils reçoivent des fonds des états bleus/démocrates (les grandes villes style New York ou la Californie paient beaucoup plus de taxes et sont **plus peuplées**). C'est la péréquation rouge vs bleu quoi. Je note que qui paie quoi à son importance. Le Montana est un des états les moins peuplés.
-
-Pluie annoncée pour après-demain. Le rythme va baisser car beaucoup de dénivelé. Je prévois un jour de récupération d'ici 2-3 jours.
-
+Rain is forecasted for the day after tomorrow. The pace will slow down due to a lot of elevation gain. I plan for a recovery day in the next 2-3 days.
 
 <figure markdown>
-![C'est long depuis le porche jusqu'à la maison!](day8/day8.2.jpeg){ width=“300” }
+![It's a long way from the porch to the house!](day8/day8.2.jpeg){ width=“300” }
 
-![Quartier dense](day8/day8.3.jpeg){ width=“300” }
+![Dense neighborhood](day8/day8.3.jpeg){ width=“300” }
 
-![Demain je monte dans ces montagnes!](day8/day8.4.jpeg){ width=“300” }
+![Tomorrow I'm climbing into those mountains!](day8/day8.4.jpeg){ width=“300” }
 
-![Tiens des intrus!](day8/day8.5.jpeg){ width=“300” }
+![Look, intruders!](day8/day8.5.jpeg){ width=“300” }
 
-![Il me nargue!](day8/day8.6.jpeg){ width=“300” }
+![He's teasing me!](day8/day8.6.jpeg){ width=“300” }
 
-![1er Lapinou](day8/day8.7.jpeg){ width=“300” }
+![First little rabbit](day8/day8.7.jpeg){ width=“300” }
 
-![1er Serpent](day8/day8.8.jpeg){ width=“300” }
+![First snake](day8/day8.8.jpeg){ width=“300” }
 
-![Beau batracien](day8/day8.9.jpeg){ width=“300” }
+![Beautiful amphibian](day8/day8.9.jpeg){ width=“300” }
 
-![Je me fais bercer par le bruit de la rivière](day8/day8.10.jpeg){ width=“300” }
+![I'm rocked by the sound of the river](day8/day8.10.jpeg){ width=“300” }
 
 </figure>
-
-

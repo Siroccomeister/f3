@@ -6,49 +6,46 @@ categories:
   - World
 ---
 
-# une semaine déjà!
+# A week already!
 
 <figure markdown>
-![Red Meadow Lake - trop beau ce vert!](day7/day7.1.jpeg){ width=“300” }
+![Red Meadow Lake - such a beautiful green!](day7/day7.1.jpeg){ width=“300” }
 </figure>
 
-Aujourd'hui j'ai mis le turbo. 130km/1'700m de dénivelé positive avec 2 cols à passer. Pas un nuage, j'ai roulé non-stop sur du gravier (dur dur pour les fesses) pour prendre la dernière place au camping de Whitefish.
+Today I stepped on the gas. 130 km / 1,700 m of elevation gain with 2 passes to cross. Not a cloud in sight, I rode non-stop on gravel (hard on the backside) to secure the last spot at the Whitefish campground.
 
 <!-- more -->
 
-Ce matin je fais connaissance avec Chris Neil, le mari de Siri. Un couple de cyclistes passent. Curieux mais seulement le temps de discuter (Dieter et Monika , Allemands donc). Globalement chaque rencontre est joyeuse car on est tous dans la même aventure. Mais ils ont tous 60 jours ou 3 mois, pas grand monde pour avancer ensemble à mon rythme. Il reste les rencontres.
+This morning, I met Chris Neil, Siri's husband. A couple of cyclists passed by. Curious, but only had time for a brief chat (Dieter and Monika, Germans). Overall, each encounter is joyful because we are all on the same adventure. But they all have 60 days or 3 months; not many are moving at my pace. There are still the encounters.
 
-Chris m'alerte qu'un feu s'est déclaré à Lincoln dans le Montana et sur le tracé. On espère qu'il sera contenu sinon je devrai faire un détour. C'est à 330km, j'ai encore 2 jours pour voir venir.
+Chris warned me that a fire has broken out in Lincoln, Montana, and on the trail. We hope it will be contained; otherwise, I will have to take a detour. It’s 330 km away; I still have 2 days to see what happens.
 
-Le défi du jour est le dénivelé avec 2 cols à passer. Je trouve que je m'en sors bien, presque 18km/h de moyenne. Il fait super beau et chaud et je profite des rivières sur le chemin. J'ai résisté à la baignade mais ça va plus durer longtemps. L'eau est super claire et fraîche. Aujourd'hui je suis allé non-stop pour voir ce que cela donne. Heureusement que je me suis préparé ☺️.
+Today's challenge is the elevation with 2 passes to cross. I feel like I'm doing well, averaging almost 18 km/h. The weather is beautiful and hot, and I enjoy the rivers along the way. I resisted the urge to swim, but that won't last long. The water is super clear and refreshing. Today I rode non-stop to see how it goes. Thankfully, I prepared well ☺️.
 
-Le plus incroyable est que sur 130km j'ai dû faire 120km de gravier dans la nature.  Tout est très vert et la trace passe à côté de lacs aux couleurs incroyables.
+The most incredible thing is that out of 130 km, I had to do 120 km of gravel in nature. Everything is very green, and the trail passes by lakes with incredible colors.
 
-Mon seul échec est que je n'ai pas pu finir la pizza "Large" en ville ce soir. Je pense qu'il faut 2 jours de vélo pour y arriver 😄.
+My only failure is that I couldn't finish the "Large" pizza in town tonight. I think it takes 2 days of cycling to accomplish that 😄.
 
-Demain je vais essayer de garder ce rythme. Je fais gaffe aux fesses qui commencent à se manifester. C'est vrai que ça secoue mais j'ose pas encore filmer en descente pour vous montrer. 
+Tomorrow I will try to maintain this pace. I have to watch out for my backside, which is starting to make itself known. It does shake, but I still don't dare film while going downhill to show you.
 
-Suis content de la médaille de bronze de Roman au 200m dos, c'est le fils d'un ancien collègue. Bravo 👏!
-
+I'm happy about Roman's bronze medal in the 200m backstroke; he’s the son of a former colleague. Well done 👏!
 
 <figure markdown>
-![j'ai fait la grasse mat ce matin, trop bien cet accueil aménagé!)](day7/day7.2.jpeg){ width=“300” }
+![I slept in this morning, such a nice welcoming setup!](day7/day7.2.jpeg){ width=“300” }
 
-![Super la trace, j'arrive en haut du 1er col](day7/day7.3.jpeg){ width=“300” }
+![Great trail, I'm at the top of the first pass](day7/day7.3.jpeg){ width=“300” }
 
-![ça repousse plus vite que mes cheveux!](day7/day7.4.jpeg){ width=“300” }
+![It grows back faster than my hair!](day7/day7.4.jpeg){ width=“300” }
 
-![Toujours tout droit!](day7/day7.5.jpeg){ width=“300” }
+![Always straight ahead!](day7/day7.5.jpeg){ width=“300” }
 
-![la belle descente!](day7/day7.6.jpeg){ width=“300” }
+![The beautiful descent!](day7/day7.6.jpeg){ width=“300” }
 
-!["chien de prairie" - il y en a partout. Ils adorent traverser quand je passe. Surtout en fin de journée.](day7/day7.7.jpeg){ width=“300” }
+![Prairie dog - they are everywhere. They love to cross when I pass by. Especially in the late afternoon.](day7/day7.7.jpeg){ width=“300” }
 
-![c'est tentant!](day7/day7.8.jpeg){ width=“300” }
+![It's tempting!](day7/day7.8.jpeg){ width=“300” }
 
-![ils pourraient se pousser! Bon ceux-là je peux pas croire qu'ils sont pas nourris!](day7/day7.9.jpeg){ width=“300” }
+![They could move! Well, I can't believe these ones aren't fed!](day7/day7.9.jpeg){ width=“300” }
 
 
 </figure>
-
-

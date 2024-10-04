@@ -6,63 +6,56 @@ categories:
   - World
 ---
 
-#  Abiquiu to Cuba
+# Abiquiu to Cuba
 
 <figure markdown>
-![Depart pour Cuba](day35/day35.1.jpeg){ width=“300” }
+![Departing for Cuba](day35/day35.1.jpeg){ width=“300” }
 </figure>
 
-Finalement la météo semble tenir et je me lance sur la trace vers Cuba. Grosse étape (125km et 2'400m de montée) je décolle vers 6h30, record pour moi. La montée est réputée être la plus difficile (terrain, longueur) de la GDMBR. Super parcours, heureux de pas avoir fait le détour route comme d'autres. Au bout de la montée je lève les bras au ciel 💪.
+Finally, the weather seems to be holding up, and I set off on the route to Cuba. It’s a big stage (125 km and 2,400 m of elevation gain), and I take off around 6:30 a.m.—a record for me. The climb is known to be the hardest (in terms of terrain and length) on the GDMBR. It’s a fantastic route, and I'm happy I didn’t take the detour on the road like others. At the end of the climb, I raise my arms to the sky 💪.
 
 <!-- more -->
 
+# From Abiquiu to Cuba
 
-# de Abiquiu à Cuba
+The beginning goes well; it’s fairly rideable. But then the terrain becomes complicated. Sand, sharp volcanic stones, rocky slabs. In total, there are 25 miles of climbing, and I reach the top at 12:30 p.m. This is the last time I exceed 3,000 m. I grit my teeth and don’t let up. Incredible what gravel can handle. They recommend a full-suspension bike (with a telescopic fork for cushioning and wide tires), but I managed 😅. Upon arrival, I raise my arms to the sky and let out a victory cry. I want to be humble, but this feels earned, in all modesty ☺️.
 
-Le début se passe bien, c'est assez roulant. Mais ensuite le terrain devient compliqué. Sable, pierres volcaniques (tranchantes), dalles de rocher. En tout il y a 25 miles de montée et j'arrive au bout à 12h30. C'est la dernière fois que je dépasse les 3'000m. Je serre les dents et ne lâche rien. Incroyable tout ce que le Gravel sait faire. Ils recommandent un vélo suspendu (fourche télescopique qui amortit et pneus larges) mais c'est passé 😅. A l'arrivée je lève les bras au ciel et pousse un cri de victoire. Je veux bien être humble mais là c'est mérité, en toute modestie ☺️.
+The afternoon is a succession of climbs and small descents. I still need to gain an additional 1,000 m of elevation before enjoying the descent toward Cuba (on the road, but it’s 15 km of pleasure). 
 
-L'après-midi est une succession de montées et de petites descentes. Il faut encore aller chercher 1'000m de dénivelé supplémentaire avant de profiter de la descente vers Cuba (sur route mais là ça fait 15km de plaisir). 
+# The Next Steps
 
-# La suite
+I continue to plan. The weather is bothering me. Rain/storms are expected later in the day. From Cuba, they strongly recommend the paved road toward the Chico Indian Reservation as an alternative route to reach Grants. The route through the track has a significant peanut butter factor. I’ll decide at the last minute.
 
-Je continue de planifier. La météo m'ennuie. Pluie/orage en fin de journée. Depuis Cuba ils recommandent fortement la route pavée vers la réserve indienne Chico comme route alternative pour arriver à Grants. Le parcours par la piste a un fort enjeu peanut butter. Je vais décider à la dernière minute.
-
-La frontière est en ligne de mire, après Grants il reste plus que 2 villes (Pie Town et Silver City). Mais ils annoncent aussi du vent d'Est (donc latéral pour moi) avec des rafales à 40km/h. Je sens que ça va être sport jusqu'au bout!
-
+The border is in sight; after Grants, there are only 2 towns left (Pie Town and Silver City). But they also forecast east winds (which will be lateral for me) with gusts up to 40 km/h. I feel like it’s going to be a challenge until the end!
 
 !!! hint ""
-    cliquez sur les photos pour voir les commentaires
+    Click on the photos to see the comments.
 
 !!! question ""
-    🇫🇷 si vous avez été fidèle jusqu'ici, un commentaire est bienvenu! 🇺🇸 if you followed me until here, a comment will be welcome! [>> Click here](https://forms.office.com/r/5TiedXLRaN)
+    🇫🇷 If you’ve followed me this far, a comment is welcome! 🇺🇸 If you followed me until here, a comment will be welcome! [>> Click here](https://forms.office.com/r/5TiedXLRaN)
 
 <figure markdown>
 
-![La fin de mon parcours, on voit la grimpette depuis Abiquiu](day35/day35.2.jpeg){ width=“300” }
+![The end of my route; you can see the climb from Abiquiu](day35/day35.2.jpeg){ width=“300” }
 
-![Couleurs du matin!](day35/day35.3.jpeg){ width=“300” }
+![Morning colors!](day35/day35.3.jpeg){ width=“300” }
 
-![Structures type Mesa et plateaux, le terrain de jeu du jour](day35/day35.4.jpeg){ width=“300” }
+![Mesa-like structures and plateaus, today's playground](day35/day35.4.jpeg){ width=“300” }
 
-![Plateau haut en couleurs](day35/day35.5.jpeg){ width=“300” }
+![Colorful high plateau](day35/day35.5.jpeg){ width=“300” }
 
-![Sable / ça ralentit et ça tourne difficilement](day35/day35.6.jpeg){ width=“300” }
+![Sand / it slows you down and is hard to maneuver](day35/day35.6.jpeg){ width=“300” }
 
-![Sable et dalles de rochers](day35/day35.7.jpeg){ width=“300” }
+![Sand and rocky slabs](day35/day35.7.jpeg){ width=“300” }
 
-![Pierrier, souvent volcanique](day35/day35.8.jpeg){ width=“300” }
+![Scree, often volcanic](day35/day35.8.jpeg){ width=“300” }
 
-![A 3'000m, je trouve un paysage jurassien!](day35/day35.9.jpeg){ width=“300” }
+![At 3,000 m, I find a Jurassic landscape!](day35/day35.9.jpeg){ width=“300” }
 
-![Bel arbre](day35/day35.10.jpeg){ width=“300” }
+![Beautiful tree](day35/day35.10.jpeg){ width=“300” }
 
-![Un ATV, style quad qu'on croise, surtout au Colorado](day35/day35.11.jpeg){ width=“300” }
+![An ATV, quad style, we encounter, especially in Colorado](day35/day35.11.jpeg){ width=“300” }
 
-
-![A l'approche de Cuba, j'ai hâte d'arriver après 9h30 passés en selle!](day35/day35.12.jpeg){ width=“300” }
-
-
+![Approaching Cuba, I can’t wait to arrive after spending over 9.5 hours in the saddle!](day35/day35.12.jpeg){ width=“300” }
 
 </figure>
-
-

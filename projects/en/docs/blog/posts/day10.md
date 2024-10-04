@@ -9,42 +9,40 @@ categories:
 # Alpaca Farm 
 
 <figure markdown>
-![Trop beau le toit! 🚴](day10/day10.1.jpeg){ width=“300” }
+![What a beautiful roof! 🚴](day10/day10.1.jpeg){ width=“300” }
 </figure>
 
-Je pars à 9h03 ☺️ et je vise le Lama Ranch - un passage obligé sur la Divide. Je pense y passer une journée de repos. Pour y arriver je dois contourner le feu par un détour sur autoroute. Puis une dernière grosse montée peu après Lincoln, sur gravier bien sûr.
+I leave at 9:03 AM ☺️ and aim for the Lama Ranch—a must-stop on the Divide. I plan to spend a rest day there. To get there, I have to detour around the fire via the highway. Then there’s one last big climb just after Lincoln, on gravel, of course.
 
 <!-- more -->
 
-Je profite d'un 1er arrêt à Ovando pour pendre un vrai breakfast. Omelette, saucisses, bol de fruit, pancakes. Incroyable comment ça creuse le vélo, les dames au services font les grands yeux. En plus l'endroit est typique, je vois les 1ers chapeaux de cow-boy. Tout le village se retrouve après l'église. En même temps il pleut un peu.
+I enjoy my first stop in Ovando for a proper breakfast. Omelette, sausages, bowl of fruit, pancakes. It’s incredible how much energy biking requires; the ladies at the service look wide-eyed. Plus, the place is typical; I see the first cowboy hats. The whole village gathers after church. At the same time, it’s drizzling a bit.
 
-J'enchaîne par l'autoroute sous la pluie, 40km. C'est chaud, les gros trucks passent à 70mph / 110kmh. Parfois ça passe près. Surtout quand il y a le rail de sécurité. Je me réconforte en me disant que j'ai bien fait de prendre mon feu rouge arrière pour être bien visible. J'appuie sur les pédales.
+I continue on the highway in the rain for 40 km. It’s intense; big trucks pass by at 70 mph / 110 km/h. Sometimes they come really close, especially when there’s a guardrail. I comfort myself by saying that I did well to take my rear red light to be highly visible. I push on the pedals.
 
-Après 3/4 du trajet je m'arrête pour boire. Je veux admirer mon beau feu arrière. Que nenni, il est mort. La batterie était à sec. Je me dis que parfois on fonde nos espoirs sur des illusions...
+After three-quarters of the journey, I stop to drink. I want to admire my beautiful rear light. But lo and behold, it’s dead. The battery is empty. I realize that sometimes we base our hopes on illusions...
 
-J'arrive à Lincoln, un grand campement est établi pour "les combattants du feu". Il mesure maintenant 73 hectares, il grossit. J'espère que la pluie va aider. La visibilité est pas bonne tous ces derniers jours mais la qualité de l'air reste ok.
+I arrive in Lincoln; a large campsite has been set up for "firefighters." It now spans 73 hectares and is growing. I hope the rain will help. Visibility has been poor in recent days, but the air quality remains okay.
 
-J'appelle le Lama Ranch - maintenant Alpaca - pour m'annoncer. C'est un endroit très réputé. Ils offrent tout. Les cabines sont occupées mais je peux planter ma tente. Je mets les gaz pour une dernière montée (qui finit dans les 10%+), la descente est magnifique et j'arrive quasi sans pédaler chez Barbara et John. En 2023, ils ont accueilli 662 cyclistes de la Divide. Tout est offert, je vous raconte demain...
+I call the Lama Ranch—now Alpaca—to announce my arrival. It’s a very well-known place. They offer everything. The cabins are occupied, but I can pitch my tent. I step on the gas for one last climb (which ends at over 10%), the descent is beautiful, and I almost arrive without pedaling at Barbara and John’s. In 2023, they hosted 662 Divide cyclists. Everything is provided; I’ll tell you more tomorrow...
 
-Je me retrouve en communauté, on parle vélo, café, astuces. L'endroit est 👍. Je suis pas loin de Helena, mais encore loin de quitter le Montana.
+I find myself in a community; we talk bikes, coffee, and tips. The place is 👍. I’m not far from Helena, but still far from leaving Montana.
 
 <figure markdown>
-![petit déjeuner](day10/day10.2.jpeg){ width=“300” }
+![breakfast](day10/day10.2.jpeg){ width=“300” }
 
-![naturally and artificially - ça c'est du marketing!](day10/day10.3.jpeg){ width=“300” }
+![naturally and artificially - that’s marketing!](day10/day10.3.jpeg){ width=“300” }
 
-![make liberals cry again - La campagne est lancée!](day10/day10.4.jpeg){ width=“300” }
+![make liberals cry again - The campaign is on!](day10/day10.4.jpeg){ width=“300” }
 
-![Autoroute sous la pluie](day10/day10.5.jpeg){ width=“300” }
+![Highway in the rain](day10/day10.5.jpeg){ width=“300” }
 
 ![Prevention](day10/day10.6.jpeg){ width=“300” }
 
-![Dernière montée!](day10/day10.7.jpeg){ width=“300” }
+![Last climb!](day10/day10.7.jpeg){ width=“300” }
 
-![Ceci signale une fibre optique et non un Système d'alerte incendie 😉](day10/day10.8.jpeg){ width=“300” }
+![This indicates a fiber optic line and not a fire alarm system 😉](day10/day10.8.jpeg){ width=“300” }
 
-![Un aperçu du Lama Ranch, il fait beau, la nuit est fraîche](day10/day10.9.jpeg){ width=“300” }
+![A glimpse of the Lama Ranch, the weather is nice, and the night is cool](day10/day10.9.jpeg){ width=“300” }
 
 </figure>
-
-

@@ -6,62 +6,53 @@ categories:
   - World
 ---
 
-#  The Great Basin
+# The Great Basin
 
 <figure markdown>
-![Traversée du Great Basin, lumières du soir](day22/day22.1.jpeg){ width=“300” }
+![Traversing the Great Basin, evening lights](day22/day22.1.jpeg){ width=“300” }
 </figure>
 
-Je profite de la matinée pour faire des courses et laisser mon vélo avoir un soin mécanique. Je veux traverser le Basin en 2 jours en roulant la nuit. 180 km pour rejoindre la 1ere source.
+I take advantage of the morning to do some shopping and give my bike some mechanical care. I want to cross the Basin in 2 days while riding at night. 180 km to reach the first spring.
 
 <!-- more -->
 
 # Pinendale 
 
-Matinée tranquille pour laisser un peu reposer les guibolles. Je vais au supermarché, je fais quelques boutiques avec du matériel camping. Le mécano vélo est embêté - il n'arrive pas à bien régler le dérailleur. Aurait-il pris un coup? Je réfléchis si et quand je pourrais le changer les prochains jours. Puis je m'élance...
+A relaxing morning to let my legs rest a bit. I go to the supermarket and check out a few stores for camping gear. The bike mechanic is having trouble—he can’t get the derailleur adjusted properly. Did it get damaged? I think about if and when I might replace it in the coming days. Then I set off...
 
-# the Great Basin
+# The Great Basin
 
-Le Basin est un autre passage mythique. En gros, sur le partage des eaux, cette "bassine" est sur la crête. Donc l'eau qui tombe sur les bords de ce haut plateau s'écoule vers les océans. Mais ce qui tombe dedans va nulle-part. Et ce haut plateau est très désertique, plat et sans arbres. Juste ces buissons qui résistent à tout. Très aride, les points d'eau sont super rares. Il faut charger le vélo, je prends 5.5l avec moi. Autre difficulté: la météo. Les vents peuvent être très forts et un vent de face fatal au vu des distances. Bref vous l'avez compris - c'est un gros morceau 😳.
+The Basin is another legendary passage. Basically, regarding the watershed, this "basin" is on the ridge. So the water that falls on the edges of this high plateau flows toward the oceans. But what falls inside goes nowhere. And this high plateau is very desert-like, flat, and treeless. Just these bushes that withstand everything. Very arid, water points are extremely rare. I need to load the bike; I’m taking 5.5 liters with me. Another challenge: the weather. Winds can be very strong, and a headwind is fatal given the distances. In short, you got it—this is a tough challenge 😳.
 
+# Great Basin - First Part
 
-# Great Basin - 1ere partie
+I set off at 2 p.m. With favorable winds, I aim to pitch my tent around midnight/1 a.m. near a water source. It’s going well, with a tailwind, but the derailleur is bothering me. There aren’t many climbs, but the first gear (the large cog) won’t engage. I waste an hour trying to adjust it—not easy in the middle of nowhere with a loaded bike. Nothing to be done... I continue.
 
-Je m'élance à 14h. A priori vents favorables, je vise minuit/1h du matin pour monter la tente à proximité d'une source d'eau. Ça avance bien, vent arrière, mais le dérailleur m'embête. Il y a pas beaucoup de montées, mais la 1ere vitesse (le gros pignon) veut pas passer. Je perds 1 heure à essayer de le régler, pas facile au milieu de nulle-part et le vélo chargé. Rien à faire... je continue. 
-
-Le coucher du soleil est magnifique, ciel super clair et la lune très belle, quasi pleine. Je vois des Pronghorn (antilope d'Amérique), et de nuit je croise régulièrement des lièvres et des oiseaux de nuit. C'est magique mais à 2h de matin, j'arrive bien crevé. En plus je suis allé trop loin! Je reviens sur 2km, puis je cherche cette source...? Pas d'indication, rien. Je tourne en rond avec ma frontale. Marre, j'y verrai mieux le jour levé. Je plante la tente et dodo.
-
-
+The sunset is magnificent, with a super clear sky and a beautiful moon, almost full. I see Pronghorn (American antelope), and at night I regularly cross paths with hares and nocturnal birds. It’s magical, but by 2 a.m., I’m pretty exhausted. Plus, I’ve gone too far! I turn back 2 km, then I look for this spring...? No signs, nothing. I’m going in circles with my headlamp. Tired of this, I’ll see better when the sun rises. I pitch the tent and go to sleep.
 
 !!! hint ""
-    cliquez sur les photos pour voir les commentaires
+    Click on the photos to see the comments.
 
 <figure markdown>
 
-![Il faut pas faire fromager dans ce pays 😳. En gros c'est un pays par type de fromage!](day22/day22.2.jpeg){ width=“300” }
+![One shouldn't make cheese in this country 😳. Basically, it's a country by type of cheese!](day22/day22.2.jpeg){ width=“300” }
 
-![Je sais pas quoi faire avec ma barbe qui pousse 🤔?](day22/day22.3.jpeg){ width=“300” }
+![I don't know what to do with my growing beard 🤔?](day22/day22.3.jpeg){ width=“300” }
 
-![Les magasins de vélo sont assez cool sur le parcours, ici Gear Up](day22/day22.4.jpeg){ width=“300” }
+![Bike shops are pretty cool along the route; here’s Gear Up](day22/day22.4.jpeg){ width=“300” }
 
-![Je me lance!](day22/day22.5.jpeg){ width=“300” }
+![I'm off!](day22/day22.5.jpeg){ width=“300” }
 
-![Les arbres se font rares, lumière magnifique](day22/day22.6.jpeg){ width=“300” }
+![Trees are becoming scarce; beautiful light](day22/day22.6.jpeg){ width=“300” }
 
-![Ambiance désert se renforce](day22/day22.7.jpeg){ width=“300” }
+![Desert atmosphere intensifies](day22/day22.7.jpeg){ width=“300” }
 
-![Lonesome Vélo-boy ✌️](day22/day22.8.jpeg){ width=“300” }
+![Lonesome Bike-boy ✌️](day22/day22.8.jpeg){ width=“300” }
 
-![Quelques antilopes Pronghorn sur la ligne de crête](day22/day22.9.jpeg){ width=“300” }
+![Some Pronghorn antelopes on the ridge line](day22/day22.9.jpeg){ width=“300” }
 
-![Entre chien et loup... belle ambiance](day22/day22.10.jpeg){ width=“300” }
+![Between dog and wolf... beautiful ambiance](day22/day22.10.jpeg){ width=“300” }
 
-![Je roule de nuit, 180km jusque 2h du matin](day22/day22.11.jpeg){ width=“300” }
+![I’m riding at night, 180 km until 2 a.m.](day22/day22.11.jpeg){ width=“300” }
 
 </figure>
-
-<center>
-<iframe src='https://connect.garmin.com/modern/activity/embed/16791857151' title='Day 22' width='405' height='500' frameborder='0'></iframe>
-</center>
-
-

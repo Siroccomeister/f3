@@ -6,62 +6,53 @@ categories:
   - World
 ---
 
-#  Salida et un peu de repos
+# Salida and a Bit of Rest
 
 <figure markdown>
 ![Abby's Breakfast](day29/day29.1.jpeg){ width=“300” }
 </figure>
 
-Moment magique avec ce beau "petit-dejeuner" disons repas. Je m'élance car je veux rejoindre Salida. Aujourd'hui mon fils Loïc a 12 ans! Je tiens à avoir du signal pour lui parler. Et avoir du temps en ville. C'est sans compter sur le vent et la difficulté du terrain. Arrivée à Salida : j'ai dépassé les 3'000km depuis Calgary. Je suis à la même latitude que Lisbonne 💪. 
+A magical moment with this beautiful "breakfast," let’s call it a meal. I set off because I want to reach Salida. Today my son Loïc turns 12! I want to have a signal to talk to him and spend some time in town. Not counting on the wind and the difficulty of the terrain. Upon arriving in Salida, I’ve surpassed 3,000 km since Calgary. I’m at the same latitude as Lisbon 💪.
 
 <!-- more -->
 
+# A Moment Outside of Time
 
-# Un moment en dehors du temps
+After a chilly and damp night under the tent, I discover this little café that serves brunch. It’s simple, but the atmosphere is magical. A western vibe, country music, the men wear hats, and the waitress Abby sings (formidable in karaoke, in my opinion). I use Shazam to enrich my divide playlist for my return. Honestly, I wish you all such a moment of peace at breakfast. A challenge for the coming days? To savor and let oneself be carried away.
 
-Après une nuit sous tente, frisquette et humide, je découvre ce petit café qui sert des brunchs. Tout simple mais l'ambiance est magique. Un côté western, musique country, les hommes ont des chapeaux, la serveuse Abby chante (redoutable en karaoke à mon avis). J'utilise Shazam pour enrichir ma playlist divide à mon retour. Honnêtement je vous souhaite à tous un tel moment de paix au petit-déjeuner. Un défi pour ces prochains jours? Déguster et se laisser porter.
+# On the Road to Salida
 
-# En route pour Salida
-
-Gonflé à bloc, j'attaque la route. Vent plein face et surtout le washboarding sur 30km. Horreur. Ma moyenne fond à toute vitesse. Je me bagarre comme je peux et commence à faire mes calculs pour passer le col au-dessus de Salida, moment où j'aurai du réseau. Je redouble d'efforts et me dit que tout mauvais moment n'est que passager. Les jambes répondent présent, un dernier effort et ouf on arrive à se voir. Très bon moment en famille et joyeux anniversaire à mon garçon 🥳🎂🎁. Difficile à vivre à distance malgré tout.
+Fully charged, I tackle the road. A headwind and, especially, washboarding for 30 km. Horror. My average speed plummets. I struggle as best as I can and start calculating how to get over the pass above Salida, the moment when I’ll have signal. I double my efforts and remind myself that any bad moment is just temporary. My legs respond well; a final push, and phew, we manage to see each other. A great family moment, and happy birthday to my boy 🥳🎂🎁. It’s tough to be away, nonetheless.
 
 # Salida
 
-La descente sur Salida est fantastique. Et la ville/bourgade est très très chouette. Beaucoup plus authentique que les stations de ski avec un côté alternatif. Le vélo se décline beaucoup au travers de restaurants et magasins d'art. J'aime beaucoup, bon choix pour traîner. Je fais faire un dernier service à mon vélo. Je mange 2 gros repas : j'ai jamais été aussi maigre malgré toutes les protéines que je m'enfile 🤔. J'ai mal au ventre ce soir tellement j'ai 🍽️😆.
-
+The descent into Salida is fantastic. And the town is really lovely. Much more authentic than ski resorts with an alternative vibe. Biking is well represented through restaurants and art shops. I love it; it’s a great place to hang out. I get one last service done on my bike. I eat two big meals: I’ve never been so skinny despite all the protein I’m downing 🤔. My stomach hurts tonight from how much I’ve eaten 🍽️😆.
 
 !!! hint ""
-    cliquez sur les photos pour voir les commentaires
+    Click on the photos to see the comments.
 
 <figure markdown>
 
 ![Torture!](day29/day29.2.jpeg){ width=“300” }
 
-![Photo improbable!](day29/day29.3.jpeg){ width=“300” }
+![Improbable photo!](day29/day29.3.jpeg){ width=“300” }
 
-![Panorama au-dessus de Salida](day29/day29.4.jpeg){ width=“300” }
+![Panorama above Salida](day29/day29.4.jpeg){ width=“300” }
 
-![Enfin un peu de repos!](day29/day29.5.jpeg){ width=“300” }
+![Finally a bit of rest!](day29/day29.5.jpeg){ width=“300” }
 
-![Salida streetview ](day29/day29.6.jpeg){ width=“300” }
+![Salida street view](day29/day29.6.jpeg){ width=“300” }
 
-![Jolies façades](day29/day29.7.jpeg){ width=“300” }
+![Pretty facades](day29/day29.7.jpeg){ width=“300” }
 
-![S comme ...](day29/day29.8.jpeg){ width=“300” }
+![S as ...](day29/day29.8.jpeg){ width=“300” }
 
-![Même les artistes sont au top 🚴](day29/day29.9.jpeg){ width=“300” }
+![Even the artists are top-notch 🚴](day29/day29.9.jpeg){ width=“300” }
 
-![Encore une chouette façade](day29/day29.10.jpeg){ width=“300” }
+![Another lovely facade](day29/day29.10.jpeg){ width=“300” }
 
-![Beau plongeon 👏 ; sports en eau vive sont aussi possibles ici!](day29/day29.11.jpeg){ width=“300” }
+![Great plunge 👏; whitewater sports are also possible here!](day29/day29.11.jpeg){ width=“300” }
 
-![Santé 🍻](day29/day29.12.jpeg){ width=“300” }
-
+![Cheers 🍻](day29/day29.12.jpeg){ width=“300” }
 
 </figure>
-
-<center>
-<iframe src='https://connect.garmin.com/modern/activity/embed/16843057885' title='Day 29' width='405' height='500' frameborder='0'></iframe>
-</center>
-
-

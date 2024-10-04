@@ -6,66 +6,63 @@ categories:
   - World
 ---
 
-# Helena et Park Lake
+# Helena and Park Lake
 
 <figure markdown>
-![Park Lake rien que pour moi!](day12/day12.1.jpeg){ width=“300” }
+![Park Lake just for me!](day12/day12.1.jpeg){ width=“300” }
 </figure>
 
-Je reprends la route et retrouve vite mes marques. Le repos a fait du bien. J'arrive à Helena, je passe au bike shop pour faire un petit entretien. Puis je repars, pour arriver en fin de journée sur un lac sauvage magnifique et rien que pour moi 🤩. Météo capricieuse. 100km et 2'000mD+.
+I hit the road again and quickly find my rhythm. The rest has done me good. I arrive in Helena, stop by the bike shop for a little maintenance, and then head out, arriving at a beautiful wild lake, just for me 🤩, at the end of the day. The weather is unpredictable. 100 km and 2,000 m of elevation gain.
 
 <!-- more -->
 
-# Au revoir le Lama (Alpaca) ranch
+# Goodbye Lama (Alpaca) Ranch
 
-Je tente mes premiers pancakes et je suis franchement content. Accompagné d'un café fraîchement moulu par notre  barista Clotaire. Que demander de plus pour entamer la journée. Évidemment un départ avant 10h n'est pas possible...
-Je fais un big hug à chacun. Spécialement à John Keller notre hôte. 
+I try my first pancakes, and I’m honestly thrilled. Accompanied by freshly ground coffee from our barista Clotaire. What more could you ask for to start the day? Obviously, leaving before 10 AM isn’t possible... I give a big hug to each person, especially to our host, John Keller.
 
-# Le trajet
+# The Journey
 
-Première montée pour viser Helena à 60km. Surprise après 35mn, un orage de grêle soudain. Puis pluie et 15mn plus tard soleil? Que pasa?
+The first climb aims for Helena, 60 km away. Surprise! After 35 minutes, a sudden hailstorm. Then rain, and 15 minutes later, the sun? What’s going on?
 
-La descente est un peu dangereuse, il y a des creux traversant très piégeux. Je dérape une fois. Je dois ralentir (j'adore les descentes). Les derniers kilomètres sont le long de l'autoroute mais il y a de la place et j'avance bien. Arrivée à Helena je suis un peu déçu. Je passe au bike shop, je retrouve John pour une bière Blackfoot (bière locale du nom de la réserve indienne proche) puis je repars. Je veux avancer et atteindre le lac Park Lake où on peut camper. Le lac est un bijou. Je me baigne bien sûr - il y a personne! 
+The descent is a bit dangerous; there are very tricky dips to cross. I slip once. I have to slow down (I love descents). The last few kilometers are along the highway, but there’s enough room, and I’m making good progress. Upon arriving in Helena, I’m a bit disappointed. I stop by the bike shop, meet John for a Blackfoot beer (a local brew named after the nearby Indian reservation), and then head out again. I want to push on and reach Park Lake where I can camp. The lake is a gem. Of course, I go for a swim—there’s no one around!
 
-# Côté vélo 
+# On the Bike Side
 
-Nettoyage de chaîne et réglage dérailleur ont fait du bien au ranch hier. Les sensations sont bonnes aujourd'hui. Je prends moins d'eau en essayant de m'approvisionner au fur et à mesure. Du coup je suis plus léger 😉. Ça avance bien. À Helena je fais changer le fond de jante de la roue arrière. Hier, au soleil, le liquide sortait par les trous des rayons et le long de la jante 😆. Choc. Ça tenait encore mais je préfère pas prendre de risque. Le bike shop s'appelle The Garage. Ils m'ont pris de suite - vélo prêt et nettoyé en 45mn. Génial. Je vous ai aussi mis une photo de ce qui s'appelle "washboard". C'est la piste qui fait la tôle ondulée. C'est horrible en descente, tout le vélo tremble et on peut difficilement freiner, il y a pas de contact. Très très désagréable!
+Cleaning the chain and adjusting the derailleur did wonders at the ranch yesterday. I’m feeling good today. I’m carrying less water, trying to resupply gradually. So, I’m lighter 😉. Things are moving along well. In Helena, I have the rear rim tape replaced. Yesterday, in the sun, the sealant was coming out through the spoke holes and along the rim 😆. Shocking. It was still holding, but I prefer not to take any risks. The bike shop is called The Garage. They took me right away—bike ready and cleaned in 45 minutes. Awesome. I also included a photo of what’s called “washboard.” It’s the bumpy track that makes the bike shake. It’s horrible on the descent; the whole bike shakes, and it’s hard to brake—there's no contact. Very, very unpleasant!
 
-# Pensées du jour
+# Thoughts of the Day
 
-J'apprécie d'avoir pu prendre la distance. Beaucoup de choses ne me manquent pas du tout. Les essentiels demeurent. La famille, les enfants, ma foi, les amis. Je passe mon temps à réfléchir l'esprit beaucoup moins pollué. Cela fait de la place et un sentiment de liberté grandit chaque jour. Les paysages aident...
+I appreciate having been able to take some distance. A lot of things don’t miss me at all. The essentials remain. Family, kids, my faith, friends. I spend my time reflecting with a much less cluttered mind. It creates space, and a feeling of freedom grows each day. The landscapes help...
 
-Il reste le défi sportif aussi. Pour arriver à rouler et traverser les US en 30 jours, il faut rester focus. Tous ceux que je rencontre prévoient le double. Certaines bonnes idées ne sont pas assez utiles... je les laisse pour plus tard. Il y a un espèce de filtre qui s'installe et cela me permet de rester serein aussi.
+There’s also the athletic challenge. To be able to ride and cross the US in 30 days, I need to stay focused. Everyone I meet plans for double the time. Some good ideas aren’t useful enough... I’ll save them for later. There’s a kind of filter that sets in, which also allows me to remain calm.
 
-À demain!
+See you tomorrow!
 
 <figure markdown>
-![Je cuisine mes pancakes!](day12/day12.2.jpeg){ width=“300” }
+![I’m cooking my pancakes!](day12/day12.2.jpeg){ width=“300” }
 
-![Petit déjeuner royal](day12/day12.3.jpeg){ width=“300” }
+![Royal breakfast](day12/day12.3.jpeg){ width=“300” }
 
-![John notre hôte nourrit les Alpaca](day12/day12.4.jpeg){ width=“300” }
+![John, our host, feeds the Alpacas](day12/day12.4.jpeg){ width=“300” }
 
-![Clotaire fait un gros effort](day12/day12.5.jpeg){ width=“300” }
+![Clotaire is making a big effort](day12/day12.5.jpeg){ width=“300” }
 
-![Mince il grêle!](day12/day12.6.jpeg){ width=“300” }
+![Yikes, it's hailing!](day12/day12.6.jpeg){ width=“300” }
 
-![Et c'est déjà fini](day12/day12.7.jpeg){ width=“300” }
+![And it’s already over](day12/day12.7.jpeg){ width=“300” }
 
-![Là ça secoue!](day12/day12.8.jpeg){ width=“300” }
+![Now it’s shaking!](day12/day12.8.jpeg){ width=“300” }
 
-![Je suis bien sur la bonne route! Juste 3'200km jusqu'à Antelope Wells 😅](day12/day12.9.jpeg){ width=“300” }
+![I’m definitely on the right track! Just 3,200 km to Antelope Wells 😅](day12/day12.9.jpeg){ width=“300” }
 
-![Sujet important : l'avortement](day12/day12.10.jpeg){ width=“300” }
+![Important subject: abortion](day12/day12.10.jpeg){ width=“300” }
 
 ![The Garage](day12/day12.11.jpeg){ width=“300” }
 
 ![Washboarding](day12/day12.12.jpeg){ width=“300” }
 
-![En pleine action](day12/day12.13.jpeg){ width=“300” }
+![In full action](day12/day12.13.jpeg){ width=“300” }
 
-![La recompense!](day12/day12.14.jpeg){ width=“300” }
+![The reward!](day12/day12.14.jpeg){ width=“300” }
 
 </figure>
-
-

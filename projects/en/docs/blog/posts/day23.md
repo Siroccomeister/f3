@@ -6,63 +6,51 @@ categories:
   - World
 ---
 
-#  The Great Basin #2
+# The Great Basin #2
 
 <figure markdown>
-![Traversée du Great Basin, 2ème jour, j'arrive encore à sourire](day23/day23.1.jpeg){ width=“300” }
+![Traversing the Great Basin, 2nd day, I can still smile](day23/day23.1.jpeg){ width=“300” }
 </figure>
 
-Au matin, après une courte nuit, je vois des cyclistes s'arrêter à la source. J'étais à 100m 😆. Je repars à 10h, il me reste 180km pour arriver à la ville de Rawlins. Vais-je y arriver dans la journée?
+In the morning, after a short night, I see cyclists stopping at the spring. I was only 100 m away 😆. I set off at 10 a.m.; I have 180 km left to reach the town of Rawlins. Will I make it there today?
 
 <!-- more -->
 
-# la source Diagnus 
+# The Diagnus Spring 
 
-C'est incroyable d'avoir de l'eau fraîche ainsi au milieu de ces étendues arides. Je plie la tente et prends un bon petit-déjeuner à la source. Je mets la tête dessous pour bien me rafraîchir et départ. Il fait déjà super chaud. 3 cyclistes sont partis devant.
+It’s incredible to have fresh water like this in the middle of these arid expanses. I fold my tent and have a good breakfast at the spring. I put my head under it to refresh myself well, and then I’m off. It’s already super hot. Three cyclists have left ahead of me.
 
-# Vent facétieux 
+# Mischievous Wind 
 
-Rouler dans le désert me fait réfléchir. C'est différent de la solitude. Je suis dans l'action je sais ce que je laisse derrière mais je ne sais pas encore ce que je vais trouver devant. Et pourtant je concentre tous mes efforts pour avancer. Le compteur égrène  lentement les kilomètres. Le vent est souvent de face ou latéral.  Il fait une chaleur torride. Je passe le premier cycliste, épuisé sur le bord de piste. Puis le couple un peu plus loin. Le vent forcit, je redouble d'efforts. Il est dejà 15h, il reste plus de 100km! 
+Riding in the desert makes me reflect. It’s different from solitude. I’m in action; I know what I’m leaving behind, but I don’t yet know what I’ll find ahead. And yet, I focus all my efforts to move forward. The odometer slowly ticks off the kilometers. The wind is often head-on or from the side. It’s scorching hot. I pass the first cyclist, exhausted on the side of the road. Then the couple a bit further on. The wind picks up, and I double my efforts. It’s already 3 p.m., and there are still over 100 km to go!
 
+# The Invisible Hand 
 
-# La main invisible 
+The track is long, turning, then headwind—20 km. I see big clouds ahead; a storm is coming. Rain and lightning. I ride as much as I can, hoping to reach the end of my straight line, then turn left to have a tailwind. But the sky darkens, and the wind becomes tempestuous. In the last 5 kilometers, I’m at my max. The first drops fall; I don’t want to be caught in lightning with no trees on the horizon. I’m not exaggerating; in the last 100 m, every pedal stroke was a feat. With one final push, I’m in the storm, and I can turn the handlebars. I find asphalt, and finally, the wind pushes me! I give everything I have left, and with the wind, I hit 40 km/h. 40 km in front of me with this invisible hand I feel on my back. Slowly but surely, I escape the storm. The hand pushes me all the way to 10 km from Rawlins.
 
-La trace est longue, virage puis vent de face - 20km. Et je vois de gros nuages devant, l'orage arrive. Pluie et éclairs. Je roule autant que je peux, j'ai cet espoir d'arriver au bout de ma ligne droite, puis de virer à gauche pour avoir du vent arrière. Mais le ciel s'assombrit, le vent devient tempétueux. Les 5 derniers kilomètres je suis au max. Premières gouttes, pas envie de me retrouver dans les éclairs avec aucun arbre à l'horizon. J'exagère pas, les derniers 100m chaque coup de pédale était un tour de force. Un dernier coup, je suis dans la tempête, je peux tourner le guidon. Je retrouve de l'asphalte et le vent me pousse enfin! Je donne tout ce qui me reste et avec le vent je monte à 40 km/h. 40 km devant moi avec cette main invisible que je sens sur mon dos. Doucement mais sûrement je m'échappe de la tempête. La main me pousse jusqu'à 10km de Rawlins.
-
-J'arrive sec en ville, je m'arrête au 1er motel suggéré par la carte. 80$ la nuit, prix spécial cycliste, accueil bienveillant. Je m'endors épuisé après un bon bain. Demain je me lève tôt : je dois m'occuper de ce dérailleur et planifier la suite. J'aurai traversé le Basin en 1 jour 1/2. Ça revient à faire 2 fois le tour du lac Léman en partant le samedi à 14h et arrivant dimanche à 20h. Gros effort 💪!
-
-
+I arrive dry in town, stopping at the first motel suggested by the map. $80 a night, special cyclist rate, friendly welcome. I fall asleep exhausted after a good bath. Tomorrow I’ll wake up early: I need to take care of this derailleur and plan the next steps. I will have crossed the Basin in a day and a half. That’s like doing two laps around Lake Geneva, leaving Saturday at 2 p.m. and arriving Sunday at 8 p.m. Big effort 💪!
 
 !!! hint ""
-    cliquez sur les photos pour voir les commentaires
+    Click on the photos to see the comments.
 
 <figure markdown>
 
-![Réveil au milieu du Basin](day23/day23.2.jpeg){ width=“300” }
+![Waking up in the middle of the Basin](day23/day23.2.jpeg){ width=“300” }
 
-![Il y avait bien un panneau, mais à 100m de la piste!](day23/day23.3.jpeg){ width=“300” }
+![There was a sign, but it was 100 m from the track!](day23/day23.3.jpeg){ width=“300” }
 
-![La source bienvenue!](day23/day23.4.jpeg){ width=“300” }
+![The welcome spring!](day23/day23.4.jpeg){ width=“300” }
 
-![Je repars, il fait chaud : 40 degrés](day23/day23.5.jpeg){ width=“300” }
+![I’m off again; it’s hot: 40 degrees](day23/day23.5.jpeg){ width=“300” }
 
-![Stupéfait, je passe des forages à pétrole au milieu de nulle-part (qui fonctionnent)](day23/day23.6.jpeg){ width=“300” }
+![Amazed, I pass oil drilling sites in the middle of nowhere (that are working)](day23/day23.6.jpeg){ width=“300” }
 
-![Bel aperçu du Basin, une forme de cuvette](day23/day23.7.jpeg){ width=“300” }
+![Nice view of the Basin, a sort of basin shape](day23/day23.7.jpeg){ width=“300” }
 
-![Des chevaux sauvages se voient dans le Basin. Ils ont été lâchés en liberté par des ranchs et vivent maintenant en petits groupes.](day23/day23.8.jpeg){ width=“300” }
+![Wild horses can be seen in the Basin. They were released into the wild by ranches and now live in small groups.](day23/day23.8.jpeg){ width=“300” }
 
-![Orage et vent de face!](day23/day23.9.jpeg){ width=“300” }
+![Storm and headwind!](day23/day23.9.jpeg){ width=“300” }
 
-![Enfin le vent me pousse je quitte la zone orageuse](day23/day23.10.jpeg){ width=“300” }
+![Finally, the wind is pushing me; I’m leaving the stormy area](day23/day23.10.jpeg){ width=“300” }
 
 </figure>
-
-<center>
-<iframe src='https://connect.garmin.com/modern/activity/embed/16791785799' title='Day 23' width='405' height='500' frameborder='0'></iframe>
-</center>
-
-
-
-
-

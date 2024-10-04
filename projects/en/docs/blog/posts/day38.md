@@ -6,51 +6,45 @@ categories:
   - World
 ---
 
-#  Pie Town and Toaster House
+# Pie Town and Toaster House
 
 <figure markdown>
 ![Pie-o-Neer](day38/day38.1.jpeg){ width=“300” }
 </figure>
 
-La trace m'emmène dans les badlands du parc Malpais. Le terrain est très volcanique. Je me prends beaucoup de pointes de cactus dans les pneus qui commencent à accuser les kilomètres. Sympa de dépasser un groupe de Français, un Suisse des Grisons et de retomber sur Sarah que j'ai croisé déjà. Tout ce petit monde se retrouve à Pie Town, dans le Toaster House...
+The route takes me into the badlands of Malpais Park. The terrain is very volcanic. I get a lot of cactus thorns in my tires, which are starting to show the miles. It's nice to overtake a group of French people, a Swiss from Grisons, and to run into Sarah again, whom I’ve crossed paths with before. Everyone ends up in Pie Town, at the Toaster House...
+
 <!-- more -->
 
+# Badlands of Malpais Park
 
-# Badlands du Parc Malpais
-
-Matinée dans le parc Malpais. Terrain volcanique mais surtout je vois des tâches blanches sur ma roue avant. Sur un vélo, un nouveau détail se doit d'être regardé assez vite. Il s'avère que ce sont des épines de cactus plantées dans le pneu. J'en retire une, fuite d'air direct qui se colmate avec le sealant, le liquide qui est dans le pneu (il n'y a plus de chambre à air si ce n'est de secours). Je retire les autres. Je repars et 5mn plus tard, une dizaine de nouvelles épines plantées 😳. À force de colmatages, le pneu commence à être mou et je regonfle. Je vois au passage que le pneu est bien usé, j'entame la partie gomme souple du profil 🌵😱. Faut que ça tienne encore 500 bornes!
+Morning in Malpais Park. Volcanic terrain, but more importantly, I see white spots on my front wheel. On a bike, a new detail needs to be checked pretty quickly. It turns out to be cactus thorns stuck in the tire. I pull one out, and air immediately starts leaking, but it's sealed by the sealant, the liquid inside the tire (there’s no inner tube except for emergencies). I pull out the rest. I set off again, and 5 minutes later, another ten thorns are stuck in the tire 😳. After sealing so many holes, the tire starts to feel soft, and I have to pump it up. I also notice that the tire is pretty worn, I'm down to the soft rubber part of the tread 🌵😱. It needs to last another 500 kilometers!
 
 # Pie Town
 
-Un joli groupe se retrouve de manière impromptue (8 en tout). Pie Town se vante d'avoir de très bons gâteaux, concours prévu mi-septembre. Les 2 restaurants-cafés sont ouverts (alors que c'est labour day). Tout le monde en profite. Je discute avec Sarah que je croise pour la 3ème fois. Elle combine GDMBR et Tour Divide ce qui donne un parcours plus roulant. Mais elle est aussi rapide et sur Trackleader. Son copain vient la récupérer à la frontière plus tard que mon planning mais on va essayer de rouler ensemble jusque Silver City.
+A nice group comes together unexpectedly (eight in total). Pie Town boasts having very good pies, with a contest scheduled for mid-September. Both restaurant-cafés are open (even though it's Labor Day). Everyone takes advantage. I chat with Sarah, whom I’ve run into for the third time. She’s combining GDMBR and Tour Divide, which gives her a smoother route. But she’s also fast and on Trackleader. Her boyfriend will pick her up at the border later than my schedule, but we’ll try to ride together to Silver City.
 
 # Toaster House
 
-C'est une maison à Pie Town qui est une donation. On y trouve de tout pour hikers et bikers. Et surtout l'entrée est bardée de (...) toasters! C'est simple mais cela permet d'avoir un toit, salle de bain, cuisine. On vient et on s'installe. C'est un peu étrange. On peut dormir dedans mais je plante ma tente (mesh) dehors. Plus simple. Demain, départ matinal, je dérangerai personne. Les prochaines étapes je veux faire tourner le chrono! Ce sera à nouveau sauvage (peu d'eau claire, pas de ravitaillement avant 260km, 3´800m D+, dernières grimpettes avant le grand plat qui m'emmène à la frontière).
-
+It's a house in Pie Town that’s been donated. It has everything hikers and bikers need. And the entrance is covered with (...) toasters! It's simple, but it provides a roof, a bathroom, and a kitchen. You just come in and settle down. It’s a bit strange. You can sleep inside, but I set up my (mesh) tent outside. It’s simpler. Tomorrow, I’ll leave early and won’t disturb anyone. For the next stages, I want to keep the clock running! It will be back to the wild (little clear water, no supplies for 260 km, 3,800m elevation gain, the last climbs before the big flat stretch that takes me to the border).
 
 !!! hint ""
-    cliquez sur les photos pour voir les commentaires
-
-!!! question ""
-    🇫🇷 si vous avez été fidèle jusqu'ici, un commentaire est bienvenu! 🇺🇸 if you followed me until here, a comment will be welcome! [>> Click here](https://forms.office.com/r/5TiedXLRaN)
+    Click on the photos to see the comments.
 
 <figure markdown>
 
-![Champ volcanique qui borde la piste](day38/day38.2.jpeg){ width=“300” }
+![Volcanic field bordering the track](day38/day38.2.jpeg){ width=“300” }
 
-![Mon vélo tient toujours la route 💪](day38/day38.3.jpeg){ width=“300” }
+![My bike is still holding up 💪](day38/day38.3.jpeg){ width=“300” }
 
-![Badlands avec épines de cactus](day38/day38.4.jpeg){ width=“300” }
+![Badlands with cactus thorns](day38/day38.4.jpeg){ width=“300” }
 
-![Pneu usé, 2 épines plantées](day38/day38.5.jpeg){ width=“300” }
+![Worn tire, 2 thorns stuck](day38/day38.5.jpeg){ width=“300” }
 
-![Mon pie (super chargé de calories)](day38/day38.6.jpeg){ width=“300” }
+![My pie (super loaded with calories)](day38/day38.6.jpeg){ width=“300” }
 
-![Très chouette restaurant, tout est fait maison, il faut être patient](day38/day38.7.jpeg){ width=“300” }
+![Great restaurant, everything is homemade, but you need to be patient](day38/day38.7.jpeg){ width=“300” }
 
-![The toaster house, la donatrice est décédée en mettant un gateau au four à ce qu'il paraît...](day38/day38.8.jpeg){ width=“300” }
+![The Toaster House, the donor apparently passed away while putting a cake in the oven...](day38/day38.8.jpeg){ width=“300” }
 
 </figure>
-
-

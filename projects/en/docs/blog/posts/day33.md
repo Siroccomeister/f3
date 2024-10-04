@@ -6,56 +6,51 @@ categories:
   - World
 ---
 
-#  Land of enchantement - really?
+# Land of Enchantment - Really?
 
 <figure markdown>
-![New Mexico est aussi appelé Land of Enchantement. C'est même noté sur les plaques!](day33/day33.1.jpeg){ width=“300” }
+![New Mexico is also called the Land of Enchantment. It’s even noted on the plates!](day33/day33.1.jpeg){ width=“300” }
 </figure>
 
-Je suis dans le Land of Enchantment, mon dernier état américain avant la frontière 💪. Ça se corse - je goûte rapidement au relief particulier des Tusa Mountain. J'échappe à la pluie mais pas le terrain sur lequel passe ma trace. Je m'embourbe et perd un temps fou à dépasser le bourbier de la peanut butter. L'aventure et le défi sont au rendez-vous!
+I am in the Land of Enchantment, my last American state before the border 💪. It’s getting tough—I quickly taste the unique relief of the Tusa Mountains. I escape the rain, but not the terrain my route traverses. I get bogged down and waste a lot of time trying to get past the peanut butter muck. Adventure and challenge are here!
 
 <!-- more -->
 
-
 # Defiant
 
-La piste est totalement impraticable! Beaucoup de caillasse, hop je suis souple et monte en danseuse. Le Gravel est stylé pour ça 🕺. Mais ça grimpe et bientôt je me trouve dans un lit de pierres. Je dois pousser. Dans la descente, mon vélo bondit dans tous les sens. C'est plutôt hard rock façon AC/DC en mode accéléré. On oublie la souplesse... je prie que rien ne casse.
+The trail is totally impassable! Lots of gravel, and I’m flexible and riding in a standing position. Gravel is stylish for that 🕺. But it climbs, and soon I find myself in a bed of stones. I have to push. In the descent, my bike bounces everywhere. It’s like hard rock AC/DC in fast forward. Forget about being smooth... I pray that nothing breaks.
 
-# Lâcher prise
+# Letting Go
 
-Impossible de contrôler aujourd'hui. Ma moyenne est ridicule. Mais c'est pas grave, mon esprit combatif me porte. Peu importe jusque quand et où, j'avance. Je fais le vide et prend les difficultés à
-bras le corps. Je fais le fakir sur la selle, j'accélère en descente, je pousse quand ça avance plus. J'évite les flaques, la boue. 
+It’s impossible to control things today. My average speed is ridiculous. But that’s okay; my fighting spirit keeps me going. No matter how long or where, I push forward. I clear my mind and face the difficulties head-on. I’m like a fakir on the saddle, I accelerate downhill, and I push when it’s not moving. I dodge puddles and mud.
 
 # Peanut Butter
 
-Je prends de la vitesse, tiens une trace de roue de vélo? Je me dis que je vais la rattraper. Et là, je vois rien venir, la surface avait l'air juste sablonneuse, mais ça colle aux roues, je fais un travers et patatra c'est la gamelle. Bon le genou est un peu écorché, j'aurais des bleus, rien de grave. Sauf que... le vélo repart pas. Je pousse 1m50 et la roue est bloquée. La boue colle à la roue et s'épaissit. Je vais sur le bord il y a quelques pierres. Ben les pierres se collent aussi à la roue! 😱. Je prends un bâton pour dégager cette boue. Je refais 1m. Bon là il faut réfléchir aux options... Bientôt la nuit, pas l'intention de m'éterniser. Je pousse/nettoie, je porte. C'est vraiment la galère et je mets 1h30 à m'en sortir. Mais je m'en suis sorti, c'est ce qui compte. Je roule un peu de nuit pour refaire un peu de mon retard.
+I pick up speed and notice a bike tire track? I think I can catch up. Then, I see nothing coming; the surface looked just sandy, but it sticks to the wheels. I skid and, whoops, I fall. My knee is a bit scraped; I’ll have bruises, but it’s nothing serious. Except that... the bike won’t budge. I push it 1.5 meters, and the wheel is stuck. The mud sticks to the wheel and thickens. I go to the edge where there are some stones. Well, the stones stick to the wheel too! 😱. I grab a stick to clear the mud. I make another meter. Now I need to think about my options... Night is approaching, and I don’t plan to linger. I push/clean, I carry. It’s really a hassle, and it takes me 1.5 hours to get out of it. But I made it out; that’s what counts. I ride a bit at night to make up some of my lost time.
 
-Demain je vise un lodge à Abiquiu. La météo s'améliore pas assez, je vais probablement adapter mon parcours des prochains jours (Cuba, Grant). Inutile de persévérer avec la peanut butter, j'ai appris ma leçon 😉.
-
+Tomorrow I’m aiming for a lodge in Abiquiu. The weather isn’t improving enough, so I’ll probably adapt my route for the next few days (Cuba, Grant). There’s no need to persist with the peanut butter; I’ve learned my lesson 😉.
 
 !!! hint ""
-    cliquez sur les photos pour voir les commentaires
+    Click on the photos to see the comments.
 
 <figure markdown>
 
-![J'attaque en danseuse! Bon rythme!](day33/day33.2.jpeg){ width=“300” }
+![I’m attacking in a standing position! Good rhythm!](day33/day33.2.jpeg){ width=“300” }
 
-![Là c'est exagéré! C'est pas une piste ça! Je vérifie, c'est bien la trace...](day33/day33.3.jpeg){ width=“300” }
+![Now that’s exaggerated! That’s not a trail! I check, and it’s definitely the route...](day33/day33.3.jpeg){ width=“300” }
 
-![Après 20km de bagarre, je trouve une piste "praticable"](day33/day33.4.jpeg){ width=“300” }
+![After 20 km of struggle, I find a "passable" trail](day33/day33.4.jpeg){ width=“300” }
 
-![En fait tout le coin est fermé à la circulation 😁. D'ailleurs c'est un des charmes: je n'ai vu personne 👍](day33/day33.5.jpeg){ width=“300” }
+![In fact, the whole area is closed to traffic 😁. That’s one of the charms: I haven’t seen anyone 👍](day33/day33.5.jpeg){ width=“300” }
 
-![Magnifique forêt d'Aspen](day33/day33.6.jpeg){ width=“300” }
+![Beautiful Aspen forest](day33/day33.6.jpeg){ width=“300” }
 
-![Autre style qui en impose aussi!](day33/day33.7.jpeg){ width=“300” }
+![Another impressive style!](day33/day33.7.jpeg){ width=“300” }
 
-![C'est la peanut butter 😫](day33/day33.8.jpeg){ width=“300” }
+![It’s the peanut butter 😫](day33/day33.8.jpeg){ width=“300” }
 
-![Ça bloque au niveau du pédalier...](day33/day33.9.jpeg){ width=“300” }
+![It gets stuck at the crankset...](day33/day33.9.jpeg){ width=“300” }
 
-![Regardez mes chaussures! Je fais comme pour les chevaux, je gratte mes fers (les clips qui s'emboîtent sur les pédales)](day33/day33.10.jpeg){ width=“300” }
+![Look at my shoes! I’m doing like with horses; I’m scraping my clips (the clips that fit into the pedals)](day33/day33.10.jpeg){ width=“300” }
 
 </figure>
-
-

@@ -6,53 +6,49 @@ categories:
   - World
 ---
 
-#  Del Norte - le Colorado sauvage
+# Del Norte - The Wild Colorado
 
 <figure markdown>
-![Enfin un tracé ludique!](day31/day31.1.jpeg){ width=“300” }
+![Finally a fun route!](day31/day31.1.jpeg){ width=“300” }
 </figure>
 
-Je plie la tente ⛺️ encore humide des pluies nocturnes, au son des coyotes. Un col à passer dans le gris matinal, puis longue descente. Vers la Garita. Je poursuis vers Del Norte, le soleil se montre enfin. Les roches deviennent colorées, je passe le Rio Grande. Quelques courses puis bivouac dans la montée de l'Indiana Pass.
+I fold up my tent ⛺️ still damp from the night rains, to the sound of coyotes. One pass to get over in the morning gray, then a long descent. Toward Garita. I continue toward Del Norte, and the sun finally appears. The rocks become colorful as I cross the Rio Grande. After a few errands, I set up camp during the climb to Indiana Pass.
 
 <!-- more -->
 
+# I'm Finding My Smile Again
 
-# Je retrouve le sourire
+The last few days lacked novelty. But this afternoon, the sun and good weather return. Colorado starts to look like the Colorado we imagine. The trail becomes playful and joyful. Single trail. It’s fantastic.
 
-Ces derniers jours manquaient de nouveauté. Mais cet après-midi, le soleil et le beau temps reviennent. Le Colorado se met à ressembler au Colorado comme on l'imagine. La trace devient ludique et joyeuse. Single trail. C'est top.
+# What Lies Ahead
 
-# Ce qui est devant
+This part has a maximum elevation gain (2,000 m every 100 km instead of the 1,000 m of recent days). I don’t yet know the pace I can maintain. I need to increase my water reserves as it’s becoming a bit arid again. And the terrain is evolving too. More stones and sand. I got a taste of the peanut butter on my tires today.
 
-Cette partie contient un maximum de dénivelé (2'000m tous les 100km au lieu des 1'000m de ces derniers temps). Je sais pas encore le rythme que je pourrais prendre. Je dois augmenter mes réserves en eau car cela redevient un peu aride aussi. Et le terrain évolue aussi. Plus de pierres et de sable. J'ai eu un avant goût de la peanut butter sur mes pneus aujourd'hui.
+# Getting Back Into Rhythm
 
-# Reprendre un rythme
-
-Je me disais aujourd'hui que je passais cette difficulté du 30eme kilomètre du marathon. Le gros est fait, mais il faut puiser dans les réserves pour se relancer en visant l'arrivée. Mais tout le monde me dit que le Nouveau-Mexique est très beau donc ça me motive. J'essaie aussi de plus manger pour trouver un meilleur équilibre 😁.
-
+I was thinking today that I’m passing the difficulty of the 30th kilometer of the marathon. The bulk is done, but I need to dig into my reserves to get back on track, aiming for the finish. But everyone tells me that New Mexico is very beautiful, which motivates me. I also try to eat more to find a better balance 😁.
 
 !!! hint ""
-    cliquez sur les photos pour voir les commentaires
+    Click on the photos to see the comments.
 
 <figure markdown>
 
-![Belles falaises!](day31/day31.2.jpeg){ width=“300” }
+![Beautiful cliffs!](day31/day31.2.jpeg){ width=“300” }
 
-![Un air de Colorado...](day31/day31.3.jpeg){ width=“300” }
+![A touch of Colorado...](day31/day31.3.jpeg){ width=“300” }
 
-![Les 1ers 🌵 attention les fesses!](day31/day31.4.jpeg){ width=“300” }
+![The first 🌵 watch out for your backside!](day31/day31.4.jpeg){ width=“300” }
 
-![Peanut Butter - ça colle sur les pneus](day31/day31.5.jpeg){ width=“300” }
+![Peanut Butter - it sticks to the tires](day31/day31.5.jpeg){ width=“300” }
 
-![Je n'ai qu'à suivre les flèches. Ici ils tirent sur les panneaux et les boites aux lettres. Voyez les impacts!](day31/day31.6.jpeg){ width=“300” }
+![I just have to follow the arrows. Here they shoot at the signs and mailboxes. See the impacts!](day31/day31.6.jpeg){ width=“300” }
 
-![Bisons en entrant dans Del Norte.](day31/day31.7.jpeg){ width=“300” }
+![Bison upon entering Del Norte.](day31/day31.7.jpeg){ width=“300” }
 
-![Le Rio Grande!](day31/day31.8.jpeg){ width=“300” }
+![The Rio Grande!](day31/day31.8.jpeg){ width=“300” }
 
-![Paisible](day31/day31.9.jpeg){ width=“300” }
+![Peaceful](day31/day31.9.jpeg){ width=“300” }
 
-![Qui appeler pour trouver une source? 😅](day31/day31.10.jpeg){ width=“300” }
+![Who do you call to find a spring? 😅](day31/day31.10.jpeg){ width=“300” }
 
 </figure>
-
-

@@ -6,63 +6,53 @@ categories:
   - World
 ---
 
-#  Hello Colorado!
+# Hello Colorado!
 
 <figure markdown>
 ![Rock Formation](day25/day25.1.jpeg){ width=“300” }
 </figure>
 
-Après une nuit orageuse je reprends la route. Aujourd'hui je quitte le Wyoming pour rejoindre le Colorado. Je m'arrête au Brush Mountain Lodge, un hébergement vraiment fait pour les Dividers. Sur le chemin, je retrouve de la végétation 👍.
+After a stormy night, I hit the road again. Today I leave Wyoming to enter Colorado. I stop at Brush Mountain Lodge, an accommodation really made for Dividers. Along the way, I encounter vegetation again 👍.
 
 <!-- more -->
 
 # Aspen Valley 
 
-Je poursuis cette route asphaltée (une succession de montées et descentes) pour finir par rejoindre du gravier. Et là je passe dans Aspen Valley. Aspen est un arbre (Peuplier faux-tremble) qui m'accompagne depuis Calgary. Je trouve ces peupliers qui culminent à 25m très beaux et aujourd'hui je suis servi! Cet arbre est surtout canadien mais s'étend sur les USA jusque dans la vallée de Mexico. Il suit en quelque sorte la divide. Son bois est tendre et il sert à faire du papier.
+I continue on this paved road (a succession of climbs and descents) until I finally reach gravel. And here I enter Aspen Valley. Aspen is a tree (Quaking Aspen) that has accompanied me since Calgary. I find these aspens, which can reach 25 m in height, very beautiful, and today I am well rewarded! This tree is mainly Canadian but extends into the USA all the way down to Mexico City. It somewhat follows the divide. Its wood is soft and is used to make paper.
 
-# Au revoir Wyoming
+# Goodbye Wyoming
 
-Je quitte le Wyoming et ses vents forts qui m'ont bien fatigué 😉. Je retrouve du relief, des arbres, des rivières (enfin je peux filtrer de l'eau fraîche et réduire mes stocks/poids en eau). Le Colorado me fera traverser des petites stations de ski, comme par exemple Steam Boat. C'est l'avant-dernier état de mon périple (déjà!). Je passe aussi d'un état de 500'000 habitants à un état habité par près de 6 millions.
-
+I leave Wyoming and its strong winds, which have worn me out 😉. I find relief, trees, and rivers (finally, I can filter fresh water and reduce my water stock/weight). Colorado will have me pass through small ski resorts, like Steamboat. It’s the second-to-last state of my journey (already!). I also go from a state with 500,000 inhabitants to one populated by nearly 6 million.
 
 # Brush Mountain Lodge 
 
-Magnifique accueil, tout est pensé vélo. Après cet arrêt - mes jambes auront sûrement récupérées! Je fais connaissance avec 2 autres Dividers qui font la GDMBR par étapes. Kirsten, la gérante, est aux petits soins. Je me réjouis déjà du petit déjeuner qui a grande réputation. J'en profite aussi pour faire une vraie lessive. 
+A magnificent welcome, everything is bike-friendly. After this stop, my legs will surely have recovered! I meet two other Dividers who are doing the GDMBR in sections. Kirsten, the manager, is very attentive. I’m already looking forward to the breakfast, which has a great reputation. I also take the opportunity to do some real laundry.
 
-La prochaine ville Steam Boat est l'arrêt idéal pour faire réparer son vélo. Mais je suis plutôt content, les vitesses passent bien. J'espère pouvoir passer la ville. Ma prochaine grosse étape devrait être la bourgade de Salida d'ici quelques jours....
-
+The next town, Steamboat, is the ideal stop to get my bike repaired. But I’m quite happy; the gears are working well. I hope to pass through the town. My next big stop should be the town of Salida in a few days....
 
 !!! hint ""
-    cliquez sur les photos pour voir les commentaires
+    Click on the photos to see the comments.
 
 <figure markdown>
 
-![Je me réjouis de retrouver une petite rivière charmante. Après 4 jours ☺️, cela fait du bien! J'apprends à apprécier autrement](day25/day25.2.jpeg){ width=“300” }
+![I’m happy to find a charming little river. After 4 days ☺️, it feels good! I’m learning to appreciate things differently.](day25/day25.2.jpeg){ width=“300” }
 
-![Un bel exemplaire de peuplier nord-américain. Plus noble que les buissons des derniers jours!](day25/day25.3.jpeg){ width=“300” }
+![A beautiful specimen of North American aspen. More noble than the bushes of the last few days!](day25/day25.3.jpeg){ width=“300” }
 
-![Une forêt de peupliers Aspen](day25/day25.4.jpeg){ width=“300” }
+![A forest of aspens](day25/day25.4.jpeg){ width=“300” }
 
-![Le parcours me fait traverser une allée d'Aspen](day25/day25.5.jpeg){ width=“300” }
+![The route takes me through an avenue of aspens](day25/day25.5.jpeg){ width=“300” }
 
-![Good Bye Wyoming](day25/day25.6.jpeg){ width=“300” }
+![Goodbye Wyoming](day25/day25.6.jpeg){ width=“300” }
 
-![Wyoming 70 : Battle Pass Scenic Byway](day25/day25.7.jpeg){ width=“300” }
+![Wyoming 70: Battle Pass Scenic Byway](day25/day25.7.jpeg){ width=“300” }
 
-![Brush Mountain Lodge - terminus du jour](day25/day25.8.jpeg){ width=“300” }
+![Brush Mountain Lodge - the day’s terminus](day25/day25.8.jpeg){ width=“300” }
 
-![Ma chambre est juste derrière le drap Tour Divide Riders](day25/day25.9.jpeg){ width=“300” }
+![My room is just behind the Tour Divide Riders sheet](day25/day25.9.jpeg){ width=“300” }
 
-![Un couple de Humming Birds (Colibri)](day25/day25.10.jpeg){ width=“300” }
+![A couple of hummingbirds](day25/day25.10.jpeg){ width=“300” }
 
-![Quand je vous dis que tout est pensé pour les Great Dividers! 😅](day25/day25.11.jpeg){ width=“300” }
+![When I tell you that everything is designed for the Great Dividers! 😅](day25/day25.11.jpeg){ width=“300” }
 
 </figure>
-
-<center>
-<iframe src='https://connect.garmin.com/modern/activity/embed/16809149974' title='Day 25' width='405' height='500' frameborder='0'></iframe>
-</center>
-
-
-
-

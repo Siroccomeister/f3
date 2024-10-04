@@ -6,54 +6,51 @@ categories:
   - World
 ---
 
-# Today is a good day
+# Today is a Good Day
 
 <figure markdown>
-![Jeu d'ombres](day17/day17.1.jpeg){ width=“300” }
+![Shadow Play](day17/day17.1.jpeg){ width=“300” }
 </figure>
 
-Tempête durant la nuit mais beau au saut du matelas. Je pars et pour une fois, pas de longue montée épuisante. Je peux enfin allonger la marque (130km 1'000mD+). Les jambes suivent et il fait grand beau. Je suis en train de quitter le Montana pour un passage dans l'Idaho et entrer dans le Wyoming. 
+There was a storm during the night, but it’s beautiful upon waking. I set off, and for once, there’s no long exhausting climb. I can finally stretch my legs (130 km, 1,000 m of elevation gain). My legs are holding up, and the weather is fantastic. I am about to leave Montana for a brief passage through Idaho and then into Wyoming.
 
 <!-- more -->
 
-# Vaillante Big Agnes
+# Brave Big Agnes
 
-Je me réveille dans la nuit, la tente bouge dans tous les sens. Vents tempétueux et pluie. Impressionnant de voir comment la structure est flexible, je m'inquiète de mes sardines: vont-elles tenir? Quel est mon plan B si la tente décolle? Bon ça a l'air de résister et aussi incroyable que cela puisse paraître, je me rendors. Au réveil, il fait frisquet mais je vois avec plaisir que la tente est toujours bien attachée et que le compte de sardines est bon. Un avant-goût du Colorado peut-être? Big Agnes (la marque de la tente, la plus en vogue parmi Dividers) aura été vaillante. La tente est un élément super important - c'est mon refuge. 
+I wake up in the night with the tent shaking all over the place. Strong winds and rain. It’s impressive to see how flexible the structure is; I worry about my stakes: will they hold? What’s my Plan B if the tent takes off? Well, it seems to be holding up, and as incredible as it may sound, I fall back asleep. Upon waking, it’s chilly, but I’m pleased to see that the tent is still securely attached and that the stakes are intact. A preview of Colorado, perhaps? Big Agnes (the brand of the tent, the most popular among Dividers) has proven to be brave. The tent is a super important element—it’s my refuge.
 
-# Une trace faite pour moi
+# A Route Made for Me
 
-La trace a un profil de petits vallons. J'enchaîne petites montées, belles descentes qui relancent, longs bouts droits. Je passe le Canyon Cabesone, je longe Big Sheep River et passe à Lima. Top je peux racheter du gaz. Je termine la journée par un nouveau bivouac sauvage à +2'000m d'altitude. Pas de réseau, les nouvelles seront à nouveau décalées. Depuis Butte je suis autonome, heureusement que j'ai des batteries pour recharger téléphone et GPS (3 jours).
+The trail has a profile of gentle hills. I encounter small climbs, nice descents that get me going, and long straight stretches. I pass through Cabesone Canyon, follow the Big Sheep River, and go through Lima. Great, I can buy some gas. I finish the day with a new wild bivouac at over 2,000 m in altitude. No signal, so updates will be delayed again. Since Butte, I’ve been self-sufficient; thankfully, I have batteries to recharge my phone and GPS (for 3 days).
 
 # Anecdotes 
 
-C'est la 1ere fois que je vois des armes à feu en vente dans une station service au bord d'une autoroute 🤣. Ornée de trophées de chasse bien sûr. Autrement il faut reconnaître la propreté sur tous les passages. Zéro déchet, beaucoup de signes invitant à tout remmener avec soi. Cela semble largement respecté et je me plie à la règle aussi.
-
+This is the first time I see firearms for sale at a gas station on the side of a highway 🤣. Of course, it’s adorned with hunting trophies. Otherwise, I have to acknowledge the cleanliness in all areas. Zero waste, with many signs inviting everyone to take everything back with them. This seems to be largely respected, and I adhere to the rule as well.
 
 <figure markdown>
-![Calme après la tempête](day17/day17.2.jpeg){ width=“300” }
+![Calm After the Storm](day17/day17.2.jpeg){ width=“300” }
 
-![2 jours de Bannack Road 😆](day17/day17.3.jpeg){ width=“300” }
+![2 Days of Bannack Road 😆](day17/day17.3.jpeg){ width=“300” }
 
-![Je les croise souvent, elles sont toujours toutes noires](day17/day17.4.jpeg){ width=“300” }
+![I see them often; they are always completely black](day17/day17.4.jpeg){ width=“300” }
 
-![Encore du Bannack! Mais ça descent](day17/day17.5.jpeg){ width=“300” }
+![More Bannack! But it’s downhill](day17/day17.5.jpeg){ width=“300” }
 
-![Beau Ranch](day17/day17.6.jpeg){ width=“300” }
+![Beautiful Ranch](day17/day17.6.jpeg){ width=“300” }
 
 ![Cabesone Canyon](day17/day17.7.jpeg){ width=“300” }
 
-![Guns&Gifts? Magasin d'armes et de souvenirs?](day17/day17.8.jpeg){ width=“300” }
+![Guns & Gifts? A gun and souvenir shop?](day17/day17.8.jpeg){ width=“300” }
 
-![Chacun son rêve américain 😜](day17/day17.9.jpeg){ width=“300” }
+![Everyone has their American dream 😜](day17/day17.9.jpeg){ width=“300” }
 
-![Bel aigle! Emblématique des USA il me semble](day17/day17.10.jpeg){ width=“300” }
+![Beautiful Eagle! Seems iconic to the USA](day17/day17.10.jpeg){ width=“300” }
 
-![Lac de retenue (Lima)](day17/day17.11.jpeg){ width=“300” }
+![Reservoir (Lima)](day17/day17.11.jpeg){ width=“300” }
 
-![On se croirait en pleine savane!](day17/day17.12.jpeg){ width=“300” }
+![Feels like we’re in the savanna!](day17/day17.12.jpeg){ width=“300” }
 
-![Mon bivouac du jour](day17/day17.13.jpeg){ width=“300” }
+![My bivouac of the day](day17/day17.13.jpeg){ width=“300” }
 
 </figure>
-
-

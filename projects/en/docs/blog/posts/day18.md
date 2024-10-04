@@ -6,34 +6,33 @@ categories:
   - World
 ---
 
-#  Old Oregon Short Line
+# Old Oregon Short Line
 
 <figure markdown>
 ![Rail Tunnel](day18/day18.1.jpeg){ width=“300” }
 </figure>
 
-Je longe la réserve naturelle de Red Rock Lakes, vent de face toute la journée. J'entre dans l'état Idaho! Puis je termine par un ancienne voie des chemins de fer qui amenait les touristes au Yellowstone Park. Je termine au Warm River Campground avec un super accueil.
+I ride along the Red Rock Lakes Wildlife Refuge, battling a headwind all day. I enter the state of Idaho! Then I finish on an old railroad track that used to bring tourists to Yellowstone Park. I end up at the Warm River Campground with a great welcome.
 
 <!-- more -->
 
-# Au revoir Montana
+# Goodbye Montana
 
-Je longe la réserve de Red Rock Lakes toute la matinée - gros vent de face. J'évite un 1er serpent, je roule sur le second. Incroyable, je les vois toujours au dernier moment. Il paraît qu'on peut croiser le rattlesnake ici (à sonnette). Je croise la source du Missouri (qui se jette dans l'Atlantique), je suis bien sur la divide, la ligne de partage des eaux. 
+I follow the Red Rock Lakes Refuge all morning—strong headwind. I avoid the first snake and run over the second one. Incredible; I always see them at the last moment. Apparently, you can encounter rattlesnakes here. I cross the source of the Missouri River (which flows into the Atlantic), and I’m right on the divide, the watershed line.
 
 # Hello Idaho!
 
-Je passe un petit col, et me retrouve en Idaho. Le trail nous fait passer sur le petit coin nord-est de cet état. Je n'y passerai qu'une journée (75 miles). Demain j'entre dans le Wyoming, qui on me dit a encore moins d'habitants que le Montana.
+I pass a small pass and find myself in Idaho. The trail takes us through the northeastern corner of this state. I will only spend a day here (75 miles). Tomorrow I’ll enter Wyoming, which I’m told has even fewer inhabitants than Montana.
 
 # Old Oregon Short Line 
 
-Je finis la journée sur un magnifique passage, sur sable volcanique assez mou et noir. Une ancienne voie de chemin de fer historique transformée en piste. Elle se termine par un tunnel (fermé), passage photo obligé. Le dernier bout longe la rivière Warm River qui est magnifique. Je m'arrête au camping au bord de la rivière.
+I finish the day on a magnificent stretch of soft black volcanic sand. An old historic railway transformed into a trail. It ends with a tunnel (closed), a mandatory photo spot. The last stretch runs alongside the beautiful Warm River. I stop at the campground by the river.
 
-# Super accueil
+# Great Welcome
 
-Même si pas gratis, la gardienne me trouve un plan à moitié prix. Et m'offre à boire et de quoi recharger mes accus-batteries. La place est top, au bord de la rivière. Je me baigne tout habillé, cela fera office de douche/lessive. L'eau est à 52 degrés Fahrenheit toute l'année d'où son nom. Elle ne gèle jamais 😄. Mes voisins m'invitent au repas, chouette famille. Chili, Corn bread et je découvre le Smore au dessert. Trop sympa.
+Even though it’s not free, the caretaker finds me a half-price deal. And offers me a drink and a way to recharge my batteries. The spot is great, right by the river. I swim fully clothed; it serves as a shower/laundry. The water is 52 degrees Fahrenheit year-round, hence its name. It never freezes 😄. My neighbors invite me to dinner, a lovely family. Chili, cornbread, and I discover S’mores for dessert. So nice!
 
-Bien roulé aujourd'hui (140km) mais il reste encore beaucoup! Demain, un aperçu des Great Teton Park et des montagnes si la météo est bonne. Ensuite je m'enfonce dans le Wyoming...
-
+I rode well today (140 km), but there’s still a lot to go! Tomorrow, a glimpse of Grand Teton Park and the mountains if the weather is good. Then I’ll plunge into Wyoming...
 
 <figure markdown>
 
@@ -41,26 +40,24 @@ Bien roulé aujourd'hui (140km) mais il reste encore beaucoup! Demain, un aperç
 
 ![Hell Roaring Creek](day18/day18.3.jpeg){ width=“300” }
 
-![La source du Missouri! Je vide mes bouteilles et refait le plein!](day18/day18.4.jpeg){ width=“300” }
+![The source of the Missouri! I empty my bottles and refill!](day18/day18.4.jpeg){ width=“300” }
 
-![Enfin je change d'état!](day18/day18.5.jpeg){ width=“300” }
+![Finally, I change states!](day18/day18.5.jpeg){ width=“300” }
 
-![RV - Recreational Vehicle ; j'aime le look vintage de celui en aluminium](day18/day18.6.jpeg){ width=“300” }
+![RV - Recreational Vehicle; I love the vintage look of this aluminum one](day18/day18.6.jpeg){ width=“300” }
 
-![Rail-Trail conversion : ici passaient les touristes début 20ème siècle pour voir Yellowstone. C'est du sable volcanique fin et mou](day18/day18.7.jpeg){ width=“300” }
+![Rail-Trail conversion: tourists traveled here in the early 20th century to see Yellowstone. It’s fine, soft volcanic sand.](day18/day18.7.jpeg){ width=“300” }
 
 ![Warm River](day18/day18.8.jpeg){ width=“300” }
 
-![Tunnel d'origine, on passe plus](day18/day18.9.jpeg){ width=“300” }
+![Original tunnel, we don’t pass through anymore](day18/day18.9.jpeg){ width=“300” }
 
-![Contour avec vue sur la rivière](day18/day18.10.jpeg){ width=“300” }
+![Contour with a view of the river](day18/day18.10.jpeg){ width=“300” }
 
-![Sortie du tunnel](day18/day18.11.jpeg){ width=“300” }
+![Exiting the tunnel](day18/day18.11.jpeg){ width=“300” }
 
-![Voici le Smore : Marshmallow grillé entre 2 biscuits avec une couche chocolat. Une dinguerie à faire dans le Jura!](day18/day18.12.jpeg){ width=“300” }
+![Here’s the S’more: Grilled marshmallow between 2 cookies with a layer of chocolate. A must-do in the Jura!](day18/day18.12.jpeg){ width=“300” }
 
 ![Bon appétit!](day18/day18.13.jpeg){ width=“300” }
 
 </figure>
-
-
