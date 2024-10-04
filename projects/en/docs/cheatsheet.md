@@ -167,8 +167,8 @@ Working copy looks more promising…
 
 </figure>
 
-Ces quelques lignes visent à tester un blog qui puisse m'accompagner dans mon
-Maybe I could write in my notebook.
-and then copy over to repo...?
-need also a workflow for pictures...
-realistic?
+# OSX Terminal
+
+This is a useful instruction to replace recursively in one folder some text :
+
+>> perl -pi -w -e 's{TOFIND}{TOREPLACE}' *.md
