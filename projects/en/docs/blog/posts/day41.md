@@ -6,57 +6,53 @@ categories:
   - World
 ---
 
-#  Hachita
+# Hachita
 
 <figure markdown>
-![Le désert 🌵](day41/day41.1.jpeg){ width=“300” }
+![The desert 🌵](day41/day41.1.jpeg){ width=“300” }
 </figure>
 
-Nous quittons Lake Roberts en trio pour une dernière montée, toujours aussi chouette. Étrange de voir sur le GPS la fin qui approche, les dernières montées se comptent sur les doigts de la main. On quitte les montagnes, forêts et Gila Parc définitivement. Je continue seul, passe Silver City (assez sympa au demeurant) et attaque mon marathon. 188km sous un soleil qui cogne. Vent difficile parfois mais OK. J'ai beaucoup bu. Je m'arrête nuit tombée à Hachita et tombe sur un groupe de Suisses partis fin juin. Il reste 70km 💪.
+We leave Lake Roberts as a trio for one last climb, still just as great. It's strange to see the end approaching on the GPS, the last climbs can be counted on one hand. We leave the mountains, forests, and Gila Park for good. I continue alone, pass through Silver City (which is pretty nice, by the way), and start my marathon. 188 km under a scorching sun. The wind is tough at times but manageable. I drank a lot. I stop in Hachita at nightfall and run into a group of Swiss who left in late June. There are 70 km left 💪.
 
 <!-- more -->
 
 
-# Le trio se fait encore plaisir
+# The trio enjoys it one last time
 
-Départ 8h et dernière côte (600m D+). Très belle montée sur route, paysages magnifiques sur des collines du parc Gila. Il fait vite chaud. Les adieux de font devant le saloon de Pinos Altos. Sarah et Gian vont encore prendre du repos à Silver City.
+We depart at 8 a.m. for the last climb (600m elevation gain). A beautiful climb on the road, with magnificent views of the hills of Gila Park. It gets hot quickly. We say our goodbyes in front of the saloon in Pinos Altos. Sarah and Gian will take more rest in Silver City.
 
-# Gros effort
+# A big effort
 
-Il me reste 155km à parcourir aujourd'hui. Je me lance, passe Silver City qui a un centre ville assez joli, qui rappelle Salida. Un bon point de chute. La sortie de ville se fait sur du petit chemin, single trail. Ceux qui font la trace ont été joueur. Pour finir sur des pistes sablonneuses dans un paysage désertique. Voyez les photos, je bois tout ce que je peux et continue de pédaler.
+I have 155 km to cover today. I set off, pass through Silver City, which has a pretty downtown that reminds me of Salida. A good stopover. The exit from the city takes place on a small path, a single trail. Those who made the route were playful. It ends on sandy tracks in a desert landscape. Check out the photos; I drink as much as I can and keep pedaling.
 
 # Hachita 
 
-J'arrive après le coucher du soleil et dort dans le community center avec 4 autres Suisses. Demain je serai très matinal. Je dois terminer le trait entamé aujourd'hui: 70km et j'arrive à la frontière avec le Mexique. Pas beaucoup d'heures de récupération mais l'excitation compensera. J'ai beaucoup de peine à me rendre compte que le compteur arrive à zéro. À se demander s'il y aura une suite 🤔😉! En tout cas je me réjouis aussi de retrouver famille et amis tout bientôt et j'ai bien envie d'un peu de repos 😁.
-
-
+I arrive after sunset and sleep in the community center with four other Swiss. Tomorrow, I'll be up very early. I need to finish the section I started today: 70 km and I'll reach the border with Mexico. Not many hours of rest, but the excitement will make up for it. It's hard to realize that the odometer is reaching zero. Makes you wonder if there’ll be a sequel 🤔😉! In any case, I'm also excited to see family and friends soon, and I’m definitely in the mood for some rest 😁.
 
 !!! hint ""
-    cliquez sur les photos pour voir les commentaires
+    Click on the photos to see the comments.
 
 !!! question ""
-    🇫🇷 si vous avez été fidèle jusqu'ici, un commentaire est bienvenu! 🇺🇸 if you followed me until here, a comment will be welcome! [>> Click here](https://forms.office.com/r/5TiedXLRaN)
+    🇫🇷 If you’ve followed me this far, a comment is welcome! 🇺🇸 If you followed me until here, a comment will be welcome! [>> Click here](https://forms.office.com/r/5TiedXLRaN)
 
 <figure markdown>
 
-![Vue sur les collines du Gila National Forest](day41/day41.2.jpeg){ width=“300” }
+![View over the hills of Gila National Forest](day41/day41.2.jpeg){ width=“300” }
 
-![On bois un jus au Saloon, à l'ancienne 😅](day41/day41.3.jpeg){ width=“300” }
+![Having a drink at the Saloon, old-school style 😅](day41/day41.3.jpeg){ width=“300” }
 
-![Le désert fait son apparition](day41/day41.4.jpeg){ width=“300” }
+![The desert is making its appearance](day41/day41.4.jpeg){ width=“300” }
 
-![Ces plantes prennent toute sorte de formes, c'est rigolo.](day41/day41.5.jpeg){ width=“300” }
+![These plants take all sorts of shapes, it's funny.](day41/day41.5.jpeg){ width=“300” }
 
-![Superbe piste. Vous sentez la chaleur aussi? Mon Garmin plafonne à 36 degrés mais je le crois pas](day41/day41.6.jpeg){ width=“300” }
+![Beautiful track. Do you feel the heat too? My Garmin says it's 36 degrees, but I don't believe it.](day41/day41.6.jpeg){ width=“300” }
 
-![Paysage](day41/day41.7.jpeg){ width=“300” }
+![Scenery](day41/day41.7.jpeg){ width=“300” }
 
-![Ça y est, c'est la route de la frontière. Terminé le Gravel. 90km de route encore.](day41/day41.8.jpeg){ width=“300” }
+![This is it, it's the road to the border. Gravel is done. 90 km of road left.](day41/day41.8.jpeg){ width=“300” }
 
-![Coucher de soleil](day41/day41.9.jpeg){ width=“300” }
+![Sunset](day41/day41.9.jpeg){ width=“300” }
 
-![Souvenir](day41/day41.10.jpeg){ width=“300” }
+![Memory](day41/day41.10.jpeg){ width=“300” }
 
 </figure>
-
-
