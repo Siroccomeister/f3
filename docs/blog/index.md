@@ -1,5 +1,5 @@
 ---
 template: redirect.html
-location: /en/
+location: /f3/en/blog
 ---
 
