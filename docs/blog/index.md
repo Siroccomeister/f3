@@ -1,5 +1,5 @@
 ---
 template: redirect.html
-location: en/
+location: /en/
 ---
 

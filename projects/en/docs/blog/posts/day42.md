@@ -43,9 +43,6 @@ With thoughts of you, best wishes, Christian.
 !!! hint ""
     Click on the photos to see the comments.
 
-!!! question ""
-    🇫🇷 If you’ve followed me this far, a comment is welcome! 🇺🇸 If you followed me until here, a comment will be welcome! [>> Click here](https://forms.office.com/r/5TiedXLRaN)
-
 <figure markdown>
 
 ![Dawn over the desert](day42/day42.2.jpeg){ width=“300” }

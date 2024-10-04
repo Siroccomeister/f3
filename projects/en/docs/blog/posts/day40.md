@@ -6,51 +6,43 @@ categories:
   - World
 ---
 
-#  Camaraderie
+# Camaraderie
 
 <figure markdown>
-![Belle Chevauchée!](day40/day40.1.jpeg){ width=“300” }
+![Beautiful Ride!](day40/day40.1.jpeg){ width=“300” }
 </figure>
 
-Difficile de quitter Beaverhead. Dîner, petit-déjeuner et burritos à l'emporter, tout nous a été offert. Sarah insiste que l'endroit est probablement le plus proche du American way. On se lance sur Gila National Forest, enchaînement de montées et de descentes sur du gros gravier dans la chaleur. Cette dernière difficulté est épicée 🌶️.
+It was hard to leave Beaverhead. Dinner, breakfast, and burritos to go were all offered to us. Sarah insists that this place is probably the closest to the American way. We set off through Gila National Forest, an endless series of climbs and descents on rough gravel in the heat. This last challenge is spicy 🌶️.
 
 <!-- more -->
 
+# A Team That Rocks!
 
-# Une équipe qui dépote!
-
-Et voilà 3 Great Dividers avec des parcours si différent. Chacun en solo. Mais pour cette journée - nous roulons ensemble. Chacun attaque la prochaine montée à tour de rôle, nos jambes bien entraînées tournent vite, on s'attend aux sommets. On pousse des cris dans les descentes, je vous dis pas le nombre de virages serrés dans la caillasse qui se négocient avec des freinages d'équilibriste 😅. Il y a pas à dire, la Divide a fait de nous des sacrés riders 💪.
+And here we are, three Great Dividers with such different journeys. Each one solo. But for today—we ride together. Each of us takes turns attacking the next climb, our well-trained legs spinning fast, and we wait for each other at the summits. We yell in excitement during the descents. I can't even tell you how many tight turns on the gravel required some daredevil braking 😅. No doubt about it, the Divide has made us solid riders 💪.
 
 # Camaraderie
 
-Ensemble on est plus fort. Chacun se donne avec un respect immense pour les deux autres, la performance ne compte pas et néanmoins cette envie de donner ce qu'on a de meilleur nous transcende. Cette journée sous un gros soleil qui plombe sera un régal et mémorable. J'ai fait ce projet en solo mais je suis reconnaissant d'avoir aussi pu vivre cette journée avec mes camarades du jour. La communauté vélo a parlé à nouveau. Au passage - jetez un bon regard au vélo de Gian-Andrea. J'arrive à peine à le soulever ! Ce vélo a fait Australie, Tadjikistan, Canada, Norvège  et la Divide. Et pourtant Gian a fait une des grosses grimpettes du jour (largement) en tête. Énorme et très chouette que ce trio impromptu soit aussi cohérent (10 ans d'écart entre chacun de nous). On s'arrête à Lake Roberts et on dévalise les pots de glace du petit shop local (qui ouvre rien que pour nous). 
+Together we are stronger. Each of us gives it our all with immense respect for the other two. Performance doesn’t matter, but this desire to give our best drives us beyond our limits. This day under the scorching sun was pure joy and will be unforgettable. I took on this project solo, but I'm grateful to have also spent this day with my companions. The cycling community has spoken again. By the way, take a good look at Gian-Andrea's bike. I can barely lift it! This bike has done Australia, Tajikistan, Canada, Norway, and the Divide. And yet, Gian was far ahead on one of the big climbs of the day. Incredible. It’s really cool that this impromptu trio has such great chemistry (with a 10-year age gap between each of us). We stop at Lake Roberts and raid the ice cream jars of the little local shop (which opens just for us).
 
-# Ce qui est devant 
+# What Lies Ahead
 
-La frontière est là. Chacun de nous sent un changement imminent approcher. Les émotions sont variées. Il reste une dernière montée puis Silver City, le désert et l'arrivée à Antelope Wells. Demain je fais mon marathon solo, je dors et termine vendredi matin. La logistique est en place, j'attends une dernière confirmation. Mais si tout va bien, je suis à San Diego samedi. Le vol de retour décolle le 10 septembre. Stay Tuned 🤞j'y suis presque! Espérez pour moi que je doive pas trop batailler contre le vent!
-
-
+The border is near. Each of us feels the imminent change approaching. Emotions are mixed. There’s one last climb, then Silver City, the desert, and the arrival at Antelope Wells. Tomorrow, I’ll do my solo marathon, sleep, and finish on Friday morning. The logistics are in place, and I’m just waiting for one last confirmation. But if all goes well, I’ll be in San Diego on Saturday. My return flight takes off on September 10. Stay tuned 🤞I’m almost there! Let’s hope I don’t have to battle the wind too much!
 
 !!! hint ""
-    cliquez sur les photos pour voir les commentaires
-
-!!! question ""
-    🇫🇷 si vous avez été fidèle jusqu'ici, un commentaire est bienvenu! 🇺🇸 if you followed me until here, a comment will be welcome! [>> Click here](https://forms.office.com/r/5TiedXLRaN)
+    Click on the photos to see the comments.
 
 <figure markdown>
 
-![Gila National Forest, beaucoup de lacets, montées, descentes](day40/day40.2.jpeg){ width=“300” }
+![Gila National Forest, lots of switchbacks, climbs, and descents](day40/day40.2.jpeg){ width=“300” }
 
-![Le trio à l'œuvre, matez-moi ces bagages!](day40/day40.3.jpeg){ width=“300” }
+![The trio in action, check out those bags!](day40/day40.3.jpeg){ width=“300” }
 
-![L'air de rien, ce gravier est très piégeur](day40/day40.4.jpeg){ width=“300” }
+![Don’t be fooled, this gravel is tricky](day40/day40.4.jpeg){ width=“300” }
 
-![Dernier tronçon pour rejoindre les pots de glace - on appuie sur les pédales](day40/day40.5.jpeg){ width=“300” }
+![Final stretch to reach the ice cream jars—pushing the pedals](day40/day40.5.jpeg){ width=“300” }
 
-![Les premières habitations apparaissent](day40/day40.6.jpeg){ width=“300” }
+![The first houses are starting to appear](day40/day40.6.jpeg){ width=“300” }
 
-![Lake Roberts et son barrage](day40/day40.7.jpeg){ width=“300” }
+![Lake Roberts and its dam](day40/day40.7.jpeg){ width=“300” }
 
 </figure>
-
-

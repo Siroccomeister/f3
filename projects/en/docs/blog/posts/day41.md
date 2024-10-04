@@ -12,7 +12,7 @@ categories:
 ![The desert 🌵](day41/day41.1.jpeg){ width=“300” }
 </figure>
 
-We leave Lake Roberts as a trio for one last climb, still just as great. It's strange to see the end approaching on the GPS, the last climbs can be counted on one hand. We leave the mountains, forests, and Gila Park for good. I continue alone, pass through Silver City (which is pretty nice, by the way), and start my marathon. 188 km under a scorching sun. The wind is tough at times but manageable. I drank a lot. I stop in Hachita at nightfall and run into a group of Swiss who left in late June. There are 70 km left 💪.
+We leave Lake Roberts as a trio for one last climb, still just as great. It's strange to see the end approaching on the GPS, the last climbs can be counted on one hand. We leave the mountains, forests, and Gila Park for good. I continue alone, pass through Silver City (which is pretty nice, by the way), and start my marathon. 188 km under a scorching sun. The wind is tough at times but manageable. I drink a lot. I stop in Hachita at nightfall and run into a group of Swiss who left in late June. There are 70 km left 💪.
 
 <!-- more -->
 
@@ -31,9 +31,6 @@ I arrive after sunset and sleep in the community center with four other Swiss. T
 
 !!! hint ""
     Click on the photos to see the comments.
-
-!!! question ""
-    🇫🇷 If you’ve followed me this far, a comment is welcome! 🇺🇸 If you followed me until here, a comment will be welcome! [>> Click here](https://forms.office.com/r/5TiedXLRaN)
 
 <figure markdown>
 
