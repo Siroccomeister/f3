@@ -4,7 +4,7 @@ site_description: "riding the Great Divide Mountain Bike Route"
 theme:
   name: material
   language : fr
-  logo: assets/images/TFLogo.png
+  logo: assets/images/shade.png
 
   features:
     - navigation.expand
