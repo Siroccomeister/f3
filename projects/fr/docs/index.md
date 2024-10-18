@@ -2,22 +2,26 @@
 glightbox: true
 ---
 
-# Welcome on my Great Divide 2024 project
+# Bienvenue sur mon projet Great Divide 2024
 
-This is my repository to log all my learnings, preparation and blogs in support of my endeavour : cross the USA by riding the [Great Divide Mountain Bike Route](https://bikepacking.com/routes/great-divide-mountain-bike-route-gdmbr/).
+Ceci est mon dépôt pour consolider tout ce que j'ai appris en termes de préparation, logistique, blog, en lien avec mon projet : traverser les États-Unis en suivant la [Great Divide Mountain Bike Route](https://bikepacking.com/routes/great-divide-mountain-bike-route-gdmbr/).
 
 <figure markdown>
 ![Kudos to bikepacking.com](assets/images/gdmbr_bpk.png){ width="400px" }
 </figure>
 
-# The story that made it possible
+# L'histoire qui a rendu ce projet possible
 
-It all started in 2023 when a German [podcast](https://www.youtube.com/playlist?list=PLCLnrkmezkJR3Myov4To9yl1Wb4_OSTyb) showcased a book about [the "Great Divide"](https://www.amazon.de/Great-Divide-Gravelbike-durch-Mountains/dp/3846409693#immersive-view_1721994856052). I had bought a gravel 6 month before and thought by myself : I'd love to undertake such an adventure (bucket list type of idea). In fact, I started planning ahead that if nothing would prevent it, I would actually do it. And here I am now!
+Tout a commencé en 2023 lorsqu'un [podcast allemand](https://www.youtube.com/playlist?list=PLCLnrkmezkJR3Myov4To9yl1Wb4_OSTyb) a mis en avant un livre sur [la "Great Divide"](https://www.amazon.de/Great-Divide-Gravelbike-durch-Mountains/dp/3846409693#immersive-view_1721994856052). J'avais acheté un gravel six mois auparavant et je me suis dit : j'aimerais entreprendre une telle aventure, cela me motive. De fait, j'ai commencé à planifier et organiser, arguant que si rien ne m'en empêchait, je le ferais vraiment. Et au fur et à mesure, le projet est progressivement devenu réalité.
 
-One year later, many things happened and made it actually possible. Including taking a sabbatical, leaving a long time employer and preparing for a new professional/career step, family and supportive friends, physical preparation... long list. But encouraging list.
+En une année, beaucoup de choses se sont passées et l'ont rendu réellement possible. Cela inclut la prise d'un congé sabbatique, quitter un employeur de longue date et se préparer pour une nouvelle étape professionnelle, une famille et des amis soutenants, une préparation physique engageante... la liste est longue. Mais c'est une liste encourageante.
 
-# Why this blog
+# Pourquoi un blog
 
-Originally I did not mean to maintain a blog. But many asked how to follow me. And I also wanted to capture my daily moments, consolidate my experiences, elaborate on inspirations. I alsoi wanted to give back and inspire others.
+Au départ, je n'avais pas l'intention de tenir un blog. Mais beaucoup de personnes m'ont demandé comment avoir des nouvelles durant mon parcours. Et je voulais aussi capturer mes moments forts quotidiens, consolider mes expériences, élaborer autour de mes inspirations. Je voulais aussi rendre partager et inspirer les autres.
 
-So I decided to create this dedicated website. And as a promoter of open source, running it on GitHub was a nicer option than resolving to use made-for platforms (Wordpress, PolarStep), as good as they may be. This flexibility also allows me to design it in a way that makes it also useful to myself 😉.
+J'ai donc décidé de créer ce site dédié. Et en tant que promoteur de l'open source, le faire sur GitHub était une meilleure option que d'utiliser des plateformes toutes faites (Wordpress, PolarStep), aussi bonnes soient-elles. Cette flexibilité me permet aussi de le concevoir de manière à ce qu'il me soit également utile 😉.
+
+# Français et/ou anglais?
+
+Durant mon voyage, j'ai partagé mes nouvelles quotidiennement en français. Plus simple et finalement plus proche de ma famille et amis. Mais le reste du site est plutôt anglophone. J'ai donc retraduit mon blog de français en aglais. Et la langue anglaise reste au demeurant la langue par défaut pour documenter tous les aspects techniques.

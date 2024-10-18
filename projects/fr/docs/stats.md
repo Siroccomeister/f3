@@ -1,28 +1,25 @@
-# Driving by Numbers
+# Mes statistiques
 
-This sections shows the daily details of my bike trip with all possible stats. You can also access the gpx files with elevation maps and so on.
+Cette section du site héberge les données plus détaillées concernant mes statistiques. Elle donne aussi accès aux fichiers gpx de ma trace (avec le détail de mon parcours, le suivi du denivelé etc...).
 
-### Perfect day averages
+### Mes moyennes pour une journée parfaite
 
-- 8 hours/day
+- 8 heures de vélo/jour
 - 16.6 km/h
-- 125km/day distance
-- 1'450m/day of D+ climbing.
+- 125km/jour en distance
+- 1'450m/jour de dénivelé positif
 
-### Banff to Antelope Wells/Mexican Border
+### Parcours de Banff à Antelope Wells / frontière mexicaine
 
-- FULL riding days: **35 days**.
-- ZERO DAYS : **1** (no ride at all)
-- REST DAYS : **4** (less than 3 hours riding).
-- TOTAL : **38 DAYS** and 4'411 km / 51'635m D+.
+- Jours complets en selle: **35 jours**.
+- Jours ZERO: **1** (pas monté sur le vélo)
+- Jours REPOS : **4** (moins de 3h de vélo).
+- TOTAL : **38 JOURS** et donc 4'411 km / 51'635m D+.
 
-note : 2 DAYS to ride from CALGARY to BANFF.
+### Atterrissage à Calgary
 
-### Total Distance/Elevation
+Il m'a encore fallu 2 JOURS pour aller de CALGARY à BANFF, soit un total de 40 jours sur le vélo avec une distance totale de 4'581 km / 53'389 D+.
 
-- TOTAL from BANFF to ANTELOPE WELLS/Mexican Border : 
-- TOTAL from CALGARY to ANTELOPE WELLS/Mexican Border : 4'581 km / 53'389 D+
-
-## In the grid : detailed stats & maps
+## Parcours détaillé stats, perf et cartes
 
 <div id="GDMBR"></div>
