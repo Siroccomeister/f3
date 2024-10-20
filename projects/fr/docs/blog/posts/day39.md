@@ -6,7 +6,7 @@ categories:
   - World
 ---
 
-#  Beaverhead Ranch
+# Beaverhead Ranch
 
 <figure markdown>
 ![Trophy Room](day39/day39.1.jpeg){ width=“300” }
