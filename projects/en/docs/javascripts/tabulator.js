@@ -112,7 +112,7 @@ var table3 = new Tabulator("#GDMBR", {
                 return el; 
             },
         },
-        {title:"Blog#", field:"Highlights", width:250, tooltip:true, formatter:"link", 
+        {title:"Blog#", field:"Blog#", width:250, tooltip:true, formatter:"link", 
             formatterParams:{
               labelField:"Blog title",
               urlPrefix:"https://siroccomeister.github.io/f3/en/blog/",
