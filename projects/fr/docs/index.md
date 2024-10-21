@@ -24,4 +24,4 @@ J'ai donc décidé de créer ce site dédié. Et en tant que promoteur de l'open
 
 # Français et/ou anglais?
 
-Durant mon voyage, j'ai partagé mes nouvelles quotidiennement en français. Plus simple et finalement plus proche de ma famille et amis. Mais le reste du site est plutôt anglophone. J'ai donc retraduit mon blog de français en aglais. Et la langue anglaise reste au demeurant la langue par défaut pour documenter tous les aspects techniques.
+Durant mon voyage, j'ai partagé mes nouvelles quotidiennement en français. Plus simple et finalement plus proche de ma famille et amis. Mais le reste du site est plutôt anglophone. J'ai donc retraduit mon blog de français en anglais. Mais l'anglais reste la langue par défaut pour documenter les aspects techniques sur le site.

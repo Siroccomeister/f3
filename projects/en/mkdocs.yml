@@ -1,6 +1,5 @@
 site_name: My Great Divide 2024
 site_description: "riding the Great Divide Mountain Bike Route"
-# docs_dir: en/docs
 
 theme:
   name: material

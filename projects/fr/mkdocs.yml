@@ -47,6 +47,10 @@ plugins:
   - search
 #  - optimize
   - table-reader
+  - redirects:
+      redirect_maps:
+        'maps/gpxday10.5.md': 'blog/posts/day11.md'
+        'maps/gpxday42.5.md': 'blog/posts/day43.md'
   - mkdocs-video:
       is_video: True
       video_muted: True
