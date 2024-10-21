@@ -4,3 +4,4 @@ mkdocs-glightbox
 neoteroi-mkdocs
 mkdocs-video
 mkdocs-table-reader-plugin
+mkdocs-redirects
