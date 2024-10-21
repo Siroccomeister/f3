@@ -14,11 +14,11 @@ This sections shows the daily details of my bike trip with all possible stats. Y
 - FULL riding days: **35 days**.
 - ZERO DAYS : **1** (no ride at all) at the Lama (Alpaca) Ranch
 - REST DAYS : **4** (less than ~3 hours riding) in Banff, Rawlins, Salida, Antelope
-- TOTAL : **38 DAYS** and 4'411 km / 51'635m D+.
+- TOTAL : **40 DAYS** and 4'411 km / 51'635m D+.
 
 ### I landed in Calgary
 
- So it took me 2 DAYS to ride from CALGARY to BANFF. Which makes a total of 40 full days on the bike for the whole trip with a distance of 4'581 km / 53'389 D+.
+ So it took me 2 DAYS to ride from CALGARY to BANFF. Which makes a total of 42 days on the bike for the whole trip with a distance of 4'581 km / 53'389 D+.
 
 ## In the grid : detailed stats & maps
 

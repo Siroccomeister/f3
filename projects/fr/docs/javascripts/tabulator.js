@@ -100,7 +100,7 @@ var table3 = new Tabulator("#GDMBR", {
         {title:"Map", field:"Track", formatter:"link", 
             formatterParams:{
               label:"MAP/GPX",
-              urlPrefix:"https://siroccomeister.github.io/f3/en/maps/",
+              urlPrefix:"https://siroccomeister.github.io/f3/fr/maps/",
             },
             tooltip:function(e, cell, onRendered){
                 //e - mouseover event

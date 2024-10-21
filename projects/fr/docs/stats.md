@@ -14,11 +14,11 @@ Cette section du site héberge les données plus détaillées concernant mes sta
 - Jours complets en selle: **35 jours**.
 - Jours ZERO: **1** (pas monté sur le vélo)
 - Jours REPOS : **4** (moins de 3h de vélo).
-- TOTAL : **38 JOURS** et donc 4'411 km / 51'635m D+.
+- TOTAL : **40 JOURS** et donc 4'411 km / 51'635m D+.
 
 ### Atterrissage à Calgary
 
-Il m'a encore fallu 2 JOURS pour aller de CALGARY à BANFF, soit un total de 40 jours sur le vélo avec une distance totale de 4'581 km / 53'389 D+.
+Il m'a encore fallu 2 JOURS pour aller de CALGARY à BANFF, soit un total de 42 jours sur le vélo avec une distance totale de 4'581 km / 53'389 D+.
 
 ## Parcours détaillé stats, perf et cartes
 
