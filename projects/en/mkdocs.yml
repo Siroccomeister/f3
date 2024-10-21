@@ -1,5 +1,6 @@
 site_name: My Great Divide 2024
 site_description: "riding the Great Divide Mountain Bike Route"
+# docs_dir: en/docs
 
 theme:
   name: material
@@ -48,7 +49,7 @@ plugins:
   - table-reader
   - redirects:
       redirect_maps:
-        'maps/gpxday10.5.md': 'blog/day11.md'
+        'en/maps/gpxday10.5.md': 'en/blog/day11.md'
   - mkdocs-video:
       is_video: True
       video_muted: True
