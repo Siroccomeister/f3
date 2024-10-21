@@ -112,6 +112,7 @@ var table3 = new Tabulator("#GDMBR", {
                 return el; 
             },
         },
+        {title:"Highlights", field:"Highlights",visible:false},
         {title:"Blog#", field:"Blog#", width:250, formatter:"link", 
             formatterParams:{
               labelField:"Blog title",
