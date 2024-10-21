@@ -112,11 +112,20 @@ var table3 = new Tabulator("#GDMBR", {
                 return el; 
             },
         },
-        {title:"Blog#", field:"Blog#", width:250, tooltip:true, formatter:"link", 
+        {title:"Blog#", field:"Blog#", width:250, formatter:"link", 
             formatterParams:{
               labelField:"Blog title",
               urlPrefix:"https://siroccomeister.github.io/f3/en/blog/",
              },
+             tooltip:function(e, cell, onRendered){
+                //e - mouseover event
+                //cell - cell component
+                //onRendered - onRendered callback registration function    
+                var el = document.createElement("div");
+                el.style.backgroundColor = "#F7DC6F";
+                el.innerText = cell.getRow().getCell("Highlights").getValue(); //return cells "field - value";
+                return el; 
+              },
         },
         {title:"Blog title", field:"Blog title",visible:false},
         {title:"Dist KM", field:"Dist km", width:100, formatter:"progress", 
