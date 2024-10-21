@@ -116,7 +116,7 @@ var table3 = new Tabulator("#GDMBR", {
         {title:"Blog#", field:"Blog#", width:250, formatter:"link", 
             formatterParams:{
               labelField:"Blog title",
-              urlPrefix:"https://siroccomeister.github.io/f3/en/blog/",
+              urlPrefix:"https://siroccomeister.github.io/f3/fr/blog/",
              },
              tooltip:function(e, cell, onRendered){
                 //e - mouseover event
