@@ -1,4 +1,6 @@
 
+<link rel="stylesheet" href"https://unpkg.com/tabulator-tables/dist/css/tabulator.min.css">
+<script src="https://unpkg.com/tabulator-tables/dist/js/tabulator.js"></script>
 <script src="../javascripts/tabulator.js"></script>
 
 # Driving by Numbers
