@@ -18,7 +18,7 @@ extra_css:
   - stylesheets/extra.css
   - stylesheets/neoteroi-mkdocs.css
 #  - https://unpkg.com/tabulator-tables/dist/css/tabulator_site.min.css
-#  - https://unpkg.com/tabulator-tables/dist/css/tabulator.min.css
+  - https://unpkg.com/tabulator-tables/dist/css/tabulator.min.css
   - https://unpkg.com/@raruto/leaflet-elevation@2.5.1/dist/leaflet-elevation.min.css
 
 
