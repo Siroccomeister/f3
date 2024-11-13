@@ -1,5 +1,5 @@
 
-<script src="javascripts/tabulator.js"></script>
+<script src="../javascripts/tabulator.js"></script>
 
 # Driving by Numbers
 
