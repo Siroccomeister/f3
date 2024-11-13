@@ -78,6 +78,7 @@ function minMaxFilterFunction(headerValue, rowValue, rowData, filterParams){
     return true; //must return a boolean, true if it passes the filter.
 }
 
+window.addEventListener("load", function() {
 
 var table3 = new Tabulator("#GDMBR", {
     ajaxURL:"../assets/tables/GDMBR.json",
@@ -166,3 +167,5 @@ var table3 = new Tabulator("#GDMBR", {
         {title:"KM cumulative", field:"KM cumulative"},
     ],
 });
+
+},false);

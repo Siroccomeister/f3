@@ -1,7 +1,0 @@
-git+https://${GH_TOKEN}@github.com/squidfunk/mkdocs-material-insiders.git
-mkdocs-material[imaging]
-mkdocs-glightbox
-neoteroi-mkdocs
-mkdocs-video
-mkdocs-table-reader-plugin
-mkdocs-redirects
