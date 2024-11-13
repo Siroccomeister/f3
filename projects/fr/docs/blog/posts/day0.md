@@ -6,30 +6,30 @@ categories:
   - World
 ---
 
-# Take-off
+# Décollage
 
 <figure markdown>
-![Jasper in flames, Icelands Parkway closed](day0/Jasper-wildfire.jpeg){ width=“300” }
+![Jasper est en feu, Icelands Parkway est fermé](day0/Jasper-wildfire.jpeg){ width=“300” }
 </figure>
 
-Buckle-up! It's getting serious. Biggest learning of the day : don't plan too much ahead, let the way guide you as well.
+Attachez vos ceintures ! Les choses deviennent sérieuses. Plus grande leçon du jour : ne pas trop planifier à l'avance, laissez aussi le chemin vous guider.
 
 <!-- more -->
 
-After a stressful packing, it finally had a happy end and check-in went fine once at Geneva airport. Close though (400g left out of 23Kg allowance) ⚖️.
+Après un emballage stressant, tout s'est finalement bien terminé et l'enregistrement à l'aéroport de Genève s'est bien passé. Juste à temps (il restait 400g sur les 23Kg autorisés) ⚖️.
 
-With Valérie we could then enjoy some quality time (incl. a nice cappuccino with a nice drawing on it ❤️).
+Avec Valérie, nous avons ensuite pu profiter d'un bon moment (y compris un bon cappuccino avec un joli dessin dessus ❤️).
 
-I also was able to enjoy Zürich Kloten airport a bit longer : connection to Calgary got delayed by 1h30. Hello terrasse ☕️ again.
+J'ai également pu profiter un peu plus longtemps de l'aéroport de Zurich Kloten : la correspondance pour Calgary a été retardée d'1h30. Bonjour terrasse ☕️ encore.
 
-Then I learnt that Jasper is in flames. Terrible news, apparently the fire is in the city 🔥🔥🔥🔥. It's been too hot: 40Deg Celsius. Jasper national park is closed, the famous Icefields Parkway between Lake Louise/Banff and Jasper is also closed mid way. Well - I was planning to start from Jasper... 🧐 what now?
+Puis j'ai appris que Jasper est en flammes. Terrible nouvelle, apparemment le feu est en ville 🔥🔥🔥🔥. Il a fait trop chaud : 40 degrés Celsius. Le parc national de Jasper est fermé, la célèbre route Icelands Parkway entre Lake Louise/Banff et Jasper est également fermée à mi-chemin. Eh bien - je prévoyais de commencer à Jasper... 🧐 et maintenant ?
 
-Let's see once in Calgary. I envisage first unboxing/gearing up the bike and take a room close to Calgary airport. I also saw that the Trans-Canadian Trail (TCT) could take me to Banff. And probably I would then head south... leaving the parkway 93 behind me and hoping fire will be under control soon though.
+On verra une fois à Calgary. J'envisage de déballer/équiper le vélo et de prendre une chambre près de l'aéroport de Calgary. J'ai aussi vu que le Sentier Transcanadien (TCT) pourrait me mener à Banff. Et probablement que je me dirigerai vers le sud... laissant la route 93 derrière moi, en espérant que le feu sera bientôt maîtrisé.
 
-Update : [the news for Jasper made it home](https://www.rts.ch/info/monde/2024/article/au-canada-un-feu-de-foret-a-ravage-la-ville-touristique-de-jasper-laissant-un-spectacle-de-desolation-28581173.html). I am definitely going to head to Banff. Quite sad about the devastation...
+Update : [les nouvelles sur le drame de Jasper est arrivé jusqu'0en Suisse](https://www.rts.ch/info/monde/2024/article/au-canada-un-feu-de-foret-a-ravage-la-ville-touristique-de-jasper-laissant-un-spectacle-de-desolation-28581173.html). Je vais définitivement me diriger vers Banff. Assez triste de voir cette dévastation...
 
 <figure markdown>
-![Packed (finally)](day0/Packed.jpeg){ width=“300” }
+![Tout est emballé (ouf!)](day0/Packed.jpeg){ width=“300” }
 ![One Last Cappuccino](day0/QualityV.jpeg){ width=“300” }
 ![It's going to be a long day...](day0/Kloten.jpeg){ width=“300” }
 </figure>

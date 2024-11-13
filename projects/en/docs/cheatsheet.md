@@ -155,3 +155,9 @@ This is a useful instruction to replace recursively in one folder some text :
 ```yaml
 perl -pi -w -e 's{TOFIND}{TOREPLACE}' *.md
 ```
+
+Sometimes it is tricky to upload large a/o many files from local to remote git repository. Tweaking the git buffer size seems to do the trick.
+
+``` yaml
+git config http.postBuffer 524288000
+```
