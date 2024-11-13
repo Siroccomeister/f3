@@ -1,3 +1,6 @@
+
+<script src="javascripts/tabulator.js"></script>
+
 # Driving by Numbers
 
 This sections shows the daily details of my bike trip with all possible stats. You can also access the gpx files with elevation maps and so on.
