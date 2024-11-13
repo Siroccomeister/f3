@@ -13,6 +13,7 @@ theme:
     - navigation.top
     - navigation.footer
     - toc.integrate
+    - content.code.copy
 
 extra_css:
   - stylesheets/extra.css
@@ -76,7 +77,7 @@ plugins:
       zoomable: true
       draggable: false
       skip_classes:
-         - custom-skip-class-name
+         - skip-lightbox
       auto_caption: true
       caption_position: bottom
       background: white
@@ -113,8 +114,7 @@ nav:
      - Training: training.md
    - Stats:
      - Stats: stats.md
-     
-#   - Others:
-#     - Cheatsheet: cheatsheet.md
+   - Others:
+     - Cheatsheet: cheatsheet.md
  
   

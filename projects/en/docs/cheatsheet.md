@@ -1,52 +1,10 @@
 ---
-glightbox: false
+glightbox: true
 ---
 
-# leaflet Map Playing Around
-
- <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
-     integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
-     crossorigin=""/>
- <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
-     integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
-     crossorigin=""></script>
- <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-gpx/2.1.2/gpx.min.js"></script>
-
-<style type="text/css">
-#map {
-    width: auto;
-    height: 400px;
-    margin: 0;
-}
-</style>
-
-<div id="map"></div>
-
-<script type="text/javascript">
-  document.addEventListener("DOMContentLoaded", function() {
-    
-    var map = L.map('map');
-
-    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    maxZoom: 19,
-    attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-    }).addTo(map);
-
-    const url = 'https://siroccomeister.github.io/f3/assets/gpx/GDMBR3.gpx';
-    const options = {
-      async: true,
-      polyline_options: { color: 'red' },
-      };
-
-    const gpx = new L.GPX(url, options).on('loaded', (e) => {
-      map.fitBounds(e.target.getBounds());
-      }).addTo(map);
-
-  })
-</script>
-
-
 # Conventions
+
+This website is largely based on the great MKDOCS theme MATERIAL. On this page, you'll find some conventions applied on the backend. Some content is also a reminder for GIT or specific plugin syntaxing such as TABULATOR.
 
 ## Navigation
 
@@ -62,113 +20,138 @@ More details can be looked-up [here](https://blueswen.github.io/mkdocs-glightbox
 
 Some options are defined in the mkdocs.yml file to facilitate working with captions.
 
-The simplest form :
-![Image test](blog/posts/day0/MarocSelfie.jpg)
+### The simplest form
 
-In general, I'd like to keep images in one folder : docs/assets
-So that folder should be accessible with an absolute path that I can use from whatever markdown file.
+The text in "[text]" will be used as caption in lighbox mode (when you click on the picture). 
 
-However, for blog posts, it is easier to copy selected photos to a dedicated folder.
-Then add a specific blog entry to reads from that folder with relative links.
-In both cases, images will be handled via GlightBox.
+```yaml
+![Image test](assets/images/MarocSelfie.jpg)
+```
+![Image test](assets/images/MarocSelfie.jpeg)
 
-After some research :
-.. Markdown/MkDocs only converts / to /docs location for .md files.
-All other files will default to relative path...
+In general, I'd like to keep images in one folder : **docs/assets**.  So that folder should be accessible with an absolute path that I can use from whatever markdown file. However for *blog posts*, it is easier to copy selected photos to a dedicated folder. Then add a specific blog entry to reads from that folder with relative links. In both cases, images will be handled via GlightBox Plugin.
 
-In addition, Image display can be somewhat enhanced.
-This requires some html injection.
+### Enhanced Image display
+
+In addition, Image display can be somewhat enhanced. This requires some html injection. 
+Enhancement may apply to :
+
+ - image size
+ - mixing Lightbox Caption and Image title
+
+``` markdown title="examples of image sizing"
+<figure markdown>
+
+![My proud OpenUP](assets/images/openup.jpeg){ width="400" }
+<figcaption markdown>Image displayed with a width of "400"</figcaption>
+
+![My proud OpenUP](assets/images/openup.jpeg){ width=400px }
+<figcaption markdown>Image displayed with a width of 400px</figcaption>
+
+![Morocco Atlas](assets/images/MarocSelfie.jpeg){ width=50px }
+<figcaption markdown>Width is set at 50px</figcaption>
+
+![Morocco Atlas](assets/images/MarocSelfie.jpeg){ width=50% }
+<figcaption markdown>Width is set at 50% and can scale</figcaption>
+
+</figure>
+```
 
 <figure markdown>
 
-![My proud OpenUP](assets/images/openup.jpg){ width="200" }
-<figcaption markdown>Part of my Tour Divide project</figcaption>
+![My proud OpenUP](assets/images/openup.jpeg){ width="400" }
+<figcaption markdown>Image displayed with a width of "400"</figcaption>
 
-![Morocco Atlas](/../assets/images/0MarocSelfie.jpg){ width=“200” }
-<figcaption markdown>Where decisions are getting matured</figcaption>
+![My proud OpenUP](assets/images/openup.jpeg){ width=400px }
+<figcaption markdown>Image displayed with a width of 400px</figcaption>
+
+![Morocco Atlas](assets/images/MarocSelfie.jpeg){ width=50px }
+<figcaption markdown>Width is set at 50px</figcaption>
+
+![Morocco Atlas](assets/images/MarocSelfie.jpeg){ width=50% }
+<figcaption markdown>Width is set at 50% and can scale</figcaption>
 
 </figure>
 
+
+## Cross-referencing
+
+Markdown/MkDocs only converts **/** to **/docs** location for .md files. All other files will default to relative path. So when moving .md files around, you need to keep the cross-referencing in mind.
+
+
 ## For hyperlinks
-[Displayed Link](https://hyperlinked.website.com)
+
+```yaml
+[Displayed Link](https://squidfunk.github.io/mkdocs-material/)
+```
+[Displayed Link](https://squidfunk.github.io/mkdocs-material/)
 
 ## For cards
+
+There's a nice plugin called neoteroi cards which allows to display cards which combined with images can be similar to a photo gallery. In the end I decided not to use it, but it is still good to keep the option open. The url feature is sort of being prevented when glightbox is active though - both functionalities seem mutually exclusive (despite the skip_lightbox option).
 
 ::cards::
 
 - title: Day 1
-  content: Lorem ipsum dolor sit amet.
-  image: assets/images/openup.jpg
+  content: Example of **neoteroi** card plugin
+  image: assets/images/openup.jpeg
 
-- title: Day 1
-  content: Lorem ipsum dolor sit amet.
+- title: Day 2
+  content: Cards can help display photos as a **gallery**
   image: assets/images/Garmin_messenger.png
 
 - title: Tour Divide
   url: https://bikepacking.com/routes/great-divide-mountain-bike-route-gdmbr/
-  content: Lorem ipsum dolor sit amet.
+  content: Cards might be combined with a url as well, but only with Glightbox disabled or without image in the card.
 
 ::/cards::
 
-!!! example "Morocco inspiration"
-    Today I decided that I could make the tour divide!
+## Using content tabs
+
+This is quite a neat feature. And may also allow a storytelling across different illustrations.
+
+!!! example "Morocco inspiration as header"
+    Morocco was a cornerstone in my decision making for the Great Divide!
 
     === "let's do it"
     <figure markdown>
-    ![My Proud OpenUP is simply the best](day0/openup.jpg){ width="300px" }
+    ![My Proud OpenUP is simply the best](assets/images/openup.jpeg){ width="300px" }
     <figcaption>The journey actually started beginning 2023 when I purchased my Gravel from Open Cycle, kudos to Andy Kessler and Gerard Vroomen for their vision.</figcaption>
     </figure>
 
-=== "let's do it"
+=== "let's do it without header"
+    Image has a size of 300px.
     <figure markdown>
-    ![My Proud OpenUP is simply the best](day0/openup.jpg){ width="300px" }
+    ![My Proud OpenUP is simply the best](assets/images/openup.jpeg){ width="300px" }
     </figure>
 
-=== "no defined size"
+=== "without defined image size"
     <figure markdown>
-    ![My Proud OpenUP is simply the best](day0/MarocSelfie.jpg)
+    ![My Proud OpenUP is simply the best](assets/images/openup.jpeg)
     </figure>
 
 !!! notes ""
+    We can remove the header, and only show images.
     <figure markdown>
-    ![My Proud OpenUP is simply the best](day0/openup.jpg){ height="50px" }
-    ![My Proud OpenUP is simply the best](day0/MarocSelfie.jpg){ height="50px" }
+    ![My Proud OpenUP is simply the best](assets/images/openup.jpeg){ width=300px }
+    ![My Proud OpenUP is simply the best](assets/images/MarocSelfie.jpeg){ width=300px }
     </figure>
 
 <!-- more -->
 The simplest form :
-![Image test](day0/MarocSelfie.jpg)
+![Image test](assets/images/MarocSelfie.jpeg)
 
-Image with Glightbox commenting.
-![My Proud OpenUP](day0/openup.jpg){ data-title="My Proud OpenUP." data-description="It started beginning 2023 when I purchased my Gravel from Open Cycle, kudos to Andy Kessler and Gerard Vroomen for their vision." }
+Image with Glightbox caption title and comments.
+![My Proud OpenUP](assets/images/openup.jpeg){ data-title="My Proud OpenUP." data-description="It started beginning 2023 when I purchased my Gravel from Open Cycle, kudos to Andy Kessler and Gerard Vroomen for their vision." }
 
 Image leveraging the figure meta-data (title is removed).
-![My Proud OpenUP](day0/openup.jpg){ data-description="It started beginning 2023 when I purchased my Gravel from Open Cycle, kudos to Andy Kessler and Gerard Vroomen for their vision." }
+![My Proud OpenUP](assets/images//openup.jpeg){ data-description="It started beginning 2023 when I purchased my Gravel from Open Cycle, kudos to Andy Kessler and Gerard Vroomen for their vision." }
 
-Image with all data- removed. But added as caption.
-
-<figure markdown>
-
-![My Proud OpenUP is simply the best](day0/openup.jpg){ width="500px" }
-<figcaption>The journey actually started beginning 2023 when I purchased my Gravel from Open Cycle, kudos to Andy Kessler and Gerard Vroomen for their vision.</figcaption>
-
-</figure>
-
-Working copy looks more promising…
-![Image test](../../assets/images/openup.jpg)
-
-<figure markdown>
-
-![My proud OpenUP](../../assets/images/openup.jpg){ width="300" }
-<figcaption markdown>Part of my Tour Divide project</figcaption>
-
-![Morocco Atlas](../../assets/images/0MarocSelfie.jpg){ width=“300” }
-<figcaption markdown>Where decisions are getting matured</figcaption>
-
-</figure>
 
 # OSX Terminal
 
 This is a useful instruction to replace recursively in one folder some text :
 
->> perl -pi -w -e 's{TOFIND}{TOREPLACE}' *.md
+```yaml
+perl -pi -w -e 's{TOFIND}{TOREPLACE}' *.md
+```

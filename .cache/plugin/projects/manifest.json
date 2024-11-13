@@ -1,0 +1,5 @@
+{
+  ".": "mkdocs.yml",
+  ".en": "projects/en/mkdocs.yml",
+  ".fr": "projects/fr/mkdocs.yml"
+}
