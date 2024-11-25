@@ -147,8 +147,7 @@ Image with Glightbox caption title and comments.
 Image leveraging the figure meta-data (title is removed).
 ![My Proud OpenUP](assets/images//openup.jpeg){ data-description="It started beginning 2023 when I purchased my Gravel from Open Cycle, kudos to Andy Kessler and Gerard Vroomen for their vision." }
 
-
-# OSX Terminal
+## OSX Terminal
 
 This is a useful instruction to replace recursively in one folder some text :
 
