@@ -46,7 +46,7 @@ extra:
 plugins:
   - search
   - optimize:
-      cache: true
+      cache: false
   - table-reader
   - redirects:
       redirect_maps:
