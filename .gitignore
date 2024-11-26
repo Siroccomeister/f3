@@ -1,1 +1,13 @@
+# different exclusions to reduce uploads and consider privacy
+# a good reference is the .gitignore from MATERIAL THEME
+
+# Dependencies
+venv
+.venv
+
+# Build files
+build
+site
+
+# Caches and logs
 .cache
