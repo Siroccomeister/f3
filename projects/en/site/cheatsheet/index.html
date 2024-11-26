@@ -1318,7 +1318,29 @@ Enhancement may apply to :</p>
 <div class="highlight"><pre><span></span><code><span class="l l-Scalar l-Scalar-Plain">perl -pi -w -e 's{TOFIND}{TOREPLACE}' *.md</span>
 </code></pre></div>
 <p>Sometimes it is tricky to upload large a/o many files from local to remote git repository. Tweaking the git buffer size seems to do the trick.</p>
-<div class="highlight"><pre><span></span><code><span class="l l-Scalar l-Scalar-Plain">git config http.postBuffer 524288000</span>
+<div class="highlight"><pre><span></span><code><span class="l l-Scalar l-Scalar-Plain">git config --global http.postBuffer 157286400</span>
+</code></pre></div>
+<p>When you start working on a local repository, it is useful to first re-sync with the Origin that sits in Github. To that end, you can run the following code.</p>
+<div class="highlight"><pre><span></span><code><span class="l l-Scalar l-Scalar-Plain">git fetch</span>
+<span class="l l-Scalar l-Scalar-Plain">git reset —hard origin/main</span>
+</code></pre></div>
+<p>It is a best practice to clone/edit/build/serve/commit from local git repositories using a localized (virtual) python environment. Here's how to set it up. I decided to do it in one single place ie. my venv folder is above and across all my projects. An alternative is to have it by project and to exclude it with .gitignore if you need differentiated environments.</p>
+<div class="highlight"><pre><span></span><code><span class="l l-Scalar l-Scalar-Plain">python3 -m venv venv</span>
+<span class="l l-Scalar l-Scalar-Plain">. venv/bin/activate</span>
+</code></pre></div>
+<p>You have to deactivate once finished.</p>
+<div class="highlight"><span class="filename">once in (venv)</span><pre><span></span><code><span class="l l-Scalar l-Scalar-Plain">deactivate</span>
+</code></pre></div>
+<p>I also use a single requirements.txt list to configure my virtual environment. As I am leveraging the optimize and social plugins of Material Theme Insider Version, I run into some tricky dependencies with cairo and pngquant libraries.</p>
+<div class="highlight"><span class="filename">once in (venv)</span><pre><span></span><code><span class="l l-Scalar l-Scalar-Plain">pip install -r requirements.txt</span>
+<span class="l l-Scalar l-Scalar-Plain">brew install pngquant</span>
+<span class="l l-Scalar l-Scalar-Plain">brew install cairo freetype libffi libjpeg libpng zlib</span>
+</code></pre></div>
+<p>OSX : the following is a workaround to ensure libraries are found.</p>
+<div class="highlight"><span class="filename">once in (venv)</span><pre><span></span><code><span class="l l-Scalar l-Scalar-Plain">export DYLD_FALLBACK_LIBRARY_PATH=/opt/homebrew/lib</span>
+</code></pre></div>
+<p>GITHUB : the following also seems a required workaround to ensure libraries are found. Add it into the main.yml workflow file. I found that the ubuntu latest doesn't work out of the box.</p>
+<div class="highlight"><span class="filename">line added in main.yml github workflow</span><pre><span></span><code><span class="w">     </span><span class="p p-Indicator">-</span><span class="w"> </span><span class="nt">run</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">sudo apt-get install pngquant</span><span class="w"> </span>
 </code></pre></div></div>
 
 

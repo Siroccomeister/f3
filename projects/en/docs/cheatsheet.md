@@ -158,5 +158,46 @@ perl -pi -w -e 's{TOFIND}{TOREPLACE}' *.md
 Sometimes it is tricky to upload large a/o many files from local to remote git repository. Tweaking the git buffer size seems to do the trick.
 
 ``` yaml
-git config http.postBuffer 524288000
+git config --global http.postBuffer 157286400
 ```
+
+When you start working on a local repository, it is useful to first re-sync with the Origin that sits in Github. To that end, you can run the following code.
+
+``` yaml
+git fetch
+git reset —hard origin/main
+```
+
+It is a best practice to clone/edit/build/serve/commit from local git repositories using a localized (virtual) python environment. Here's how to set it up. I decided to do it in one single place ie. my venv folder is above and across all my projects. An alternative is to have it by project and to exclude it with .gitignore if you need differentiated environments.
+
+``` yaml
+python3 -m venv venv
+. venv/bin/activate
+```
+
+You have to deactivate once finished.
+
+``` yaml title="once in (venv)"
+deactivate
+```
+
+I also use a single requirements.txt list to configure my virtual environment. As I am leveraging the optimize and social plugins of Material Theme Insider Version, I run into some tricky dependencies with cairo and pngquant libraries.
+
+``` yaml title="once in (venv)"
+pip install -r requirements.txt
+brew install pngquant
+brew install cairo freetype libffi libjpeg libpng zlib
+```
+
+OSX : the following is a workaround to ensure libraries are found.
+
+``` yaml title="once in (venv)"
+export DYLD_FALLBACK_LIBRARY_PATH=/opt/homebrew/lib
+```
+
+GITHUB : the following also seems a required workaround to ensure libraries are found. Add it into the main.yml workflow file. I found that the ubuntu latest doesn't work out of the box.
+
+``` yaml title="line added in main.yml github workflow"
+     - run: sudo apt-get install pngquant 
+```
+
