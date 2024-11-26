@@ -46,7 +46,8 @@ extra:
 plugins:
   - search
   - optimize:
-      cache: true
+	  enabled: !ENV [CI, false]
+      cache: false
   - table-reader
   - redirects:
       redirect_maps:
