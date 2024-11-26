@@ -24,7 +24,7 @@
         
       
       
-      <link rel="icon" href="../assets/images/favicon.png">
+      <link rel="icon" href="../../assets/images/favicon.png">
       <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.5.44+insiders-4.53.14">
     
     
@@ -1113,10 +1113,10 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#for-cards" class="md-nav__link">
+  <a href="#using-cards" class="md-nav__link">
     <span class="md-ellipsis">
       
-        For cards
+        Using cards
       
     </span>
   </a>
@@ -1124,10 +1124,10 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#using-content-tabs" class="md-nav__link">
+  <a href="#admonitions-content-tabs" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Using content tabs
+        Admonitions &amp; content tabs
       
     </span>
   </a>
@@ -1242,8 +1242,26 @@ Enhancement may apply to :</p>
 <p></p><div class="highlight"><pre><span></span><code><span class="p p-Indicator">[</span><span class="nv">Displayed Link</span><span class="p p-Indicator">]</span><span class="l l-Scalar l-Scalar-Plain">(https://squidfunk.github.io/mkdocs-material/)</span>
 </code></pre></div>
 <a href="https://squidfunk.github.io/mkdocs-material/">Displayed Link</a>
-<h2 id="for-cards">For cards</h2>
+<h2 id="using-cards">Using cards</h2>
 <p>There's a nice plugin called neoteroi cards which allows to display cards which combined with images can be similar to a photo gallery. In the end I decided not to use it, but it is still good to keep the option open. The url feature is sort of being prevented when glightbox is active though - both functionalities seem mutually exclusive (despite the skip_lightbox option).</p>
+<div class="highlight"><pre><span></span><code><span class="nt">::cards:</span><span class="p">:</span>
+
+<span class="p p-Indicator">-</span><span class="w"> </span><span class="nt">title</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">Day 1</span>
+<span class="w">  </span><span class="nt">content</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">Example of **neoteroi** card plugin</span>
+<span class="w">  </span><span class="nt">image</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">assets/images/openup.jpeg</span>
+
+<span class="p p-Indicator">-</span><span class="w"> </span><span class="nt">title</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">Day 2</span>
+<span class="w">  </span><span class="nt">content</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">Cards can help display photos as a **gallery**</span>
+<span class="w">  </span><span class="nt">image</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">assets/images/Garmin_messenger.png</span>
+
+<span class="p p-Indicator">-</span><span class="w"> </span><span class="nt">title</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">Tour Divide</span>
+<span class="w">  </span><span class="nt">url</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">https://bikepacking.com/routes/great-divide-mountain-bike-route-gdmbr/</span>
+<span class="w">  </span><span class="nt">content</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">Cards might be combined with a url as well,</span>
+<span class="w">           </span><span class="l l-Scalar l-Scalar-Plain">but only with Glightbox disabled or without image in the card.</span>
+
+<span class="nt">::/cards:</span><span class="p">:</span>
+</code></pre></div>
+<p>Which renders as below :</p>
 <div class="nt-cards nt-grid cols-3">
 <div class="nt-card">
 <div class="nt-card-wrap">
@@ -1269,23 +1287,39 @@ Enhancement may apply to :</p>
 </div>
 <div class="nt-card"><a href="https://bikepacking.com/routes/great-divide-mountain-bike-route-gdmbr/"><div><div class="nt-card-content"><p class="nt-card-title">Tour Divide</p><p class="nt-card-text">Cards might be combined with a url as well, but only with Glightbox disabled or without image in the card.</p></div></div></a></div>
 </div>
-<h2 id="using-content-tabs">Using content tabs</h2>
-<p>This is quite a neat feature. And may also allow a storytelling across different illustrations.</p>
+<h2 id="admonitions-content-tabs">Admonitions &amp; content tabs</h2>
+<p>This is quite a neat feature. And may also allow a storytelling across different illustrations. Watch the quotation marks, they can be twisted by your editor/keyboard language. They need to be plain. Also content within content tabs need to be indented vs. their headers.</p>
+<div class="highlight"><pre><span></span><code><span class="kt">!!!</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">example "Morocco inspiration as header"</span>
+<span class="w">    </span><span class="l l-Scalar l-Scalar-Plain">Morocco was a cornerstone in my decision making for the Great Divide!</span>
+
+<span class="w">    </span><span class="l l-Scalar l-Scalar-Plain">=== "let's do it"</span>
+<span class="w">        </span><span class="l l-Scalar l-Scalar-Plain">&lt;figure markdown&gt;</span>
+<span class="w">        </span><span class="l l-Scalar l-Scalar-Plain">![My Proud OpenUP is simply the best](assets/images/openup.jpeg){ width="300px" }</span>
+<span class="w">        </span><span class="l l-Scalar l-Scalar-Plain">&lt;figcaption&gt;The journey actually started beginning 2023 when I purchased my Gravel from Open Cycle, kudos to Andy Kessler and Gerard Vroomen for their vision.&lt;/figcaption&gt;</span>
+<span class="w">        </span><span class="l l-Scalar l-Scalar-Plain">&lt;/figure&gt;</span>
+
+<span class="w">    </span><span class="l l-Scalar l-Scalar-Plain">=== "let's do it without header"</span>
+<span class="w">        </span><span class="l l-Scalar l-Scalar-Plain">Image has a size of 300px.</span>
+<span class="w">        </span><span class="l l-Scalar l-Scalar-Plain">&lt;figure markdown&gt;</span>
+<span class="w">        </span><span class="l l-Scalar l-Scalar-Plain">![My Proud OpenUP is simply the best](assets/images/openup.jpeg){ width="300px" }</span>
+<span class="w">        </span><span class="l l-Scalar l-Scalar-Plain">&lt;/figure&gt;</span>
+
+<span class="w">    </span><span class="l l-Scalar l-Scalar-Plain">=== "without defined image size"</span>
+<span class="w">        </span><span class="l l-Scalar l-Scalar-Plain">&lt;figure markdown&gt;</span>
+<span class="w">        </span><span class="l l-Scalar l-Scalar-Plain">![My Proud OpenUP is simply the best](assets/images/openup.jpeg)</span>
+<span class="w">        </span><span class="l l-Scalar l-Scalar-Plain">&lt;/figure&gt;</span>
+</code></pre></div>
 <div class="admonition example">
 <p class="admonition-title">Morocco inspiration as header</p>
 <p>Morocco was a cornerstone in my decision making for the Great Divide!</p>
-<div class="tabbed-set tabbed-alternate" data-tabs="1:1"><input checked id="__tabbed_1_1" name="__tabbed_1" type="radio"><div class="tabbed-labels"><label for="__tabbed_1_1">let's do it</label></div>
+<div class="tabbed-set tabbed-alternate" data-tabs="1:3"><input checked id="__tabbed_1_1" name="__tabbed_1" type="radio"><input id="__tabbed_1_2" name="__tabbed_1" type="radio"><input id="__tabbed_1_3" name="__tabbed_1" type="radio"><div class="tabbed-labels"><label for="__tabbed_1_1">let's do it</label><label for="__tabbed_1_2">let's do it without header</label><label for="__tabbed_1_3">without defined image size</label></div>
 <div class="tabbed-content">
-<div class="tabbed-block"></div>
-</div>
-</div>
+<div class="tabbed-block">
 <p><figure markdown>
 <a class="glightbox" href="../assets/images/openup.jpeg" data-type="image" data-width="auto" data-height="auto" data-title="My Proud OpenUP is simply the best" data-desc-position="bottom"><img alt="My Proud OpenUP is simply the best" src="../assets/images/openup.jpeg" width="300px"></a>
 <figcaption>The journey actually started beginning 2023 when I purchased my Gravel from Open Cycle, kudos to Andy Kessler and Gerard Vroomen for their vision.</figcaption>
 </figure></p>
 </div>
-<div class="tabbed-set tabbed-alternate" data-tabs="2:2"><input checked id="__tabbed_2_1" name="__tabbed_2" type="radio"><input id="__tabbed_2_2" name="__tabbed_2" type="radio"><div class="tabbed-labels"><label for="__tabbed_2_1">let's do it without header</label><label for="__tabbed_2_2">without defined image size</label></div>
-<div class="tabbed-content">
 <div class="tabbed-block">
 <p>Image has a size of 300px.
 <figure markdown>
@@ -1299,6 +1333,14 @@ Enhancement may apply to :</p>
 </div>
 </div>
 </div>
+</div>
+<div class="highlight"><pre><span></span><code><span class="kt">!!!</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">notes ""</span>
+<span class="w">    </span><span class="l l-Scalar l-Scalar-Plain">We can remove the header, and only show images.</span>
+<span class="w">    </span><span class="l l-Scalar l-Scalar-Plain">&lt;figure markdown&gt;</span>
+<span class="w">    </span><span class="l l-Scalar l-Scalar-Plain">![My Proud OpenUP is simply the best](assets/images/openup.jpeg){ width=300px }</span>
+<span class="w">    </span><span class="l l-Scalar l-Scalar-Plain">![My Proud OpenUP is simply the best](assets/images/MarocSelfie.jpeg){ width=300px }</span>
+<span class="w">    </span><span class="l l-Scalar l-Scalar-Plain">&lt;/figure&gt;</span>
+</code></pre></div>
 <div class="admonition notes">
 <p>We can remove the header, and only show images.
 <figure markdown>
@@ -1306,13 +1348,6 @@ Enhancement may apply to :</p>
 <a class="glightbox" href="../assets/images/MarocSelfie.jpeg" data-type="image" data-width="auto" data-height="auto" data-title="My Proud OpenUP is simply the best" data-desc-position="bottom"><img alt="My Proud OpenUP is simply the best" src="../assets/images/MarocSelfie.jpeg" width="300px"></a>
 </figure></p>
 </div>
-<!-- more -->
-<p>The simplest form :
-<a class="glightbox" href="../assets/images/MarocSelfie.jpeg" data-type="image" data-width="auto" data-height="auto" data-title="Image test" data-desc-position="bottom"><img alt="Image test" src="../assets/images/MarocSelfie.jpeg"></a></p>
-<p>Image with Glightbox caption title and comments.
-<a class="glightbox" href="../assets/images/openup.jpeg" data-type="image" data-width="auto" data-height="auto" data-title="My Proud OpenUP." data-description="It started beginning 2023 when I purchased my Gravel from Open Cycle, kudos to Andy Kessler and Gerard Vroomen for their vision." data-desc-position="bottom"><img alt="My Proud OpenUP" data-description="It started beginning 2023 when I purchased my Gravel from Open Cycle, kudos to Andy Kessler and Gerard Vroomen for their vision." data-title="My Proud OpenUP." src="../assets/images/openup.jpeg"></a></p>
-<p>Image leveraging the figure meta-data (title is removed).
-<a class="glightbox" href="../assets/images/openup.jpeg" data-type="image" data-width="auto" data-height="auto" data-title="My Proud OpenUP" data-description="It started beginning 2023 when I purchased my Gravel from Open Cycle, kudos to Andy Kessler and Gerard Vroomen for their vision." data-desc-position="bottom"><img alt="My Proud OpenUP" data-description="It started beginning 2023 when I purchased my Gravel from Open Cycle, kudos to Andy Kessler and Gerard Vroomen for their vision." src="../assets/images/openup.jpeg"></a></p>
 <h2 id="osx-terminal">OSX Terminal</h2>
 <p>This is a useful instruction to replace recursively in one folder some text :</p>
 <div class="highlight"><pre><span></span><code><span class="l l-Scalar l-Scalar-Plain">perl -pi -w -e 's{TOFIND}{TOREPLACE}' *.md</span>

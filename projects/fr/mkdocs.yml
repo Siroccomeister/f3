@@ -46,7 +46,7 @@ extra:
 plugins:
   - search
   - optimize:
-	  enabled: !ENV [CI, false]
+      enabled: !ENV [CI, false]
       cache: false
   - table-reader
   - redirects:

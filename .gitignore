@@ -8,6 +8,8 @@ venv
 # Build files
 build
 site
+**/site
 
 # Caches and logs
 .cache
+**/.cache

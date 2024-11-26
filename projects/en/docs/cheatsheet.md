@@ -86,9 +86,30 @@ Markdown/MkDocs only converts **/** to **/docs** location for .md files. All oth
 ```
 [Displayed Link](https://squidfunk.github.io/mkdocs-material/)
 
-## For cards
+## Using cards
 
 There's a nice plugin called neoteroi cards which allows to display cards which combined with images can be similar to a photo gallery. In the end I decided not to use it, but it is still good to keep the option open. The url feature is sort of being prevented when glightbox is active though - both functionalities seem mutually exclusive (despite the skip_lightbox option).
+
+```yaml
+::cards::
+
+- title: Day 1
+  content: Example of **neoteroi** card plugin
+  image: assets/images/openup.jpeg
+
+- title: Day 2
+  content: Cards can help display photos as a **gallery**
+  image: assets/images/Garmin_messenger.png
+
+- title: Tour Divide
+  url: https://bikepacking.com/routes/great-divide-mountain-bike-route-gdmbr/
+  content: Cards might be combined with a url as well,
+           but only with Glightbox disabled or without image in the card.
+
+::/cards::
+```
+
+Which renders as below :
 
 ::cards::
 
@@ -106,30 +127,63 @@ There's a nice plugin called neoteroi cards which allows to display cards which 
 
 ::/cards::
 
-## Using content tabs
+## Admonitions & content tabs
 
-This is quite a neat feature. And may also allow a storytelling across different illustrations.
+This is quite a neat feature. And may also allow a storytelling across different illustrations. Watch the quotation marks, they can be twisted by your editor/keyboard language. They need to be plain. Also content within content tabs need to be indented vs. their headers.
+
+```yaml
 
 !!! example "Morocco inspiration as header"
     Morocco was a cornerstone in my decision making for the Great Divide!
-
+    
     === "let's do it"
-    <figure markdown>
-    ![My Proud OpenUP is simply the best](assets/images/openup.jpeg){ width="300px" }
-    <figcaption>The journey actually started beginning 2023 when I purchased my Gravel from Open Cycle, kudos to Andy Kessler and Gerard Vroomen for their vision.</figcaption>
-    </figure>
+        <figure markdown>
+        ![My Proud OpenUP is simply the best](assets/images/openup.jpeg){ width="300px" }
+        <figcaption>The journey actually started beginning 2023 when I purchased my Gravel from Open Cycle, kudos to Andy Kessler and Gerard Vroomen for their vision.</figcaption>
+        </figure>
+    
+    === "let's do it without header"
+        Image has a size of 300px.
+        <figure markdown>
+        ![My Proud OpenUP is simply the best](assets/images/openup.jpeg){ width="300px" }
+        </figure>
+    
+    === "without defined image size"
+        <figure markdown>
+        ![My Proud OpenUP is simply the best](assets/images/openup.jpeg)
+        </figure>
+```    
 
-=== "let's do it without header"
-    Image has a size of 300px.
-    <figure markdown>
-    ![My Proud OpenUP is simply the best](assets/images/openup.jpeg){ width="300px" }
-    </figure>
+!!! example "Morocco inspiration as header"
+    Morocco was a cornerstone in my decision making for the Great Divide!
+    
+    === "let's do it"
+        <figure markdown>
+        ![My Proud OpenUP is simply the best](assets/images/openup.jpeg){ width="300px" }
+        <figcaption>The journey actually started beginning 2023 when I purchased my Gravel from Open Cycle, kudos to Andy Kessler and Gerard Vroomen for their vision.</figcaption>
+        </figure>
+    
+    === "let's do it without header"
+        Image has a size of 300px.
+        <figure markdown>
+        ![My Proud OpenUP is simply the best](assets/images/openup.jpeg){ width="300px" }
+        </figure>
+    
+    === "without defined image size"
+        <figure markdown>
+        ![My Proud OpenUP is simply the best](assets/images/openup.jpeg)
+        </figure>
 
-=== "without defined image size"
+    
+``` yaml
+!!! notes ""
+    We can remove the header, and only show images.
     <figure markdown>
-    ![My Proud OpenUP is simply the best](assets/images/openup.jpeg)
+    ![My Proud OpenUP is simply the best](assets/images/openup.jpeg){ width=300px }
+    ![My Proud OpenUP is simply the best](assets/images/MarocSelfie.jpeg){ width=300px }
     </figure>
-
+```
+ 
 !!! notes ""
     We can remove the header, and only show images.
     <figure markdown>
@@ -137,15 +191,6 @@ This is quite a neat feature. And may also allow a storytelling across different
     ![My Proud OpenUP is simply the best](assets/images/MarocSelfie.jpeg){ width=300px }
     </figure>
 
-<!-- more -->
-The simplest form :
-![Image test](assets/images/MarocSelfie.jpeg)
-
-Image with Glightbox caption title and comments.
-![My Proud OpenUP](assets/images/openup.jpeg){ data-title="My Proud OpenUP." data-description="It started beginning 2023 when I purchased my Gravel from Open Cycle, kudos to Andy Kessler and Gerard Vroomen for their vision." }
-
-Image leveraging the figure meta-data (title is removed).
-![My Proud OpenUP](assets/images//openup.jpeg){ data-description="It started beginning 2023 when I purchased my Gravel from Open Cycle, kudos to Andy Kessler and Gerard Vroomen for their vision." }
 
 ## OSX Terminal
 
