@@ -206,7 +206,7 @@ Here's how you can concatenate multiple commands in one line:
 Add && between commands >> this will execute them sequentually provided they execute successfully
 ```
 
-Sometimes it is tricky to upload large a/o many files from local to remote git repository. Tweaking the git buffer size seems to do the trick.
+Sometimes it is tricky to upload large a/o many files from local to remote git repository. Tweaking the git buffer size seems to do the trick:
 
 ``` yaml
 git config --global http.postBuffer 157286400
@@ -215,30 +215,30 @@ git config --global http.postBuffer 157286400
 This GIT parameter will allow to store your Private Access Token into Keychain, so that you don't need to re-enter it each time. You need to enter the token once though as explained on [Github Gist](https://gist.github.com/jonjack/bf295d4170edeb00e96fb158f9b1ba3c) :
 
 ```yaml
-perl -pi -w -e 's{TOFIND}{TOREPLACE}' *.md
+git config --global credential.helper osxkeychain
 ```
 
-When you start working on a local repository, it is useful to first re-sync with the Origin that sits in Github. To that end, you can run the following code.
+When you start working on a local repository, it is useful to first re-sync with the Origin that sits in Github. To that end, you can run the following code:
 
 ``` yaml
 git fetch
 git reset --hard origin/main
 ```
 
-It is a best practice to clone/edit/build/serve/commit from local git repositories using a localized (virtual) python environment. Here's how to set it up. I decided to do it in one single place ie. my venv folder is above and across all my projects. An alternative is to have it by project and to exclude it with .gitignore if you need differentiated environments.
+It is a best practice to clone/edit/build/serve/commit from local git repositories using a localized (virtual) python environment. Here's how to set it up. I decided to do it in one single place ie. my venv folder is above and across all my projects. An alternative is to have it by project and to exclude it with .gitignore if you need differentiated environments:
 
 ``` yaml
 python3 -m venv venv
 . venv/bin/activate
 ```
 
-You have to deactivate once finished.
+You have to deactivate once finished:
 
 ``` yaml title="once in (venv)"
 deactivate
 ```
 
-I also use a single requirements.txt list to configure my virtual environment. As I am leveraging the optimize and social plugins of Material Theme Insider Version, I run into some tricky dependencies with cairo and pngquant libraries.
+I also use a single requirements.txt list to configure my virtual environment. As I am leveraging the optimize and social plugins of Material Theme Insider Version, I run into some tricky dependencies with cairo and pngquant libraries:
 
 ``` yaml title="once in (venv)"
 pip install -r requirements.txt
