@@ -200,17 +200,29 @@ This is a useful instruction to replace recursively in one folder some text :
 perl -pi -w -e 's{TOFIND}{TOREPLACE}' *.md
 ```
 
+Here's how you can concatenate multiple commands in one line:
+
+```yaml
+Add && between commands >> this will execute them sequentually provided they execute successfully
+```
+
 Sometimes it is tricky to upload large a/o many files from local to remote git repository. Tweaking the git buffer size seems to do the trick.
 
 ``` yaml
 git config --global http.postBuffer 157286400
 ```
 
+This GIT parameter will allow to store your Private Access Token into Keychain, so that you don't need to re-enter it each time. You need to enter the token once though as explained on [Github Gist](https://gist.github.com/jonjack/bf295d4170edeb00e96fb158f9b1ba3c) :
+
+```yaml
+perl -pi -w -e 's{TOFIND}{TOREPLACE}' *.md
+```
+
 When you start working on a local repository, it is useful to first re-sync with the Origin that sits in Github. To that end, you can run the following code.
 
 ``` yaml
 git fetch
-git reset —hard origin/main
+git reset --hard origin/main
 ```
 
 It is a best practice to clone/edit/build/serve/commit from local git repositories using a localized (virtual) python environment. Here's how to set it up. I decided to do it in one single place ie. my venv folder is above and across all my projects. An alternative is to have it by project and to exclude it with .gitignore if you need differentiated environments.
