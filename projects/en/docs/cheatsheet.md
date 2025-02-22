@@ -266,20 +266,28 @@ GITHUB : the following also seems a required workaround to ensure libraries are 
 Sometimes it is tricky to upload large a/o many files from local to remote git repository. Tweaking the git buffer size seems to do the trick:
 
 ``` yaml
-git config --global http.postBuffer 157286400
+(venv) git config --global http.postBuffer 157286400
 ```
 
 This GIT parameter will allow to store your Private Access Token into Keychain, so that you don't need to re-enter it each time. You need to enter the token once though as explained on [Github Gist](https://gist.github.com/jonjack/bf295d4170edeb00e96fb158f9b1ba3c) :
 
 ```yaml
-git config --global credential.helper osxkeychain
+(venv) git config --global credential.helper osxkeychain
 ```
 
 When you start working on a local repository, it is useful to first re-sync with the Origin that sits in Github. To that end, you can run the following code:
 
 ``` yaml
-git fetch
-git reset --hard origin/main
+(venv) git fetch
+(venv) git reset --hard origin/main
+```
+
+Basic sequence to push your local work to the remote repository :
+
+``` yaml
+(venv) git add .
+(venv) git commit -m "desciption of changes"
+(venv) git push origin main
 ```
 
 ### Usefull Shell instructions
