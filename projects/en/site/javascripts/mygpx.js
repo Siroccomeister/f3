@@ -40,7 +40,7 @@ let opts = {
         acceleration: false,
         time: "summary",
         legend: true,
-        followMarker: true,
+        followMarker: false,
         almostOver: true,
         distanceMarkers: true,
         downloadLink: false,

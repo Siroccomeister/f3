@@ -194,17 +194,74 @@ This is quite a neat feature. And may also allow a storytelling across different
 
 ## OSX Terminal
 
-This is a useful instruction to replace recursively in one folder some text :
+### OSX Clean install
 
-```yaml
-perl -pi -w -e 's{TOFIND}{TOREPLACE}' *.md
+#### Pre-requisites
+
+I am basically using the following reference sites for my work :
+
+- [Material for MKDOCS theme](https://squidfunk.github.io/mkdocs-material/)
+- [Homebrew package manager](https://brew.sh) to install dependencies
+- [Python Virtual Manager](https://realpython.com/what-is-pip/#using-pip-in-a-python-virtual-environment)
+
+
+### Step-by-step
+
+- Create a folder to host all your dependencies.
+- Put a "requirements.txt" file, that lists your required libraries ; it will be similar to the one you have in Github workflow
+- OSX has by default Python, PiP and Git installed : 
+
+``` yaml
+which python3
+which pip3
+which git
 ```
 
-Here's how you can concatenate multiple commands in one line:
+- Brew is a package manager. It is recommended to install it as well. The command line is the most straightforward. Check out brew.sh website.
 
-```yaml
-Add && between commands >> this will execute them sequentually provided they execute successfully
+!!! warning "brew command is not found"
+    Note that your Terminal may not locate the Brew executable (“Which brew”). Then you should tell your shell where to find it. Use the following command to edit the look-up list.
+	``` yaml
+	echo "export PATH=/opt/homebrew/bin:$PATH" >> ~/.zshrc
+	```
+	You'll need to **re-init your shell** or open a new terminal window.
+
+From here onwards, we recommend to run all dependencies within a virtual environment. It is a best practice to clone/edit/build/serve/commit from local git repositories using a localized (virtual) python environment. Here's how to set it up. I decided to do it in one single place ie. my venv folder is above and across all my projects. An alternative is to have it by project and to exclude it with .gitignore if you need differentiated environments:
+
+``` yaml
+python3 -m venv venv
+. venv/bin/activate
 ```
+
+You have to deactivate once finished. If you want to start-over again and re-set your virtual environment, just delete the "venv" file.
+
+``` yaml title="once in (venv)"
+deactivate
+```
+
+### Material MKDOCS repos
+
+To work with my Material MKDOCS repositories from Github, I resolved to use a single requirements.txt list to configure my virtual environment. As I am leveraging the optimize and social plugins of **Material Theme Insider Version**, I run into some tricky dependencies with cairo and pngquant libraries:
+
+``` yaml title="once in (venv)"
+pip install -r requirements.txt
+brew install pngquant
+brew install cairo freetype libffi libjpeg libpng zlib
+```
+
+OSX : the following is a workaround to ensure libraries are found.
+
+``` yaml title="once in (venv)"
+export DYLD_FALLBACK_LIBRARY_PATH=/opt/homebrew/lib
+```
+
+GITHUB : the following also seems a required workaround to ensure libraries are found. Add it into the main.yml workflow file. I found that the ubuntu latest doesn't work out of the box.
+
+``` yaml title="line added in main.yml github workflow"
+     - run: sudo apt-get install pngquant 
+```
+
+### Useful Git instructions
 
 Sometimes it is tricky to upload large a/o many files from local to remote git repository. Tweaking the git buffer size seems to do the trick:
 
@@ -225,36 +282,16 @@ git fetch
 git reset --hard origin/main
 ```
 
-It is a best practice to clone/edit/build/serve/commit from local git repositories using a localized (virtual) python environment. Here's how to set it up. I decided to do it in one single place ie. my venv folder is above and across all my projects. An alternative is to have it by project and to exclude it with .gitignore if you need differentiated environments:
+### Usefull Shell instructions
 
-``` yaml
-python3 -m venv venv
-. venv/bin/activate
+This is a useful instruction to replace recursively in one folder some text :
+
+```yaml
+perl -pi -w -e 's{TOFIND}{TOREPLACE}' *.md
 ```
 
-You have to deactivate once finished:
+Here's how you can concatenate multiple commands in one line:
 
-``` yaml title="once in (venv)"
-deactivate
+```yaml
+Add && between commands >> this will execute them sequentually provided they execute successfully
 ```
-
-I also use a single requirements.txt list to configure my virtual environment. As I am leveraging the optimize and social plugins of Material Theme Insider Version, I run into some tricky dependencies with cairo and pngquant libraries:
-
-``` yaml title="once in (venv)"
-pip install -r requirements.txt
-brew install pngquant
-brew install cairo freetype libffi libjpeg libpng zlib
-```
-
-OSX : the following is a workaround to ensure libraries are found.
-
-``` yaml title="once in (venv)"
-export DYLD_FALLBACK_LIBRARY_PATH=/opt/homebrew/lib
-```
-
-GITHUB : the following also seems a required workaround to ensure libraries are found. Add it into the main.yml workflow file. I found that the ubuntu latest doesn't work out of the box.
-
-``` yaml title="line added in main.yml github workflow"
-     - run: sudo apt-get install pngquant 
-```
-
