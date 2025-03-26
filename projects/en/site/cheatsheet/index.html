@@ -1459,14 +1459,19 @@ You'll need to <strong>re-init your shell</strong> or open a new terminal window
 </code></pre></div>
 <h3 id="useful-git-instructions">Useful Git instructions</h3>
 <p>Sometimes it is tricky to upload large a/o many files from local to remote git repository. Tweaking the git buffer size seems to do the trick:</p>
-<div class="highlight"><pre><span></span><code><span class="l l-Scalar l-Scalar-Plain">git config --global http.postBuffer 157286400</span>
+<div class="highlight"><pre><span></span><code><span class="l l-Scalar l-Scalar-Plain">(venv) git config --global http.postBuffer 157286400</span>
 </code></pre></div>
 <p>This GIT parameter will allow to store your Private Access Token into Keychain, so that you don't need to re-enter it each time. You need to enter the token once though as explained on <a href="https://gist.github.com/jonjack/bf295d4170edeb00e96fb158f9b1ba3c">Github Gist</a> :</p>
-<div class="highlight"><pre><span></span><code><span class="l l-Scalar l-Scalar-Plain">git config --global credential.helper osxkeychain</span>
+<div class="highlight"><pre><span></span><code><span class="l l-Scalar l-Scalar-Plain">(venv) git config --global credential.helper osxkeychain</span>
 </code></pre></div>
 <p>When you start working on a local repository, it is useful to first re-sync with the Origin that sits in Github. To that end, you can run the following code:</p>
-<div class="highlight"><pre><span></span><code><span class="l l-Scalar l-Scalar-Plain">git fetch</span>
-<span class="l l-Scalar l-Scalar-Plain">git reset --hard origin/main</span>
+<div class="highlight"><pre><span></span><code><span class="l l-Scalar l-Scalar-Plain">(venv) git fetch</span>
+<span class="l l-Scalar l-Scalar-Plain">(venv) git reset --hard origin/main</span>
+</code></pre></div>
+<p>Basic sequence to push your local work to the remote repository :</p>
+<div class="highlight"><pre><span></span><code><span class="l l-Scalar l-Scalar-Plain">(venv) git add .</span>
+<span class="l l-Scalar l-Scalar-Plain">(venv) git commit -m "desciption of changes"</span>
+<span class="l l-Scalar l-Scalar-Plain">(venv) git push origin main</span>
 </code></pre></div>
 <h3 id="usefull-shell-instructions">Usefull Shell instructions</h3>
 <p>This is a useful instruction to replace recursively in one folder some text :</p>
