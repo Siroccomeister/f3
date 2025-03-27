@@ -45,6 +45,7 @@ let opts = {
         distanceMarkers: true,
         downloadLink: false,
         hotline: false,
+		gestureHandling: false,
       },
   },
 
