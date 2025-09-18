@@ -4,7 +4,11 @@ site_description: "riding the Great Divide Mountain Bike Route"
 theme:
   name: material
   language : fr
+  custom_dir: overrides
+  favicon: assets/images/favicon.ico
   logo: assets/images/shade.png
+  icon:
+    annotation: material/plus-circle
 
   features:
     - navigation.expand
