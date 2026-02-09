@@ -129,9 +129,7 @@
     
       
 
-  
-
-<header class="md-header md-header--shadow md-header--lifted" data-md-component="header">
+<header class="md-header" data-md-component="header">
   <nav class="md-header__inner md-grid" aria-label="Header">
     <a href=".." title="My Great Divide 2024" class="md-header__button md-logo" aria-label="My Great Divide 2024" data-md-component="logo">
       
@@ -233,8 +231,14 @@
     
   </nav>
   
+</header>
     
+    <div class="md-container" data-md-component="container">
       
+      
+        
+          
+            
 <nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
   <div class="md-grid">
     <ul class="md-tabs__list">
@@ -383,13 +387,7 @@
     </ul>
   </div>
 </nav>
-    
-  
-</header>
-    
-    <div class="md-container" data-md-component="container">
-      
-      
+          
         
       
       <main class="md-main" data-md-component="main">
@@ -1289,18 +1287,16 @@
 <div><h1 id="conventions">Conventions</h1>
 <p>This website is largely based on the great MKDOCS theme MATERIAL. On this page, you'll find some conventions applied on the backend. Some content is also a reminder for GIT or specific plugin syntaxing such as TABULATOR.</p>
 <h2 id="navigation">Navigation</h2>
-<p>Navigation structure is quite important.
-Especially if you plan to use embedded images, as links tend to be relative.
-Keep it as simple and user friendly as possible.
-Test it from Mobile devices and browswers.</p>
+<p>Navigation structure is quite important. Especially if you plan to use embedded images, as links tend to be relative.
+Keep it as simple and user friendly as possible. Test it from Mobile devices and browswers.</p>
 <h2 id="for-images">For images</h2>
 <p>Activated GlightBox plugin in Mkdocs/Material theme.
 More details can be looked-up <a href="https://blueswen.github.io/mkdocs-glightbox/">here</a>.</p>
 <p>Some options are defined in the mkdocs.yml file to facilitate working with captions.</p>
 <h3 id="the-simplest-form">The simplest form</h3>
 <p>The text in "[text]" will be used as caption in lighbox mode (when you click on the picture). </p>
-<p></p><div class="highlight"><pre><span></span><code><span class="kt">![Image</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">test](assets/images/MarocSelfie.jpg)</span>
-</code></pre></div>
+<p></p><div class="language-yaml highlight"><pre><span></span><code><span id="__span-0-1"><a id="__codelineno-0-1" name="__codelineno-0-1" href="#__codelineno-0-1"></a><span class="kt">![Image</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">test](assets/images/MarocSelfie.jpg)</span>
+</span></code></pre></div>
 <a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/images/MarocSelfie.jpeg" data-title="Image test" data-desc-position="bottom"><img alt="Image test" src="../assets/images/MarocSelfie.jpeg"></a>
 <p>In general, I'd like to keep images in one folder : <strong>docs/assets</strong>.  So that folder should be accessible with an absolute path that I can use from whatever markdown file. However for <em>blog posts</em>, it is easier to copy selected photos to a dedicated folder. Then add a specific blog entry to reads from that folder with relative links. In both cases, images will be handled via GlightBox Plugin.</p>
 <h3 id="enhanced-image-display">Enhanced Image display</h3>
@@ -1310,22 +1306,22 @@ Enhancement may apply to :</p>
 <li>image size</li>
 <li>mixing Lightbox Caption and Image title</li>
 </ul>
-<div class="highlight"><span class="filename">examples of image sizing</span><pre><span></span><code>&lt;figure markdown&gt;
-
-![<span class="nt">My proud OpenUP</span>](<span class="na">assets/images/openup.jpeg</span>){ width="400" }
-&lt;figcaption markdown&gt;Image displayed with a width of "400"&lt;/figcaption&gt;
-
-![<span class="nt">My proud OpenUP</span>](<span class="na">assets/images/openup.jpeg</span>){ width=400px }
-&lt;figcaption markdown&gt;Image displayed with a width of 400px&lt;/figcaption&gt;
-
-![<span class="nt">Morocco Atlas</span>](<span class="na">assets/images/MarocSelfie.jpeg</span>){ width=50px }
-&lt;figcaption markdown&gt;Width is set at 50px&lt;/figcaption&gt;
-
-![<span class="nt">Morocco Atlas</span>](<span class="na">assets/images/MarocSelfie.jpeg</span>){ width=50% }
-&lt;figcaption markdown&gt;Width is set at 50% and can scale&lt;/figcaption&gt;
-
-&lt;/figure&gt;
-</code></pre></div>
+<div class="language-markdown highlight"><span class="filename">examples of image sizing</span><pre><span></span><code><span id="__span-1-1"><a id="__codelineno-1-1" name="__codelineno-1-1" href="#__codelineno-1-1"></a>&lt;figure markdown&gt;
+</span><span id="__span-1-2"><a id="__codelineno-1-2" name="__codelineno-1-2" href="#__codelineno-1-2"></a>
+</span><span id="__span-1-3"><a id="__codelineno-1-3" name="__codelineno-1-3" href="#__codelineno-1-3"></a>![<span class="nt">My proud OpenUP</span>](<span class="na">assets/images/openup.jpeg</span>){ width="400" }
+</span><span id="__span-1-4"><a id="__codelineno-1-4" name="__codelineno-1-4" href="#__codelineno-1-4"></a>&lt;figcaption markdown&gt;Image displayed with a width of "400"&lt;/figcaption&gt;
+</span><span id="__span-1-5"><a id="__codelineno-1-5" name="__codelineno-1-5" href="#__codelineno-1-5"></a>
+</span><span id="__span-1-6"><a id="__codelineno-1-6" name="__codelineno-1-6" href="#__codelineno-1-6"></a>![<span class="nt">My proud OpenUP</span>](<span class="na">assets/images/openup.jpeg</span>){ width=400px }
+</span><span id="__span-1-7"><a id="__codelineno-1-7" name="__codelineno-1-7" href="#__codelineno-1-7"></a>&lt;figcaption markdown&gt;Image displayed with a width of 400px&lt;/figcaption&gt;
+</span><span id="__span-1-8"><a id="__codelineno-1-8" name="__codelineno-1-8" href="#__codelineno-1-8"></a>
+</span><span id="__span-1-9"><a id="__codelineno-1-9" name="__codelineno-1-9" href="#__codelineno-1-9"></a>![<span class="nt">Morocco Atlas</span>](<span class="na">assets/images/MarocSelfie.jpeg</span>){ width=50px }
+</span><span id="__span-1-10"><a id="__codelineno-1-10" name="__codelineno-1-10" href="#__codelineno-1-10"></a>&lt;figcaption markdown&gt;Width is set at 50px&lt;/figcaption&gt;
+</span><span id="__span-1-11"><a id="__codelineno-1-11" name="__codelineno-1-11" href="#__codelineno-1-11"></a>
+</span><span id="__span-1-12"><a id="__codelineno-1-12" name="__codelineno-1-12" href="#__codelineno-1-12"></a>![<span class="nt">Morocco Atlas</span>](<span class="na">assets/images/MarocSelfie.jpeg</span>){ width=50% }
+</span><span id="__span-1-13"><a id="__codelineno-1-13" name="__codelineno-1-13" href="#__codelineno-1-13"></a>&lt;figcaption markdown&gt;Width is set at 50% and can scale&lt;/figcaption&gt;
+</span><span id="__span-1-14"><a id="__codelineno-1-14" name="__codelineno-1-14" href="#__codelineno-1-14"></a>
+</span><span id="__span-1-15"><a id="__codelineno-1-15" name="__codelineno-1-15" href="#__codelineno-1-15"></a>&lt;/figure&gt;
+</span></code></pre></div>
 <figure>
 <p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/images/openup.jpeg" data-title="My proud OpenUP" data-desc-position="bottom"><img alt="My proud OpenUP" src="../assets/images/openup.jpeg" width="400"></a></p>
 <figcaption>
@@ -1347,28 +1343,28 @@ Enhancement may apply to :</p>
 <h2 id="cross-referencing">Cross-referencing</h2>
 <p>Markdown/MkDocs only converts <strong>/</strong> to <strong>/docs</strong> location for .md files. All other files will default to relative path. So when moving .md files around, you need to keep the cross-referencing in mind.</p>
 <h2 id="for-hyperlinks">For hyperlinks</h2>
-<p></p><div class="highlight"><pre><span></span><code><span class="p p-Indicator">[</span><span class="nv">Displayed Link</span><span class="p p-Indicator">]</span><span class="l l-Scalar l-Scalar-Plain">(https://squidfunk.github.io/mkdocs-material/)</span>
-</code></pre></div>
+<p></p><div class="language-yaml highlight"><pre><span></span><code><span id="__span-2-1"><a id="__codelineno-2-1" name="__codelineno-2-1" href="#__codelineno-2-1"></a><span class="p p-Indicator">[</span><span class="nv">Displayed Link</span><span class="p p-Indicator">]</span><span class="l l-Scalar l-Scalar-Plain">(https://squidfunk.github.io/mkdocs-material/)</span>
+</span></code></pre></div>
 <a href="https://squidfunk.github.io/mkdocs-material/">Displayed Link</a>
 <h2 id="using-cards">Using cards</h2>
 <p>There's a nice plugin called neoteroi cards which allows to display cards which combined with images can be similar to a photo gallery. In the end I decided not to use it, but it is still good to keep the option open. The url feature is sort of being prevented when glightbox is active though - both functionalities seem mutually exclusive (despite the skip_lightbox option).</p>
-<div class="highlight"><pre><span></span><code><span class="nt">::cards:</span><span class="p">:</span>
-
-<span class="p p-Indicator">-</span><span class="w"> </span><span class="nt">title</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">Day 1</span>
-<span class="w">  </span><span class="nt">content</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">Example of **neoteroi** card plugin</span>
-<span class="w">  </span><span class="nt">image</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">assets/images/openup.jpeg</span>
-
-<span class="p p-Indicator">-</span><span class="w"> </span><span class="nt">title</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">Day 2</span>
-<span class="w">  </span><span class="nt">content</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">Cards can help display photos as a **gallery**</span>
-<span class="w">  </span><span class="nt">image</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">assets/images/Garmin_messenger.png</span>
-
-<span class="p p-Indicator">-</span><span class="w"> </span><span class="nt">title</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">Tour Divide</span>
-<span class="w">  </span><span class="nt">url</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">https://bikepacking.com/routes/great-divide-mountain-bike-route-gdmbr/</span>
-<span class="w">  </span><span class="nt">content</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">Cards might be combined with a url as well,</span>
-<span class="w">           </span><span class="l l-Scalar l-Scalar-Plain">but only with Glightbox disabled or without image in the card.</span>
-
-<span class="nt">::/cards:</span><span class="p">:</span>
-</code></pre></div>
+<div class="language-yaml highlight"><pre><span></span><code><span id="__span-3-1"><a id="__codelineno-3-1" name="__codelineno-3-1" href="#__codelineno-3-1"></a><span class="nt">::cards:</span><span class="p">:</span>
+</span><span id="__span-3-2"><a id="__codelineno-3-2" name="__codelineno-3-2" href="#__codelineno-3-2"></a>
+</span><span id="__span-3-3"><a id="__codelineno-3-3" name="__codelineno-3-3" href="#__codelineno-3-3"></a><span class="p p-Indicator">-</span><span class="w"> </span><span class="nt">title</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">Day 1</span>
+</span><span id="__span-3-4"><a id="__codelineno-3-4" name="__codelineno-3-4" href="#__codelineno-3-4"></a><span class="w">  </span><span class="nt">content</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">Example of **neoteroi** card plugin</span>
+</span><span id="__span-3-5"><a id="__codelineno-3-5" name="__codelineno-3-5" href="#__codelineno-3-5"></a><span class="w">  </span><span class="nt">image</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">assets/images/openup.jpeg</span>
+</span><span id="__span-3-6"><a id="__codelineno-3-6" name="__codelineno-3-6" href="#__codelineno-3-6"></a>
+</span><span id="__span-3-7"><a id="__codelineno-3-7" name="__codelineno-3-7" href="#__codelineno-3-7"></a><span class="p p-Indicator">-</span><span class="w"> </span><span class="nt">title</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">Day 2</span>
+</span><span id="__span-3-8"><a id="__codelineno-3-8" name="__codelineno-3-8" href="#__codelineno-3-8"></a><span class="w">  </span><span class="nt">content</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">Cards can help display photos as a **gallery**</span>
+</span><span id="__span-3-9"><a id="__codelineno-3-9" name="__codelineno-3-9" href="#__codelineno-3-9"></a><span class="w">  </span><span class="nt">image</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">assets/images/Garmin_messenger.png</span>
+</span><span id="__span-3-10"><a id="__codelineno-3-10" name="__codelineno-3-10" href="#__codelineno-3-10"></a>
+</span><span id="__span-3-11"><a id="__codelineno-3-11" name="__codelineno-3-11" href="#__codelineno-3-11"></a><span class="p p-Indicator">-</span><span class="w"> </span><span class="nt">title</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">Tour Divide</span>
+</span><span id="__span-3-12"><a id="__codelineno-3-12" name="__codelineno-3-12" href="#__codelineno-3-12"></a><span class="w">  </span><span class="nt">url</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">https://bikepacking.com/routes/great-divide-mountain-bike-route-gdmbr/</span>
+</span><span id="__span-3-13"><a id="__codelineno-3-13" name="__codelineno-3-13" href="#__codelineno-3-13"></a><span class="w">  </span><span class="nt">content</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">Cards might be combined with a url as well,</span>
+</span><span id="__span-3-14"><a id="__codelineno-3-14" name="__codelineno-3-14" href="#__codelineno-3-14"></a><span class="w">           </span><span class="l l-Scalar l-Scalar-Plain">but only with Glightbox disabled or without image in the card.</span>
+</span><span id="__span-3-15"><a id="__codelineno-3-15" name="__codelineno-3-15" href="#__codelineno-3-15"></a>
+</span><span id="__span-3-16"><a id="__codelineno-3-16" name="__codelineno-3-16" href="#__codelineno-3-16"></a><span class="nt">::/cards:</span><span class="p">:</span>
+</span></code></pre></div>
 <p>Which renders as below :</p>
 <div class="nt-cards nt-grid cols-3">
 <div class="nt-card">
@@ -1397,26 +1393,26 @@ Enhancement may apply to :</p>
 </div>
 <h2 id="admonitions-content-tabs">Admonitions &amp; content tabs</h2>
 <p>This is quite a neat feature. And may also allow a storytelling across different illustrations. Watch the quotation marks, they can be twisted by your editor/keyboard language. They need to be plain. Also content within content tabs need to be indented vs. their headers.</p>
-<div class="highlight"><pre><span></span><code><span class="kt">!!!</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">example "Morocco inspiration as header"</span>
-<span class="w">    </span><span class="l l-Scalar l-Scalar-Plain">Morocco was a cornerstone in my decision making for the Great Divide!</span>
-
-<span class="w">    </span><span class="l l-Scalar l-Scalar-Plain">=== "let's do it"</span>
-<span class="w">        </span><span class="l l-Scalar l-Scalar-Plain">&lt;figure markdown&gt;</span>
-<span class="w">        </span><span class="l l-Scalar l-Scalar-Plain">![My Proud OpenUP is simply the best](assets/images/openup.jpeg){ width="300px" }</span>
-<span class="w">        </span><span class="l l-Scalar l-Scalar-Plain">&lt;figcaption&gt;The journey actually started beginning 2023 when I purchased my Gravel from Open Cycle, kudos to Andy Kessler and Gerard Vroomen for their vision.&lt;/figcaption&gt;</span>
-<span class="w">        </span><span class="l l-Scalar l-Scalar-Plain">&lt;/figure&gt;</span>
-
-<span class="w">    </span><span class="l l-Scalar l-Scalar-Plain">=== "let's do it without header"</span>
-<span class="w">        </span><span class="l l-Scalar l-Scalar-Plain">Image has a size of 300px.</span>
-<span class="w">        </span><span class="l l-Scalar l-Scalar-Plain">&lt;figure markdown&gt;</span>
-<span class="w">        </span><span class="l l-Scalar l-Scalar-Plain">![My Proud OpenUP is simply the best](assets/images/openup.jpeg){ width="300px" }</span>
-<span class="w">        </span><span class="l l-Scalar l-Scalar-Plain">&lt;/figure&gt;</span>
-
-<span class="w">    </span><span class="l l-Scalar l-Scalar-Plain">=== "without defined image size"</span>
-<span class="w">        </span><span class="l l-Scalar l-Scalar-Plain">&lt;figure markdown&gt;</span>
-<span class="w">        </span><span class="l l-Scalar l-Scalar-Plain">![My Proud OpenUP is simply the best](assets/images/openup.jpeg)</span>
-<span class="w">        </span><span class="l l-Scalar l-Scalar-Plain">&lt;/figure&gt;</span>
-</code></pre></div>
+<div class="language-yaml highlight"><pre><span></span><code><span id="__span-4-1"><a id="__codelineno-4-1" name="__codelineno-4-1" href="#__codelineno-4-1"></a><span class="kt">!!!</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">example "Morocco inspiration as header"</span>
+</span><span id="__span-4-2"><a id="__codelineno-4-2" name="__codelineno-4-2" href="#__codelineno-4-2"></a><span class="w">    </span><span class="l l-Scalar l-Scalar-Plain">Morocco was a cornerstone in my decision making for the Great Divide!</span>
+</span><span id="__span-4-3"><a id="__codelineno-4-3" name="__codelineno-4-3" href="#__codelineno-4-3"></a>
+</span><span id="__span-4-4"><a id="__codelineno-4-4" name="__codelineno-4-4" href="#__codelineno-4-4"></a><span class="w">    </span><span class="l l-Scalar l-Scalar-Plain">=== "let's do it"</span>
+</span><span id="__span-4-5"><a id="__codelineno-4-5" name="__codelineno-4-5" href="#__codelineno-4-5"></a><span class="w">        </span><span class="l l-Scalar l-Scalar-Plain">&lt;figure markdown&gt;</span>
+</span><span id="__span-4-6"><a id="__codelineno-4-6" name="__codelineno-4-6" href="#__codelineno-4-6"></a><span class="w">        </span><span class="l l-Scalar l-Scalar-Plain">![My Proud OpenUP is simply the best](assets/images/openup.jpeg){ width="300px" }</span>
+</span><span id="__span-4-7"><a id="__codelineno-4-7" name="__codelineno-4-7" href="#__codelineno-4-7"></a><span class="w">        </span><span class="l l-Scalar l-Scalar-Plain">&lt;figcaption&gt;The journey actually started beginning 2023 when I purchased my Gravel from Open Cycle, kudos to Andy Kessler and Gerard Vroomen for their vision.&lt;/figcaption&gt;</span>
+</span><span id="__span-4-8"><a id="__codelineno-4-8" name="__codelineno-4-8" href="#__codelineno-4-8"></a><span class="w">        </span><span class="l l-Scalar l-Scalar-Plain">&lt;/figure&gt;</span>
+</span><span id="__span-4-9"><a id="__codelineno-4-9" name="__codelineno-4-9" href="#__codelineno-4-9"></a>
+</span><span id="__span-4-10"><a id="__codelineno-4-10" name="__codelineno-4-10" href="#__codelineno-4-10"></a><span class="w">    </span><span class="l l-Scalar l-Scalar-Plain">=== "let's do it without header"</span>
+</span><span id="__span-4-11"><a id="__codelineno-4-11" name="__codelineno-4-11" href="#__codelineno-4-11"></a><span class="w">        </span><span class="l l-Scalar l-Scalar-Plain">Image has a size of 300px.</span>
+</span><span id="__span-4-12"><a id="__codelineno-4-12" name="__codelineno-4-12" href="#__codelineno-4-12"></a><span class="w">        </span><span class="l l-Scalar l-Scalar-Plain">&lt;figure markdown&gt;</span>
+</span><span id="__span-4-13"><a id="__codelineno-4-13" name="__codelineno-4-13" href="#__codelineno-4-13"></a><span class="w">        </span><span class="l l-Scalar l-Scalar-Plain">![My Proud OpenUP is simply the best](assets/images/openup.jpeg){ width="300px" }</span>
+</span><span id="__span-4-14"><a id="__codelineno-4-14" name="__codelineno-4-14" href="#__codelineno-4-14"></a><span class="w">        </span><span class="l l-Scalar l-Scalar-Plain">&lt;/figure&gt;</span>
+</span><span id="__span-4-15"><a id="__codelineno-4-15" name="__codelineno-4-15" href="#__codelineno-4-15"></a>
+</span><span id="__span-4-16"><a id="__codelineno-4-16" name="__codelineno-4-16" href="#__codelineno-4-16"></a><span class="w">    </span><span class="l l-Scalar l-Scalar-Plain">=== "without defined image size"</span>
+</span><span id="__span-4-17"><a id="__codelineno-4-17" name="__codelineno-4-17" href="#__codelineno-4-17"></a><span class="w">        </span><span class="l l-Scalar l-Scalar-Plain">&lt;figure markdown&gt;</span>
+</span><span id="__span-4-18"><a id="__codelineno-4-18" name="__codelineno-4-18" href="#__codelineno-4-18"></a><span class="w">        </span><span class="l l-Scalar l-Scalar-Plain">![My Proud OpenUP is simply the best](assets/images/openup.jpeg)</span>
+</span><span id="__span-4-19"><a id="__codelineno-4-19" name="__codelineno-4-19" href="#__codelineno-4-19"></a><span class="w">        </span><span class="l l-Scalar l-Scalar-Plain">&lt;/figure&gt;</span>
+</span></code></pre></div>
 <div class="admonition example">
 <p class="admonition-title">Morocco inspiration as header</p>
 <p>Morocco was a cornerstone in my decision making for the Great Divide!</p>
@@ -1442,13 +1438,13 @@ Enhancement may apply to :</p>
 </div>
 </div>
 </div>
-<div class="highlight"><pre><span></span><code><span class="kt">!!!</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">notes ""</span>
-<span class="w">    </span><span class="l l-Scalar l-Scalar-Plain">We can remove the header, and only show images.</span>
-<span class="w">    </span><span class="l l-Scalar l-Scalar-Plain">&lt;figure markdown&gt;</span>
-<span class="w">    </span><span class="l l-Scalar l-Scalar-Plain">![My Proud OpenUP is simply the best](assets/images/openup.jpeg){ width=300px }</span>
-<span class="w">    </span><span class="l l-Scalar l-Scalar-Plain">![My Proud OpenUP is simply the best](assets/images/MarocSelfie.jpeg){ width=300px }</span>
-<span class="w">    </span><span class="l l-Scalar l-Scalar-Plain">&lt;/figure&gt;</span>
-</code></pre></div>
+<div class="language-yaml highlight"><pre><span></span><code><span id="__span-5-1"><a id="__codelineno-5-1" name="__codelineno-5-1" href="#__codelineno-5-1"></a><span class="kt">!!!</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">notes ""</span>
+</span><span id="__span-5-2"><a id="__codelineno-5-2" name="__codelineno-5-2" href="#__codelineno-5-2"></a><span class="w">    </span><span class="l l-Scalar l-Scalar-Plain">We can remove the header, and only show images.</span>
+</span><span id="__span-5-3"><a id="__codelineno-5-3" name="__codelineno-5-3" href="#__codelineno-5-3"></a><span class="w">    </span><span class="l l-Scalar l-Scalar-Plain">&lt;figure markdown&gt;</span>
+</span><span id="__span-5-4"><a id="__codelineno-5-4" name="__codelineno-5-4" href="#__codelineno-5-4"></a><span class="w">    </span><span class="l l-Scalar l-Scalar-Plain">![My Proud OpenUP is simply the best](assets/images/openup.jpeg){ width=300px }</span>
+</span><span id="__span-5-5"><a id="__codelineno-5-5" name="__codelineno-5-5" href="#__codelineno-5-5"></a><span class="w">    </span><span class="l l-Scalar l-Scalar-Plain">![My Proud OpenUP is simply the best](assets/images/MarocSelfie.jpeg){ width=300px }</span>
+</span><span id="__span-5-6"><a id="__codelineno-5-6" name="__codelineno-5-6" href="#__codelineno-5-6"></a><span class="w">    </span><span class="l l-Scalar l-Scalar-Plain">&lt;/figure&gt;</span>
+</span></code></pre></div>
 <div class="admonition notes">
 <p>We can remove the header, and only show images.
 </p><figure markdown>
@@ -1471,62 +1467,62 @@ Enhancement may apply to :</p>
 <li>Put a "requirements.txt" file, that lists your required libraries ; it will be similar to the one you have in Github workflow</li>
 <li>OSX has by default Python, PiP and Git installed : </li>
 </ul>
-<div class="highlight"><pre><span></span><code><span class="l l-Scalar l-Scalar-Plain">which python3</span>
-<span class="l l-Scalar l-Scalar-Plain">which pip3</span>
-<span class="l l-Scalar l-Scalar-Plain">which git</span>
-</code></pre></div>
+<div class="language-yaml highlight"><pre><span></span><code><span id="__span-6-1"><a id="__codelineno-6-1" name="__codelineno-6-1" href="#__codelineno-6-1"></a><span class="l l-Scalar l-Scalar-Plain">which python3</span>
+</span><span id="__span-6-2"><a id="__codelineno-6-2" name="__codelineno-6-2" href="#__codelineno-6-2"></a><span class="l l-Scalar l-Scalar-Plain">which pip3</span>
+</span><span id="__span-6-3"><a id="__codelineno-6-3" name="__codelineno-6-3" href="#__codelineno-6-3"></a><span class="l l-Scalar l-Scalar-Plain">which git</span>
+</span></code></pre></div>
 <ul>
 <li>Brew is a package manager. It is recommended to install it as well. The command line is the most straightforward. Check out brew.sh website.</li>
 </ul>
 <div class="admonition warning">
 <p class="admonition-title">brew command is not found</p>
 <p>Note that your Terminal may not locate the Brew executable (“Which brew”). Then you should tell your shell where to find it. Use the following command to edit the look-up list.
-</p><div class="highlight"><pre><span></span><code><span class="l l-Scalar l-Scalar-Plain">echo "export PATH=/opt/homebrew/bin:$PATH" &gt;&gt; ~/.zshrc</span>
-</code></pre></div>
+</p><div class="language-yaml highlight"><pre><span></span><code><span id="__span-7-1"><a id="__codelineno-7-1" name="__codelineno-7-1" href="#__codelineno-7-1"></a><span class="l l-Scalar l-Scalar-Plain">echo "export PATH=/opt/homebrew/bin:$PATH" &gt;&gt; ~/.zshrc</span>
+</span></code></pre></div>
 You'll need to <strong>re-init your shell</strong> or open a new terminal window.
 </div>
 <p>From here onwards, we recommend to run all dependencies within a virtual environment. It is a best practice to clone/edit/build/serve/commit from local git repositories using a localized (virtual) python environment. Here's how to set it up. I decided to do it in one single place ie. my venv folder is above and across all my projects. An alternative is to have it by project and to exclude it with .gitignore if you need differentiated environments:</p>
-<div class="highlight"><pre><span></span><code><span class="l l-Scalar l-Scalar-Plain">python3 -m venv venv</span>
-<span class="l l-Scalar l-Scalar-Plain">. venv/bin/activate</span>
-</code></pre></div>
+<div class="language-yaml highlight"><pre><span></span><code><span id="__span-8-1"><a id="__codelineno-8-1" name="__codelineno-8-1" href="#__codelineno-8-1"></a><span class="l l-Scalar l-Scalar-Plain">python3 -m venv venv</span>
+</span><span id="__span-8-2"><a id="__codelineno-8-2" name="__codelineno-8-2" href="#__codelineno-8-2"></a><span class="l l-Scalar l-Scalar-Plain">. venv/bin/activate</span>
+</span></code></pre></div>
 <p>You have to deactivate once finished. If you want to start-over again and re-set your virtual environment, just delete the "venv" file.</p>
-<div class="highlight"><span class="filename">once in (venv)</span><pre><span></span><code><span class="l l-Scalar l-Scalar-Plain">deactivate</span>
-</code></pre></div>
+<div class="language-yaml highlight"><span class="filename">once in (venv)</span><pre><span></span><code><span id="__span-9-1"><a id="__codelineno-9-1" name="__codelineno-9-1" href="#__codelineno-9-1"></a><span class="l l-Scalar l-Scalar-Plain">deactivate</span>
+</span></code></pre></div>
 <h3 id="material-mkdocs-repos">Material MKDOCS repos</h3>
 <p>To work with my Material MKDOCS repositories from Github, I resolved to use a single requirements.txt list to configure my virtual environment. As I am leveraging the optimize and social plugins of <strong>Material Theme Insider Version</strong>, I run into some tricky dependencies with cairo and pngquant libraries:</p>
-<div class="highlight"><span class="filename">once in (venv)</span><pre><span></span><code><span class="l l-Scalar l-Scalar-Plain">pip install -r requirements.txt</span>
-<span class="l l-Scalar l-Scalar-Plain">brew install pngquant</span>
-<span class="l l-Scalar l-Scalar-Plain">brew install cairo freetype libffi libjpeg libpng zlib</span>
-</code></pre></div>
+<div class="language-yaml highlight"><span class="filename">once in (venv)</span><pre><span></span><code><span id="__span-10-1"><a id="__codelineno-10-1" name="__codelineno-10-1" href="#__codelineno-10-1"></a><span class="l l-Scalar l-Scalar-Plain">pip install -r requirements.txt</span>
+</span><span id="__span-10-2"><a id="__codelineno-10-2" name="__codelineno-10-2" href="#__codelineno-10-2"></a><span class="l l-Scalar l-Scalar-Plain">brew install pngquant</span>
+</span><span id="__span-10-3"><a id="__codelineno-10-3" name="__codelineno-10-3" href="#__codelineno-10-3"></a><span class="l l-Scalar l-Scalar-Plain">brew install cairo freetype libffi libjpeg libpng zlib</span>
+</span></code></pre></div>
 <p>OSX : the following is a workaround to ensure libraries are found.</p>
-<div class="highlight"><span class="filename">once in (venv)</span><pre><span></span><code><span class="l l-Scalar l-Scalar-Plain">export DYLD_FALLBACK_LIBRARY_PATH=/opt/homebrew/lib</span>
-</code></pre></div>
+<div class="language-yaml highlight"><span class="filename">once in (venv)</span><pre><span></span><code><span id="__span-11-1"><a id="__codelineno-11-1" name="__codelineno-11-1" href="#__codelineno-11-1"></a><span class="l l-Scalar l-Scalar-Plain">export DYLD_FALLBACK_LIBRARY_PATH=/opt/homebrew/lib</span>
+</span></code></pre></div>
 <p>GITHUB : the following also seems a required workaround to ensure libraries are found. Add it into the main.yml workflow file. I found that the ubuntu latest doesn't work out of the box.</p>
-<div class="highlight"><span class="filename">line added in main.yml github workflow</span><pre><span></span><code><span class="w">     </span><span class="p p-Indicator">-</span><span class="w"> </span><span class="nt">run</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">sudo apt-get install pngquant</span><span class="w"> </span>
-</code></pre></div>
+<div class="language-yaml highlight"><span class="filename">line added in main.yml github workflow</span><pre><span></span><code><span id="__span-12-1"><a id="__codelineno-12-1" name="__codelineno-12-1" href="#__codelineno-12-1"></a><span class="w">     </span><span class="p p-Indicator">-</span><span class="w"> </span><span class="nt">run</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">sudo apt-get install pngquant</span><span class="w"> </span>
+</span></code></pre></div>
 <h3 id="useful-git-instructions">Useful Git instructions</h3>
 <p>Sometimes it is tricky to upload large a/o many files from local to remote git repository. Tweaking the git buffer size seems to do the trick:</p>
-<div class="highlight"><pre><span></span><code><span class="l l-Scalar l-Scalar-Plain">(venv) git config --global http.postBuffer 157286400</span>
-</code></pre></div>
+<div class="language-yaml highlight"><pre><span></span><code><span id="__span-13-1"><a id="__codelineno-13-1" name="__codelineno-13-1" href="#__codelineno-13-1"></a><span class="l l-Scalar l-Scalar-Plain">(venv) git config --global http.postBuffer 157286400</span>
+</span></code></pre></div>
 <p>This GIT parameter will allow to store your Private Access Token into Keychain, so that you don't need to re-enter it each time. You need to enter the token once though as explained on <a href="https://gist.github.com/jonjack/bf295d4170edeb00e96fb158f9b1ba3c">Github Gist</a> :</p>
-<div class="highlight"><pre><span></span><code><span class="l l-Scalar l-Scalar-Plain">(venv) git config --global credential.helper osxkeychain</span>
-</code></pre></div>
+<div class="language-yaml highlight"><pre><span></span><code><span id="__span-14-1"><a id="__codelineno-14-1" name="__codelineno-14-1" href="#__codelineno-14-1"></a><span class="l l-Scalar l-Scalar-Plain">(venv) git config --global credential.helper osxkeychain</span>
+</span></code></pre></div>
 <p>When you start working on a local repository, it is useful to first re-sync with the Origin that sits in Github. To that end, you can run the following code:</p>
-<div class="highlight"><pre><span></span><code><span class="l l-Scalar l-Scalar-Plain">(venv) git fetch</span>
-<span class="l l-Scalar l-Scalar-Plain">(venv) git reset --hard origin/main</span>
-</code></pre></div>
+<div class="language-yaml highlight"><pre><span></span><code><span id="__span-15-1"><a id="__codelineno-15-1" name="__codelineno-15-1" href="#__codelineno-15-1"></a><span class="l l-Scalar l-Scalar-Plain">(venv) git fetch</span>
+</span><span id="__span-15-2"><a id="__codelineno-15-2" name="__codelineno-15-2" href="#__codelineno-15-2"></a><span class="l l-Scalar l-Scalar-Plain">(venv) git reset --hard origin/main</span>
+</span></code></pre></div>
 <p>Basic sequence to push your local work to the remote repository :</p>
-<div class="highlight"><pre><span></span><code><span class="l l-Scalar l-Scalar-Plain">(venv) git add .</span>
-<span class="l l-Scalar l-Scalar-Plain">(venv) git commit -m "desciption of changes"</span>
-<span class="l l-Scalar l-Scalar-Plain">(venv) git push origin main</span>
-</code></pre></div>
+<div class="language-yaml highlight"><pre><span></span><code><span id="__span-16-1"><a id="__codelineno-16-1" name="__codelineno-16-1" href="#__codelineno-16-1"></a><span class="l l-Scalar l-Scalar-Plain">(venv) git add .</span>
+</span><span id="__span-16-2"><a id="__codelineno-16-2" name="__codelineno-16-2" href="#__codelineno-16-2"></a><span class="l l-Scalar l-Scalar-Plain">(venv) git commit -m "desciption of changes"</span>
+</span><span id="__span-16-3"><a id="__codelineno-16-3" name="__codelineno-16-3" href="#__codelineno-16-3"></a><span class="l l-Scalar l-Scalar-Plain">(venv) git push origin main</span>
+</span></code></pre></div>
 <h3 id="usefull-shell-instructions">Usefull Shell instructions</h3>
 <p>This is a useful instruction to replace recursively in one folder some text :</p>
-<div class="highlight"><pre><span></span><code><span class="l l-Scalar l-Scalar-Plain">perl -pi -w -e 's{TOFIND}{TOREPLACE}' *.md</span>
-</code></pre></div>
+<div class="language-yaml highlight"><pre><span></span><code><span id="__span-17-1"><a id="__codelineno-17-1" name="__codelineno-17-1" href="#__codelineno-17-1"></a><span class="l l-Scalar l-Scalar-Plain">perl -pi -w -e 's{TOFIND}{TOREPLACE}' *.md</span>
+</span></code></pre></div>
 <p>Here's how you can concatenate multiple commands in one line:</p>
-<div class="highlight"><pre><span></span><code><span class="l l-Scalar l-Scalar-Plain">Add &amp;&amp; between commands &gt;&gt; this will execute them sequentually provided they execute successfully</span>
-</code></pre></div></div>
+<div class="language-yaml highlight"><pre><span></span><code><span id="__span-18-1"><a id="__codelineno-18-1" name="__codelineno-18-1" href="#__codelineno-18-1"></a><span class="l l-Scalar l-Scalar-Plain">Add &amp;&amp; between commands &gt;&gt; this will execute them sequentually provided they execute successfully</span>
+</span></code></pre></div></div>
 
 
 
@@ -1611,7 +1607,7 @@ You'll need to <strong>re-init your shell</strong> or open a new terminal window
     
       
       
-      <script id="__config" type="application/json">{"annotate": null, "base": "..", "features": ["navigation.expand", "search.highlight", "navigation.tabs", "navigation.tabs.sticky", "navigation.top", "navigation.footer", "toc.integrate", "content.code.copy"], "search": "../../assets/javascripts/workers/search.26099bd0.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+      <script id="__config" type="application/json">{"annotate": null, "base": "..", "features": ["navigation.expand", "search.highlight", "navigation.tabs", "navigation.tabs.stickyOK. Is there", "navigation.top", "navigation.footer", "toc.integrate", "content.code.copy", "content.code.select"], "search": "../../assets/javascripts/workers/search.26099bd0.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
     
     
       <script src="../../assets/javascripts/bundle.9d1edc04.min.js"></script>

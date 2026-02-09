@@ -13,11 +13,12 @@ theme:
     - navigation.expand
     - search.highlight
     - navigation.tabs
-    - navigation.tabs.sticky
+    - navigation.tabs.stickyOK. Is there 
     - navigation.top
     - navigation.footer
     - toc.integrate
     - content.code.copy
+    - content.code.select
 
 extra_css:
   - stylesheets/extra.css
@@ -100,9 +101,16 @@ markdown_extensions:
        toc_depth: 3
    - pymdownx.details
    - pymdownx.superfences
+   - pymdownx.inlinehilite
+   - pymdownx.snippets
    - pymdownx.tabbed:
        alternate_style: true
-  
+   - pymdownx.highlight:
+       anchor_linenums: true
+       line_spans: __span
+       pygments_lang_class: true
+
+
 
 # Page tree
 nav:
@@ -123,4 +131,4 @@ nav:
    - Others:
      - Cheatsheet: cheatsheet.md
 
-  
+

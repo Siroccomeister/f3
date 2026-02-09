@@ -8,10 +8,8 @@ This website is largely based on the great MKDOCS theme MATERIAL. On this page, 
 
 ## Navigation
 
-Navigation structure is quite important.
-Especially if you plan to use embedded images, as links tend to be relative.
-Keep it as simple and user friendly as possible.
-Test it from Mobile devices and browswers.
+Navigation structure is quite important. Especially if you plan to use embedded images, as links tend to be relative.
+Keep it as simple and user friendly as possible. Test it from Mobile devices and browswers.
 
 ## For images
 
