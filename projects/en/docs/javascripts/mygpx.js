@@ -47,12 +47,19 @@ let opts = {
         acceleration: false,
         time: "summary",
         legend: true,
-        followMarker: false,
+        followMarker: true,
         almostOver: true,
         distanceMarkers: true,
         downloadLink: false,
         hotline: false,
         gestureHandling: false,
+        marker: 'position-marker', 
+        // ADD THIS: Customize the marker popup/tooltip
+        altitude: {
+          tooltip: {
+            marker: (item) => Math.round(item.dist) + " km"  // Shows distance on marker
+          }
+        },
       },
   },
 
@@ -67,7 +74,7 @@ let map = L.map('map', opts.map);
 let controlElevation = L.control.elevation(opts.elevationControl.options).addTo(map);
 let controlLayer = L.control.layers(null, null, opts.layersControl.options);
 
-// Load GPX through proxy to avoid CORS issues
+// Load GPX through proxy
 controlElevation.load(proxyGpxUrl(mygpxurl));
 
 controlElevation.on('eledata_loaded', ({layer, name}) => controlLayer.addTo(map) && layer.eachLayer((trkseg) => trkseg.feature.geometry.type != "Point" && controlLayer.addOverlay(trkseg, trkseg.feature && trkseg.feature.properties && trkseg.feature.properties.name || name)));
