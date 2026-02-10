@@ -20,4 +20,5 @@ Interesting to see how the same gpx data translates into different statistics - 
 var mygpxurl = "/f3/en/assets/gpx/GPX1.gpx";
 </script>
 
-<script src="/f3/en/javascripts/mygpx.js"> </script>
+<script src="/f3/en/javascripts/mygpx.js"></script>
+
